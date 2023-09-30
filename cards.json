@@ -142,5 +142,227 @@
         "ru": "Самолёт приземлился в Стамбуле"
       }
     ]
+  },
+  {
+    "en": "scope [skəʊp]",
+    "ru": "пределы, масштаб, размах, сфера, поле (деятельности)",
+    "img": "https://britlex.ru/images/scope.jpg",
+    "examples": [
+      {
+        "en": "He finally realized the scope of the problem",
+        "ru": "Он, наконец, осознал масштаб проблемы"
+      },
+      {
+        "en": "The study was narrow in scope",
+        "ru": "Исследование проводилось в узких рамках. / Исследование имело узкую направленность."
+      },
+      {
+        "en": "It let us narrow the scope of our search",
+        "ru": "Это позволило нам сузить сферу нашего поиска"
+      }
+    ]
+  },
+  {
+    "en": "pack [pæk]",
+    "ru": "пачка, связка, колода",
+    "img": "https://britlex.ru/images/pack2.jpg",
+    "examples": [
+      {
+        "en": "My girlfriend wants me to read this pack of books",
+        "ru": "Моя девушка хочет, чтобы я прочитал эту пачку книг"
+      }
+    ]
+  },
+  {
+    "en": "package [ˈpækɪʤ]",
+    "ru": "пакет, упаковка, посылка, сверток",
+    "img": "",
+    "examples": [
+      {
+        "en": "Deliver the package to my home",
+        "ru": "Доставьте пакет мне домой"
+      },
+      {
+        "en": "She mailed the package to me",
+        "ru": "Она послала мне посылку"
+      },
+      {
+        "en": "The package deal includes some nice extras",
+        "ru": "Пакет услуг включает в себя несколько приятных дополнений"
+      }
+    ]
+  },
+  {
+    "en": "craft [krɑːft]",
+    "ru": "ремесло, мастерство",
+    "img": "https://britlex.ru/images/craft.jpg",
+    "examples": [
+      {
+        "en": "This craft requires inhuman patience",
+        "ru": "Это ремесло требует нечеловеческого терпения"
+      }
+    ]
+  },
+  {
+    "en": "craftsman [ˈkrɑːftsmən]",
+    "ru": "ремесленник, искусный мастер",
+    "img": "https://media.istockphoto.com/id/501277671/tr/foto%C4%9Fraf/since-opportunity-didnt-knock-he-decided-to-build-a-door.jpg?s=612x612&w=is&k=20&c=K1bb4ulLKRbmc4aYtp87mWR7GEMqJ2g65ozEygIgBYE=",
+    "examples": [
+      {
+        "en": "This craftsman can make almost anything out of bamboo",
+        "ru": "Этот мастер может сделать из бамбука практически всё"
+      }
+    ]
+  },
+  {
+    "en": "crafty [ˈkrɑːfti]",
+    "ru": "хитрый, ловкий, коварный",
+    "img": "https://st2.depositphotos.com/3489481/5992/i/950/depositphotos_59925073-stock-photo-sneaky-sly-scheming-crazy-looking.jpg",
+    "examples": [
+      {
+        "en": "He's a crafty old devil",
+        "ru": "Он - хитрый старый черт"
+      }
+    ]
+  },
+  {
+    "en": "worth [wɜːθ]",
+    "ru": "стоимость, ценность, достоинства, цена, заслуживающий, стоящий",
+    "img": "https://img.freepik.com/premium-vector/money-bag-flat-illustration-dollars-gold-coins-stack-wealth-banking-icon-isolated-vector_566734-56.jpg?w=900",
+    "examples": [
+      {
+        "en": "It's not worth the risk",
+        "ru": "Это не стоит того риска"
+      },
+      {
+        "en": "If a job is worth doing, it is worth doing properly",
+        "ru": "Если дело стоит делать, его стоит делать как следует"
+      }
+    ]
+  },
+  {
+    "en": "worthy [ˈwɜːði]",
+    "ru": "достойный, заслуживающий",
+    "img": "https://st.depositphotos.com/10539404/61028/i/1600/depositphotos_610283650-stock-photo-yellow-colored-hard-hat-young.jpg",
+    "examples": [
+      {
+        "en": "She is a worthy successor to the mayor",
+        "ru": "Она является достойным преемником мэра"
+      }
+    ]
+  },
+  {
+    "en": "urban [ˈɜːbən]",
+    "ru": "городской",
+    "img": "https://britlex.ru/images/urban.jpg",
+    "examples": [
+      {
+        "en": "Billions were needed to improve the urban infrastructure",
+        "ru": "Для улучшения городской инфраструктуры нужны были миллиарды"
+      }
+    ]
+  },
+  {
+    "en": "pond [pɒnd]",
+    "ru": "пруд, водоем",
+    "img": "https://britlex.ru/images/pond.jpg",
+    "examples": [
+      {
+        "en": "Ducks swam in the pond",
+        "ru": "Утки плавали в пруду"
+      }
+    ]
+  },
+  {
+    "en": "familiar [fəˈmɪliə]",
+    "ru": "знакомый, привычный",
+    "img": "https://britlex.ru/images/familiar.jpg",
+    "examples": [
+      {
+        "en": "Her face seemed familiar to me",
+        "ru": "Её лицо показалось мне знакомым"
+      }
+    ]
+  },
+  {
+    "en": "familiarity [fəˌmɪlɪˈærɪti]",
+    "ru": "знакомство, фамильярность",
+    "img": "https://www.shutterstock.com/shutterstock/photos/1901650147/display_1500/stock-photo-group-of-friends-having-fun-on-picnic-near-a-lake-sitting-on-pier-eating-and-drinking-wine-1901650147.jpg",
+    "examples": [
+      {
+        "en": "In fact his familiarity with the Bronx was pretty limited",
+        "ru": "На самом деле, его знакомство с Бронксом было довольно ограниченным"
+      }
+    ]
+  },
+  {
+    "en": "unfamiliar [ˌʌnfəˈmɪliə]",
+    "ru": "незнакомый, непривычный, чужой, малознакомый",
+    "img": "https://thumbs.dreamstime.com/z/hidden-face-shadow-male-person-silhouette-79247771.jpg?w=992",
+    "examples": [
+      {
+        "en": "We were unfamiliar with the neighbourhood",
+        "ru": "Мы не были знакомы с окрестностями"
+      }
+    ]
+  },
+  {
+    "en": "familiarize [fəˈmɪliəraɪz]",
+    "ru": "ознакомиться, познакомить, ознакомлять",
+    "img": "https://media.istockphoto.com/id/1322139094/tr/foto%C4%9Fraf/%C3%A7ok-%C4%B1rkl%C4%B1-meslekta%C5%9Flar%C4%B1m-masada-oturup-ofisteki-diz%C3%BCst%C3%BC-bilgisayara-bak%C4%B1yorlar.jpg?s=612x612&w=is&k=20&c=miPIGbHAltL0KXByWFwDt7JPHVzvRIuYWQIK4EHpnFw=",
+    "examples": [
+      {
+        "en": "Employees must familiarize themselves with the health and safety manual",
+        "ru": "Сотрудники должны ознакомиться с инструкцией по технике безопасности"
+      }
+    ]
+  },
+  {
+    "en": "tap [tæp]",
+    "ru": "стучать, кран",
+    "img": "https://britlex.ru/images/tap.jpg",
+    "examples": [
+      {
+        "en": "I went up and tapped on the window",
+        "ru": "Я подошел и постучал в окно"
+      }
+    ]
+  },
+  {
+    "en": "column [ˈkɒləm]",
+    "ru": "столб, колонна",
+    "img": "https://britlex.ru/images/column.jpg",
+    "examples": [
+      {
+        "en": "Turn to Page 5, column 2",
+        "ru": "Перейдём к странице 5, столбец 2"
+      },
+      {
+        "en": "Each column of soldiers marched away as soon as it formed",
+        "ru": "Как только солдаты выстраивались в колонну, она тут же выступала"
+      }
+    ]
+  },
+  {
+    "en": "guilt [gɪlt]",
+    "ru": "вина, виновность",
+    "img": "https://britlex.ru/images/guilt.jpg",
+    "examples": [
+      {
+        "en": "He's been troubled by feelings of guilt",
+        "ru": "Его мучило чувство вины"
+      }
+    ]
+  },
+  {
+    "en": "guilty [ˈgɪlti]",
+    "ru": "виновный, виноватый, повинный",
+    "img": "https://st2.depositphotos.com/1001201/5899/i/950/depositphotos_58995695-stock-photo-businessman-accused-with-hands.jpg",
+    "examples": [
+      {
+        "en": "She has reason to feel guilty",
+        "ru": "У неё есть причины чувствовать себя виноватой"
+      }
+    ]
   }
 ]
