@@ -453,7 +453,7 @@
   },
   {
     "en": "inclusive [ɪnˈkluːsɪv]",
-    "ru": "включительно, содержащий, включающий",
+    "ru": "включая",
     "img": "https://s3.amazonaws.com/www-inside-design/uploads/2019/06/broadlystock1.jpeg",
     "examples": [
       {
@@ -462,7 +462,7 @@
       },
       {
         "en": "All prices are inclusive of VAT",
-        "ru": "Цены указаны с учётом НДС"
+        "ru": "Цены указаны с учётом НДС / включая НДС"
       }
     ]
   },
