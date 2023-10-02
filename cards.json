@@ -438,7 +438,7 @@
   },
   {
     "en": "inclusion [ɪnˈkluːʒn]",
-    "ru": "включение, инклюзия, присоединение, вкрапление",
+    "ru": "включение, присоединение, вкрапление",
     "img": "https://media.gettyimages.com/id/1399624051/photo/business-success-an-inclusive-team-composition.jpg?s=2048x2048&w=gi&k=20&c=lyZNo-XDy8C6vbfTFc_E2kmX1Ekhp2fJcyfkZyZeSw0=",
     "examples": [
       {
@@ -534,7 +534,7 @@
     ]
   },
   {
-    "en": "celebratory [ˈseləbrətɔːrɪ] ",
+    "en": "celebratory [ˈseləbrətɔːrɪ]",
     "ru": "праздничный",
     "img": "https://thecelebrationbanquethall.com/wp-content/gallery/decoration/1.jpg",
     "examples": [
@@ -597,7 +597,7 @@
     ]
   },
   {
-    "en": "cable [ˈkeɪbl] ",
+    "en": "cable [ˈkeɪbl]",
     "ru": "кабель, трос, канат, телеграфировать",
     "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HN862?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1562973642996",
     "examples": [
@@ -608,6 +608,355 @@
       {
         "en": "The cable is not quite long enough",
         "ru": "Кабель недостаточно длинный"
+      }
+    ]
+  },
+  {
+    "en": "intelligent [ɪnˈtelɪdʒənt]",
+    "ru": "умный, разумный, смышленый",
+    "img": "https://britlex.ru/images/intelligent.jpg",
+    "examples": [
+      {
+        "en": "He's a hardworking but not very intelligent boy",
+        "ru": "Он трудолюбивый, но не очень умный мальчик"
+      },
+      {
+        "en": "She asked some intelligent questions",
+        "ru": "Она задала несколько умных вопросов"
+      }
+    ]
+  },
+  {
+    "en": "intelligence [ɪnˈtelɪdʒəns]",
+    "ru": "ум, интеллект, разведка, умственный",
+    "img": "http://www.educationalneuroscience.org.uk/wordpress/wp-content/uploads/2017/03/intelligence_image.jpg",
+    "examples": [
+      {
+        "en": "It is difficult to quantify intelligence",
+        "ru": "Трудно измерить уровень интеллекта"
+      },
+      {
+        "en": "Dolphins show a high level of intelligence",
+        "ru": "Дельфины демонстрируют высокий уровень интеллекта"
+      }
+    ]
+  },
+  {
+    "en": "admit [ədˈmɪt]",
+    "ru": "допускать, признавать, принимать ",
+    "img": "https://britlex.ru/images/admit.jpg",
+    "examples": [
+      {
+        "en": "Sometimes we make mistakes, let's admit it",
+        "ru": "Иногда мы делаем ошибки, давайте признаем это"
+      },
+      {
+        "en": "She was admitted to the university",
+        "ru": "Её приняли в университет"
+      }
+    ]
+  },
+  {
+    "en": "admission [ədˈmɪʃn]",
+    "ru": "допущение, допуск, признание, вход",
+    "img": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/06/12/Pictures/_cfad6a16-6dfa-11e8-9a75-8898ac94ce9e.jpg",
+    "examples": [
+      {
+        "en": "Admission by invitation only",
+        "ru": "Вход только по пригласительным билетам"
+      },
+      {
+        "en": "Be careful, your silence could be interpreted as an admission of guilt",
+        "ru": "Будь осторожен, твое молчание могут принять за признание вины"
+      }
+    ]
+  },
+  {
+    "en": "admittedly [ədˈmɪtɪdlɪ]",
+    "ru": "по правде говоря, правда",
+    "img": "https://i.ytimg.com/vi/A-RnEkycdxE/maxresdefault.jpg",
+    "examples": [
+      {
+        "en": "Admittedly, I should not have lost my temper like that",
+        "ru": "По правде говоря, мне не следовало вот так выходить из себя"
+      }
+    ]
+  },
+  {
+    "en": "cream [kriːm]",
+    "ru": "крем, сливки, цвет (кремовый)",
+    "img": "https://thumbs.dreamstime.com/b/cream-background-white-texture-41230485.jpg",
+    "examples": [
+      {
+        "en": "Cream has a high fat content",
+        "ru": "У сливок высокая жирность"
+      },
+      {
+        "en": "Whip the cream until thick",
+        "ru": "Взбейте сливки до загустения"
+      }
+    ]
+  },
+  {
+    "en": "creamy [ˈkriːmɪ]",
+    "ru": "сливочный, кремовый, жирный",
+    "img": "https://www.foodprocessing-technology.com/wp-content/uploads/sites/19/2018/02/swirl-of-cream.jpg",
+    "examples": [
+      {
+        "en": "She served a creamy sort of dessert thing",
+        "ru": "Она подала что-то вроде сливочного десерта"
+      },
+      {
+        "en": "The milkshake was smooth and creamy",
+        "ru": "Молочный коктейль был густым и хорошо размешанным  "
+      }
+    ]
+  },
+  {
+    "en": "appropriate [əˈprəʊprɪət]",
+    "ru": "присваивать, соответствующий-подходящий (сущ)",
+    "img": "https://britlex.ru/images/appropriate2.jpg",
+    "examples": [
+      {
+        "en": "I can assure you that appropriate action will be taken",
+        "ru": "Я могу заверить вас, что надлежащие меры будут предприняты"
+      },
+      {
+        "en": "He is suspected of appropriating government funds",
+        "ru": "Он подозревается в присвоении государственных средств"
+      }
+    ]
+  },
+  {
+    "en": "appropriation [əˌprəʊprɪˈeɪʃn]",
+    "ru": "присвоение",
+    "img": "https://thumbs.dreamstime.com/z/gesture-grabbing-appropriation-made-hand-white-background-81092130.jpg?w=576",
+    "examples": [
+      {
+        "en": "The economy has been weakened by the appropriation of the country's resources by corrupt officials",
+        "ru": "Экономика была ослаблена присвоением ресурсов страны коррумпированными чиновниками"
+      },
+      {
+        "en": "A person's appropriation of property belonging to another is dishonest",
+        "ru": "Присвоение человеком имущества, принадлежащего другому, является бесчестным"
+      }
+    ]
+  },
+  {
+    "en": "root [ruːt]",
+    "ru": "корень, коренной, основной, укореняться",
+    "img": "https://w7.pngwing.com/pngs/898/999/png-transparent-grey-tree-stump-tree-root-3d-modeling-turbosquid-the-roots-branch-root-twig-thumbnail.png",
+    "examples": [
+      {
+        "en": "Her roots are in Canada",
+        "ru": "Её предки(корни) - выходцы из Канады"
+      },
+      {
+        "en": "The problem roots in her depression",
+        "ru": "Корнем проблемы является её депрессия"
+      },
+      {
+        "en": "She stumbled over the tree root",
+        "ru": "Она споткнулась о корень дерева"
+      }
+    ]
+  },
+  {
+    "en": "compare [kəmˈper]",
+    "ru": "сравнивать, сопоставлять, сравнение(сущ)",
+    "img": "https://static-3.bitchute.com/live/cover_images/BxRVpoOdvVTI/4QBJ6cenT2Y_640x360.jpg",
+    "examples": [
+      {
+        "en": "I compared several bicycles before buying one",
+        "ru": "Я сравнил несколько велосипедов, прежде чем купить один из них"
+      },
+      {
+        "en": "It is unfair of a man to compare his wife with his mother",
+        "ru": "Мужчина не должен сравнивать жену со своей матерью"
+      }
+    ]
+  },
+  {
+    "en": "comparable [ˈkɑːmpərəbl]",
+    "ru": "сравнимый, сопоставимый, заслуживающий сравнения",
+    "img": "https://1.bp.blogspot.com/-DX7U6tCip7Q/X6kNXKGSl-I/AAAAAAAABd8/i3o8fISvHWov7Y1m3R925b82gHIm4n1EACLcBGAsYHQ/s320/apple-orange-846x455.png",
+    "examples": [
+      {
+        "en": "The planet Pluto is comparable in size to the moon",
+        "ru": "Планета Плутон по размерам сопоставима с Луной"
+      },
+      {
+        "en": "The cameras are comparable in price and functionality",
+        "ru": "Эти камеры сопоставимы по цене и по функциональности"
+      }
+    ]
+  },
+  {
+    "en": "incomparable [ɪnˈkɑːmprəbl]",
+    "ru": "несравненный, несравнимый, бесподобный",
+    "img": "https://thumbs.dreamstime.com/z/comparing-incomparable-teenager-chooses-apple-orange-33200472.jpg",
+    "examples": [
+      {
+        "en": "The quality of their products is incomparable",
+        "ru": "Качество их продукции бесподобно / несравнимо"
+      },
+      {
+        "en": "The Odysseus is limned with incomparable art",
+        "ru": "Одиссей изображён с несравненным мастерством"
+      }
+    ]
+  },
+  {
+    "en": "comparative [kəmˈpærətɪv]",
+    "ru": "сравнительный, относительный",
+    "img": "https://www.shutterstock.com/shutterstock/photos/1446984338/display_1500/stock-photo-young-woman-comparing-with-two-things-1446984338.jpg",
+    "examples": [
+      {
+        "en": "I sat out in the open air in comparative comfort",
+        "ru": "Я устроился на открытом воздухе с относительным комфортом"
+      },
+      {
+        "en": "She did a comparative study of classical and modern art",
+        "ru": "Она провела сравнительный анализ классического и современного искусства"
+      }
+    ]
+  },
+  {
+    "en": "comparatively [kəmˈpærətɪvlɪ]",
+    "ru": "в сравнении, сравнительно, относительно",
+    "img": "https://media.istockphoto.com/id/1297524862/vector/relatively-friends.jpg?s=612x612&w=0&k=20&c=_buNXi3SJD7km7AycEanhik6obyfihjw0-RwjbAp2zc=",
+    "examples": [
+      {
+        "en": "Crime on the island is comparatively rare",
+        "ru": "Преступность на этом острове встречается сравнительно редко"
+      },
+      {
+        "en": "He is a younger man, and has only arrived comparatively recently",
+        "ru": "Он ещё молод, и добился признания сравнительно недавно"
+      }
+    ]
+  },
+  {
+    "en": "inhuman [ɪnˈhjuːmən]",
+    "ru": "бесчеловечный, нечеловеческий, жестокий, антигуманный, бесчувственный",
+    "img": "https://thumbs.dreamstime.com/b/human-skeleton-steel-cage-torture-52380897.jpg",
+    "examples": [
+      {
+        "en": "The harshness of his punishment was inhuman",
+        "ru": "Суровость его наказания была бесчеловечной"
+      },
+      {
+        "en": "They had perhaps some of the weird, inhuman beauty of minerals",
+        "ru": "В них было, возможно, что-то от сверхъестественной, неземной красоты минералов"
+      }
+    ]
+  },
+  {
+    "en": "humanity [hjuːˈmænətɪ]",
+    "ru": "человечество, человечность, гуманность, люди, человеколюбие",
+    "img": "https://media.gemini.media/img/large/2022/11/15/2022_11_15_14_42_22_643.jpg",
+    "examples": [
+      {
+        "en": "She was cut off from the rest of humanity",
+        "ru": "Она была отрезана от остального человечества"
+      },
+      {
+        "en": "We appealed to his sense of humanity",
+        "ru": "Мы воззвали / обратились / апеллировали к его человеколюбию"
+      }
+    ]
+  },
+  {
+    "en": "slay (slew, slain) [sleɪ, sluː, sleɪn]",
+    "ru": "умерщвлять, убивать, сражать",
+    "img": "https://britlex.ru/images/slay.jpg",
+    "examples": [
+      {
+        "en": "The knight slew the dragon",
+        "ru": "Рыцарь сразил дракона"
+      },
+      {
+        "en": "...millions have been slain worldwide by this dreadful disease...",
+        "ru": "...миллионы людей были убиты во всем мире этой страшной болезнью..."
+      }
+    ]
+  },
+  {
+    "en": "persist [pərˈsɪst]",
+    "ru": "сохраняться, продолжать существовать, оставаться, упорствовать",
+    "img": "https://britlex.ru/images/persist.jpg",
+    "examples": [
+      {
+        "en": "The pain persisted until the morning",
+        "ru": "Боль продолжалась до утра"
+      },
+      {
+        "en": "This tradition persists in some areas",
+        "ru": "Эта традиция сохраняется в некоторых районах"
+      }
+    ]
+  },
+  {
+    "en": "persistent [pərˈsɪstənt]",
+    "ru": "стойкий, устойчивый, упорный, постоянный",
+    "img": "https://images.livehindustan.com/uploadimage/library/16_9/16_9_1/hard_working__1504786406.jpg",
+    "examples": [
+      {
+        "en": "You are a very persistent woman, Miss Hillman",
+        "ru": "Вы очень настойчивый человек, мисс Хиллман"
+      },
+      {
+        "en": "I admired his buoyancy and persistent good humor",
+        "ru": "Я восхищался его жизнерадостностью и неизменно хорошим настроением"
+      }
+    ]
+  },
+  {
+    "en": "persistence [pərˈsɪstəns]",
+    "ru": "настойчивость, упорство, стойкость, постоянство, живучесть, продолжительность",
+    "img": "https://www.clarityqst.com/wp-content/uploads/2018/02/Untitled-design-9.png",
+    "examples": [
+      {
+        "en": "He got the job through sheer persistence",
+        "ru": "Он добился этой работы исключительно благодаря настойчивости"
+      },
+      {
+        "en": "His persistence in asking for a raise was finally rewarded",
+        "ru": "Его настойчивые просьбы о прибавке к жалованью наконец-то были вознаграждены"
+      }
+    ]
+  },
+  {
+    "en": "wide [waɪd]",
+    "ru": "широкий, обширный, широко, мимо цели",
+    "img": "https://sun9-1.userapi.com/c852124/v852124296/21a34/bDkv5J7Quo8.jpg",
+    "examples": [
+      {
+        "en": "He opened his eyes wide",
+        "ru": "Он широко открыл глаза"
+      },
+      {
+        "en": "How wide he is from truth",
+        "ru": "Как же он далёк от истины"
+      },
+      {
+        "en": "The door was wide open",
+        "ru": "Дверь была распахнута настежь"
+      }
+    ]
+  },
+  {
+    "en": "widen [ˈwaɪdn]",
+    "ru": "расширять, расширяться, шириться, ширить",
+    "img": "https://telegra.ph/file/4a8f1663a4dfc4bebe4ad.jpg",
+    "examples": [
+      {
+        "en": "The road widened",
+        "ru": "Дорога расширилась"
+      },
+      {
+        "en": "The gap between rich and poor seems to be widening",
+        "ru": "Кажется, что разрыв между богатыми и бедными только увеличивается"
       }
     ]
   }
