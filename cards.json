@@ -3129,7 +3129,7 @@
   {
     "en": "encourage [ɪnˈkɜ(Ё)ːrɪdʒ]",
     "ru": "поощрять, поддерживать, ободрять, воодушевлять",
-    "img": "https://www.hotclick2see.com/wp-content/uploads/2018/11/Accounting-Homework.jpg",
+    "img": "https://britlex.ru/images/encourage.jpg",
     "examples": [
       {
         "en": "Encourage each other with kind words",
@@ -3757,6 +3757,321 @@
       {
         "en": "He was lonesome for his family",
         "ru": "Он тосковал / унывал по своей семье"
+      }
+    ]
+  },
+  {
+    "en": "amaze [əˈmeɪz]",
+    "ru": "поражать, изумлять",
+    "img": "https://britlex.ru/images/amaze.jpg",
+    "examples": [
+      {
+        "en": "Her talent never fails to amaze me.",
+        "ru": "Её талант всегда меня поражает."
+      },
+      {
+        "en": "The magician's tricks amazed the audience.",
+        "ru": "Трюки фокусника изумили зрителей."
+      }
+    ]
+  },
+  {
+    "en": "amazement [əˈmeɪzmənt]",
+    "ru": "изумление",
+    "img": "https://i.ytimg.com/vi/5ttEKET2rwE/sddefault.jpg",
+    "examples": [
+      {
+        "en": "She looked at him in amazement.",
+        "ru": "Она посмотрела на него с изумлением."
+      },
+      {
+        "en": "Their amazement was obvious.",
+        "ru": "Их изумление было очевидным."
+      }
+    ]
+  },
+  {
+    "en": "blonde [blɒnd]",
+    "ru": "блондинка",
+    "img": "https://britlex.ru/images/blonde.jpg",
+    "examples": [
+      {
+        "en": "She is a tall blonde with blue eyes.",
+        "ru": "Она высокая блондинка с голубыми глазами."
+      },
+      {
+        "en": "The actress played the role of a blonde in the movie.",
+        "ru": "Актриса сыграла роль блондинки в фильме."
+      }
+    ]
+  },
+  {
+    "en": "blond [blɒnd]",
+    "ru": "блондин",
+    "img": "https://geoturtle.com/wp-content/uploads/2018/10/IMG_1163-850x504.jpg",
+    "examples": [
+      {
+        "en": "He is a tall, handsome blond.",
+        "ru": "Он высокий, красивый блондин."
+      },
+      {
+        "en": "Many famous actors are blonds.",
+        "ru": "Многие известные актеры — блондины."
+      }
+    ]
+  },
+  {
+    "en": "fascinate [ˈfæsɪneɪt]",
+    "ru": "очаровывать",
+    "img": "https://britlex.ru/images/fascinate.jpg",
+    "examples": [
+      {
+        "en": "The story fascinated me from beginning to end.",
+        "ru": "История очаровала меня с начала до конца."
+      },
+      {
+        "en": "His knowledge of art fascinated the guests.",
+        "ru": "Его знание искусства очаровало гостей."
+      }
+    ]
+  },
+  {
+    "en": "fascination [ˌfæsɪˈneɪʃən]",
+    "ru": "очарование",
+    "img": "https://healthinfo.ua/uploads/articles/a32014d78f01e51049f817807d2a82436fd09cf2.jpg",
+    "examples": [
+      {
+        "en": "The fascination of the novel lies in its characters.",
+        "ru": "Очарование этого романа заключается в его персонажах."
+      },
+      {
+        "en": "Her fascination with astronomy started in childhood.",
+        "ru": "Её увлечение астрономией началось в детстве."
+      }
+    ]
+  },
+  {
+    "en": "fascinating [ˈfæsɪneɪtɪŋ]",
+    "ru": "очаровательный",
+    "img": "https://img.goodfon.ru/wallpaper/original/4/db/angelina-briunetka-pricheska-makiiazh-vzgliad-portret-pukhov.jpg",
+    "examples": [
+      {
+        "en": "The city has a fascinating history.",
+        "ru": "У этого города захватывающая история."
+      },
+      {
+        "en": "The museum exhibits were fascinating.",
+        "ru": "Экспонаты в музее были очаровательными."
+      }
+    ]
+  },
+  {
+    "en": "violent [ˈvaɪələnt]",
+    "ru": "яростный, жестокий",
+    "img": "https://s.pfst.net/2014.04/620395988067fe3cf83b7e2c6a230d6e8d902c904b4_b.jpg",
+    "examples": [
+      {
+        "en": "The movie has some violent scenes.",
+        "ru": "В фильме есть несколько яростных сцен."
+      },
+      {
+        "en": "The storm caused violent destruction.",
+        "ru": "Шторм принёс с собой жестокое разрушение."
+      }
+    ]
+  },
+  {
+    "en": "violence [ˈvaɪələns]",
+    "ru": "насилие",
+    "img": "https://image.bnews.vn/MediaUpload/Medium/2022/07/03/danh-nhau-20220703160131.jpg",
+    "examples": [
+      {
+        "en": "The police are trying to control the violence.",
+        "ru": "Полиция пытается контролировать насилие."
+      },
+      {
+        "en": "The campaign aims to raise awareness about domestic violence.",
+        "ru": "Кампания направлена на повышение осведомлённости о домашнем насилии."
+      }
+    ]
+  },
+  {
+    "en": "relief [rɪˈliːf]",
+    "ru": "облегчение, рельеф",
+    "img": "https://britlex.ru/images/relief.jpg",
+    "examples": [
+      {
+        "en": "He sighed with relief when he heard the good news.",
+        "ru": "Он вздохнул с облегчением, услышав хорошие новости."
+      },
+      {
+        "en": "The medicine brought her relief from the pain.",
+        "ru": "Это лекарство принесло ей облегчение от боли."
+      }
+    ]
+  },
+  {
+    "en": "exclude [ɪksˈkluːd]",
+    "ru": "исключать",
+    "img": "https://britlex.ru/images/exclude.jpg",
+    "examples": [
+      {
+        "en": "Some students were excluded from the competition.",
+        "ru": "Некоторых студентов исключили из соревнования."
+      },
+      {
+        "en": "The policy does not exclude the possibility of future changes.",
+        "ru": "Политика не исключает возможности будущих изменений."
+      }
+    ]
+  },
+  {
+    "en": "exclusion [ɪksˈkluːʒən]",
+    "ru": "исключение",
+    "img": "https://udgtv.blob.core.windows.net/images/uploads/2019/03/Discriminaci%c3%b3n-696x464.jpg",
+    "examples": [
+      {
+        "en": "The exclusion of certain items from the list was necessary.",
+        "ru": "Исключение определенных позиций из списка было необходимо."
+      },
+      {
+        "en": "The policy led to the exclusion of several members.",
+        "ru": "Политика привела к исключению нескольких членов."
+      }
+    ]
+  },
+  {
+    "en": "exclusive [ɪksˈkluːsɪv]",
+    "ru": "исключительный",
+    "img": "https://banner2.cleanpng.com/20180514/ufw/kisspng-sticker-label-5af99e763933a7.9521838615263084702343.jpg",
+    "examples": [
+      {
+        "en": "This club is exclusive and membership is limited.",
+        "ru": "Этот клуб исключителен, и членство в нем ограничено."
+      },
+      {
+        "en": "The store offers exclusive designer clothing.",
+        "ru": "Магазин предлагает эксклюзивную одежду от дизайнеров."
+      }
+    ]
+  },
+  {
+    "en": "visible [ˈvɪzəbl]",
+    "ru": "видимый",
+    "img": "https://sosordinateurs.com/wp-content/uploads/2022/01/How-much-does-Phasmophobia-cost-1.jpg",
+    "examples": [
+      {
+        "en": "The writing on the board is visible to everyone.",
+        "ru": "Письмо на доске видно всем."
+      },
+      {
+        "en": "The stars were visible in the night sky.",
+        "ru": "Звезды были видны на ночном небе."
+      }
+    ]
+  },
+  {
+    "en": "invisible [ɪnˈvɪzəbl]",
+    "ru": "невидимый",
+    "img": "https://pic.rutubelist.ru/video/e4/03/e4038fed391d7a4aef4b04c8bcc5b62c.jpg",
+    "examples": [
+      {
+        "en": "The creature was invisible to the human eye.",
+        "ru": "Существо было невидимо для человеческого глаза."
+      },
+      {
+        "en": "The technology made the wires almost invisible.",
+        "ru": "Технология сделала провода практически невидимыми."
+      }
+    ]
+  },
+  {
+    "en": "visibility [ˌvɪzɪˈbɪlɪti]",
+    "ru": "видимость",
+    "img": "https://thumbs.dreamstime.com/b/driving-behind-truck-under-dense-fog-very-bad-visibility-220200242.jpg",
+    "examples": [
+      {
+        "en": "The fog reduced visibility on the roads.",
+        "ru": "Туман снизил видимость на дорогах."
+      },
+      {
+        "en": "Pilots rely on good visibility during flights.",
+        "ru": "Пилоты полагаются на хорошую видимость во время полетов."
+      }
+    ]
+  },
+  {
+    "en": "invisibility [ɪnˌvɪzəˈbɪlɪti]",
+    "ru": "невидимость",
+    "img": "https://i.ytimg.com/vi/VvX84o_e7vs/sddefault.jpg",
+    "examples": [
+      {
+        "en": "The superhero's power was invisibility.",
+        "ru": "Супергероя характеризовала способность к невидимости."
+      },
+      {
+        "en": "The invisibility of the thief surprised everyone.",
+        "ru": "Невидимость вора удивила всех."
+      }
+    ]
+  },
+  {
+    "en": "roll [rəʊl]",
+    "ru": "рулон, клубок, свиток и т. д.",
+    "img": "https://britlex.ru/images/roll2.jpg",
+    "examples": [
+      {
+        "en": "She picked up a roll of paper from the desk.",
+        "ru": "Она взяла рулон бумаги с стола."
+      },
+      {
+        "en": "He unfolded the roll of carpet.",
+        "ru": "Он развернул свиток ковра."
+      }
+    ]
+  },
+  {
+    "en": "carry out [ˈkæriaʊt]",
+    "ru": "выполнить",
+    "img": "https://britlex.ru/images/carry%20out.jpg",
+    "examples": [
+      {
+        "en": "They will carry out the plan tomorrow.",
+        "ru": "Они выполнят план завтра."
+      },
+      {
+        "en": "It's essential to carry out the instructions carefully.",
+        "ru": "Важно внимательно выполнять инструкции."
+      }
+    ]
+  },
+  {
+    "en": "rape [reɪp]",
+    "ru": "насиловать, изнасилование",
+    "img": "https://cdn.punchng.com/wp-content/uploads/2022/08/01213259/Rape.jpg",
+    "examples": [
+      {
+        "en": "Rape is a serious crime.",
+        "ru": "Изнасилование — тяжкое преступление."
+      },
+      {
+        "en": "She survived a brutal rape.",
+        "ru": "Она пережила жестокое изнасилование."
+      }
+    ]
+  },
+  {
+    "en": "rapist [ˈreɪpɪst]",
+    "ru": "насильник",
+    "img": "https://3.bp.blogspot.com/_j_Bcf_6uMS4/TMFBYaOH5tI/AAAAAAAAPbw/CM7rdVAN72s/w1200-h630-p-k-no-nu/alg_mugshot_west.jpg",
+    "examples": [
+      {
+        "en": "The community demanded justice for the rapist's actions.",
+        "ru": "Общество потребовало справедливости за действия насильника."
+      },
+      {
+        "en": "The rapist was sentenced to life in prison.",
+        "ru": "На насильника было вынесено пожизненное заключение."
       }
     ]
   }
