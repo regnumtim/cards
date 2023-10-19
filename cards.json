@@ -5056,5 +5056,125 @@
         "ru": "Она боролась с нерешительностью относительно своего карьерного пути."
       }
     ]
+  },
+  {
+    "en": "bold [bəʊld]",
+    "ru": "смелый, дерзкий (прил)",
+    "img": "https://britlex.ru/images/bold.jpg",
+    "examples": [
+      {
+        "en": "She made a bold decision to quit her job and travel the world.",
+        "ru": "Она приняла смелое решение уволиться с работы и путешествовать по миру."
+      },
+      {
+        "en": "His bold actions impressed everyone in the room.",
+        "ru": "Его смелые поступки впечатлили всех в комнате."
+      }
+    ]
+  },
+  {
+    "en": "boldness [ˈbəʊldnɪs]",
+    "ru": "смелость, дерзость (существительное)",
+    "img": "https://i.pinimg.com/originals/d2/2b/67/d22b67a191e2fff26dc9af214f8a7c02.jpg",
+    "examples": [
+      {
+        "en": "Her boldness in tackling challenges was admirable.",
+        "ru": "Ее смелость в решении проблем была восхитительной."
+      },
+      {
+        "en": "The comedian's boldness in jokes sometimes crossed the line.",
+        "ru": "Дерзость комика в шутках иногда переходила грани."
+      }
+    ]
+  },
+  {
+    "en": "case [keɪs]",
+    "ru": "случай, дело (существительное)",
+    "img": "https://britlex.ru/images/case2.jpg",
+    "examples": [
+      {
+        "en": "The detective solved the mysterious case.",
+        "ru": "Детектив разгадал загадочный случай."
+      },
+      {
+        "en": "It's a complicated legal case.",
+        "ru": "Это сложное юридическое дело."
+      }
+    ]
+  },
+  {
+    "en": "determine [dɪˈtɜ(Ё)ːrmɪn]",
+    "ru": "определить (глаг)",
+    "img": "https://britlex.ru/images/determine.jpg",
+    "examples": [
+      {
+        "en": "She determined the cause of the problem.",
+        "ru": "Она определила причину проблемы."
+      },
+      {
+        "en": "Factors such as age can determine your risk of certain diseases.",
+        "ru": "Факторы, такие как возраст, могут определить риск возникновения определенных заболеваний."
+      }
+    ]
+  },
+  {
+    "en": "determination [dɪˌtɜ(Ё)ːrmɪˈneɪʃn]",
+    "ru": "определение (сущ)",
+    "img": "https://sun6-21.userapi.com/MA-aNR1_z9-XKLbWKF1_txdUEQFvSe0jgubjaw/9hnkw8r3PxY.jpg",
+    "examples": [
+      {
+        "en": "Her determination to succeed was evident in her hard work.",
+        "ru": "Ее решимость добиться успеха была видна в ее усердной работе."
+      },
+      {
+        "en": "Determination and perseverance are keys to overcoming challenges.",
+        "ru": "Решимость и настойчивость - ключи к преодолению трудностей."
+      }
+    ]
+  },
+  {
+    "en": "determined [dɪˈtɜ(Ё)ːrmɪnd]",
+    "ru": "определенный/решённый (прил) (КАК ОПИСАНИЕ ЧЕЛОВЕКА)",
+    "img": "https://images.cdn1.stockunlimited.net/photos/determined-young-businesswoman-leaning-into-wind_1891895.png",
+    "examples": [
+      {
+        "en": "He was determined to finish the marathon.",
+        "ru": "Он был решен завершить марафон."
+      },
+      {
+        "en": "She remained determined despite facing numerous challenges.",
+        "ru": "Она оставалась решительной, несмотря на множество преград."
+      }
+    ]
+  },
+  {
+    "en": "undetermined [ˌʌndɪˈtɜ(Ё)ːmɪnd]",
+    "ru": "неопределённый (прил)",
+    "img": "https://ytimg.googleusercontent.com/vi/AzeCDMsCcOE/0.jpg",
+    "examples": [
+      {
+        "en": "The cause of the fire is undetermined at this point.",
+        "ru": "Причина пожара пока не определена."
+      },
+      {
+        "en": "The future of the project remains undetermined.",
+        "ru": "Будущее проекта остается неопределенным."
+      }
+    ]
+  },
+  {
+    "en": "determinate [dɪˈtɜ(Ё)ːmɪnɪt]",
+    "ru": "определённый, решённый (прил) (описание неживых объектов, таких как процессы, места и т. д)",
+    "img": "https://c8.alamy.com/comp/EMEECB/man-with-up-and-down-business-graph-vector-illustration-EMEECB.jpg",
+    "examples": [
+      {
+        "en": "They have a determinate plan for the event.",
+        "ru": "У них есть определенный план для мероприятия."
+      },
+      {
+        "en": "In mathematics, a determinate equation has a specific solution.",
+        "ru": "В математике определенное уравнение имеет конкретное решение."
+      }
+    ]
   }
 ]
