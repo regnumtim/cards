@@ -5176,5 +5176,175 @@
         "ru": "В математике определенное уравнение имеет конкретное решение."
       }
     ]
+  },
+  {
+    "en": "waste [weɪst]",
+    "ru": "отходы/потери (сущ), тратить напрасно (глаг)",
+    "img": "https://britlex.ru/images/waste2.jpg",
+    "examples": [
+      {"en": "Reduce waste in your daily life.", "ru": "Уменьшайте отходы в повседневной жизни."},
+      {"en": "Don't waste your time.", "ru": "Не трать свое время."}
+    ]
+  },
+  {
+    "en": "wastewater [ˈweɪstwɔːtər]",
+    "ru": "сточные воды (сущ)",
+    "img": "https://aosts.com/wp-content/uploads/2018/01/neighborhood-wastewater-treatment-solution.jpg",
+    "examples": [
+      {"en": "Wastewater treatment is essential for environmental protection.", "ru": "Очистка сточных вод необходима для охраны окружающей среды."}
+    ]
+  },
+  {
+    "en": "regard [rɪˈɡɑːrd]",
+    "ru": "внимание (сущ), считать (глаг)",
+    "img": "https://avatars.mds.yandex.net/get-ydo/2426891/2a000001739723087bcba615bd61a4aaadfc/diploma",
+    "examples": [
+      {"en": "Pay close regard to the safety regulations.", "ru": "Уделяйте внимание правилам безопасности."},
+      {"en": "I regard him as my mentor.", "ru": "Я считаю его своим наставником."}
+    ]
+  },
+  {
+    "en": "difficulty [ˈdɪfɪkəltɪ]",
+    "ru": "трудность (сущ)",
+    "img": "https://britlex.ru/images/difficulty.jpg",
+    "examples": [
+      {"en": "Overcoming difficulties makes us stronger.", "ru": "Преодоление трудностей делает нас сильнее."},
+      {"en": "The exam posed a real difficulty for me.", "ru": "Экзамен представлял настоящую трудность для меня."}
+    ]
+  },
+  {
+    "en": "ticket [ˈtɪkɪt]",
+    "ru": "билет (сущ), штрафовать(давать билет с штрафом) (глаг)",
+    "img": "https://britlex.ru/images/ticket.jpg",
+    "examples": [
+      {"en": "I bought a ticket for the concert.", "ru": "Я купил билет на концерт."},
+      {"en": "The police officer ticketed the illegally parked cars.", "ru": "Полицейский оштрафовал неправильно припаркованные автомобили."}
+    ]
+  },
+  {
+    "en": "bet [bet]",
+    "ru": "ставка (сущ), держать пари (глаг)",
+    "img": "https://britlex.ru/images/bet.jpg",
+    "examples": [
+      {"en": "I placed a bet on the horse race.", "ru": "Я сделал ставку на конном спорте."},
+      {"en": "Are you willing to bet on this game?", "ru": "Ты готов поставить на эту игру?"}
+    ]
+  },
+  {
+    "en": "settle [ˈsetl]",
+    "ru": "уладить (глаг)",
+    "img": "https://yur-gazeta.ru/wp-content/uploads/2019/08/df0202a7b51a3fcc7901f13d1565ed40_XL.jpg",
+    "examples": [
+      {"en": "Let's settle this argument peacefully.", "ru": "Давайте уладим этот спор мирно."},
+      {"en": "I settled the bill at the restaurant.", "ru": "Я оплатил счет в ресторане."}
+    ]
+  },
+  {
+    "en": "unsettle [ˌʌnˈsetl]",
+    "ru": "расстраивать (глаг)",
+    "img": "https://www.mundopsicologos.com/site/article/65604/54984/mal-amigo_ai1.jpg",
+    "examples": [
+      {"en": "His words unsettled me.", "ru": "Его слова меня расстроили."},
+      {"en": "The unexpected news unsettled the entire community.", "ru": "Неожиданная новость взволновала всё сообщество."}
+    ]
+  },
+  {
+    "en": "flow [floʊ]",
+    "ru": "поток (сущ), течь (глаг)",
+    "img": "https://britlex.ru/images/flow.jpg",
+    "examples": [
+      {"en": "The river has a strong flow.", "ru": "Река имеет сильный поток."},
+      {"en": "Tears flowed down her cheeks.", "ru": "Слезы текли по ее щекам."}
+    ]
+  },
+  {
+    "en": "approve [əˈpruːv]",
+    "ru": "утвердить/одобрять (глаг) (ОФИЦИАЛЬНО)",
+    "img": "https://britlex.ru/images/approve.jpg",
+    "examples": [
+      {"en": "The committee will approve the budget tomorrow.", "ru": "Комитет утвердит бюджет завтра."},
+      {"en": "I don't think he will approve of our plan.", "ru": "Думаю, он не одобрит наш план."}
+    ]
+  },
+  {
+    "en": "approval [əˈpruːvəl]",
+    "ru": "утверждение/одобрение (сущ)",
+    "img": "https://thumbs.dreamstime.com/b/okay-25673621.jpg",
+    "examples": [
+      {"en": "We need your approval to proceed with the project.", "ru": "Нам нужно ваше утверждение, чтобы продолжить проект."},
+      {"en": "The supervisor gave her approval for the proposal.", "ru": "Начальник утвердил ее предложение."}
+    ]
+  },
+  {
+    "en": "disapprove [ˌdɪsəˈpruːv]",
+    "ru": "не одобрять (глаг)",
+    "img": "https://thumbs.dreamstime.com/b/business-man-bad-news-22732496.jpg",
+    "examples": [
+      {"en": "Her parents disapproved of her career choice.", "ru": "Родители не одобрили ее выбор профессии."},
+      {"en": "The committee disapproved the new policy.", "ru": "Комитет не одобрил новую политику."}
+    ]
+  },
+  {
+    "en": "approve of [əˈpruːv ʌv]",
+    "ru": "одобрять (глаг) (СУБЪЕКТИВНО)",
+    "img": "https://britlex.ru/images/approve%20of.jpg",
+    "examples": [
+      {"en": "I approve of your decision to go back to school.", "ru": "Я одобряю ваше решение вернуться в школу."},
+      {"en": "She doesn't approve of his lifestyle.", "ru": "Она не одобряет его образ жизни."}
+    ]
+  },
+  {
+    "en": "at first [æt fɜːrst]",
+    "ru": "сначала/сперва",
+    "img": "https://britlex.ru/images/at%20first.jpg",
+    "examples": [
+      {"en": "I didn't like the movie at first, but it grew on me.", "ru": "Сначала мне не понравился фильм, но потом я его оценил."},
+      {"en": "At first, I was scared to jump, but now I love it.", "ru": "Сначала я боялась прыгать, но теперь мне это нравится."}
+    ]
+  },
+  {
+    "en": "occasion [əˈkeɪʒn]",
+    "ru": "случай/событие (сущ)",
+    "img": "https://britlex.ru/images/occasion.jpg",
+    "examples": [
+      {"en": "This is a special occasion for us.", "ru": "Это особый случай для нас."},
+      {"en": "She occasioned the celebration with her achievement.", "ru": "Ее достижение послужило поводом для празднования."}
+    ]
+  },
+  {
+    "en": "occasional [əˈkeɪʒənl]",
+    "ru": "случайный/периодический (прил)",
+    "img": "https://i.pinimg.com/originals/c1/05/2b/c1052be7c872a1d3a4129b8259165985.png",
+    "examples": [
+      {"en": "He makes occasional trips to the countryside.", "ru": "Он делает случайные поездки за город."},
+      {"en": "We meet for lunch on an occasional basis.", "ru": "Мы встречаемся на обед время от времени."}
+    ]
+  },
+  {
+    "en": "describe [dɪˈskraɪb]",
+    "ru": "описать (глаг)",
+    "img": "https://britlex.ru/images/describe.jpg",
+    "examples": [
+      {"en": "Can you describe the suspect to the police?", "ru": "Вы можете описать подозреваемого полиции?"},
+      {"en": "She described her experience in great detail.", "ru": "Она подробно описала свой опыт."}
+    ]
+  },
+  {
+    "en": "descriptive [dɪˈskrɪptɪv]",
+    "ru": "описательный (прилаг.)",
+    "img": "https://www.syl.ru/misc/i/ni/1/5/6/4/8/9/5/i/1564895.jpg",
+    "examples": [
+      {"en": "The descriptive passages in the book painted a vivid picture.", "ru": "Описательные отрывки в книге нарисовали яркую картину."},
+      {"en": "The report should be clear and descriptive.", "ru": "Отчет должен быть ясным и описательным."}
+    ]
+  },
+  {
+    "en": "description [dɪˈskrɪpʃən]",
+    "ru": "описание (сущ)",
+    "img": "https://www.data-entry-india.com/blog/wp-content/uploads/2019/11/product-description-writing-500x262.jpg",
+    "examples": [
+      {"en": "Please provide a detailed description of the incident.", "ru": "Пожалуйста, предоставьте подробное описание инцидента."},
+      {"en": "The job description outlined the responsibilities clearly.", "ru": "Описание работы четко определило обязанности."}
+    ]
   }
 ]
