@@ -5182,8 +5182,11 @@
     "ru": "отходы/потери (сущ), тратить напрасно (глаг)",
     "img": "https://britlex.ru/images/waste2.jpg",
     "examples": [
-      {"en": "Reduce waste in your daily life.", "ru": "Уменьшайте отходы в повседневной жизни."},
-      {"en": "Don't waste your time.", "ru": "Не трать свое время."}
+      {
+        "en": "Reduce waste in your daily life.",
+        "ru": "Уменьшайте отходы в повседневной жизни."
+      },
+      { "en": "Don't waste your time.", "ru": "Не трать свое время." }
     ]
   },
   {
@@ -5191,7 +5194,10 @@
     "ru": "сточные воды (сущ)",
     "img": "https://aosts.com/wp-content/uploads/2018/01/neighborhood-wastewater-treatment-solution.jpg",
     "examples": [
-      {"en": "Wastewater treatment is essential for environmental protection.", "ru": "Очистка сточных вод необходима для охраны окружающей среды."}
+      {
+        "en": "Wastewater treatment is essential for environmental protection.",
+        "ru": "Очистка сточных вод необходима для охраны окружающей среды."
+      }
     ]
   },
   {
@@ -5199,8 +5205,14 @@
     "ru": "внимание (сущ), считать (глаг)",
     "img": "https://avatars.mds.yandex.net/get-ydo/2426891/2a000001739723087bcba615bd61a4aaadfc/diploma",
     "examples": [
-      {"en": "Pay close regard to the safety regulations.", "ru": "Уделяйте внимание правилам безопасности."},
-      {"en": "I regard him as my mentor.", "ru": "Я считаю его своим наставником."}
+      {
+        "en": "Pay close regard to the safety regulations.",
+        "ru": "Уделяйте внимание правилам безопасности."
+      },
+      {
+        "en": "I regard him as my mentor.",
+        "ru": "Я считаю его своим наставником."
+      }
     ]
   },
   {
@@ -5208,8 +5220,14 @@
     "ru": "трудность (сущ)",
     "img": "https://britlex.ru/images/difficulty.jpg",
     "examples": [
-      {"en": "Overcoming difficulties makes us stronger.", "ru": "Преодоление трудностей делает нас сильнее."},
-      {"en": "The exam posed a real difficulty for me.", "ru": "Экзамен представлял настоящую трудность для меня."}
+      {
+        "en": "Overcoming difficulties makes us stronger.",
+        "ru": "Преодоление трудностей делает нас сильнее."
+      },
+      {
+        "en": "The exam posed a real difficulty for me.",
+        "ru": "Экзамен представлял настоящую трудность для меня."
+      }
     ]
   },
   {
@@ -5217,8 +5235,14 @@
     "ru": "билет (сущ), штрафовать(давать билет с штрафом) (глаг)",
     "img": "https://britlex.ru/images/ticket.jpg",
     "examples": [
-      {"en": "I bought a ticket for the concert.", "ru": "Я купил билет на концерт."},
-      {"en": "The police officer ticketed the illegally parked cars.", "ru": "Полицейский оштрафовал неправильно припаркованные автомобили."}
+      {
+        "en": "I bought a ticket for the concert.",
+        "ru": "Я купил билет на концерт."
+      },
+      {
+        "en": "The police officer ticketed the illegally parked cars.",
+        "ru": "Полицейский оштрафовал неправильно припаркованные автомобили."
+      }
     ]
   },
   {
@@ -5226,8 +5250,14 @@
     "ru": "ставка (сущ), держать пари (глаг)",
     "img": "https://britlex.ru/images/bet.jpg",
     "examples": [
-      {"en": "I placed a bet on the horse race.", "ru": "Я сделал ставку на конном спорте."},
-      {"en": "Are you willing to bet on this game?", "ru": "Ты готов поставить на эту игру?"}
+      {
+        "en": "I placed a bet on the horse race.",
+        "ru": "Я сделал ставку на конном спорте."
+      },
+      {
+        "en": "Are you willing to bet on this game?",
+        "ru": "Ты готов поставить на эту игру?"
+      }
     ]
   },
   {
@@ -5235,8 +5265,14 @@
     "ru": "уладить (глаг)",
     "img": "https://yur-gazeta.ru/wp-content/uploads/2019/08/df0202a7b51a3fcc7901f13d1565ed40_XL.jpg",
     "examples": [
-      {"en": "Let's settle this argument peacefully.", "ru": "Давайте уладим этот спор мирно."},
-      {"en": "I settled the bill at the restaurant.", "ru": "Я оплатил счет в ресторане."}
+      {
+        "en": "Let's settle this argument peacefully.",
+        "ru": "Давайте уладим этот спор мирно."
+      },
+      {
+        "en": "I settled the bill at the restaurant.",
+        "ru": "Я оплатил счет в ресторане."
+      }
     ]
   },
   {
@@ -5244,8 +5280,11 @@
     "ru": "расстраивать (глаг)",
     "img": "https://www.mundopsicologos.com/site/article/65604/54984/mal-amigo_ai1.jpg",
     "examples": [
-      {"en": "His words unsettled me.", "ru": "Его слова меня расстроили."},
-      {"en": "The unexpected news unsettled the entire community.", "ru": "Неожиданная новость взволновала всё сообщество."}
+      { "en": "His words unsettled me.", "ru": "Его слова меня расстроили." },
+      {
+        "en": "The unexpected news unsettled the entire community.",
+        "ru": "Неожиданная новость взволновала всё сообщество."
+      }
     ]
   },
   {
@@ -5253,8 +5292,14 @@
     "ru": "поток (сущ), течь (глаг)",
     "img": "https://britlex.ru/images/flow.jpg",
     "examples": [
-      {"en": "The river has a strong flow.", "ru": "Река имеет сильный поток."},
-      {"en": "Tears flowed down her cheeks.", "ru": "Слезы текли по ее щекам."}
+      {
+        "en": "The river has a strong flow.",
+        "ru": "Река имеет сильный поток."
+      },
+      {
+        "en": "Tears flowed down her cheeks.",
+        "ru": "Слезы текли по ее щекам."
+      }
     ]
   },
   {
@@ -5262,8 +5307,14 @@
     "ru": "утвердить/одобрять (глаг) (ОФИЦИАЛЬНО)",
     "img": "https://britlex.ru/images/approve.jpg",
     "examples": [
-      {"en": "The committee will approve the budget tomorrow.", "ru": "Комитет утвердит бюджет завтра."},
-      {"en": "I don't think he will approve of our plan.", "ru": "Думаю, он не одобрит наш план."}
+      {
+        "en": "The committee will approve the budget tomorrow.",
+        "ru": "Комитет утвердит бюджет завтра."
+      },
+      {
+        "en": "I don't think he will approve of our plan.",
+        "ru": "Думаю, он не одобрит наш план."
+      }
     ]
   },
   {
@@ -5271,8 +5322,14 @@
     "ru": "утверждение/одобрение (сущ)",
     "img": "https://thumbs.dreamstime.com/b/okay-25673621.jpg",
     "examples": [
-      {"en": "We need your approval to proceed with the project.", "ru": "Нам нужно ваше утверждение, чтобы продолжить проект."},
-      {"en": "The supervisor gave her approval for the proposal.", "ru": "Начальник утвердил ее предложение."}
+      {
+        "en": "We need your approval to proceed with the project.",
+        "ru": "Нам нужно ваше утверждение, чтобы продолжить проект."
+      },
+      {
+        "en": "The supervisor gave her approval for the proposal.",
+        "ru": "Начальник утвердил ее предложение."
+      }
     ]
   },
   {
@@ -5280,8 +5337,14 @@
     "ru": "не одобрять (глаг)",
     "img": "https://thumbs.dreamstime.com/b/business-man-bad-news-22732496.jpg",
     "examples": [
-      {"en": "Her parents disapproved of her career choice.", "ru": "Родители не одобрили ее выбор профессии."},
-      {"en": "The committee disapproved the new policy.", "ru": "Комитет не одобрил новую политику."}
+      {
+        "en": "Her parents disapproved of her career choice.",
+        "ru": "Родители не одобрили ее выбор профессии."
+      },
+      {
+        "en": "The committee disapproved the new policy.",
+        "ru": "Комитет не одобрил новую политику."
+      }
     ]
   },
   {
@@ -5289,8 +5352,14 @@
     "ru": "одобрять (глаг) (СУБЪЕКТИВНО)",
     "img": "https://britlex.ru/images/approve%20of.jpg",
     "examples": [
-      {"en": "I approve of your decision to go back to school.", "ru": "Я одобряю ваше решение вернуться в школу."},
-      {"en": "She doesn't approve of his lifestyle.", "ru": "Она не одобряет его образ жизни."}
+      {
+        "en": "I approve of your decision to go back to school.",
+        "ru": "Я одобряю ваше решение вернуться в школу."
+      },
+      {
+        "en": "She doesn't approve of his lifestyle.",
+        "ru": "Она не одобряет его образ жизни."
+      }
     ]
   },
   {
@@ -5298,8 +5367,14 @@
     "ru": "сначала/сперва",
     "img": "https://britlex.ru/images/at%20first.jpg",
     "examples": [
-      {"en": "I didn't like the movie at first, but it grew on me.", "ru": "Сначала мне не понравился фильм, но потом я его оценил."},
-      {"en": "At first, I was scared to jump, but now I love it.", "ru": "Сначала я боялась прыгать, но теперь мне это нравится."}
+      {
+        "en": "I didn't like the movie at first, but it grew on me.",
+        "ru": "Сначала мне не понравился фильм, но потом я его оценил."
+      },
+      {
+        "en": "At first, I was scared to jump, but now I love it.",
+        "ru": "Сначала я боялась прыгать, но теперь мне это нравится."
+      }
     ]
   },
   {
@@ -5307,8 +5382,14 @@
     "ru": "случай/событие (сущ)",
     "img": "https://britlex.ru/images/occasion.jpg",
     "examples": [
-      {"en": "This is a special occasion for us.", "ru": "Это особый случай для нас."},
-      {"en": "She occasioned the celebration with her achievement.", "ru": "Ее достижение послужило поводом для празднования."}
+      {
+        "en": "This is a special occasion for us.",
+        "ru": "Это особый случай для нас."
+      },
+      {
+        "en": "She occasioned the celebration with her achievement.",
+        "ru": "Ее достижение послужило поводом для празднования."
+      }
     ]
   },
   {
@@ -5316,8 +5397,14 @@
     "ru": "случайный/периодический (прил)",
     "img": "https://i.pinimg.com/originals/c1/05/2b/c1052be7c872a1d3a4129b8259165985.png",
     "examples": [
-      {"en": "He makes occasional trips to the countryside.", "ru": "Он делает случайные поездки за город."},
-      {"en": "We meet for lunch on an occasional basis.", "ru": "Мы встречаемся на обед время от времени."}
+      {
+        "en": "He makes occasional trips to the countryside.",
+        "ru": "Он делает случайные поездки за город."
+      },
+      {
+        "en": "We meet for lunch on an occasional basis.",
+        "ru": "Мы встречаемся на обед время от времени."
+      }
     ]
   },
   {
@@ -5325,8 +5412,14 @@
     "ru": "описать (глаг)",
     "img": "https://britlex.ru/images/describe.jpg",
     "examples": [
-      {"en": "Can you describe the suspect to the police?", "ru": "Вы можете описать подозреваемого полиции?"},
-      {"en": "She described her experience in great detail.", "ru": "Она подробно описала свой опыт."}
+      {
+        "en": "Can you describe the suspect to the police?",
+        "ru": "Вы можете описать подозреваемого полиции?"
+      },
+      {
+        "en": "She described her experience in great detail.",
+        "ru": "Она подробно описала свой опыт."
+      }
     ]
   },
   {
@@ -5334,8 +5427,14 @@
     "ru": "описательный (прилаг.)",
     "img": "https://www.syl.ru/misc/i/ni/1/5/6/4/8/9/5/i/1564895.jpg",
     "examples": [
-      {"en": "The descriptive passages in the book painted a vivid picture.", "ru": "Описательные отрывки в книге нарисовали яркую картину."},
-      {"en": "The report should be clear and descriptive.", "ru": "Отчет должен быть ясным и описательным."}
+      {
+        "en": "The descriptive passages in the book painted a vivid picture.",
+        "ru": "Описательные отрывки в книге нарисовали яркую картину."
+      },
+      {
+        "en": "The report should be clear and descriptive.",
+        "ru": "Отчет должен быть ясным и описательным."
+      }
     ]
   },
   {
@@ -5343,8 +5442,308 @@
     "ru": "описание (сущ)",
     "img": "https://www.data-entry-india.com/blog/wp-content/uploads/2019/11/product-description-writing-500x262.jpg",
     "examples": [
-      {"en": "Please provide a detailed description of the incident.", "ru": "Пожалуйста, предоставьте подробное описание инцидента."},
-      {"en": "The job description outlined the responsibilities clearly.", "ru": "Описание работы четко определило обязанности."}
+      {
+        "en": "Please provide a detailed description of the incident.",
+        "ru": "Пожалуйста, предоставьте подробное описание инцидента."
+      },
+      {
+        "en": "The job description outlined the responsibilities clearly.",
+        "ru": "Описание работы четко определило обязанности."
+      }
+    ]
+  },
+  {
+    "en": "rope [roʊp]",
+    "ru": "верёвка (сущ), связывать (глаг)",
+    "img": "https://britlex.ru/images/rope.jpg",
+    "examples": [
+      {
+        "en": "He tied the package with a rope.",
+        "ru": "Он связал пакет верёвкой."
+      },
+      {
+        "en": "They used a rope to climb the mountain.",
+        "ru": "Они использовали верёвку, чтобы взобраться на гору."
+      }
+    ]
+  },
+  {
+    "en": "feature [ˈfiːtʃər]",
+    "ru": "черта/особенность (сущ), представлять/показать(особенность) (глаг)",
+    "img": "https://avatanplus.com/files/resources/mid/5cc08348e547916a5000d4eb.jpg",
+    "examples": [
+      {
+        "en": "Her eyes are her best feature.",
+        "ru": "Её глаза – её лучшая черта."
+      },
+      {
+        "en": "This software features a user-friendly interface.",
+        "ru": "Этот софт характеризуется удобным интерфейсом."
+      }
+    ]
+  },
+  {
+    "en": "featured [ˈfiːtʃərd]",
+    "ru": "показанный / представленный",
+    "img": "https://www.asme.org/getmedia/745ef185-e806-4308-b221-af9307e4e366/explore-committee-pages.jpg?width=1080&height=721&ext=.jpg",
+    "examples": [
+      {
+        "en": "That online casino featured 18 games",
+        "ru": "Когда данное онлайн казино только открылось, игрокам было представлено 18 игр"
+      },
+      {
+        "en": "It was featured among Archdaily's selected works for July 2014",
+        "ru": "Она была показана в числе избранных проектов в «ArchDaily» за июль 2014 года"
+      }
+    ]
+  },
+  {
+    "en": "by far",
+    "ru": "безусловно",
+    "img": "https://britlex.ru/images/by%20far.jpg",
+    "examples": [
+      {
+        "en": "She is by far the best student in the class.",
+        "ru": "Она безусловно лучшая ученица в классе."
+      },
+      {
+        "en": "This is by far the most dangerous part of the path",
+        "ru": "Это, безусловно, самая опасная часть пути"
+      }
+    ]
+  },
+  {
+    "en": "drum [drʌm]",
+    "ru": "барабан (сущ), барабанить (глаг)",
+    "img": "https://britlex.ru/images/drum.jpg",
+    "examples": [
+      {
+        "en": "He plays the drum in a band.",
+        "ru": "Он играет на барабане в группе."
+      },
+      {
+        "en": "The rain began to drum on the roof.",
+        "ru": "Дождь начал барабанить по крыше."
+      }
+    ]
+  },
+  {
+    "en": "drummer [ˈdrʌmər]",
+    "ru": "барабанщик",
+    "img": "https://potd.pdnonline.com/wp-content/uploads/2016/11/Deirdre-OCallaghan-The-Drum-Thing-9-Jack-White.jpg",
+    "examples": [
+      {
+        "en": "She is a talented drummer.",
+        "ru": "Она талантливая барабанщица."
+      }
+    ]
+  },
+  {
+    "en": "emit [ɪˈmɪt]",
+    "ru": "излучать/издавать-испускать (глаг)",
+    "img": "https://britlex.ru/images/emit.jpg",
+    "examples": [
+      {
+        "en": "The chimney emitted thick smoke.",
+        "ru": "Труба испускала густой дым."
+      },
+      {
+        "en": "The radio station emitted strange noises.",
+        "ru": "Радиостанция издавала странные звуки."
+      }
+    ]
+  },
+  {
+    "en": "emission [ɪˈmɪʃən]",
+    "ru": "излучение/выброс",
+    "img": "https://www.siliconrepublic.com/wp-content/uploads/2020/04/AdobeStock_95437745.jpeg",
+    "examples": [
+      {
+        "en": "The emission of greenhouse gases contributes to global warming.",
+        "ru": "Излучение парниковых газов способствует глобальному потеплению."
+      }
+    ]
+  },
+  {
+    "en": "indeed [ɪnˈdiːd]",
+    "ru": "в самом деле",
+    "img": "https://britlex.ru/images/indeed.jpg",
+    "examples": [
+      {
+        "en": "Indeed, I agree with you.",
+        "ru": "В самом деле, я согласен с вами."
+      }
+    ]
+  },
+  {
+    "en": "table [ˈteɪbl]",
+    "ru": "таблица (сущ)",
+    "img": "https://www.e-iceblue.com/images/my_air/Word%20Table.png",
+    "examples": [
+      {
+        "en": "The data is presented in the table.",
+        "ru": "Данные представлены в таблице."
+      },
+      {
+        "en": "Let's table this issue for now.",
+        "ru": "Давайте отложим этот вопрос на потом."
+      }
+    ]
+  },
+  {
+    "en": "hostile [ˈhɑːstl]",
+    "ru": "враждебный (прил)",
+    "img": "https://britlex.ru/images/hostile.jpg",
+    "examples": [
+      {
+        "en": "The two nations had a hostile relationship.",
+        "ru": "У этих двух наций были враждебные отношения."
+      },
+      {
+        "en": "He gave her a hostile look.",
+        "ru": "Он бросил ей враждебный взгляд."
+      }
+    ]
+  },
+  {
+    "en": "hostility [hɑˈstIlɪti]",
+    "ru": "враждебность",
+    "img": "https://sushi-week.ru/wp-content/uploads/sonnik-rugatsya-ili-ssoritsya-s-bratom2.jpg",
+    "examples": [
+      {
+        "en": "There is a long history of hostility between the two groups.",
+        "ru": "Существует долгая история враждебности между этими двумя группами."
+      }
+    ]
+  },
+  {
+    "en": "option [ˈɑːpʃən]",
+    "ru": "выбор/вариант (сущ)",
+    "img": "https://britlex.ru/images/option.jpg",
+    "examples": [
+      {
+        "en": "You have the option to choose between two colors.",
+        "ru": "У вас есть выбор между двумя цветами."
+      },
+      {
+        "en": "I will option for the vegetarian dish.",
+        "ru": "Я выберу вариант с вегетарианским блюдом."
+      }
+    ]
+  },
+  {
+    "en": "optional [ˈɑːpʃənl]",
+    "ru": "необязательный/опциональный",
+    "img": "https://mamamoet.ru/wp-content/uploads/2017/08/chistka-241.jpg",
+    "examples": [
+      {
+        "en": "Wearing a tie is optional for this event.",
+        "ru": "Ношение галстука необязательно для этого мероприятия."
+      }
+    ]
+  },
+  {
+    "en": "significant [sɪɡˈnIfɪkənt]",
+    "ru": "значительный (сущ), имеющий значение (глаг)",
+    "img": "https://britlex.ru/images/significant.jpg",
+    "examples": [
+      {
+        "en": "This discovery is significant for scientific research.",
+        "ru": "Это открытие имеет значение для научных исследований."
+      },
+      {
+        "en": "Religion is still a significant part of American life",
+        "ru": "Религия по-прежнему остается значительной частью американской жизни"
+      }
+    ]
+  },
+  {
+    "en": "significance [sɪɡˈnɪfɪkəns]",
+    "ru": "значение/значимость",
+    "img": "https://atneventstaffing.com/wp-content/uploads/2018/04/tmo001-768x511.jpg",
+    "examples": [
+      {
+        "en": "The significance of this event cannot be overstated.",
+        "ru": "Значение этого события нельзя переоценить."
+      }
+    ]
+  },
+  {
+    "en": "insignificant [ˌɪnsɪɡˈnɪfɪkənt]",
+    "ru": "незначительный",
+    "img": "https://media.baamboozle.com/uploads/images/102214/1628057382_68618.jpeg",
+    "examples": [
+      {
+        "en": "His role in the project was insignificant.",
+        "ru": "Его роль в проекте была незначительной."
+      }
+    ]
+  },
+  {
+    "en": "make fun of [meɪk fʌn ʌv]",
+    "ru": "смеяться/издеваться над",
+    "img": "https://britlex.ru/images/make%20fun%20of.jpg",
+    "examples": [
+      {
+        "en": "It's not polite to make fun of others.",
+        "ru": "Не красиво издеваться над другими."
+      },
+      {
+        "en": "He made fun of her accent.",
+        "ru": "Он посмеивался над её акцентом."
+      }
+    ]
+  },
+  {
+    "en": "chop [tʃɑːp]",
+    "ru": "рубить (глаг)",
+    "img": "https://britlex.ru/images/chop.jpg",
+    "examples": [
+      {
+        "en": "She chopped the vegetables for the salad.",
+        "ru": "Она порезала овощи для салата."
+      },
+      {
+        "en": "The chef showed him how to chop onions properly.",
+        "ru": "Шеф показал ему, как правильно рубить лук."
+      }
+    ]
+  },
+  {
+    "en": "general [ˈdʒenərəl]",
+    "ru": "общий (сущ)",
+    "img": "https://britlex.ru/images/general.jpg",
+    "examples": [
+      {
+        "en": "He has a general understanding of the topic.",
+        "ru": "У него есть общее понимание этой темы."
+      }
+    ]
+  },
+  {
+    "en": "generalize [ˈdʒenərəˌlАɪz]",
+    "ru": "обобщать",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.S8Nma4374MD-n2rAic4j9QHaEK&pid=Api",
+    "examples": [
+      {
+        "en": "Scientists often generalize their research findings.",
+        "ru": "Ученые часто обобщают свои научные выводы."
+      },
+      {
+        "en": "Can you please generalize your findings?",
+        "ru": "Вы можете, пожалуйста, обобщить ваши результаты?"
+      }
+    ]
+  },
+  {
+    "en": "generalization [ˌdʒenərəlAɪˈzeɪʃən]",
+    "ru": "обобщение",
+    "img": "https://econet.ru/media/video_covers/4744/original.jpg?1484473916",
+    "examples": [
+      {
+        "en": "This generalization is not applicable in all cases.",
+        "ru": "Это обобщение не применимо во всех случаях."
+      }
     ]
   }
 ]
