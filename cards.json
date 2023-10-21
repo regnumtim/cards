@@ -5643,8 +5643,8 @@
     ]
   },
   {
-    "en": "significant [sɪɡˈnIfɪkənt]",
-    "ru": "значительный/имеющий значение (сущ)",
+    "en": "significant [sɪɡˈnɪfɪkənt]",
+    "ru": "значимый (прил)",
     "img": "https://britlex.ru/images/significant.jpg",
     "examples": [
       {
@@ -5659,23 +5659,23 @@
   },
   {
     "en": "significance [sɪɡˈnɪfɪkəns]",
-    "ru": "значение/значимость",
+    "ru": "значимость (сущ)",
     "img": "https://atneventstaffing.com/wp-content/uploads/2018/04/tmo001-768x511.jpg",
     "examples": [
       {
         "en": "The significance of this event cannot be overstated.",
-        "ru": "Значение этого события нельзя переоценить."
+        "ru": "Значимость этого события нельзя переоценить."
       }
     ]
   },
   {
     "en": "insignificant [ˌɪnsɪɡˈnɪfɪkənt]",
-    "ru": "незначительный",
+    "ru": "незначимый",
     "img": "https://media.baamboozle.com/uploads/images/102214/1628057382_68618.jpeg",
     "examples": [
       {
         "en": "His role in the project was insignificant.",
-        "ru": "Его роль в проекте была незначительной."
+        "ru": "Его роль в проекте была незначимой."
       }
     ]
   },
