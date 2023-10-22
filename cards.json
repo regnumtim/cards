@@ -5745,5 +5745,291 @@
         "ru": "Это обобщение не применимо во всех случаях."
       }
     ]
+  },
+  {
+    "en": "awake (awoke, awoken) [əˈweɪk, əˈwəʊk, əˈwəʊkən]",
+    "ru": "проснуться, пробудиться (глаг)",
+    "img": "https://i.ytimg.com/vi/j97OO8rb4y8/hqdefault.jpg",
+    "examples": [
+      {
+        "en": "She awoke early in the morning.",
+        "ru": "Она проснулась рано утром."
+      }
+    ]
+  },
+  {
+    "en": "mere [mɪr]",
+    "ru": "всего лишь",
+    "img": "https://britlex.ru/images/mere.jpg",
+    "examples": [
+      { "en": "It's a mere scratch.", "ru": "Это всего лишь царапина." },
+      {
+        "en": "Sign this paper. It's a mere formality",
+        "ru": "Подпишите эту бумагу. Это всего лишь формальность"
+      }
+    ]
+  },
+  {
+    "en": "perform [pərˈfɔːrm]",
+    "ru": "выполнить, исполнить (глаг)",
+    "img": "https://britlex.ru/images/perform.jpg",
+    "examples": [
+      {
+        "en": "She will perform the task diligently.",
+        "ru": "Она выполнит задачу добросовестно."
+      },
+      {
+        "en": "The band will perform live on stage.",
+        "ru": "Группа исполнит песни живьем на сцене."
+      },
+      {
+        "en": "He can perform various magic tricks.",
+        "ru": "Он может выполнять различные фокусы."
+      }
+    ]
+  },
+  {
+    "en": "performance [pəˈfɔːrməns]",
+    "ru": "выполнение/исполнение, производительность (сущ)",
+    "img": "https://spokenvision.com/wp-content/uploads/2018/06/Performing-Arts-770x502.jpg",
+    "examples": [
+      {
+        "en": "The theater had a splendid performance last night.",
+        "ru": "В театре было великолепное представление прошлой ночью."
+      },
+      {
+        "en": "Her dance performance was mesmerizing.",
+        "ru": "Ее танцевальное представление было завораживающим."
+      }
+    ]
+  },
+  {
+    "en": "lawn [lɔːn]",
+    "ru": "газон",
+    "img": "https://www.tuinbijdewildernis.nl/wp-content/uploads/2019/01/kunstgras-shutterstock_533390473-1000x600.jpg",
+    "examples": [
+      {
+        "en": "The children played on the lush green lawn.",
+        "ru": "Дети играли на пышном зеленом газоне."
+      }
+    ]
+  },
+  {
+    "en": "lawn-mower [ˈlɔːnˌməʊər]",
+    "ru": "газонокосилка",
+    "img": "https://mir-s3-cdn-cf.behance.net/projects/max_808/d4d59e104018879.Y3JvcCw4MDgsNjMyLDAsMA.png",
+    "examples": [
+      {
+        "en": "He uses a lawn-mower to trim the grass.",
+        "ru": "Он использует газонокосилку, чтобы подстричь траву."
+      }
+    ]
+  },
+  {
+    "en": "gentle [ˈdʒentl]",
+    "ru": "нежный/мягкий (прил)",
+    "img": "",
+    "examples": [
+      {
+        "en": "Gentle waves came up and lapped my feet",
+        "ru": "Нежные волны набегали и плескали мне в ноги"
+      },
+      { "en": "He is a gentle soul.", "ru": "Он нежная душа." }
+    ]
+  },
+  {
+    "en": "beyond [bɪˈjɑːnd]",
+    "ru": "вне, свыше",
+    "img": "https://britlex.ru/images/beyond.jpg",
+    "examples": [
+      {
+        "en": "The solution is beyond our current understanding.",
+        "ru": "Решение находится вне нашего текущего понимания."
+      },
+      {
+        "en": "Her expectations were beyond reality.",
+        "ru": "Ее ожидания были свыше реальности."
+      }
+    ]
+  },
+  {
+    "en": "hide (hid, hidden) [haɪd, hɪd, ˈhɪdn]",
+    "ru": "скрывать (глаг)",
+    "img": "https://britlex.ru/images/hide.jpg",
+    "examples": [
+      {
+        "en": "He hides his emotions well.",
+        "ru": "Он хорошо скрывает свои эмоции."
+      },
+      {
+        "en": "The treasure was hidden deep underground.",
+        "ru": "Сокровище было спрятано глубоко под землей."
+      }
+    ]
+  },
+  {
+    "en": "hide away [haɪd əˈweɪ]",
+    "ru": "спрятать(ся) (глаг)",
+    "img": "https://im.haberturk.com/2016/12/10/1334948_b84d47d8689cc2b68a75de50acff2556_640x640.jpg",
+    "examples": [
+      {
+        "en": "She hid away in the closet when the thunderstorm started.",
+        "ru": "Она спряталась в шкафу, когда начался грозовой шторм."
+      }
+    ]
+  },
+  {
+    "en": "hide out [haɪd aʊt]",
+    "ru": "скрываться (глаг)",
+    "img": "https://fb.ru/media/i/2/6/0/8/5/8/6/i/2608586.jpg",
+    "examples": [
+      {
+        "en": "The fugitive hid out in remote mountain cabins.",
+        "ru": "Беглец скрывался в отдаленных горных хижинах."
+      }
+    ]
+  },
+  {
+    "en": "postpone [pəʊˈspə(У)ʊn]",
+    "ru": "откладывать (глаг)",
+    "img": "https://britlex.ru/images/postpone.jpg",
+    "examples": [
+      {
+        "en": "The meeting was postponed until next week.",
+        "ru": "Собрание было отложено до следующей недели."
+      },
+      {
+        "en": "He decided to postpone his trip due to bad weather.",
+        "ru": "Он решил отложить свою поездку из-за плохой погоды."
+      }
+    ]
+  },
+  {
+    "en": "postponement [pəʊˈspəʊ(У)nmənt]",
+    "ru": "откладывание, отсрочка (сущ)",
+    "img": "https://thumbs.dreamstime.com/b/procrastination-worker-cartoon-illustration-office-cutting-bonsai-tree-his-workpace-working-vector-your-141024035.jpg",
+    "examples": [
+      {
+        "en": "The postponement of the event disappointed many attendees.",
+        "ru": "Отсрочка мероприятия разочаровала многих участников."
+      },
+      {
+        "en": "The postponement was due to unforeseen circumstances.",
+        "ru": "Отсрочка была вызвана непредвиденными обстоятельствами."
+      }
+    ]
+  },
+  {
+    "en": "highlight [ˈhaɪlaɪt]",
+    "ru": "выделить, подсветить (глаг)",
+    "img": "https://britlex.ru/images/highlight.jpg",
+    "examples": [
+      {
+        "en": "She used a marker to highlight important passages in the book.",
+        "ru": "Она использовала маркер, чтобы выделить важные места в книге."
+      },
+      {
+        "en": "The artist used bright colors to highlight the details of the painting.",
+        "ru": "Художник использовал яркие цвета, чтобы подсветить детали картины."
+      }
+    ]
+  },
+  {
+    "en": "straight [streɪt]",
+    "ru": "прямой, прямо",
+    "img": "https://britlex.ru/images/straight.jpg",
+    "examples": [
+      {
+        "en": "The road is straight for miles.",
+        "ru": "Дорога прямая на многие мили."
+      },
+      {
+        "en": "She looked him straight in the eye.",
+        "ru": "Она посмотрела ему прямо в глаза."
+      }
+    ]
+  },
+  {
+    "en": "straighten [ˈstreɪtn]",
+    "ru": "выпрямлять (глаг)",
+    "img": "https://bg.odysseedubienetre.be/img/images_1/grvida-pode-alisar-o-cabelo_2.jpg",
+    "examples": [
+      {
+        "en": "He straightened his tie before the job interview.",
+        "ru": "Он поправил галстук перед собеседованием на работу."
+      },
+      {
+        "en": "She straightened her hair with a straightening iron.",
+        "ru": "Она выпрямила волосы утюжком для выпрямления."
+      }
+    ]
+  },
+  {
+    "en": "deal [diːl]",
+    "ru": "сделка (сущ), иметь дело (глаг)",
+    "img": "https://britlex.ru/images/deal.jpg",
+    "examples": [
+      {
+        "en": "They closed the deal with a handshake.",
+        "ru": "Они закрыли сделку рукопожатием."
+      },
+      {
+        "en": "The business deal was sealed with a contract.",
+        "ru": "Бизнес-сделка была заключена контрактом."
+      }
+    ]
+  },
+  {
+    "en": "dealer [ˈdiːlər]",
+    "ru": "торговец",
+    "img": "https://a.d-cd.net/8a03582s-960.jpg",
+    "examples": [
+      { "en": "He is a car dealer.", "ru": "Он торговец автомобилями." },
+      {
+        "en": "The dealer offered a variety of products.",
+        "ru": "Торговец предложил различные товары."
+      }
+    ]
+  },
+  {
+    "en": "dealership [ˈdiːlərʃɪp]",
+    "ru": "торговое агентство",
+    "img": "https://demo.kaliumtheme.com/automotive/wp-content/uploads/2018/05/about-us-3-655x390.jpg",
+    "examples": [
+      {
+        "en": "The dealership sells new and used cars.",
+        "ru": "Торговое агентство продает новые и подержанные автомобили."
+      }
+    ]
+  },
+  {
+    "en": "delay [dɪˈleɪ]",
+    "ru": "задержка (сущ), задерживать(ся) (глаг)",
+    "img": "https://britlex.ru/images/delay.jpg",
+    "examples": [
+      {
+        "en": "The flight was delayed due to bad weather.",
+        "ru": "Рейс задержали из-за плохой погоды."
+      },
+      {
+        "en": "Please excuse the delay in my response.",
+        "ru": "Пожалуйста, извините за задержку в моем ответе."
+      }
+    ]
+  },
+  {
+    "en": "nerd [nɜːrd]",
+    "ru": "ботан, задрот",
+    "img": "https://britlex.ru/images/nerd.jpg",
+    "examples": [
+      {
+        "en": "He's a computer nerd and spends most of his time coding.",
+        "ru": "Он компьютерный ботан и проводит большую часть времени за программированием."
+      },
+      {
+        "en": "She's a nerd when it comes to physics.",
+        "ru": "Она ботан в физике."
+      }
+    ]
   }
 ]
