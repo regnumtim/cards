@@ -4437,7 +4437,7 @@
   },
   {
     "en": "declare [dɪˈklɛr]",
-    "ru": "объявлять (глаг)",
+    "ru": "объявлять (формальное или официальное заявление) (глаг)",
     "img": "https://mgppu.ru/files/galleries/photos/6b4d3adeaf5515d11282e344da72ae08.jpg",
     "examples": [
       {
@@ -6299,6 +6299,337 @@
       {
         "en": "The tenderness in his voice melted her heart.",
         "ru": "Нежность в его голосе растрогала ее сердце."
+      }
+    ]
+  },
+  {
+    "en": "tell apart [tel əˈpɑːrt]",
+    "ru": "различать (глаг)",
+    "img": "https://britlex.ru/images/tell%20apart.jpg",
+    "examples": [
+      {
+        "en": "I can't tell the twins apart.",
+        "ru": "Я не могу отличить близнецов."
+      },
+      {
+        "en": "It's difficult to tell them apart because they look so similar.",
+        "ru": "Трудно их различить, потому что они выглядят так похоже."
+      }
+    ]
+  },
+  {
+    "en": "follow [ˈfɒləʊ]",
+    "ru": "следовать/следить (глаг)",
+    "img": "https://britlex.ru/images/follow.jpg",
+    "examples": [
+      { "en": "Please follow me.", "ru": "Пожалуйста, следуйте за мной." },
+      {
+        "en": "She followed the recipe to make the cake.",
+        "ru": "Она следовала рецепту, чтобы испечь торт."
+      },
+      {
+        "en": "He follows the news every day.",
+        "ru": "Он следит за новостями каждый день."
+      }
+    ]
+  },
+  {
+    "en": "following [ˈfɒləʊɪŋ]",
+    "ru": "следующий (прил)",
+    "img": "https://u.9111s.ru/uploads/202008/24/0013490f58d027f97c2759a896ddecdf.jpg",
+    "examples": [
+      {
+        "en": "In the following chapter, we will discuss advanced techniques.",
+        "ru": "В следующей главе мы обсудим продвинутые методики."
+      }
+    ]
+  },
+  {
+    "en": "as follows [æzˈfɒləʊz]",
+    "ru": "следующим образом",
+    "img": "https://cdn10.picryl.com/photo/1990/02/09/an-instructor-helps-a-recruit-align-an-m-16a1-during-basic-training-cc0b35-640.jpg",
+    "examples": [
+      {
+        "en": "The steps to assemble the furniture are as follows:",
+        "ru": "Шаги по сборке мебели следующие:"
+      },
+      {
+        "en": "Ideally it should be structured as follows",
+        "ru": "Скорее всего, идеально оно должно быть устроено следующим образом"
+      }
+    ]
+  },
+  {
+    "en": "follower [ˈfɑ(A)ːləʊər]",
+    "ru": "последователь (сущ)",
+    "img": "https://i.ytimg.com/vi/0DBXOseaCZI/sddefault.jpg",
+    "examples": [
+      {
+        "en": "He was a loyal follower of the political leader.",
+        "ru": "Он был верным последователем политического лидера."
+      }
+    ]
+  },
+  {
+    "en": "grocery [ˈgrəʊsəri]",
+    "ru": "продуктовый (прил)",
+    "img": "https://britlex.ru/images/grocery.jpg",
+    "examples": [
+      {
+        "en": "I need to buy some grocery items for the week.",
+        "ru": "Мне нужно купить продукты на неделю."
+      },
+      {
+        "en": "I make weekly trips to the grocery store",
+        "ru": "Каждую неделю я совершаю поездки в продуктовый магазин"
+      }
+    ]
+  },
+  {
+    "en": "consult [kənˈsʌlt]",
+    "ru": "советоваться/консультироваться (глаг)",
+    "img": "https://vicons.ru/wp-content/uploads/2021/02/interviu-1.jpg",
+    "examples": [
+      {
+        "en": "I will consult with my lawyer before making a decision.",
+        "ru": "Я посоветуюсь с моим адвокатом перед принятием решения."
+      },
+      {
+        "en": "If in doubt, consult your doctor",
+        "ru": "Если сомневаетесь, проконсультируйтесь с вашим врачом"
+      }
+    ]
+  },
+  {
+    "en": "vague [veɪɡ]",
+    "ru": "смутный, расплывчивый, неопределенный (прил)",
+    "img": "",
+    "examples": [
+      {
+        "en": "His explanation was too vague to understand.",
+        "ru": "Его объяснение было слишком неопределенным, чтобы понять."
+      },
+      {
+        "en": "That advice is all well and good, but it's a little vague",
+        "ru": "Этот совет хорош, но он немного расплывчатый"
+      }
+    ]
+  },
+  {
+    "en": "vagueness [ˈveɪgnəs]",
+    "ru": "неопределенность, расплывчатость (сущ)",
+    "img": "https://britlex.ru/images/vague.jpg",
+    "examples": [
+      {
+        "en": "The vagueness of the instructions confused the participants.",
+        "ru": "Неопределенность инструкций запутала участников."
+      },
+      {
+        "en": "Its vagueness indicates that the body is experiencing severe intoxication",
+        "ru": "Его расплывчатость свидетельствует о том, что организм переживает сильную интоксикацию"
+      }
+    ]
+  },
+  {
+    "en": "jury [ˈdʒʊ(уд)rɪ]",
+    "ru": "присяжные/жюри (сущ)",
+    "img": "https://britlex.ru/images/jury.jpg",
+    "examples": [
+      {
+        "en": "The jury reached a unanimous decision.",
+        "ru": "Жюри пришло к единогласному решению."
+      },
+      {
+        "en": "He was selected as a juror for the trial.",
+        "ru": "Его выбрали присяжным на суде."
+      }
+    ]
+  },
+  {
+    "en": "announce [əˈnАʊns]",
+    "ru": "объявлять/сообщать/анонсировать (сообщать что-то публично или впервые) (глаг)",
+    "img": "https://legazete.com/wp-content/uploads/2021/09/59-1000x600.jpg",
+    "examples": [
+      {
+        "en": "The mayor announced the new city initiatives.",
+        "ru": "Мэр объявил новые инициативы города."
+      },
+      {
+        "en": "The company will announce its financial results tomorrow.",
+        "ru": "Компания объявит свои финансовые результаты завтра."
+      }
+    ]
+  },
+  {
+    "en": "announcement [əˈnAʊnsmənt]",
+    "ru": "объявление/анонс (сущ)",
+    "img": "https://pixy.org/src/150/thumbs350/1502823.jpg",
+    "examples": [
+      {
+        "en": "The announcement was made over the loudspeaker.",
+        "ru": "Объявление было сделано через громкоговоритель."
+      },
+      {
+        "en": "Please listen to the following announcement.",
+        "ru": "Пожалуйста, выслушайте следующее объявление."
+      }
+    ]
+  },
+  {
+    "en": "bring back [brɪŋ bæk]",
+    "ru": "вернуть (принести что-то ОБРАТНО из одного места в другое) (глаг)",
+    "img": "https://lib.susu.ru/wp-content/uploads/120951302130201-930x620.jpg",
+    "examples": [
+      {
+        "en": "Can you bring back my pen?",
+        "ru": "Можешь вернуть мне мою ручку?"
+      },
+      {
+        "en": "He brought back the borrowed book yesterday.",
+        "ru": "Он вернул одолженную книгу вчера."
+      }
+    ]
+  },
+  {
+    "en": "give back [ɡɪv bæk]",
+    "ru": "вернуть/отдать (обратно) (вернуть что-то кому-то) (глаг)",
+    "img": "https://b2b2c.market/oc-content/uploads/25061/2493928.jpg",
+    "examples": [
+      {
+        "en": "She gave back the money she owed.",
+        "ru": "Она вернула деньги, которые должна была."
+      },
+      {
+        "en": "If that happens, you would have to give back the money to the employee",
+        "ru": "Если так, то вы должны вернуть работодателю деньги"
+      }
+    ]
+  },
+  {
+    "en": "take back [teɪk bæk]",
+    "ru": "забрать (глаг)",
+    "img": "https://lcity.dp.ua/wp-content/uploads/2021/10/images.jpg",
+    "examples": [
+      {
+        "en": "I need to take back this defective product.",
+        "ru": "Мне нужно забрать этот товар с дефектом."
+      },
+      {
+        "en": "You don't get to speak and take back your words",
+        "ru": "Нельзя просто так сказать и забрать свои слова обратно"
+      }
+    ]
+  },
+  {
+    "en": "stick [stɪk]",
+    "ru": "палка (сущ), придерживаться/держаться (глаг)",
+    "img": "https://www.kindpng.com/picc/m/140-1408035_minecraft-stick-png-transparent-png.png",
+    "examples": [
+      {
+        "en": "He used a stick to reach the high branch.",
+        "ru": "Он использовал палку, чтобы достать высокую ветку."
+      },
+      {
+        "en": "She sticks the posters on the wall.",
+        "ru": "Она приклеивает постеры к стене."
+      }
+    ]
+  },
+  {
+    "en": "as though [æz ðəʊ]",
+    "ru": "как будто/словно (наречие)",
+    "img": "https://britlex.ru/images/as%20though.jpg",
+    "examples": [
+      {
+        "en": "He looks as though he hasn't slept for days.",
+        "ru": "Он выглядит, как будто не спал несколько дней."
+      },
+      {
+        "en": "She looked as though she was waiting for someone",
+        "ru": "У нее был такой вид, словно она кого-то ждала"
+      }
+    ]
+  },
+  {
+    "en": "court [kɔːrt]",
+    "ru": "суд (сущ) судебный (прил)",
+    "img": "https://www.governmentregistry.org/img/topical/court_01.jpg",
+    "examples": [
+      {
+        "en": "The trial will take place in the court.",
+        "ru": "Судебное разбирательство состоится в суде."
+      },
+      {
+        "en": "The court adjourned for a recess.",
+        "ru": "Суд отложился на перерыв."
+      }
+    ]
+  },
+  {
+    "en": "courtroom [ˈkɔːrtˌruːm]",
+    "ru": "зал суда (сущ)",
+    "img": "https://olimpikramer.com/wp-content/uploads/2016/02/orphans-court.jpg",
+    "examples": [
+      {
+        "en": "The courtroom was packed with spectators.",
+        "ru": "Зал суда был переполнен зрителями."
+      },
+      {
+        "en": "The second I leave the courtroom",
+        "ru": "В ту же секунду, как я выйду из зала"
+      }
+    ]
+  },
+  {
+    "en": "courthouse [ˈkɔːrtˌhaʊs]",
+    "ru": "здание суда (сущ)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pasco_Cty_Courthouse_Dade_City.jpg/640px-Pasco_Cty_Courthouse_Dade_City.jpg",
+    "examples": [
+      {
+        "en": "The new courthouse is a modern architectural marvel.",
+        "ru": "Новое здание суда - это современное архитектурное чудо."
+      },
+      {
+        "en": "So, gentlemen, what our great city needs is a new courthouse",
+        "ru": "Итак, джентльмены, что нужно нашему великому городу, так это новое здание суда"
+      }
+    ]
+  },
+  {
+    "en": "tear (tore, torn) [tEr, tɔːr, tɔːrn]",
+    "ru": "слеза, рвать/раздирать (глаг)",
+    "img": "https://britlex.ru/images/tear.jpg",
+    "examples": [
+      {
+        "en": "She tore the paper into small pieces.",
+        "ru": "Она порвала бумагу на маленькие кусочки."
+      },
+      {
+        "en": "His actions tear apart our community.",
+        "ru": "Его действия разрывают наше сообщество."
+      },
+      {
+        "en": "I felt another tear roll down my cheek",
+        "ru": "Я почувствовал, как еще одна слеза соскользнула вниз по моей щеке"
+      }
+    ]
+  },
+  {
+    "en": "watch [wɒʧ]",
+    "ru": "смотреть/наблююдать (глаг), часы (наручные) (сущ)",
+    "img": "https://britlex.ru/images/watch.jpg",
+    "examples": [
+      {
+        "en": "She glanced at her watch and realized she was late.",
+        "ru": "Она поглядела на часы и поняла, что опоздала."
+      },
+      {
+        "en": "I watch TV every evening",
+        "ru": "Я смотрю телевизор каждый вечер"
+      },
+      {
+        "en": "She watches the birds in the park",
+        "ru": "Она наблюдает за птицами в парке"
       }
     ]
   }
