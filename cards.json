@@ -6632,5 +6632,305 @@
         "ru": "Она наблюдает за птицами в парке"
       }
     ]
+  },
+  {
+    "en": "seek (sought, sought) [siːk, sɔːt, sɔːt]",
+    "ru": "искать/стремиться (глаг)",
+    "img": "https://media.baamboozle.com/uploads/images/76821/1608061757_695075",
+    "examples": [
+      {
+        "en": "He sought help from his friends.",
+        "ru": "Он искал помощи у своих друзей."
+      },
+      {
+        "en": "She seeks knowledge and understanding.",
+        "ru": "Она стремится к знаниям и пониманию."
+      }
+    ]
+  },
+  {
+    "en": "naked [ˈneɪkɪd]",
+    "ru": "голый (прил)",
+    "img": "https://image.shutterstock.com/image-photo/naked-yoga-beautiful-sexy-body-600w-345343250.jpg",
+    "examples": [
+      { "en": "The baby was naked.", "ru": "Младенец был голым." },
+      {
+        "en": "He felt vulnerable and naked without his phone.",
+        "ru": "Он чувствовал себя уязвимым и обнаженным без своего телефона."
+      }
+    ]
+  },
+  {
+    "en": "nakedness [ˈneɪkɪdnəs]",
+    "ru": "нагота (сущ)",
+    "img": "https://britlex.ru/images/naked.jpg",
+    "examples": [
+      {
+        "en": "The artist captured the beauty of human nakedness in his painting.",
+        "ru": "Художник запечатлел красоту человеческой наготы в своей картине."
+      }
+    ]
+  },
+  {
+    "en": "strain [streɪn]",
+    "ru": "напрягать (глаг), напряжение (сущ)",
+    "img": "https://st3.depositphotos.com/1658121/14452/i/950/depositphotos_144527303-stock-photo-back-pain-spine-illustration.jpg",
+    "examples": [
+      {
+        "en": "Lifting heavy boxes can strain your back.",
+        "ru": "Поднятие тяжелых ящиков может напрячь вашу спину."
+      },
+      {
+        "en": "There was a strain in his voice as he spoke about the accident.",
+        "ru": "В его голосе было напряжение, когда он говорил об аварии."
+      }
+    ]
+  },
+  {
+    "en": "wear (wore, worn) [wer(weə), wɔːr, wɔːrn]",
+    "ru": "носить/надевать (глаг) износ (сущ)",
+    "img": "https://i.pinimg.com/originals/68/87/bd/6887bdda8a43aa16d3a699d1766d7bb5.png",
+    "examples": [
+      {
+        "en": "She wears a red dress to the party.",
+        "ru": "Она носит красное платье на вечеринку."
+      },
+      {
+        "en": "I wore my new shoes today.",
+        "ru": "Сегодня я носил свои новые туфли."
+      }
+    ]
+  },
+  {
+    "en": "blast [blɑːst]",
+    "ru": "взрыв, дуновение, порыв (сущ), взорвать (глаг) (подобен ощущению силы, как ударная волна)",
+    "img": "https://britlex.ru/images/blast2.jpg",
+    "examples": [
+      {
+        "en": "The blast of wind knocked the hat off her head.",
+        "ru": "Порыв ветра сорвал шляпу с ее головы."
+      },
+      {
+        "en": "The bomb blast was heard miles away.",
+        "ru": "Взрыв бомбы был слышен на многие мили вокруг."
+      }
+    ]
+  },
+  {
+    "en": "grain [greɪn]",
+    "ru": "зерно (сущ), зерновой (прил)",
+    "img": "https://britlex.ru/images/grain.jpg",
+    "examples": [
+      {
+        "en": "She bought a bag of rice grains.",
+        "ru": "Она купила мешок рисовых зерен."
+      },
+      {
+        "en": "A grain of sand fell from her shoe.",
+        "ru": "Крупица песка упала с ее обуви."
+      }
+    ]
+  },
+  {
+    "en": "drop out of [drɒpaʊtɒv]",
+    "ru": "бросить (учёбу (школа, колледж)), выйти из (глаг)",
+    "img": "https://www.thecitizen.co.tz/resource/image/2575692/landscape_ratio3x2/768/512/529f4ece68ae19b16d9ce9f91abbebd9/oO/pic-drop-out-of-school.jpg",
+    "examples": [
+      {
+        "en": "He decided to drop out of college and pursue his passion for music.",
+        "ru": "Он решил бросить учебу в колледже и следовать своей страсти к музыке."
+      },
+      {
+        "en": "The residents can drop out of the program if they wish",
+        "ru": "Участники могут выйти из программы по желанию"
+      }
+    ]
+  },
+  {
+    "en": "dropout [ˈdrɒpaʊt]",
+    "ru": "бросивший учёбу студент (сущ)",
+    "img": "https://fullfact.org/media/_versions/student_dropout_rate_pic_social_media.jpg",
+    "examples": [
+      {
+        "en": "He became a successful entrepreneur despite being a high school dropout.",
+        "ru": "Он стал успешным предпринимателем, несмотря на то, что он бросил школу."
+      }
+    ]
+  },
+  {
+    "en": "fireplace [ˈfaɪərpleɪs]",
+    "ru": "камин/очаг (сущ)",
+    "img": "https://britlex.ru/images/fireplace.jpg",
+    "examples": [
+      {
+        "en": "The fireplace crackled with burning logs.",
+        "ru": "В камине трещали горящие поленья."
+      },
+      {
+        "en": "She likes to sit by the fireplace and read a book.",
+        "ru": "Ей нравится сидеть у камина и читать книгу."
+      }
+    ]
+  },
+  {
+    "en": "quantity [ˈkwɑːntətɪ]",
+    "ru": "количество (сущ)",
+    "img": "https://britlex.ru/images/quantity.jpg",
+    "examples": [
+      {
+        "en": "The quantity of sugar in the recipe needs to be reduced.",
+        "ru": "Количество сахара в рецепте нужно уменьшить."
+      },
+      {
+        "en": "We need a large quantity of cement for the construction.",
+        "ru": "Нам нужно большое количество цемента для строительства."
+      }
+    ]
+  },
+  {
+    "en": "quantitative [ˈkwɒntɪtətɪv]",
+    "ru": "количественный (прил)",
+    "img": "https://www.enago.com/academy/wp-content/uploads/2022/06/hypothesis-testing_Global-750x340.jpg",
+    "examples": [
+      {
+        "en": "The research involves both qualitative and quantitative analysis.",
+        "ru": "Исследование включает в себя как качественный, так и количественный анализ."
+      }
+    ]
+  },
+  {
+    "en": "crawl [krɔːl]",
+    "ru": "ползать, сканировать (глаг)",
+    "img": "https://thumbs.dreamstime.com/b/crawling-baby-isolated-white-background-toddler-65015490.jpg",
+    "examples": [
+      {
+        "en": "The baby learned to crawl before he could walk.",
+        "ru": "Младенец научился ползать, прежде чем научился ходить."
+      },
+      {
+        "en": "The spider crawled slowly across the floor.",
+        "ru": "Паук медленно полз по полу."
+      }
+    ]
+  },
+  {
+    "en": "bag [bæg]",
+    "ru": "сумка, мешок (сущ)",
+    "img": "https://i.etsystatic.com/8758345/r/il/d538f8/784879278/il_794xN.784879278_c5x8.jpg",
+    "examples": [
+      {
+        "en": "Don't leave your bag in the car",
+        "ru": "Не оставляйте сумку в машине"
+      },
+      {
+        "en": "He put the groceries in a reusable bag.",
+        "ru": "Он положил продукты в многоразовую сумку."
+      }
+    ]
+  },
+  {
+    "en": "handbag [ˈhændbæɡ]",
+    "ru": "сумка (ручная, дамская) (сущ)",
+    "img": "https://www.kozhgalantereya.com/wa-data/public/shop/products/39/73/27339/images/65882/65882.970.jpg",
+    "examples": [
+      {
+        "en": "She always carries her wallet in her handbag.",
+        "ru": "Она всегда носит свой кошелек в сумке."
+      },
+      {
+        "en": "The handbag matched her shoes perfectly.",
+        "ru": "Сумка идеально сочеталась с ее обувью."
+      }
+    ]
+  },
+  {
+    "en": "baggy [ˈbæɡɪ]",
+    "ru": "мешковатый (прил)",
+    "img": "https://ae01.alicdn.com/kf/HTB1H2nAKkCWBuNjy0Faq6xUlXXaP.jpg",
+    "examples": [
+      {
+        "en": "He wore baggy pants and a loose shirt.",
+        "ru": "Он носил мешковатые штаны и свободную рубашку."
+      },
+      {
+        "en": "The jacket looked baggy on her slender frame.",
+        "ru": "Куртка выглядела мешковатой на ее стройной фигуре."
+      }
+    ]
+  },
+  {
+    "en": "grave [ɡreɪv]",
+    "ru": "могила, серъезный-тяжкий (сущ)",
+    "img": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*_vOZgwnM8wORVwTn6Y52-g.jpeg",
+    "examples": [
+      {
+        "en": "We visited her grave on the anniversary of her death.",
+        "ru": "Мы посетили ее могилу в годовщину ее смерти."
+      },
+      {
+        "en": "It is a sign of global warming - and a grave warning sign for us all",
+        "ru": "Это симптом глобального потепления- и серьезный предупредительный сигнал для всех нас"
+      }
+    ]
+  },
+  {
+    "en": "graveyard [ˈɡreɪvjɑːrd]",
+    "ru": "кладбище (сущ)",
+    "img": "https://mestozagovora.ru/wp-content/uploads/2017/10/kladbishenskij.jpg",
+    "examples": [
+      {
+        "en": "The old church had a beautiful graveyard beside it.",
+        "ru": "У старой церкви было красивое кладбище рядом с ней."
+      },
+      {
+        "en": "My mother rests beside my father in the family graveyard",
+        "ru": "Моя мать покоится на семейном кладбище, рядом с моим отцом"
+      }
+    ]
+  },
+  {
+    "en": "make up [meɪkʌp]",
+    "ru": "составлять/компенсировать/выдумать (СОСТАВЛЯТЬ-ПРИДУМЫВАТЬ ИЗ РАЗНЫХ ЧАСТЕЙ И ЭЛЕМЕНТОВ) (глаг)",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.lTFO8f9eFJ0BL3AHqlsfMQHaHa&pid=15.1",
+    "examples": [
+      {
+        "en": "She made up a story from the words on the cards",
+        "ru": "Она составила рассказ из слов на карточках"
+      },
+      {
+        "en": "He decided to make up for his mistake by working extra hours.",
+        "ru": "Он решил компенсировать свою ошибку, поработав дополнительные часы."
+      },
+      {
+        "en": "Altogether they make up one family",
+        "ru": "Все они, по сути, составляют одну семью"
+      }
+    ]
+  },
+  {
+    "en": "think up [θɪŋkʌp]",
+    "ru": "придумать (придумать или изобрести что-то новое или оригинальное) (глаг)",
+    "img": "https://s2.glbimg.com/AmHk0uLSohH5290bLcwaA_rfk4s=/512x320/smart/e.glbimg.com/og/ed/f/original/2015/02/02/ideia.jpg",
+    "examples": [
+      {
+        "en": "Can you think up a creative solution to this problem?",
+        "ru": "Ты можешь придумать креативное решение этой проблемы?"
+      },
+      {
+        "en": "He thought up a clever solution to the problem",
+        "ru": "Он придумал умное решение проблемы"
+      }
+    ]
+  },
+  {
+    "en": "dream up [driːmʌp]",
+    "ru": "выдумывать, мечтать, фантазировать (выдумать или фантазировать что-то нереальное или невероятное) (глаг)",
+    "img": "https://www.projectboldlife.com/images/2019/02/what-do-our-dreams-mean-feature.jpg",
+    "examples": [
+      {
+        "en": "She dreamed up a fantastic adventure in her sleep.",
+        "ru": "Она выдумала фантастическое приключение во сне."
+      }
+    ]
   }
 ]
