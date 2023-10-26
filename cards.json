@@ -6936,5 +6936,366 @@
         "ru": "Она выдумала фантастическое приключение во сне."
       }
     ]
+  },
+  {
+    "en": "practice [ˈpræktɪs]",
+    "ru": "практика (сущ), практиковать (глаг)",
+    "img": "https://i.pinimg.com/736x/91/07/85/910785c3d360d44a3195715db2e35d8d.jpg",
+    "examples": [
+      {
+        "en": "She practices the piano every day.",
+        "ru": "Она практикует на пианино каждый день."
+      },
+      {
+        "en": "Regular practice is essential for improvement.",
+        "ru": "Регулярная практика необходима для улучшения навыков."
+      }
+    ]
+  },
+  {
+    "en": "entitle [ɪnˈtaɪtl]",
+    "ru": "давать право, озаглавливать, давать название (глаг)",
+    "img": "https://britlex.ru/images/entitle2.jpg",
+    "examples": [
+      {
+        "en": "The author entitled his book 'The Hidden Treasure'.",
+        "ru": "Автор назвал свою книгу 'Скрытый сокровища'."
+      },
+      {
+        "en": "This achievement entitled her to a scholarship.",
+        "ru": "Этот успех дал ей право на стипендию."
+      }
+    ]
+  },
+  {
+    "en": "pile [paɪl]",
+    "ru": "куча/груда/стопка (сущ), нагромождать (сущ)",
+    "img": "https://i.pinimg.com/736x/4f/9f/5a/4f9f5aa0f3f53c93a6bef0f7df9547d3.jpg",
+    "examples": [
+      {
+        "en": "There was a pile of books on the table.",
+        "ru": "На столе была куча книг."
+      },
+      {
+        "en": "She neatly arranged the clothes into a pile.",
+        "ru": "Она аккуратно сложила одежду в стопку."
+      }
+    ]
+  },
+  {
+    "en": "stockpile [ˈstɑːkpaɪl]",
+    "ru": "запас/арсенал (сущ) накапливать (глаг)",
+    "img": "https://thumbs.dreamstime.com/b/stockpile-8662242.jpg",
+    "examples": [
+      {
+        "en": "The country has a stockpile of emergency supplies.",
+        "ru": "У страны есть запасы аварийных материалов."
+      },
+      {
+        "en": "The army has a stockpile of weapons and ammunition.",
+        "ru": "Армия имеет запасы оружия и боеприпасов."
+      }
+    ]
+  },
+  {
+    "en": "surface [ˈsɜ(Ё)ːrfɪs]",
+    "ru": "поверхность (сущ) поверхностный (поверхностный)",
+    "img": "https://i.pinimg.com/736x/9e/4b/21/9e4b219fd4d23141cf8a5772d939bcfd--ocean-wallpaper-background-hd-wallpaper.jpg",
+    "examples": [
+      {
+        "en": "The surface of the water was calm.",
+        "ru": "Поверхность воды была спокойной."
+      },
+      {
+        "en": "She cleaned the surface of the table with a cloth.",
+        "ru": "Она вытерла поверхность стола тряпкой."
+      }
+    ]
+  },
+  {
+    "en": "duckling [ˈdʌklɪŋ]",
+    "ru": "утёнок (сущ)",
+    "img": "https://i.pinimg.com/736x/e9/a4/d1/e9a4d15b03d5708e547b66369a6b059f--cute-ducklings-baby-ducks.jpg",
+    "examples": [
+      {
+        "en": "The pond was full of cute ducklings.",
+        "ru": "Пруд был полон милыми утятами."
+      },
+      {
+        "en": "The mother duck led her ducklings to the water.",
+        "ru": "Мама-утка вела своих утят к воде."
+      }
+    ]
+  },
+  {
+    "en": "conduct [ˈkɒndʌkt]",
+    "ru": "проводить/провести (глаг), проведение/поведение (в отличии от behaviour (существительное, описывающее, как вы действуете), действовать определенным образом) (сущ)",
+    "img": "https://britlex.ru/images/conduct.jpg",
+    "examples": [
+      {
+        "en": "The police conducted a raid against immigrants",
+        "ru": "Полиция провела рейд против иммигрантов"
+      },
+      {
+        "en": "With a reduced rate, you can not conduct a study",
+        "ru": "При пониженном показателе нельзя проводить исследование"
+      },
+      {
+        "en": "He is under the necessity of adjusting his conduct to the demand of the consumers",
+        "ru": "Ему необходимо приспосабливать свое поведение к требованиям потребителей"
+      }
+    ]
+  },
+  {
+    "en": "conductor [kənˈdʌ(А)ktər]",
+    "ru": "дерижер, проводник, кондуктор (сущ)",
+    "img": "https://s3.amazonaws.com/external_clips/attachments/921102/original/open-uri20170826-20407-lptbwp?1503774494",
+    "examples": [
+      {
+        "en": "The train conductor checked the tickets.",
+        "ru": "Проводник поезда проверил билеты."
+      },
+      {
+        "en": "The orchestra followed the conductor's lead.",
+        "ru": "Оркестр следовал за указаниями дирижера."
+      }
+    ]
+  },
+  {
+    "en": "misconduct [ˌmɪsˈkɑːndʌkt]",
+    "ru": "проступок (сущ)",
+    "img": "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/3c52dfc6-5b8a-420e-8570-399b5214d6a2.jpg",
+    "examples": [
+      {
+        "en": "He was dismissed from his job due to misconduct.",
+        "ru": "Его уволили с работы из-за проступка."
+      },
+      {
+        "en": "The athlete was penalized for his misconduct during the game.",
+        "ru": "Спортсмен был наказан за свой проступок во время игры."
+      }
+    ]
+  },
+  {
+    "en": "lawsuit [ˈlɔːsjuːt]",
+    "ru": "иск/жалоба, суд/судебное дело-процесс (сущ)",
+    "img": "https://bloglaboral.garrigues.com/wp-content/uploads/2022/03/BLOG-LABORAL-Nulidad-en-periodo-de-prueba.png",
+    "examples": [
+      {
+        "en": "The lawsuit lasted for several years.",
+        "ru": "Судебное дело длилось несколько лет."
+      },
+      {
+        "en": "She filed a lawsuit against the company for negligence.",
+        "ru": "Она подала иск против компании за халатность."
+      }
+    ]
+  },
+  {
+    "en": "seize [siːz]",
+    "ru": "захватить, воспользоваться (глаг)",
+    "img": "https://britlex.ru/images/seize.jpg",
+    "examples": [
+      {
+        "en": "They seized her and put her in a police car",
+        "ru": "Они схватили ее и посадили в полицейскую машину"
+      },
+      {
+        "en": "The main thing is to destroy the enemy or to seize their base",
+        "ru": "Главное уничтожить противника или захватить его базу"
+      },
+      {
+        "en": "The parties should seize this unique opportunity to consolidate the peace between them",
+        "ru": "Сторонам следует воспользоваться этой уникальной возможностью для того, чтобы укрепить мир в отношениях друг с другом"
+      }
+    ]
+  },
+  {
+    "en": "seizure [ˈsi(уд)ːʒ(ж)ər]",
+    "ru": "захват, изъятие/арест/конфискация, приступ (сущ)",
+    "img": "https://finansypress.ru/wp-content/uploads/2018/12/04-depositphotos_136707974_xl-2015.jpg",
+    "examples": [
+      {
+        "en": "The seizure of the property was part of the legal process.",
+        "ru": "Захват имущества был частью юридического процесса."
+      },
+      {
+        "en": "During the seizure, he lost consciousness.",
+        "ru": "Во время захвата он потерял сознание."
+      }
+    ]
+  },
+  {
+    "en": "innocent [ˈɪnəsənt]",
+    "ru": "невинный/невиновный (прил)",
+    "img": "https://i.pinimg.com/originals/fa/25/d6/fa25d66441741338b82d4ec0ec0d9f6f.jpg",
+    "examples": [
+      {
+        "en": "He was proven innocent after years in prison.",
+        "ru": "Его признали невиновным после лет в тюрьме."
+      },
+      {
+        "en": "The jury found her innocent of all charges.",
+        "ru": "Жюри признало ее невиновной во всех обвинениях."
+      }
+    ]
+  },
+  {
+    "en": "innocence [ˈɪnəsns]",
+    "ru": "невинность (сущ)",
+    "img": "https://s.mediasole.ru/images/2792/2792832/102547995_original.jpg",
+    "examples": [
+      {
+        "en": "His eyes showed the innocence of a child.",
+        "ru": "Его глаза выражали невинность ребенка."
+      },
+      {
+        "en": "She maintained her innocence throughout the trial.",
+        "ru": "Она сохраняла свою невинность на протяжении всего судебного процесса."
+      }
+    ]
+  },
+  {
+    "en": "curious [ˈkjʊrɪəs]",
+    "ru": "любопытный, интересный (прил)",
+    "img": "https://media.baamboozle.com/uploads/images/67785/1652869991_127761.jpeg",
+    "examples": [
+      {
+        "en": "The curious child asked many questions.",
+        "ru": "Любопытный ребенок задавал много вопросов."
+      },
+      {
+        "en": "She had a curious nature and explored everything around her.",
+        "ru": "У нее была любопытная натура, и она исследовала все вокруг."
+      }
+    ]
+  },
+  {
+    "en": "curiosity [ˌkjʊrɪˈɑ(А)ːsətɪ]",
+    "ru": "любопытство (сущ)",
+    "img": "https://fotorelax.ru/wp-content/uploads/2016/01/12-photos-of-cats-Japanese-Seiji-Mamiya-01.jpg",
+    "examples": [
+      {
+        "en": "Her curiosity led her to discover new places.",
+        "ru": "Ее любопытство привело ее к открытию новых мест."
+      },
+      {
+        "en": "The child's curiosity about the world was endless.",
+        "ru": "Любопытство ребенка к миру было бесконечным."
+      }
+    ]
+  },
+  {
+    "en": "well [wɛl]",
+    "ru": "скважина/колодец (сущ), хорошо (наречие)",
+    "img": "https://i.pinimg.com/originals/a3/d7/db/a3d7dbb1eb1ca789debc8483ffaff993.jpg",
+    "examples": [
+      {
+        "en": "They got water from the well in the village.",
+        "ru": "Они получали воду из колодца в деревне."
+      },
+      {
+        "en": "This oil well is going to make me rich",
+        "ru": "Эта нефтяная скважина сделает меня богатым"
+      }
+    ]
+  },
+  {
+    "en": "environment [ɪnˈvAɪrənmənt]",
+    "ru": "окружающая среда, среда/обстановка/окружение (сущ)",
+    "img": "https://deutsch-sprechen.ru/images/topic/os.jpg",
+    "examples": [
+      {
+        "en": "We must protect the environment for future generations.",
+        "ru": "Мы должны защищать окружающую среду для будущих поколений."
+      },
+      {
+        "en": "The school provides a positive learning environment.",
+        "ru": "Школа создает положительную образовательную среду."
+      }
+    ]
+  },
+  {
+    "en": "environmental [ɪnˌvAɪərənˈmɛntl]",
+    "ru": "экологическая (прил)",
+    "img": "https://drearth.com/wp-content/uploads/Recycle-Logo-2.jpg",
+    "examples": [
+      {
+        "en": "The company is committed to environmental conservation.",
+        "ru": "Компания стремится к сохранению окружающей среды."
+      },
+      {
+        "en": "They study environmental science at university.",
+        "ru": "Они изучают экологические науки в университете."
+      }
+    ]
+  },
+  {
+    "en": "clear [klɪə]",
+    "ru": "ясный, чистый, четкий (прил) очистить (глаг) ясно (нареч)",
+    "img": "https://thumbs.dreamstime.com/b/sky-ocean-26404159.jpg",
+    "examples": [
+      {
+        "en": "The sky was clear and blue.",
+        "ru": "Небо было ясным и голубым."
+      },
+      {
+        "en": "Please provide a clear explanation of the situation.",
+        "ru": "Пожалуйста, предоставьте ясное объяснение ситуации."
+      }
+    ]
+  },
+  {
+    "en": "clearer [ˈklɪərər]",
+    "ru": "яснее (нареч), очиститель (сущ)",
+    "img": "https://cdn.zipleaf.com/img/5346ubszvx65.jpg",
+    "examples": [
+      {
+        "en": "When we calm our mind, everything naturally becomes clearer",
+        "ru": "Когда мы успокаиваем наш ум, все, естественно, становится яснее"
+      },
+      {
+        "en": "The clearer removed the impurities from the solution.",
+        "ru": "Очиститель удалил примеси из раствора."
+      }
+    ]
+  },
+  {
+    "en": "unclear [ʌnˈklɪə]",
+    "ru": "неясный/не ясно (прил и нареч)",
+    "img": "https://images-cdn.9gag.com/photo/aLQD7gA_700b.jpg",
+    "examples": [
+      {
+        "en": "The instructions were unclear and confusing.",
+        "ru": "Инструкции были неясными и запутанными."
+      },
+      {
+        "en": "His speech was unclear due to the bad audio.",
+        "ru": "Его речь была неясной из-за плохого звука."
+      }
+    ]
+  },
+  {
+    "en": "clearance [ˈklɪrəns]",
+    "ru": "оформление-разрешение, очистка, зазор/просфет (сущ)",
+    "img": "https://i.pinimg.com/736x/62/22/36/622236837ba66dba81bbceb375699c66.jpg",
+    "examples": [
+      {
+        "en": "Therefore, clearance of title insurance, especially when buying apartments in the secondary market - precaution is not superfluous",
+        "ru": "Поэтому оформление титульной страховки, особенно при покупке квартиры на вторичном рынке - предосторожность совсем не лишняя"
+      },
+      {
+        "en": "I got clearance, and I want to size up before the stock moves",
+        "ru": "Мне дали разрешение, нужно успеть оценить обстановку"
+      },
+      {
+        "en": "Accordingly, the clearance should be about 0.7 millimeters",
+        "ru": "Соответственно, зазор должен быть порядка 0,7 миллиметров"
+      },
+      {
+        "en": "This is especially the case when undertaking mine clearance both on land and under water",
+        "ru": "Это особенно справедливо, когда проводится очистка от мин, как на земле, так и под водой"
+      }
+    ]
   }
 ]
