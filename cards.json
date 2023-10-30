@@ -4317,7 +4317,7 @@
   },
   {
     "en": "matter [ˈmætər]",
-    "ru": "материя/вопрос (сущ), иметь значение (глаг)",
+    "ru": "материя/вопрос/дело (сущ), иметь значение (глаг)",
     "img": "https://images.techinsider.ru/upload/img_cache/e66/e66b65e71f9e0d7482da6b9467338ec6_ce_1600x840x0x80_cropped_1200x628.jpg",
     "examples": [
       {
@@ -8150,6 +8150,291 @@
       {
         "en": "We had to alter the course to avoid it.",
         "ru": "Нам пришлось изменить курс, чтобы избежать этого"
+      }
+    ]
+  },
+  {
+    "en": "alteration [ˌɔːltəˈreɪʃ(ə)n]",
+    "ru": "изменение, переделывание (сущ)",
+    "img": "https://uploads-ssl.webflow.com/603ef7fec586ca227f3a2215/60816f102e44d44ea223c9e6_BDS%202021%20-%20Webflow%20(Pathway%20Image)%20(1).png",
+    "examples": [
+      {
+        "en": "The alteration of the contract required approval from all parties involved.",
+        "ru": "Изменение в контракте требовало одобрения всех сторон, участвующих в сделке."
+      },
+      {
+        "en": "A small alteration, but a big change",
+        "ru": "Маленькая переделка - большая перемена"
+      }
+    ]
+  },
+  {
+    "en": "alterable [ˈɔːltərəbl]",
+    "ru": "изменяемый (прил)",
+    "img": "https://klubmama.ru/uploads/posts/2022-08/thumbs/1660353281_47-klubmama-ru-p-massa-dlya-podelok-s-frantsuzskogo-zhevana-48.jpg",
+    "examples": [
+      {
+        "en": "The settings on the device are alterable to accommodate different user preferences.",
+        "ru": "Настройки устройства изменяемые, чтобы удовлетворить различные пользовательские предпочтения."
+      },
+      {
+        "en": "The document contains alterable fields for personal information.",
+        "ru": "Документ содержит изменяемые поля для персональной информации."
+      }
+    ]
+  },
+  {
+    "en": "unaltered [ʌnˈɔːltərd]",
+    "ru": "неизменный (что-то не было изменено) (прил)",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.qBJp19dYFl0aUhO4FRRJpQHaJW&pid=15.1",
+    "examples": [
+      {
+        "en": "His unaltered routine remained the same despite the changes in his surroundings.",
+        "ru": "Его неизменная рутина оставалась прежней, несмотря на изменения в окружении."
+      },
+      {
+        "en": "The unaltered landscape retained its natural beauty over the years.",
+        "ru": "Неизменный пейзаж сохранил свою природную красоту на протяжении многих лет."
+      }
+    ]
+  },
+  {
+    "en": "unalterable [ʌnˈɔːltərəbl]",
+    "ru": "непреложный (подчеркивает невозможность или непригодность к изменению) (прил)",
+    "img": "https://4.bp.blogspot.com/-n3wuRhmylKo/WtReKeYMCfI/AAAAAAAAC_k/FDiFX8engBw7a3wLzpJMwW5F852LcejCgCLcBGAs/s400/%25D1%2582%25D0%25B2.jpg",
+    "examples": [
+      {
+        "en": "The laws of nature are unalterable by human intervention.",
+        "ru": "Законы природы непреложны и неизменны вмешательством человека."
+      },
+      {
+        "en": "Some traditions are considered unalterable and are passed down through generations.",
+        "ru": "Некоторые традиции считаются непреложными и передаются из поколения в поколение."
+      }
+    ]
+  },
+  {
+    "en": "pound [pАʊ(у)nd]",
+    "ru": "фунт (сущ)",
+    "img": "https://i.pinimg.com/736x/1f/07/35/1f073554f5ca35dafead2239b2e3a05a.jpg",
+    "examples": [
+      {
+        "en": "A pound is equivalent to 16 ounces.",
+        "ru": "Фунт эквивалентен 16 унциям."
+      },
+      {
+        "en": "She bought half a pound of cheese from the market.",
+        "ru": "Она купила полфунта сыра на рынке."
+      }
+    ]
+  },
+  {
+    "en": "seat [siːt]",
+    "ru": "место/сиденье (сущ), садиться (глаг)",
+    "img": "https://www.pinclipart.com/picdir/middle/76-763371_a-man-gives-up-his-seat-for-old.png",
+    "examples": [
+      {
+        "en": "Please find your seat and fasten your seatbelt.",
+        "ru": "Пожалуйста, найдите свое место и пристегните ремень безопасности."
+      },
+      {
+        "en": "Nobody forces him to seat on that chair",
+        "ru": "Никто не заставляет его садиться на стул"
+      }
+    ]
+  },
+  {
+    "en": "meanwhile [ˈmiːnˈwaɪl]",
+    "ru": "тем временем (нар)",
+    "img": "https://images-cdn.9gag.com/photo/aYrQd4x_700b.jpg",
+    "examples": [
+      {
+        "en": "He went to get groceries; meanwhile, she started preparing dinner.",
+        "ru": "Он пошел за продуктами; тем временем она начала готовить ужин."
+      },
+      {
+        "en": "The repairs will take a few hours; meanwhile, you can relax in the waiting area.",
+        "ru": "Ремонт займет несколько часов; тем временем вы можете отдохнуть в зоне ожидания."
+      }
+    ]
+  },
+  {
+    "en": "railway, railroad [ˈreɪlweɪ, ˈreɪlrəʊd]",
+    "ru": "железная дорога (сущ)",
+    "img": "https://britlex.ru/images/railway.jpg",
+    "examples": [
+      {
+        "en": "The railway system plays a vital role in transportation.",
+        "ru": "Железнодорожная система играет важную роль в транспортировке."
+      },
+      {
+        "en": "She travels to work every day by railroad.",
+        "ru": "Она каждый день ездит на работу по железной дороге."
+      }
+    ]
+  },
+  {
+    "en": "closet [ˈklАːzət]",
+    "ru": "шкаф, гардероб (сущ)",
+    "img": "https://mebel-domoy.ru/upload/resize_cache/iblock/976/500_500_1/Zakazat_garderobnaya_41_seychas_po_individualnomu_dizaynu_v_GGMebel.jpg",
+    "examples": [
+      {
+        "en": "She organized her clothes neatly inside the closet.",
+        "ru": "Она аккуратно уложила свои вещи внутри стенного шкафа."
+      },
+      {
+        "en": "The closet is spacious enough to store all the winter coats.",
+        "ru": "Шкаф достаточно просторен для хранения всех зимних пальто."
+      }
+    ]
+  },
+  {
+    "en": "violate [ˈvАɪəleɪt]",
+    "ru": "нарушать (глаг)",
+    "img": "https://electro-power.by/image/articles/article-big-1.jpg",
+    "examples": [
+      {
+        "en": "It is against the law to violate someone's privacy.",
+        "ru": "Противозаконно нарушать частную жизнь кого-либо."
+      },
+      {
+        "en": "He was fined for violating the traffic rules.",
+        "ru": "Ему был выписан штраф за нарушение правил дорожного движения."
+      }
+    ]
+  },
+  {
+    "en": "violation [ˌvАɪəˈleɪʃən]",
+    "ru": "нарушение (сущ)",
+    "img": "https://abogadoalcoholemiabarcelona.com/wp-content/uploads/2021/10/alcoholbcn_3.jpg",
+    "examples": [
+      {
+        "en": "The company was issued a warning for environmental violations.",
+        "ru": "Компании было вынесено предупреждение за нарушения в области экологии."
+      },
+      {
+        "en": "Any violation of the terms and conditions will result in penalties.",
+        "ru": "Любое нарушение условий и положений приведет к штрафам."
+      }
+    ]
+  },
+  {
+    "en": "violator [ˈvАɪəˌletər]",
+    "ru": "нарушитель (сущ)",
+    "img": "https://static.mk.ru/upload/entities/2023/05/17/07/articles/facebookPicture/0c/04/12/31/36cb0c03e31a3ba644eb4d043bf4cda2.jpg",
+    "examples": [
+      {
+        "en": "The violator was apprehended by the police.",
+        "ru": "Нарушителя был задержан полицией."
+      },
+      {
+        "en": "Violators of the law will face legal consequences.",
+        "ru": "Нарушители закона столкнутся с юридическими последствиями."
+      }
+    ]
+  },
+  {
+    "en": "front [frʌnt]",
+    "ru": "перед (сущ), передний (прил)",
+    "img": "https://i.pinimg.com/originals/76/70/f6/7670f68df92f9df3d07b02d4ce006f48.jpg",
+    "examples": [
+      {
+        "en": "The store is located at the front of the shopping mall.",
+        "ru": "Магазин расположен спереди в торговом центре."
+      },
+      {
+        "en": "Dibs on the front seat!",
+        "ru": "Чур, я на переднем сиденье!"
+      }
+    ]
+  },
+  {
+    "en": "in front of [ɪnfrʌntɒv]",
+    "ru": "перед чем-то (нар)",
+    "img": "https://static.punjabkesari.in/multimedia/2017_2image_12_54_48253399711-ll.jpg",
+    "examples": [
+      {
+        "en": "Please wait in front of the building.",
+        "ru": "Пожалуйста, подождите перед зданием."
+      },
+      {
+        "en": "The children played happily in front of their parents.",
+        "ru": "Дети весело играли перед своими родителями."
+      }
+    ]
+  },
+  {
+    "en": "frontal [ˈfrʌntl]",
+    "ru": "передний, лобовой (прил)",
+    "img": "https://www.xitetech.com/uploads/original/2019/02/vivo-v15-pro.jpg",
+    "examples": [
+      {
+        "en": "The frontal view of the car showed the new design features.",
+        "ru": "Передний вид автомобиля показал новые конструктивные особенности."
+      },
+      {
+        "en": "The frontal lobe of the brain is associated with decision-making.",
+        "ru": "Лобная доля головного мозга связана с процессом принятия решений."
+      }
+    ]
+  },
+  {
+    "en": "take care (of) [teɪkkeə]",
+    "ru": "позаботиться (глаг)",
+    "img": "https://pixy.org/src/75/750724.jpg",
+    "examples": [
+      {
+        "en": "She promised to take care of her friend's plants while they were away.",
+        "ru": "Она пообещала позаботиться о растениях своего друга, пока они отсутствуют."
+      },
+      {
+        "en": "He will take care of the arrangements for the event.",
+        "ru": "Он позаботится о подробностях мероприятия."
+      }
+    ]
+  },
+  {
+    "en": "caretaker [ˈkeəˌteɪkə]",
+    "ru": "опекун/смотритель (сущ)",
+    "img": "https://sussalut.com/wp-content/uploads/2020/12/trabajo-empleo-cuidadora-ancianos-barcelona-600x437.png",
+    "examples": [
+      {
+        "en": "The caretaker ensures the maintenance of the historic property.",
+        "ru": "Смотритель обеспечивает уход за историческим объектом."
+      },
+      {
+        "en": "She hired a caretaker to look after her elderly parents.",
+        "ru": "Она наняла смотрителя, чтобы присматривать за своими престарелыми родителями."
+      }
+    ]
+  },
+  {
+    "en": "authorities [əˈθɔːrətɪz]",
+    "ru": "органы власти (сущ)",
+    "img": "https://britlex.ru/images/authorities.jpg",
+    "examples": [
+      {
+        "en": "The local authorities are responsible for public safety.",
+        "ru": "Местные органы власти несут ответственность за общественную безопасность."
+      },
+      {
+        "en": "The authorities have implemented new regulations to improve traffic flow.",
+        "ru": "Власти ввели новые нормы для улучшения движения транспорта."
+      }
+    ]
+  },
+  {
+    "en": "get through [ɡɛt θruː]",
+    "ru": "дозвониться (глаг)",
+    "img": "https://britlex.ru/images/get%20through.jpg",
+    "examples": [
+      {
+        "en": "I tried calling several times, but I couldn't get through to her.",
+        "ru": "Я пытался позвонить несколько раз, но не смог до нее дозвониться."
+      },
+      {
+        "en": "Keep trying; eventually, you'll get through to the customer service.",
+        "ru": "Продолжайте пытаться; в конечном итоге вы свяжетесь с службой поддержки клиентов."
       }
     ]
   }
