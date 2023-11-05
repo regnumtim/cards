@@ -10212,5 +10212,220 @@
         "ru": "Пожалуйста, представьте свои запросы в письменной форме."
       }
     ]
+  },
+  {
+    "en": "false [fɔːls]",
+    "ru": "ложный/неверный/фальшивый (прил)",
+    "img": "https://toppng.com/uploads/preview/incorrecto-11551056626pkwcgkmorz.png",
+    "examples": [
+      {
+        "en": "His statement turned out to be false.",
+        "ru": "Его утверждение оказалось ложным."
+      },
+      {
+        "en": "The rumor about her leaving was completely false.",
+        "ru": "Слух о том, что она ушла, был совершенно неверным."
+      }
+    ]
+  },
+  {
+    "en": "falsehood [ˈfɔːlshʊd]",
+    "ru": "ложность (сущ)",
+    "img": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/placed_wide/nprshared/201809/645556383.jpg",
+    "examples": [
+      {
+        "en": "He was accused of spreading falsehoods about the company.",
+        "ru": "Его обвинили в распространении ложных сведений о компании."
+      },
+      {
+        "en": "The investigation revealed the falsehood of the claims.",
+        "ru": "Расследование выявило ложность утверждений."
+      }
+    ]
+  },
+  {
+    "en": "falseness [ˈfɔːlsnɪs]",
+    "ru": "фальшь (сущ)",
+    "img": "https://t4.ftcdn.net/jpg/03/12/54/55/360_F_312545508_aHxiVldnLlQghIFDAVcqDCC1PawiTW0u.jpg",
+    "examples": [
+      {
+        "en": "The falseness of his smile was apparent to everyone.",
+        "ru": "Фальшь его улыбки была явной для всех."
+      },
+      {
+        "en": "She detected the falseness in his tone.",
+        "ru": "Она почувствовала фальшь в его тоне."
+      }
+    ]
+  },
+  {
+    "en": "either [ˈaɪðər / ˈiːðər]",
+    "ru": "либо, любой, тоже(в отрицательных)",
+    "img": "https://britlex.ru/images/either.jpg",
+    "examples": [
+      {
+        "en": "You can either come with us or stay here.",
+        "ru": "Ты можешь либо пойти с нами, либо остаться здесь."
+      },
+      {
+        "en": "You can use either style, but the important thing is to be consistent",
+        "ru": "Можно использовать любой метод, главное быть последовательным."
+      },
+      {
+        "en": "I don't think you realize either",
+        "ru": "Я не думаю, что ты тоже это понимаешь"
+      }
+    ]
+  },
+  {
+    "en": "echo [ˈЕkəʊ]",
+    "ru": "эхо/отголосок (сущ), повторять/отражать (глаг)",
+    "img": "https://britlex.ru/images/echo.jpg",
+    "examples": [
+      {
+        "en": "The mountains echoed back the sound.",
+        "ru": "Горы отголосков вернули звук."
+      },
+      {
+        "en": "That echo disturbed me as much as the jaguar had",
+        "ru": "Это эхо обеспокоило меня так же, как немного раньше беспокоил ягуар"
+      },
+      {
+        "en": "And this is an echo of its past approaches which proved to be ineffective",
+        "ru": "А это отголосок её прежних, доказавших свою неэффективность подходов"
+      }
+    ]
+  },
+  {
+    "en": "stack [stæk]",
+    "ru": "стек, стопка (сущ), складывать (глаг)",
+    "img": "https://britlex.ru/images/stack.jpg",
+    "examples": [
+      {
+        "en": "She placed the books in a neat stack.",
+        "ru": "Она уложила книги аккуратной стопкой."
+      },
+      {
+        "en": "He stacked the wood for the fire.",
+        "ru": "Он уложил дрова в кучу для костра."
+      }
+    ]
+  },
+  {
+    "en": "label [ˈleɪbl]",
+    "ru": "ярлык, этикетка, (метка) (сущ), метить/маркировать (глаг)",
+    "img": "https://i.pinimg.com/736x/cb/d6/30/cbd6307759751128129795c8680a7c9a.jpg",
+    "examples": [
+      {
+        "en": "The label on the package indicates its contents.",
+        "ru": "Метка на упаковке показывает ее содержимое."
+      },
+      {
+        "en": "She carefully labeled the boxes for shipping.",
+        "ru": "Она внимательно пометила коробки для отправки."
+      }
+    ]
+  },
+  {
+    "en": "neither [ˈniːðər / ˈnaɪðər]",
+    "ru": "ни один из двух (союз)",
+    "img": "https://thumbs.dreamstime.com/b/young-handsome-man-refuses-to-eat-fast-food-french-fries-drink-soda-crosses-his-arms-like-no-sign-isolated-young-155828482.jpg",
+    "examples": [
+      {
+        "en": "Neither option is suitable for us.",
+        "ru": "Ни один из вариантов не подходит нам."
+      },
+      {
+        "en": "He can neither confirm NOR deny the accusation.",
+        "ru": "Он не может ни подтвердить, ни опровергнуть обвинение."
+      }
+    ]
+  },
+  {
+    "en": "sale [seɪl]",
+    "ru": "продажа (сущ)",
+    "img": "https://miro.medium.com/v2/resize:fit:500/0*boAWQksKnORcz4Vw.jpg",
+    "examples": [
+      {
+        "en": "Never count on making a good sale",
+        "ru": "Никогда не рассчитывайте на то, что у вас будут хорошие продажи"
+      },
+      {
+        "en": "The artwork is available for sale.",
+        "ru": "Эта художественная работа доступна для продажи."
+      }
+    ]
+  },
+  {
+    "en": "resale [ˌriːˈseɪl]",
+    "ru": "перепродажа (сущ)",
+    "img": "https://footwearnews.com/wp-content/uploads/2019/09/s4.jpg",
+    "examples": [
+      {
+        "en": "He bought the car for resale purposes.",
+        "ru": "Он купил машину с целью последующей перепродажи."
+      },
+      {
+        "en": "Goods and services purchased for resale and other expenses",
+        "ru": "Товары и услуги, приобретенные для перепродажи, и прочие расходы"
+      }
+    ]
+  },
+  {
+    "en": "bat [bæt]",
+    "ru": "бита, летучая мышь (сущ)",
+    "img": "https://icon-library.com/images/2018/180459_baseball-baseball-bat-png-hd-png-download.png",
+    "examples": [
+      {
+        "en": "He hit the ball with a baseball bat.",
+        "ru": "Он ударил мяч бейсбольной битой."
+      },
+      {
+        "en": "She swung the bat with all her strength.",
+        "ru": "Она качнула биту всей своей силой."
+      }
+    ]
+  },
+  {
+    "en": "flat [flæt]",
+    "ru": "плоский, ровный (прил)",
+    "img": "https://i.ytimg.com/vi/A40nbBP8FX8/hqdefault.jpg",
+    "examples": [
+      { "en": "The lake is calm and flat.", "ru": "Озеро спокойное и ровное." },
+      {
+        "en": "She drew a flat line on the graph.",
+        "ru": "Она провела плоскую линию на графике."
+      }
+    ]
+  },
+  {
+    "en": "flatten [ˈflætn]",
+    "ru": "сглаживать/расплющивать (делать плоским) (глаг)",
+    "img": "https://cdn-images-1.medium.com/v2/resize:fit:800/1*ckGE06Yi648COpvjgP4taA.jpeg",
+    "examples": [
+      {
+        "en": "He used a hammer to flatten the metal.",
+        "ru": "Он использовал молоток, чтобы расплющить металл."
+      },
+      {
+        "en": "The machine can flatten the dough evenly.",
+        "ru": "Эта машина может равномерно расплющивать тесто."
+      }
+    ]
+  },
+  {
+    "en": "limit [ˈlɪmɪt]",
+    "ru": "предел/ограничение (сущ), ограничивать (глаг)",
+    "img": "https://britlex.ru/images/limit.jpg",
+    "examples": [
+      {
+        "en": "There is a speed limit on this road.",
+        "ru": "На этой дороге установлено ограничение скорости."
+      },
+      {
+        "en": "We need to limit our expenses this month.",
+        "ru": "Нам нужно ограничить расходы в этом месяце."
+      }
+    ]
   }
 ]
