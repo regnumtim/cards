@@ -13046,7 +13046,7 @@
   },
   {
     "en": "current [ˈkʌrənt]",
-    "ru": "текущий (прил)",
+    "ru": "текущий (прил), ток, поток/течение (сущ)",
     "img": "https://britlex.ru/images/current.jpg",
     "examples": [
       {
@@ -13056,6 +13056,14 @@
       {
         "en": "Please provide information on the current status of the project.",
         "ru": "Предоставьте информацию о текущем состоянии проекта."
+      },
+      {
+        "en": "Swimmers should be cautious of the strong current in the river.",
+        "ru": "Пловцам следует быть осторожными из-за сильного течения в реке."
+      },
+      {
+        "en": "In order for the information to be sent, an electric current is needed.",
+        "ru": "Чтобы информация была отправлена, необходим электрический ток."
       }
     ]
   },
@@ -13176,6 +13184,352 @@
       {
         "en": "The boxer trained to hit with precision and speed.",
         "ru": "Боксер тренировался ударять с точностью и скоростью."
+      }
+    ]
+  },
+  {
+    "en": "defence (defense) [dɪˈfЭns]",
+    "ru": "оборона/защита (сущ), оборонный/защитный (прил)",
+    "img": "https://asbest-gid.ru/_nw/262/s12182767.jpg",
+    "examples": [
+      {
+        "en": "The army is responsible for the country's defense.",
+        "ru": "Армия ответственна за оборону страны."
+      },
+      {
+        "en": "Wearing defensive gear is essential in certain sports.",
+        "ru": "Ношение защитного снаряжения необходимо в некоторых видах спорта."
+      }
+    ]
+  },
+  {
+    "en": "defensive [dɪˈfЕnsɪv]",
+    "ru": "оборонительный (прил)",
+    "img": "https://i.ytimg.com/vi/TUD5kzxF4ig/hqdefault.jpg",
+    "examples": [
+      {
+        "en": "The team adopted a defensive strategy to protect their lead.",
+        "ru": "Команда приняла оборонительную стратегию, чтобы защитить свое преимущество."
+      },
+      {
+        "en": "His defensive skills on the soccer field are impressive.",
+        "ru": "Его навыки в обороне на футбольном поле впечатляют."
+      }
+    ]
+  },
+  {
+    "en": "defenceless [dɪˈfЕnsləs]",
+    "ru": "беззащитный (прил)",
+    "img": "https://i.ytimg.com/vi/ZzNZE1aFGtU/maxresdefault.jpg",
+    "examples": [
+      {
+        "en": "The small animal looked defenceless against the larger predators.",
+        "ru": "Маленькое животное выглядело беззащитным перед более крупными хищниками."
+      },
+      {
+        "en": "Feeling defenceless can lead to anxiety and stress.",
+        "ru": "Чувство беззащитности может вызвать тревогу и стресс."
+      }
+    ]
+  },
+  {
+    "en": "drive out | drive away | drive off [draɪvaʊt]",
+    "ru": "выгнать | прогнать |  отогнать (глаг)",
+    "img": "https://sun9-4.userapi.com/c855416/v855416393/158a4e/yH1_9UWFU3Y.jpg",
+    "examples": [
+      {
+        "en": "The villagers managed to drive out the intruders.",
+        "ru": "Жители смогли выгнать нарушителей."
+      },
+      {
+        "en": "Efforts to drive out corruption require collective action.",
+        "ru": "Усилия по выгнанию коррупции требуют коллективных действий."
+      }
+    ]
+  },
+  {
+    "en": "blow (blew, blown) [bləʊ, bluː, bləʊn]",
+    "ru": "дуть (глаг), удар (сущ)",
+    "img": "https://britlex.ru/images/blow.jpg",
+    "examples": [
+      {
+        "en": "The wind began to blow, rustling the leaves in the trees.",
+        "ru": "Ветер начал дуть, шелестя листьями на деревьях."
+      },
+      {
+        "en": "A single blow from the hammer was enough to break the fragile glass.",
+        "ru": "Один удар молотка был достаточен, чтобы разбить хрупкое стекло."
+      }
+    ]
+  },
+  {
+    "en": "explore [ɪksˈplɔː]",
+    "ru": "исследовать/изучать (глаг)",
+    "img": "https://cdn.culture.ru/images/b03435cf-4348-50cd-8616-7f29c703dda8",
+    "examples": [
+      {
+        "en": "The scientists plan to explore the newly discovered cave.",
+        "ru": "Ученые планируют изучить недавно обнаруженную пещеру."
+      },
+      {
+        "en": "Space agencies often send probes to explore distant planets.",
+        "ru": "Космические агентства часто отправляют зонды для изучения далеких планет."
+      }
+    ]
+  },
+  {
+    "en": "exploration [ˌɛksplɔːˈreɪʃən]",
+    "ru": "разведка/исследование (сущ)",
+    "img": "https://images.theconversation.com/files/286037/original/file-20190729-43149-zduxc3.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop",
+    "examples": [
+      {
+        "en": "The history of space exploration is filled with significant milestones.",
+        "ru": "История космических исследований полна значительных вех."
+      },
+      {
+        "en": "Marine exploration has revealed many unknown species in the ocean.",
+        "ru": "Морские исследования раскрыли много неизвестных видов в океане."
+      }
+    ]
+  },
+  {
+    "en": "exploratory [ɛksˈplɔːrətəri]",
+    "ru": "исследовательский (прил)",
+    "img": "https://www.drillrigmachine.com/test/drillrigmachine.com/photo/pl29917102-remark.jpg",
+    "examples": [
+      {
+        "en": "The team conducted exploratory research before starting the main project.",
+        "ru": "Команда провела исследовательские исследования перед началом основного проекта."
+      },
+      {
+        "en": "Exploratory missions are essential to gather information about new territories.",
+        "ru": "Исследовательские миссии необходимы для сбора информации о новых территориях."
+      }
+    ]
+  },
+  {
+    "en": "explorer [ɪksˈplɔːrə]",
+    "ru": "исследователь (сущ)",
+    "img": "https://www.clipartkey.com/mpngs/m/200-2004634_vector-illustration-of-male-safari-adventurer-carefully-explore.png",
+    "examples": [
+      {
+        "en": "Famous explorers like Columbus paved the way for maritime navigation.",
+        "ru": "Известные исследователи, такие как Колумб, прокладывали путь для морской навигации."
+      },
+      {
+        "en": "An explorer needs courage and curiosity to venture into the unknown.",
+        "ru": "Исследователю нужны смелость и любопытство, чтобы отважиться на неизведанное."
+      }
+    ]
+  },
+  {
+    "en": "unexplored [ˌʌnɪksˈplɔːd]",
+    "ru": "неизведанный/неисследованный (прил)",
+    "img": "https://s3.eu-central-1.amazonaws.com/images-aluz/medium/aluz-ruta-naturalista-por-la-palma-44986.jpeg",
+    "examples": [
+      {
+        "en": "The dense forest remains largely unexplored due to its challenging terrain.",
+        "ru": "Густой лес остается в значительной степени неизведанным из-за сложного рельефа."
+      },
+      {
+        "en": "Unexplored regions often harbor unique ecosystems and species.",
+        "ru": "Неизведанные регионы часто содержат уникальные экосистемы и виды."
+      }
+    ]
+  },
+  {
+    "en": "put on [pʊtɒn] | have on",
+    "ru": "надеть (глаг) | быть одетым в (глаг)",
+    "img": "https://i.pinimg.com/736x/36/30/74/363074d38e8d0f1eefdc47e10cfa4d9b.jpg",
+    "examples": [
+      {
+        "en": "She decided to put on a warm coat before going outside.",
+        "ru": "Она решила надеть теплое пальто перед выходом на улицу."
+      },
+      {
+        "en": "It's important to put on sunscreen to protect your skin from the sun.",
+        "ru": "Важно наносить солнцезащитный крем, чтобы защитить кожу от солнца."
+      },
+      {
+        "en": "What do you have on for the party tonight?",
+        "ru": "Что у тебя надето на вечеринку сегодня вечером?"
+      }
+    ]
+  },
+  {
+    "en": "prefer [priˈfЁː]",
+    "ru": "предпочитать (глаг)",
+    "img": "https://britlex.ru/images/prefer.jpg",
+    "examples": [
+      {
+        "en": "I prefer tea over coffee in the morning.",
+        "ru": "Я предпочитаю чай кофе утром."
+      },
+      {
+        "en": "Some people prefer reading books to watching movies.",
+        "ru": "Некоторые люди предпочитают читать книги смотреть фильмы."
+      }
+    ]
+  },
+  {
+    "en": "preferable [ˈprЭfərəbl]",
+    "ru": "предпочтительный (прил)",
+    "img": "https://en.grandgames.net/puzzle/source/poleznie_produkti.jpg",
+    "examples": [
+      {
+        "en": "Using fresh ingredients is always preferable in cooking.",
+        "ru": "Использование свежих ингредиентов всегда предпочтительно при готовке."
+      },
+      {
+        "en": "A quiet location is preferable for focused work.",
+        "ru": "Спокойное место предпочтительно для концентрированной работы."
+      }
+    ]
+  },
+  {
+    "en": "preferably [ˈprЭfərəbli]",
+    "ru": "предпочтительно/желательно (нар)",
+    "img": "https://i.insider.com/55e063469dd7cc1e008b6936?width=750",
+    "examples": [
+      {
+        "en": "It is preferably to complete the assignment by the end of the week.",
+        "ru": "Желательно завершить задание к концу недели."
+      },
+      {
+        "en": "The meeting will take place preferably in the morning.",
+        "ru": "Встреча состоится, предпочтительно, утром."
+      }
+    ]
+  },
+  {
+    "en": "preference [ˈprЭfərəns]",
+    "ru": "предпочтение (сущ)",
+    "img": "https://prv1.lori-images.net/devushka-kusaet-perets-chili-0003230861-preview.jpg",
+    "examples": [
+      {
+        "en": "My preference for spicy food comes from growing up in a diverse culture.",
+        "ru": "Мои предпочтения в пище к острой еде происходят из воспитания в разнообразной культуре."
+      },
+      {
+        "en": "The manager asked about the team's preference for the upcoming project.",
+        "ru": "Менеджер узнавал о предпочтениях команды по предстоящему проекту."
+      }
+    ]
+  },
+  {
+    "en": "rough [rʌf]",
+    "ru": "грубый/шереховатый (прил)",
+    "img": "https://britlex.ru/images/rough.jpg",
+    "examples": [
+      {
+        "en": "The rough surface of the rock made climbing difficult.",
+        "ru": "Грубая поверхность скалы затруднила восхождение."
+      },
+      {
+        "en": "His hands felt the rough texture of the old wooden table.",
+        "ru": "Его руки почувствовали грубую текстуру старого деревянного стола."
+      }
+    ]
+  },
+  {
+    "en": "roughness [ˈrАfnэs]",
+    "ru": "шероховатость/неровность (сущ)",
+    "img": "https://www.renderhub.com/cgaxis/rough-concrete-pbr-texture18/rough-concrete-pbr-texture18-02.jpg",
+    "examples": [
+      {
+        "en": "The roughness of the road made the journey uncomfortable.",
+        "ru": "Шероховатость дороги сделала путешествие неудобным."
+      },
+      {
+        "en": "He could feel the roughness of the fabric against his skin.",
+        "ru": "Он чувствовал шероховатость ткани на своей коже."
+      }
+    ]
+  },
+  {
+    "en": "discourse [dɪsˈkɔːs]",
+    "ru": "дискурс, дискусия/рассуждение (сущ)",
+    "img": "https://myslide.ru/documents_7/af6b2b0dc2188af7a52f9fc676ed3a8a/img3.jpg",
+    "examples": [
+      {
+        "en": "I believe we need more civil discourse not less",
+        "ru": "Я считаю, что нам нужно больше гражданской дискуссии, а не меньше."
+      },
+      {
+        "en": "Affirm that the democratic discourse is senseless",
+        "ru": "Она утверждает, что рассуждения о демократии лишены смысла"
+      }
+    ]
+  },
+  {
+    "en": "broad [brɔːd]",
+    "ru": "широкий/общий (прил)",
+    "img": "https://d2halst20r4hcy.cloudfront.net/05c/43460/877f/4b10/8f4e/ff40cdef3046/original/2467487.jpg",
+    "examples": [
+      {
+        "en": "The river widened into a broad lake as it flowed downstream.",
+        "ru": "Река расширилась в широкое озеро по мере течения вниз по течению."
+      },
+      {
+        "en": "A broad smile appeared on her face when she heard the good news.",
+        "ru": "На ее лице появилась широкая улыбка, когда она услышала хорошие новости."
+      }
+    ]
+  },
+  {
+    "en": "broaden [ˈbrɔːdn]",
+    "ru": "расширять (глаг)",
+    "img": "https://yt3.ggpht.com/ytc/AKedOLR_D9HAPgGpPU_Rm65Pfms9tL63jqTUo8FNrVLS5Q=s900-c-k-c0x00ffffff-no-rj",
+    "examples": [
+      {
+        "en": "Traveling can broaden one's perspective on different cultures.",
+        "ru": "Путешествия могут расширить видение человека на различные культуры."
+      },
+      {
+        "en": "Educational programs aim to broaden students' knowledge and skills.",
+        "ru": "Образовательные программы стремятся расширить знания и навыки студентов."
+      }
+    ]
+  },
+  {
+    "en": "warrior [ˈwɒrɪə]",
+    "ru": "воин (сущ)",
+    "img": "https://britlex.ru/images/warrior.jpg",
+    "examples": [
+      {
+        "en": "In ancient times, warriors were highly respected for their bravery.",
+        "ru": "В древности воины пользовались высоким уважением за свою храбрость."
+      },
+      {
+        "en": "The tribe honored its warriors for their dedication to protecting the community.",
+        "ru": "Племя чтит своих воинов за преданность защите общины."
+      }
+    ]
+  },
+  {
+    "en": "scale [skeɪl]",
+    "ru": "масштаб, шкала/уровень, весы, чешуя/шелуха (сущ)",
+    "img": "https://drivedrom.ru/wp-content/uploads/0e604ca0406c9fcd67f7c9ef8f17-696x433.jpg",
+    "examples": [
+      {
+        "en": "The snake's scales shimmered in the sunlight as it slithered away.",
+        "ru": "Чешуя змеи мерцала на солнце, когда она ползла прочь."
+      },
+      {
+        "en": "The fisherman cleaned the fish, removing the scales and entrails.",
+        "ru": "Рыбак почистил рыбу, удалив чешую и внутренности."
+      },
+      {
+        "en": "I can only say the following: the scale of the process is impressive",
+        "ru": "Могу лишь сказать: масштаб процесса впечатляет."
+      },
+      {
+        "en": "And on the right-hand side, there's a scale that shows the rocket's velocity",
+        "ru": "С правой стороны находится шкала, показывающая скорость ракеты"
+      },
+      {
+        "en": "It is not necessary to stand on the scale every day",
+        "ru": "Необязательно вставать на весы каждый день"
       }
     ]
   }
