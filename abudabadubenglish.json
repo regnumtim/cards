@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "en": {
+      "word": "arouse",
+      "transcription": {
+        "text": "əˈraʊz | эрАуз",
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aro/arous/arouse__us_1.mp3"
+        ]
+      },
+      "root_words": [
+        {
+          "en": {
+            "word": "arousal",
+            "transcription": "əˈraʊzl | эрАузл"
+          },
+          "ru": {
+            "note": "[СУЩ] Как обычное слово 'пробуждение'",
+            "translations": ["пробуждение", "возбуждение"],
+            "examples": [
+              {
+                "en": "The unexpected noise caused a sudden arousal, making everyone in the room alert",
+                "ru": "Неожиданный шум вызвал внезапное пробуждение, заставив всех в комнате быть бдительными"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "ru": {
+      "note": "[ГЛАГОЛ] Используется в разных значениях, таких как просыпаться ото сна или пробуждать какое-либо чувство",
+      "translations": ["вызывать", "пробуждать", "будить"]
+    },
+    "img": "https://britlex.ru/images/arouse.jpg",
+    "examples": [
+      {
+        "en": "Something aroused their interest",
+        "ru": "Что-то пробудило их интерес"
+      },
+      {
+        "en": "I heard a loud noise, which aroused my curiosity.",
+        "ru": "Я услышал громкий шум, который вызвал мое любопытство"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "en": {
+      "word": "arouse2",
+      "transcription": {
+        "text": "əˈraʊz | эрАуз",
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aro/arous/arouse__us_1.mp3"
+        ]
+      },
+      "root_words": [
+        {
+          "en": {
+            "word": "arousal",
+            "transcription": "əˈraʊzl | эрАузл"
+          },
+          "ru": {
+            "note": "[СУЩ] Как обычное слово 'пробуждение'",
+            "translations": ["пробуждение", "возбуждение"],
+            "examples": [
+              {
+                "en": "The unexpected noise caused a sudden arousal, making everyone in the room alert",
+                "ru": "Неожиданный шум вызвал внезапное пробуждение, заставив всех в комнате быть бдительными"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "ru": {
+      "note": "[ГЛАГОЛ] Используется в разных значениях, таких как просыпаться ото сна или пробуждать какое-либо чувство",
+      "translations": ["вызывать", "пробуждать", "будить"]
+    },
+    "img": "https://britlex.ru/images/arouse.jpg",
+    "examples": [
+      {
+        "en": "Something aroused their interest",
+        "ru": "Что-то пробудило их интерес"
+      },
+      {
+        "en": "I heard a loud noise, which aroused my curiosity.",
+        "ru": "Я услышал громкий шум, который вызвал мое любопытство"
+      }
+    ]
+  }
+]
