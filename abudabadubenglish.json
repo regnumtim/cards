@@ -47,26 +47,51 @@
   {
     "id": 2,
     "en": {
-      "word": "arouse2",
+      "word": "according to",
       "transcription": {
-        "text": "əˈraʊz | эрАуз",
+        "text": "əˈkɔːrdɪŋ tuː | экОрдин ту",
         "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aro/arous/arouse__us_1.mp3"
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accor/according_to_1_us_3.mp3"
         ]
       },
       "root_words": [
         {
           "en": {
-            "word": "arousal",
-            "transcription": "əˈraʊzl | эрАузл"
+            "word": "accordance",
+            "transcription": "əˈkɔːrdns | экОрднс"
           },
           "ru": {
-            "note": "[СУЩ] Как обычное слово 'пробуждение'",
-            "translations": ["пробуждение", "возбуждение"],
+            "note": "[СУЩ]",
+            "translations": ["соответствие", "согласие"],
             "examples": [
               {
-                "en": "The unexpected noise caused a sudden arousal, making everyone in the room alert",
-                "ru": "Неожиданный шум вызвал внезапное пробуждение, заставив всех в комнате быть бдительными"
+                "en": "The decision was made in accordance with the company's policies",
+                "ru": "Решение было принято в соответствии с политикой компании"
+              }
+            ]
+          }
+        },
+        {
+          "en": {
+            "word": "(in) accord ",
+            "transcription": "əˈkɔːrd | экОрд"
+          },
+          "ru": {
+            "note": "[СУЩ, ГЛАГ]",
+            "translations": [
+              "соглашение",
+              "согласие",
+              "соответствие",
+              "соответствовать"
+            ],
+            "examples": [
+              {
+                "en": "We are in accord with your proposal",
+                "ru": "Мы согласны с вашим предложением"
+              },
+              {
+                "en": "It doesn't accord with what you said yesterday",
+                "ru": "Это не соответствует тому, что вы говорили вчера"
               }
             ]
           }
@@ -74,18 +99,24 @@
       ]
     },
     "ru": {
-      "note": "[ГЛАГОЛ] Используется в разных значениях, таких как просыпаться ото сна или пробуждать какое-либо чувство",
-      "translations": ["вызывать", "пробуждать", "будить"]
+      "note": "Используется для выражения источника информации или основания чего-то, и означает 'согласно' или 'в соответствии с'",
+      "translations": [
+        "согласно",
+        "согласно c",
+        "в соответствии с",
+        "по мнению",
+        "по словам"
+      ]
     },
-    "img": "https://britlex.ru/images/arouse.jpg",
+    "img": "https://slideplayer.com/slide/14288642/89/images/2/Weather+Forecast+Template%28%C2%B0C%29.jpg",
     "examples": [
       {
-        "en": "Something aroused their interest",
-        "ru": "Что-то пробудило их интерес"
+        "en": "According to the weather forecast, it will rain tomorrow",
+        "ru": "Согласно прогнозу погоды, завтра будет дождь"
       },
       {
-        "en": "I heard a loud noise, which aroused my curiosity.",
-        "ru": "Я услышал громкий шум, который вызвал мое любопытство"
+        "en": "According to the teacher, the exam will take place next Monday",
+        "ru": "По мнению учителя, экзамен состоится в следующий понедельник"
       }
     ]
   }

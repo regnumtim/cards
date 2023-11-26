@@ -1,0 +1,43 @@
+{
+  "id": 0,
+  "en": {
+    "word": "",
+    "transcription": {
+      "text": "",
+      "pronunciation_audio_links": []
+    },
+    "root_words": [
+      {
+        "en": {
+          "word": "",
+          "transcription": ""
+        },
+        "ru": {
+          "note": "",
+          "translations": [],
+          "examples": [
+            {
+              "en": "",
+              "ru": ""
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "ru": {
+    "note": "",
+    "translations": []
+  },
+  "img": "",
+  "examples": [
+    {
+      "en": "",
+      "ru": ""
+    },
+    {
+      "en": "",
+      "ru": ""
+    }
+  ]
+}
