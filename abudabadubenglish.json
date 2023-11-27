@@ -115,7 +115,7 @@
     "ru": {
       "note": "[ГЛАГОЛ] Обнаруживать или замечать что-то, что частично скрыто или не очевидно, или выявлять что-то, особенно с помощью специальных средств или методов. Предлоги: detect something (обнаружить что-то), detect something in something (обнаружить что-то в чем-то)",
       "translations": ["обнаруживать", "выявлять", "замечать"],
-      "img": "https://themetalsearch.com/wp-content/uploads/2019/02/Can-Metal-Detectors-Detect-Gold.jpg",
+      "img": "https://securityintelligence.com/wp-content/uploads/2018/10/si-dont-dwell-on-it-feature.jpg",
       "examples": [
         {
           "en": "The test can detect traces of blood in urine.",
@@ -143,7 +143,7 @@
     "ru": {
       "note": "[ПРИЛ] Четвертый по счету или положению в ряду или списке. [СУЩ] Четвертая часть или элемент чего-то. Предлоги: fourth of something (четвертая часть чего-то), fourth in something (четвертый в чем-то)",
       "translations": ["четвертый", "четвертая", "четвертая часть"],
-      "img": "https://w7.pngwing.com/pngs/846/127/png-transparent-t-shirt-neck-wrist-brand-textile-number-two-angle-text-sport.png",
+      "img": "https://inetru.net/wp-content/uploads/2018/09/numbers-printable-04-4-1024x1024.png",
       "examples": [
         {
           "en": "She came fourth in the race.",
@@ -194,7 +194,9 @@
       "word": "program",
       "transcription": {
         "text": "ˈproʊɡræm | прОугрэм",
-        "pronunciation_audio_links": []
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/progr/program__us_1.mp3"
+        ]
       },
       "root_words": []
     },
@@ -202,7 +204,7 @@
       "note": "[ГЛАГ, СУЩ] to program. Создавать или устанавливать программу для компьютера или другого устройства. Существительное: программа. Предлоги: to program something to do something (программировать что-то, чтобы оно делало что-то), to program in a language (программировать на языке)",
       "translations": ["программировать", "программа"]
     },
-    "img": "",
+    "img": "http://images.myshared.ru/5/370626/slide_17.jpg",
     "examples": [
       {
         "en": "He learned how to program in Python",
