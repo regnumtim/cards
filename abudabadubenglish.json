@@ -45,19 +45,19 @@
     },
     "ru": {
       "note": "[СУЩ] Основное правило или закон, которому следуют или которое объясняет, как что-то работает. Предлоги: principle of something (принцип чего-то), principle for something (принцип для чего-то)",
-      "translations": ["принцип", "правило", "закон"],
-      "img": "https://i.pinimg.com/originals/0e/cb/ef/0ecbef7b2c96b792cc2a8f5eb605077f.png",
-      "examples": [
-        {
-          "en": "The principle of democracy is that people have the right to choose their leaders.",
-          "ru": "Принцип демократии заключается в том, что люди имеют право выбирать своих лидеров."
-        },
-        {
-          "en": "He follows the principle of honesty in his work.",
-          "ru": "Он придерживается принципа честности в своей работе."
-        }
-      ]
-    }
+      "translations": ["принцип", "правило", "закон"]
+    },
+    "img": "https://i.pinimg.com/originals/0e/cb/ef/0ecbef7b2c96b792cc2a8f5eb605077f.png",
+    "examples": [
+      {
+        "en": "The principle of democracy is that people have the right to choose their leaders.",
+        "ru": "Принцип демократии заключается в том, что люди имеют право выбирать своих лидеров."
+      },
+      {
+        "en": "He follows the principle of honesty in his work.",
+        "ru": "Он придерживается принципа честности в своей работе."
+      }
+    ]
   },
   {
     "id": 2,
@@ -114,19 +114,19 @@
     },
     "ru": {
       "note": "[ГЛАГОЛ] Обнаруживать или замечать что-то, что частично скрыто или не очевидно, или выявлять что-то, особенно с помощью специальных средств или методов. Предлоги: detect something (обнаружить что-то), detect something in something (обнаружить что-то в чем-то)",
-      "translations": ["обнаруживать", "выявлять", "замечать"],
-      "img": "https://securityintelligence.com/wp-content/uploads/2018/10/si-dont-dwell-on-it-feature.jpg",
-      "examples": [
-        {
-          "en": "The test can detect traces of blood in urine.",
-          "ru": "Тест может обнаружить следы крови в моче."
-        },
-        {
-          "en": "She detected a hint of sarcasm in his voice.",
-          "ru": "Она заметила намек на сарказм в его голосе."
-        }
-      ]
-    }
+      "translations": ["обнаруживать", "выявлять", "замечать"]
+    },
+    "img": "https://securityintelligence.com/wp-content/uploads/2018/10/si-dont-dwell-on-it-feature.jpg",
+    "examples": [
+      {
+        "en": "The test can detect traces of blood in urine.",
+        "ru": "Тест может обнаружить следы крови в моче."
+      },
+      {
+        "en": "She detected a hint of sarcasm in his voice.",
+        "ru": "Она заметила намек на сарказм в его голосе."
+      }
+    ]
   },
   {
     "id": 3,
@@ -142,19 +142,19 @@
     },
     "ru": {
       "note": "[ПРИЛ] Четвертый по счету или положению в ряду или списке. [СУЩ] Четвертая часть или элемент чего-то. Предлоги: fourth of something (четвертая часть чего-то), fourth in something (четвертый в чем-то)",
-      "translations": ["четвертый", "четвертая", "четвертая часть"],
-      "img": "https://ibb.co/wQSswVL",
-      "examples": [
-        {
-          "en": "She came fourth in the race.",
-          "ru": "Она пришла четвертой в гонке."
-        },
-        {
-          "en": "A fourth of the cake is left.",
-          "ru": "Осталась четвертая часть торта."
-        }
-      ]
-    }
+      "translations": ["четвертый", "четвертая", "четвертая часть"]
+    },
+    "img": "https://inetru.net/wp-content/uploads/2018/09/numbers-printable-04-4-1024x1024.png",
+    "examples": [
+      {
+        "en": "She came fourth in the race.",
+        "ru": "Она пришла четвертой в гонке."
+      },
+      {
+        "en": "A fourth of the cake is left.",
+        "ru": "Осталась четвертая часть торта."
+      }
+    ]
   },
   {
     "id": 4,
