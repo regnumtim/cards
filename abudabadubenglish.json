@@ -2,26 +2,41 @@
   {
     "id": 1,
     "en": {
-      "word": "arouse",
+      "word": "principle",
       "transcription": {
-        "text": "əˈraʊz | эрАуз",
+        "text": "ˈprɪnsɪpl | ПРИнсипл",
         "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/aro/arous/arouse__us_1.mp3"
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principle__us_2.mp3"
         ]
       },
       "root_words": [
         {
           "en": {
-            "word": "arousal",
-            "transcription": "əˈraʊzl | эрАузл"
+            "word": "principal",
+            "transcription": "ˈprɪnsɪpəl | ПРИнсипл"
           },
           "ru": {
-            "note": "[СУЩ] Как обычное слово 'пробуждение'",
-            "translations": ["пробуждение", "возбуждение"],
+            "note": "[ПРИЛ] Главный, основной, важнейший. [СУЩ] Лицо, имеющее руководящую или главную роль в чем-то. Предлоги: principal of something (глава чего-то), principal in something (участник чего-то)",
+            "translations": [
+              "главный",
+              "основной",
+              "важнейший",
+              "руководитель",
+              "директор",
+              "участник"
+            ],
             "examples": [
               {
-                "en": "The unexpected noise caused a sudden arousal, making everyone in the room alert",
-                "ru": "Неожиданный шум вызвал внезапное пробуждение, заставив всех в комнате быть бдительными"
+                "en": "Our document contains six principal divisions",
+                "ru": "Наш документ содержит шесть основных разделов"
+              },
+              {
+                "en": "She is the principal of the school.",
+                "ru": "Она директор школы."
+              },
+              {
+                "en": "He was the principal in the crime.",
+                "ru": "Он был участником преступления."
               }
             ]
           }
@@ -29,69 +44,68 @@
       ]
     },
     "ru": {
-      "note": "[ГЛАГОЛ] Используется в разных значениях, таких как просыпаться ото сна или пробуждать какое-либо чувство",
-      "translations": ["вызывать", "пробуждать", "будить"]
-    },
-    "img": "https://britlex.ru/images/arouse.jpg",
-    "examples": [
-      {
-        "en": "Something aroused their interest",
-        "ru": "Что-то пробудило их интерес"
-      },
-      {
-        "en": "I heard a loud noise, which aroused my curiosity.",
-        "ru": "Я услышал громкий шум, который вызвал мое любопытство"
-      }
-    ]
+      "note": "[СУЩ] Основное правило или закон, которому следуют или которое объясняет, как что-то работает. Предлоги: principle of something (принцип чего-то), principle for something (принцип для чего-то)",
+      "translations": ["принцип", "правило", "закон"],
+      "img": "https://i.pinimg.com/originals/0e/cb/ef/0ecbef7b2c96b792cc2a8f5eb605077f.png",
+      "examples": [
+        {
+          "en": "The principle of democracy is that people have the right to choose their leaders.",
+          "ru": "Принцип демократии заключается в том, что люди имеют право выбирать своих лидеров."
+        },
+        {
+          "en": "He follows the principle of honesty in his work.",
+          "ru": "Он придерживается принципа честности в своей работе."
+        }
+      ]
+    }
   },
   {
     "id": 2,
     "en": {
-      "word": "according to",
+      "word": "detect",
       "transcription": {
-        "text": "əˈkɔːrdɪŋ tuː | экОрдин ту",
+        "text": "dɪˈtɛkt | диТЭкт",
         "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/acc/accor/according_to_1_us_3.mp3"
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/det/detec/detect__us_1.mp3"
         ]
       },
       "root_words": [
         {
           "en": {
-            "word": "accordance",
-            "transcription": "əˈkɔːrdns | экОрднс"
+            "word": "detection",
+            "transcription": "dɪˈtɛkʃ(ə)n | диТЭкш(э)н"
           },
           "ru": {
-            "note": "[СУЩ]",
-            "translations": ["соответствие", "согласие"],
+            "note": "[СУЩ] Действие или процесс обнаружения или определения наличия чего-то скрытого. Предлоги: detection of something (обнаружение чего-то), detection by something (обнаружение чем-то)",
+            "translations": ["обнаружение", "выявление", "раскрытие"],
             "examples": [
               {
-                "en": "The decision was made in accordance with the company's policies",
-                "ru": "Решение было принято в соответствии с политикой компании"
+                "en": "The early detection of cancer can save lives.",
+                "ru": "Раннее обнаружение рака может спасти жизни."
+              },
+              {
+                "en": "The police use dogs for the detection of drugs and explosives.",
+                "ru": "Полиция использует собак для обнаружения наркотиков и взрывчатых веществ."
               }
             ]
           }
         },
         {
           "en": {
-            "word": "(in) accord ",
-            "transcription": "əˈkɔːrd | экОрд"
+            "word": "undetected",
+            "transcription": "ˌʌndɪˈtɛktɪd | АндиТЭктид"
           },
           "ru": {
-            "note": "[СУЩ, ГЛАГ]",
-            "translations": [
-              "соглашение",
-              "согласие",
-              "соответствие",
-              "соответствовать"
-            ],
+            "note": "[ПРИЛ] Не замеченный или не обнаруженный. Предлоги: undetected by something (не замеченный чем-то)",
+            "translations": ["незамеченный", "необнаруженный", "нераскрытый"],
             "examples": [
               {
-                "en": "We are in accord with your proposal",
-                "ru": "Мы согласны с вашим предложением"
+                "en": "The virus can remain undetected for a long time.",
+                "ru": "Вирус может оставаться необнаруженным долгое время."
               },
               {
-                "en": "It doesn't accord with what you said yesterday",
-                "ru": "Это не соответствует тому, что вы говорили вчера"
+                "en": "He managed to slip away undetected by the guards.",
+                "ru": "Ему удалось ускользнуть незамеченным стражами."
               }
             ]
           }
@@ -99,24 +113,438 @@
       ]
     },
     "ru": {
-      "note": "Используется для выражения источника информации или основания чего-то, и означает 'согласно' или 'в соответствии с'",
-      "translations": [
-        "согласно",
-        "согласно c",
-        "в соответствии с",
-        "по мнению",
-        "по словам"
+      "note": "[ГЛАГОЛ] Обнаруживать или замечать что-то, что частично скрыто или не очевидно, или выявлять что-то, особенно с помощью специальных средств или методов. Предлоги: detect something (обнаружить что-то), detect something in something (обнаружить что-то в чем-то)",
+      "translations": ["обнаруживать", "выявлять", "замечать"],
+      "img": "https://themetalsearch.com/wp-content/uploads/2019/02/Can-Metal-Detectors-Detect-Gold.jpg",
+      "examples": [
+        {
+          "en": "The test can detect traces of blood in urine.",
+          "ru": "Тест может обнаружить следы крови в моче."
+        },
+        {
+          "en": "She detected a hint of sarcasm in his voice.",
+          "ru": "Она заметила намек на сарказм в его голосе."
+        }
       ]
+    }
+  },
+  {
+    "id": 3,
+    "en": {
+      "word": "fourth",
+      "transcription": {
+        "text": "fɔːθ | фОрс",
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fou/fourt/fourth__us_1.mp3"
+        ]
+      },
+      "root_words": []
     },
-    "img": "https://slideplayer.com/slide/14288642/89/images/2/Weather+Forecast+Template%28%C2%B0C%29.jpg",
+    "ru": {
+      "note": "[ПРИЛ] Четвертый по счету или положению в ряду или списке. [СУЩ] Четвертая часть или элемент чего-то. Предлоги: fourth of something (четвертая часть чего-то), fourth in something (четвертый в чем-то)",
+      "translations": ["четвертый", "четвертая", "четвертая часть"],
+      "img": "https://w7.pngwing.com/pngs/846/127/png-transparent-t-shirt-neck-wrist-brand-textile-number-two-angle-text-sport.png",
+      "examples": [
+        {
+          "en": "She came fourth in the race.",
+          "ru": "Она пришла четвертой в гонке."
+        },
+        {
+          "en": "A fourth of the cake is left.",
+          "ru": "Осталась четвертая часть торта."
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "en": {
+      "word": "lie",
+      "transcription": {
+        "text": "laɪ | лАй",
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lie/lie__/lie__us_1.mp3"
+        ]
+      },
+      "root_words": []
+    },
+    "ru": {
+      "note": "[ГЛАГ, СУЩ] to lie. Лгать или лежать. Существительное: ложь. Предлоги: to lie to someone (лгать кому-то), to lie about something (лгать о чем-то), to lie down (лечь), to lie in bed (лежать в постели)",
+      "translations": ["лгать", "лежать", "ложь"]
+    },
+    "img": "https://bicontent.businessinsurance.com/NEWS06_160809958_AR_-1_MXGYYHECYTTF.jpg",
     "examples": [
       {
-        "en": "According to the weather forecast, it will rain tomorrow",
-        "ru": "Согласно прогнозу погоды, завтра будет дождь"
+        "en": "He lied to me about his age",
+        "ru": "Он солгал мне о своем возрасте"
       },
       {
-        "en": "According to the teacher, the exam will take place next Monday",
-        "ru": "По мнению учителя, экзамен состоится в следующий понедельник"
+        "en": "She likes to lie in bed and read a book",
+        "ru": "Ей нравится лежать в постели и читать книгу"
+      },
+      {
+        "en": "The truth is better than a lie",
+        "ru": "Правда лучше, чем ложь"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "en": {
+      "word": "program",
+      "transcription": {
+        "text": "ˈproʊɡræm | прОугрэм",
+        "pronunciation_audio_links": []
+      },
+      "root_words": []
+    },
+    "ru": {
+      "note": "[ГЛАГ, СУЩ] to program. Создавать или устанавливать программу для компьютера или другого устройства. Существительное: программа. Предлоги: to program something to do something (программировать что-то, чтобы оно делало что-то), to program in a language (программировать на языке)",
+      "translations": ["программировать", "программа"]
+    },
+    "img": "",
+    "examples": [
+      {
+        "en": "He learned how to program in Python",
+        "ru": "Он научился программировать на Python"
+      },
+      {
+        "en": "She programmed the robot to dance",
+        "ru": "Она запрограммировала робота танцевать"
+      },
+      {
+        "en": "What is your favorite TV program?",
+        "ru": "Какая ваша любимая телепрограмма?"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "en": {
+      "word": "commission",
+      "transcription": {
+        "text": "kəˈmɪʃn | кэмИшн",
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/commi/commission__us_2.mp3"
+        ]
+      },
+      "root_words": [
+        {
+          "en": {
+            "word": "commit",
+            "transcription": "kəˈmɪt | кэмИт"
+          },
+          "ru": {
+            "note": "[ГЛАГ] to commit. Совершать или делать что-то, особенно что-то плохое или незаконное. Предлоги: to commit a crime (совершить преступление), to commit suicide (покончить жизнь самоубийством), to commit to something (обязаться на что-то)",
+            "translations": ["совершать", "делать", "обязываться"],
+            "examples": [
+              {
+                "en": "He was sent to prison for a crime he didn't commit",
+                "ru": "Его посадили в тюрьму за преступление, которого он не совершал"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "ru": {
+      "note": "[ГЛАГ, СУЩ] to commission. Заказывать или поручать кому-то сделать что-то. Существительное: заказ, комиссия, полномочие. Предлоги: to commission someone to do something (заказать или поручить кому-то сделать что-то), to commission something from someone (заказать что-то у кого-то), to be on commission (работать на комиссионных)",
+      "translations": [
+        "заказывать",
+        "поручать",
+        "заказ",
+        "комиссия",
+        "полномочие"
+      ]
+    },
+    "img": "https://www.sepidarsystem.com/wp-content/uploads/2020/06/what-is-commission-05.jpg",
+    "examples": [
+      {
+        "en": "She commissioned a portrait of her family from a famous painter",
+        "ru": "Она заказала портрет своей семьи у знаменитого художника"
+      },
+      {
+        "en": "The government commissioned a study on the effects of pollution",
+        "ru": "Правительство поручило провести исследование о влиянии загрязнения"
+      },
+      {
+        "en": "He works on commission, so his income depends on his sales",
+        "ru": "Он работает на комиссионных, поэтому его доход зависит от его продаж"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "en": {
+      "word": "trick",
+      "transcription": {
+        "text": "trɪk | трИк",
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trick/trick__us_1.mp3"
+        ]
+      },
+      "root_words": [
+        {
+          "en": {
+            "word": "tricky",
+            "transcription": "ˈtrɪki | трИки"
+          },
+          "ru": {
+            "note": "[ПРИЛ] be tricky. Сложный, хитрый или обманчивый. Предлоги: be tricky to do something (быть сложным для совершения чего-то), be tricky for someone (быть хитрым или обманчивым для кого-то)",
+            "translations": ["сложный", "хитрый", "обманчивый"],
+            "examples": [
+              {
+                "en": "The exam was very tricky for me",
+                "ru": "Экзамен был очень хитрым для меня"
+              }
+            ]
+          }
+        },
+        {
+          "en": {
+            "word": "trickster",
+            "transcription": "ˈtrɪkstər | трИкстер"
+          },
+          "ru": {
+            "note": "[СУЩ] trickster. Ловкач, обманщик или шутник. Предлоги: нет",
+            "translations": ["ловкач", "обманщик", "шутник"],
+            "examples": [
+              {
+                "en": "He is a trickster who likes to play pranks on his friends",
+                "ru": "Он ловкач, который любит разыгрывать своих друзей"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "ru": {
+      "note": "[ГЛАГ, СУЩ] to trick. Обманывать, дурачить или подшучивать над кем-то или чем-то. Существительное: обман, фокус, шутка. Предлоги: to trick someone into doing something (обмануть кого-то, чтобы он сделал что-то), to trick someone out of something (обмануть кого-то, чтобы отнять у него что-то), to play a trick on someone (сделать кому-то фокус или шутку)",
+      "translations": [
+        "обманывать",
+        "дурачить",
+        "подшучивать",
+        "обман",
+        "фокус",
+        "шутка"
+      ]
+    },
+    "img": "https://i.ytimg.com/vi/HcaD1uZsqbk/hqdefault.jpg",
+    "examples": [
+      {
+        "en": "She tricked him into giving her his password",
+        "ru": "Она обманула его, чтобы он дал ей свой пароль"
+      },
+      {
+        "en": "He tricked her out of her inheritance",
+        "ru": "Он обманул ее, чтобы отнять у нее наследство"
+      },
+      {
+        "en": "They played a trick on their teacher on April Fool's Day",
+        "ru": "Они сделали своему учителю фокус в день дураков"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "en": {
+      "word": "fast",
+      "transcription": {
+        "text": "fæst | фЭст",
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fas/fast_/fast__us_1.mp3"
+        ]
+      },
+      "root_words": [
+        {
+          "en": {
+            "word": "fastness",
+            "transcription": "ˈfæstnəs | фЭстнес"
+          },
+          "ru": {
+            "note": "[СУЩ] fastness. Крепость, неприступность или быстрота. Предлоги: нет",
+            "translations": ["крепость", "неприступность", "быстрота"],
+            "examples": [
+              {
+                "en": "The castle was built on a hill for its fastness",
+                "ru": "Замок был построен на холме для его неприступности"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "ru": {
+      "note": "[ПРИЛ, НАРЕЧ, СУЩ] be fast. Быстрый, скорый или постный. Наречие: быстро или крепко. Существительное: пост. Предлоги: be fast at something (быть быстрым в чем-то), be fast asleep (спать крепко), fast from something (поститься от чего-то)",
+      "translations": [
+        "быстрый",
+        "скорый",
+        "постный",
+        "быстро",
+        "крепко",
+        "пост"
+      ]
+    },
+    "img": "https://muscleandhealth.com/wp-content/uploads/2022/01/interval.png",
+    "examples": [
+      {
+        "en": "He is very fast at solving math problems",
+        "ru": "Он очень быстро решает математические задачи"
+      },
+      {
+        "en": "She was fast asleep when the phone rang",
+        "ru": "Она спала крепко, когда зазвонил телефон"
+      },
+      {
+        "en": "Some people fast from meat during Lent",
+        "ru": "Некоторые люди постятся от мяса во время Великого поста"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "en": {
+      "word": "offensive",
+      "transcription": {
+        "text": "əˈfensɪv | эфЕнсив",
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/off/offen/offensive__us_4.mp3"
+        ]
+      },
+      "root_words": [
+        {
+          "en": {
+            "word": "offend",
+            "transcription": "əˈfend | эфЕнд"
+          },
+          "ru": {
+            "note": "[ГЛАГ] to offend. Обижать, оскорблять или нарушать закон. Предлоги: to offend someone (обидеть или оскорбить кого-то), to offend against something (нарушить что-то)",
+            "translations": ["обижать", "оскорблять", "нарушать"],
+            "examples": [
+              {
+                "en": "He didn't mean to offend you with his joke",
+                "ru": "Он не хотел обидеть тебя своей шуткой"
+              }
+            ]
+          }
+        },
+        {
+          "en": {
+            "word": "offense",
+            "transcription": "əˈfens | эфЕнс"
+          },
+          "ru": {
+            "note": "[СУЩ] offense. Обида, оскорбление или преступление. Предлоги: to take offense at something (обидеться на что-то), to cause offense to someone (вызвать оскорбление у кого-то), to commit an offense (совершить преступление)",
+            "translations": ["обида", "оскорбление", "преступление"],
+            "examples": [
+              {
+                "en": "She took offense at his rude remark",
+                "ru": "Она обиделась на его грубое замечание"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "ru": {
+      "note": "[ПРИЛ, СУЩ] be offensive. Оскорбительный, неприятный или нападающий. Существительное: наступление, атака. Предлоги: be offensive to someone (быть оскорбительным для кого-то), be offensive for something (быть неприятным для чего-то), go on the offensive (перейти в наступление)",
+      "translations": [
+        "оскорбительный",
+        "неприятный",
+        "нападающий",
+        "наступление",
+        "атака"
+      ]
+    },
+    "img": "https://coffeeflower.ru/upload/iblock/896/2wawnr10wlucmp00we7ty1smzhodszsb.jpg",
+    "examples": [
+      {
+        "en": "His comments were very offensive to me",
+        "ru": "Его комментарии были очень оскорбительны для меня"
+      },
+      {
+        "en": "The smell was offensive for everyone in the room",
+        "ru": "Запах был неприятен для всех в комнате"
+      },
+      {
+        "en": "The army went on the offensive after a long siege",
+        "ru": "Армия перешла в наступление после долгой осады"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "en": {
+      "word": "select",
+      "transcription": {
+        "text": "sɪˈlɛkt | сиЛЕкт",
+        "pronunciation_audio_links": [
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sel/selec/select__us_1.mp3"
+        ]
+      },
+      "root_words": [
+        {
+          "en": {
+            "word": "selection",
+            "transcription": "sɪˈlɛkʃn | сиЛЕкшн"
+          },
+          "ru": {
+            "note": "[СУЩ] selection. Выбор, подбор или отбор. Предлоги: нет",
+            "translations": ["выбор", "подбор", "отбор"],
+            "examples": [
+              {
+                "en": "She made a selection of the best books",
+                "ru": "Она сделала подбор лучших книг"
+              }
+            ]
+          }
+        },
+        {
+          "en": {
+            "word": "selective",
+            "transcription": "sɪˈlɛktɪv | сиЛЕктив"
+          },
+          "ru": {
+            "note": "[ПРИЛ] be selective. Избирательный, привередливый или дискриминационный. Предлоги: be selective about something (быть избирательным по отношению к чему-то), be selective in something (быть избирательным в чем-то)",
+            "translations": [
+              "избирательный",
+              "привередливый",
+              "дискриминационный"
+            ],
+            "examples": [
+              {
+                "en": "He is very selective about his friends",
+                "ru": "Он очень избирателен в отношении своих друзей"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "ru": {
+      "note": "[ГЛАГ, ПРИЛ] to select. Выбирать, отбирать или назначать. Прилагательное: выбранный, отобранный или назначенный. Предлоги: to select someone or something for something (выбирать или назначать кого-то или что-то для чего-то), to select someone or something from something (выбирать или отбирать кого-то или что-то из чего-то)",
+      "translations": [
+        "выбирать",
+        "отбирать",
+        "назначать",
+        "выбранный",
+        "отобранный",
+        "назначенный"
+      ]
+    },
+    "img": "https://www.lifewire.com/thmb/vQFl0fZlEsK8uM_kjoQTdnAck_Y=/650x0/filters:no_upscale():max_bytes(150000):strip_icc()/Select-File-Click-Drag-840c3468a23b46199368e4826ddfd6f7.jpg",
+    "examples": [
+      {
+        "en": "She selected a dress for the party",
+        "ru": "Она выбрала платье для вечеринки"
+      },
+      {
+        "en": "He selected three candidates from the list",
+        "ru": "Он отобрал трех кандидатов из списка"
+      },
+      {
+        "en": "They selected him as the leader of the team",
+        "ru": "Они назначили его лидером команды"
       }
     ]
   }
