@@ -4,7 +4,7 @@
     "en": {
       "word": "principle",
       "transcription": {
-        "text": "ˈprɪnsɪpl | ПРИнсипл",
+        "text": "ˈprɪnsɪp(ə)l | прИнсипл",
         "pronunciation_audio_links": [
           "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principle__us_2.mp3"
         ]
@@ -13,30 +13,65 @@
         {
           "en": {
             "word": "principal",
-            "transcription": "ˈprɪnsɪpəl | ПРИнсипл"
+            "transcription": "ˈprɪnsɪp(ə)l | прИнсипл"
           },
           "ru": {
-            "note": "[ПРИЛ] Главный, основной, важнейший. [СУЩ] Лицо, имеющее руководящую или главную роль в чем-то. Предлоги: principal of something (глава чего-то), principal in something (участник чего-то)",
+            "note": "[СУЩ, ПРИЛ] Как существительное, означает главный, первый или самый важный человек или вещь в какой-то группе или ситуации. Как прилагательное, означает основной, главный или самый важный. Предлоги: principal of something (глава чего-то), principal in something (участник чего-то)",
             "translations": [
               "главный",
+              "первый",
               "основной",
-              "важнейший",
-              "руководитель",
               "директор",
               "участник"
             ],
             "examples": [
               {
-                "en": "Our document contains six principal divisions",
-                "ru": "Наш документ содержит шесть основных разделов"
-              },
-              {
                 "en": "She is the principal of the school.",
                 "ru": "Она директор школы."
               },
               {
-                "en": "He was the principal in the crime.",
-                "ru": "Он был участником преступления."
+                "en": "He was one of the principals in the deal.",
+                "ru": "Он был одним из участников сделки."
+              },
+              {
+                "en": "The principal reason for his decision was his health.",
+                "ru": "Основная причина его решения было его здоровье."
+              },
+              {
+                "en": "The principal aim of the project is to provide clean water.",
+                "ru": "Главная цель проекта - обеспечить чистую воду."
+              }
+            ]
+          }
+        },
+        {
+          "en": {
+            "word": "principled",
+            "transcription": "ˈprɪnsɪp(ə)ld | прИнсиплд"
+          },
+          "ru": {
+            "note": "[ПРИЛ] Действующий в соответствии с моральными принципами и показывающий различие между правильным и неправильным",
+            "translations": ["принципиальный", "порядочный", "честный"],
+            "examples": [
+              {
+                "en": "He is a principled leader who always stands up for what is right.",
+                "ru": "Он принципиальный лидер, который всегда отстаивает то, что правильно."
+              }
+            ]
+          }
+        },
+        {
+          "en": {
+            "word": "unprincipled",
+            "transcription": "ʌnˈprɪnsɪp(ə)ld | анпрИнсиплд"
+          },
+          "ru": {
+            "note": "[ПРИЛ] Не действующий в соответствии с моральными принципами, безнравственный или беспринципный",
+            "translations": ["безнравственный", "беспринципный", "нечестный"],
+            "examples": [
+              {
+                "en": "She was an unprincipled woman who betrayed her friends.",
+                "ru": "Она была безнравственной женщиной, которая предала своих друзей."
               }
             ]
           }
@@ -44,18 +79,18 @@
       ]
     },
     "ru": {
-      "note": "[СУЩ] Основное правило или закон, которому следуют или которое объясняет, как что-то работает. Предлоги: principle of something (принцип чего-то), principle for something (принцип для чего-то)",
-      "translations": ["принцип", "правило", "закон"]
+      "note": "[СУЩ] Основная идея или правило, которое объясняет или контролирует, как что-то происходит или работает. Предлоги: on principle (по принципу), principle of something (принцип чего-то)",
+      "translations": ["принцип", "правило", "основа"]
     },
     "img": "https://i.pinimg.com/originals/0e/cb/ef/0ecbef7b2c96b792cc2a8f5eb605077f.png",
     "examples": [
       {
-        "en": "The principle of democracy is that people have the right to choose their leaders.",
-        "ru": "Принцип демократии заключается в том, что люди имеют право выбирать своих лидеров."
+        "en": "She refused to lie, on principle.",
+        "ru": "Она отказалась лгать, по принципу."
       },
       {
-        "en": "He follows the principle of honesty in his work.",
-        "ru": "Он придерживается принципа честности в своей работе."
+        "en": "The principle of democracy is that people have the right to choose their leaders.",
+        "ru": "Принцип демократии заключается в том, что люди имеют право выбирать своих лидеров."
       }
     ]
   },
