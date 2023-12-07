@@ -9,579 +9,169 @@
           "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principle__us_2.mp3"
         ]
       },
-      "root_words": [
-        {
-          "en": {
-            "word": "principal",
-            "transcription": "ˈprɪnsɪp(ə)l | прИнсипл"
-          },
-          "ru": {
-            "note": "[СУЩ, ПРИЛ] Как существительное, означает главный, первый или самый важный человек или вещь в какой-то группе или ситуации. Как прилагательное, означает основной, главный или самый важный. Предлоги: principal of something (глава чего-то), principal in something (участник чего-то)",
-            "translations": [
-              "главный",
-              "первый",
-              "основной",
-              "директор",
-              "участник"
-            ],
-            "examples": [
-              {
-                "en": "She is the principal of the school.",
-                "ru": "Она директор школы."
-              },
-              {
-                "en": "He was one of the principals in the deal.",
-                "ru": "Он был одним из участников сделки."
-              },
-              {
-                "en": "The principal reason for his decision was his health.",
-                "ru": "Основная причина его решения было его здоровье."
-              },
-              {
-                "en": "The principal aim of the project is to provide clean water.",
-                "ru": "Главная цель проекта - обеспечить чистую воду."
-              }
-            ]
-          }
-        },
-        {
-          "en": {
-            "word": "principled",
-            "transcription": "ˈprɪnsɪp(ə)ld | прИнсиплд"
-          },
-          "ru": {
-            "note": "[ПРИЛ] Действующий в соответствии с моральными принципами и показывающий различие между правильным и неправильным",
-            "translations": ["принципиальный", "порядочный", "честный"],
-            "examples": [
-              {
-                "en": "He is a principled leader who always stands up for what is right.",
-                "ru": "Он принципиальный лидер, который всегда отстаивает то, что правильно."
-              }
-            ]
-          }
-        },
-        {
-          "en": {
-            "word": "unprincipled",
-            "transcription": "ʌnˈprɪnsɪp(ə)ld | анпрИнсиплд"
-          },
-          "ru": {
-            "note": "[ПРИЛ] Не действующий в соответствии с моральными принципами, безнравственный или беспринципный",
-            "translations": ["безнравственный", "беспринципный", "нечестный"],
-            "examples": [
-              {
-                "en": "She was an unprincipled woman who betrayed her friends.",
-                "ru": "Она была безнравственной женщиной, которая предала своих друзей."
-              }
-            ]
-          }
-        }
-      ]
+      "root_words_id": [2, 3, 4]
     },
     "ru": {
-      "note": "[СУЩ] Основная идея или правило, которое объясняет или контролирует, как что-то происходит или работает. Предлоги: on principle (по принципу), principle of something (принцип чего-то)",
-      "translations": ["принцип", "правило", "основа"]
+      "note": "[СУЩ] {СУЩ}: основная истина или предположение, служащее основой для системы верований или поведения или для цепочки рассуждений. ПРЕДЛОГИ: principle of something (принцип чего-то)",
+      "translations": ["принцип", "основа", "закон", "правило", "теория"]
     },
     "img": "https://i.pinimg.com/originals/0e/cb/ef/0ecbef7b2c96b792cc2a8f5eb605077f.png",
     "examples": [
       {
-        "en": "She refused to lie, on principle.",
-        "ru": "Она отказалась лгать, по принципу."
+        "en": "The basic principles of justice.",
+        "ru": "Основные принципы справедливости."
       },
       {
-        "en": "The principle of democracy is that people have the right to choose their leaders.",
-        "ru": "Принцип демократии заключается в том, что люди имеют право выбирать своих лидеров."
+        "en": "The principle of something is important.",
+        "ru": "Принцип чего-то важен."
+      },
+      {
+        "en": "He operates on the principle of fairness.",
+        "ru": "Он действует на основе принципа справедливости."
+      },
+      {
+        "en": "The principle of gravity explains why apples fall from trees.",
+        "ru": "Принцип гравитации объясняет, почему яблоки падают с деревьев."
+      },
+      {
+        "en": "The principle of equality is fundamental to democracy.",
+        "ru": "Принцип равенства является основой демократии."
+      },
+      {
+        "en": "The principle of freedom is cherished by many.",
+        "ru": "Принцип свободы ценится многими."
       }
     ]
   },
   {
     "id": 2,
     "en": {
-      "word": "detect",
+      "word": "principled",
       "transcription": {
-        "text": "dɪˈtɛkt | диТЭкт",
+        "text": "ˈprɪnsɪp(ə)ld | прИнсиплд",
         "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/det/detec/detect__us_1.mp3"
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principled__us_1.mp3"
         ]
       },
-      "root_words": [
-        {
-          "en": {
-            "word": "detection",
-            "transcription": "dɪˈtɛkʃ(ə)n | диТЭкш(э)н"
-          },
-          "ru": {
-            "note": "[СУЩ] Действие или процесс обнаружения или определения наличия чего-то скрытого. Предлоги: detection of something (обнаружение чего-то), detection by something (обнаружение чем-то)",
-            "translations": ["обнаружение", "выявление", "раскрытие"],
-            "examples": [
-              {
-                "en": "The early detection of cancer can save lives.",
-                "ru": "Раннее обнаружение рака может спасти жизни."
-              },
-              {
-                "en": "The police use dogs for the detection of drugs and explosives.",
-                "ru": "Полиция использует собак для обнаружения наркотиков и взрывчатых веществ."
-              }
-            ]
-          }
-        },
-        {
-          "en": {
-            "word": "undetected",
-            "transcription": "ˌʌndɪˈtɛktɪd | АндиТЭктид"
-          },
-          "ru": {
-            "note": "[ПРИЛ] Не замеченный или не обнаруженный. Предлоги: undetected by something (не замеченный чем-то)",
-            "translations": ["незамеченный", "необнаруженный", "нераскрытый"],
-            "examples": [
-              {
-                "en": "The virus can remain undetected for a long time.",
-                "ru": "Вирус может оставаться необнаруженным долгое время."
-              },
-              {
-                "en": "He managed to slip away undetected by the guards.",
-                "ru": "Ему удалось ускользнуть незамеченным стражами."
-              }
-            ]
-          }
-        }
-      ]
+      "root_words_id": [1, 3, 4]
     },
     "ru": {
-      "note": "[ГЛАГОЛ] Обнаруживать или замечать что-то, что частично скрыто или не очевидно, или выявлять что-то, особенно с помощью специальных средств или методов. Предлоги: detect something (обнаружить что-то), detect something in something (обнаружить что-то в чем-то)",
-      "translations": ["обнаруживать", "выявлять", "замечать"]
+      "note": "[ПРИЛ] {ПРИЛ}: основанный на данном наборе правил; действующий в соответствии с моралью и показывающий признание правильного и неправильного.",
+      "translations": ["принципиальный", "нравственный", "этичный", "достойный"]
     },
-    "img": "https://securityintelligence.com/wp-content/uploads/2018/10/si-dont-dwell-on-it-feature.jpg",
+    "img": "https://1001.ru/media/uploads/rzpo72es9kyvuq0g.jpg",
     "examples": [
       {
-        "en": "The test can detect traces of blood in urine.",
-        "ru": "Тест может обнаружить следы крови в моче."
+        "en": "She is a principled woman.",
+        "ru": "Она принципиальная женщина."
       },
       {
-        "en": "She detected a hint of sarcasm in his voice.",
-        "ru": "Она заметила намек на сарказм в его голосе."
+        "en": "He is a principled politician.",
+        "ru": "Он принципиальный политик."
+      },
+      {
+        "en": "They are principled professionals.",
+        "ru": "Они принципиальные профессионалы."
+      },
+      {
+        "en": "The company operates on principled standards.",
+        "ru": "Компания работает на принципиальных стандартах."
+      },
+      {
+        "en": "The principled approach led to success.",
+        "ru": "Принципиальный подход привел к успеху."
+      },
+      {
+        "en": "Principled decisions are often difficult.",
+        "ru": "Принципиальные решения часто бывают сложными."
       }
     ]
   },
   {
     "id": 3,
     "en": {
-      "word": "fourth",
+      "word": "unprincipled",
       "transcription": {
-        "text": "fɔːθ | фОрс",
+        "text": "ʌnˈprɪnsɪp(ə)ld | анпрИнсиплд",
         "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fou/fourt/fourth__us_1.mp3"
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unp/unpri/unprincipled__us_1.mp3"
         ]
       },
-      "root_words": []
+      "root_words_id": [1, 2, 4]
     },
     "ru": {
-      "note": "[ПРИЛ] Четвертый по счету или положению в ряду или списке. [СУЩ] Четвертая часть или элемент чего-то. Предлоги: fourth of something (четвертая часть чего-то), fourth in something (четвертый в чем-то)",
-      "translations": ["четвертый", "четвертая", "четвертая часть"]
+      "note": "[ПРИЛ] {ПРИЛ}: не имеющий моральных принципов или стандартов хорошего поведения[^1^][1][^2^][2][^3^][3].",
+      "translations": ["беспринципный", "безнравственный"]
     },
-    "img": "https://inetru.net/wp-content/uploads/2018/09/numbers-printable-04-4-1024x1024.png",
+    "img": "https://thumbs.dreamstime.com/b/immoral-doctor-taking-bribe-operation-being-greedy-scrooge-unprincipled-wearing-uniform-men-giving-him-118700849.jpg",
     "examples": [
       {
-        "en": "She came fourth in the race.",
-        "ru": "Она пришла четвертой в гонке."
+        "en": "He is an unprincipled man.",
+        "ru": "Он - беспринципный человек."
       },
       {
-        "en": "A fourth of the cake is left.",
-        "ru": "Осталась четвертая часть торта."
+        "en": "She is unprincipled in her actions.",
+        "ru": "Она безнравственна в своих действиях."
+      },
+      {
+        "en": "Unprincipled behavior is not acceptable.",
+        "ru": "Беспринципное поведение недопустимо."
+      },
+      {
+        "en": "They are unprincipled in their business dealings.",
+        "ru": "Они безнравственны в своих деловых отношениях."
+      },
+      {
+        "en": "Unprincipled actions lead to negative consequences.",
+        "ru": "Беспринципные действия приводят к негативным последствиям."
+      },
+      {
+        "en": "Being unprincipled can harm one's reputation.",
+        "ru": "Быть безнравственным может повредить репутации."
       }
     ]
   },
   {
     "id": 4,
     "en": {
-      "word": "lie",
+      "word": "principally",
       "transcription": {
-        "text": "laɪ | лАй",
+        "text": "ˈprɪnsɪp(ə)li | прИнсипли",
         "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/l/lie/lie__/lie__us_1.mp3"
+          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principally__us_1.mp3"
         ]
       },
-      "root_words": []
+      "root_words_id": [1, 2, 3]
     },
     "ru": {
-      "note": "[ГЛАГ, СУЩ] to lie. Лгать или лежать. Существительное: ложь. Предлоги: to lie to someone (лгать кому-то), to lie about something (лгать о чем-то), to lie down (лечь), to lie in bed (лежать в постели)",
-      "translations": ["лгать", "лежать", "ложь"]
+      "note": "[НАР] {НАР}: в большей степени, больше всего.",
+      "translations": ["главным образом", "в основном", "преимущественно"]
     },
-    "img": "https://bicontent.businessinsurance.com/NEWS06_160809958_AR_-1_MXGYYHECYTTF.jpg",
+    "img": "https://c.stocksy.com/a/bij800/z9/2082369.jpg",
     "examples": [
       {
-        "en": "He lied to me about his age",
-        "ru": "Он солгал мне о своем возрасте"
+        "en": "He is principally a landscape painter.",
+        "ru": "Он в основном художник-пейзажист."
       },
       {
-        "en": "She likes to lie in bed and read a book",
-        "ru": "Ей нравится лежать в постели и читать книгу"
+        "en": "She is principally known for her novels.",
+        "ru": "Она преимущественно известна своими романами."
       },
       {
-        "en": "The truth is better than a lie",
-        "ru": "Правда лучше, чем ложь"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "en": {
-      "word": "program",
-      "transcription": {
-        "text": "ˈproʊɡræm | прОугрэм",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/progr/program__us_1.mp3"
-        ]
-      },
-      "root_words": []
-    },
-    "ru": {
-      "note": "[ГЛАГ, СУЩ] to program. Создавать или устанавливать программу для компьютера или другого устройства. Существительное: программа. Предлоги: to program something to do something (программировать что-то, чтобы оно делало что-то), to program in a language (программировать на языке)",
-      "translations": ["программировать", "программа"]
-    },
-    "img": "https://frankfurt.apollo.olxcdn.com/v1/files/v4ljmk7jkxh73-KZ/image;s=644x461",
-    "examples": [
-      {
-        "en": "He learned how to program in Python",
-        "ru": "Он научился программировать на Python"
+        "en": "Principally, the project was a success.",
+        "ru": "В основном, проект был успешным."
       },
       {
-        "en": "She programmed the robot to dance",
-        "ru": "Она запрограммировала робота танцевать"
+        "en": "The event was principally organized by volunteers.",
+        "ru": "Мероприятие в основном организовали добровольцы."
       },
       {
-        "en": "What is your favorite TV program?",
-        "ru": "Какая ваша любимая телепрограмма?"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "en": {
-      "word": "commission",
-      "transcription": {
-        "text": "kəˈmɪʃn | кэмИшн",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/commi/commission__us_2.mp3"
-        ]
-      },
-      "root_words": [
-        {
-          "en": {
-            "word": "commit",
-            "transcription": "kəˈmɪt | кэмИт"
-          },
-          "ru": {
-            "note": "[ГЛАГ] to commit. Совершать или делать что-то, особенно что-то плохое или незаконное. Предлоги: to commit a crime (совершить преступление), to commit suicide (покончить жизнь самоубийством), to commit to something (обязаться на что-то)",
-            "translations": ["совершать", "делать", "обязываться"],
-            "examples": [
-              {
-                "en": "He was sent to prison for a crime he didn't commit",
-                "ru": "Его посадили в тюрьму за преступление, которого он не совершал"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "ru": {
-      "note": "[ГЛАГ, СУЩ] to commission. Заказывать или поручать кому-то сделать что-то. Существительное: заказ, комиссия, полномочие. Предлоги: to commission someone to do something (заказать или поручить кому-то сделать что-то), to commission something from someone (заказать что-то у кого-то), to be on commission (работать на комиссионных)",
-      "translations": [
-        "заказывать",
-        "поручать",
-        "заказ",
-        "комиссия",
-        "полномочие"
-      ]
-    },
-    "img": "https://www.sepidarsystem.com/wp-content/uploads/2020/06/what-is-commission-05.jpg",
-    "examples": [
-      {
-        "en": "She commissioned a portrait of her family from a famous painter",
-        "ru": "Она заказала портрет своей семьи у знаменитого художника"
+        "en": "He is principally responsible for the error.",
+        "ru": "Он главным образом ответственен за ошибку."
       },
       {
-        "en": "The government commissioned a study on the effects of pollution",
-        "ru": "Правительство поручило провести исследование о влиянии загрязнения"
-      },
-      {
-        "en": "He works on commission, so his income depends on his sales",
-        "ru": "Он работает на комиссионных, поэтому его доход зависит от его продаж"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "en": {
-      "word": "trick",
-      "transcription": {
-        "text": "trɪk | трИк",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/t/tri/trick/trick__us_1.mp3"
-        ]
-      },
-      "root_words": [
-        {
-          "en": {
-            "word": "tricky",
-            "transcription": "ˈtrɪki | трИки"
-          },
-          "ru": {
-            "note": "[ПРИЛ] be tricky. Сложный, хитрый или обманчивый. Предлоги: be tricky to do something (быть сложным для совершения чего-то), be tricky for someone (быть хитрым или обманчивым для кого-то)",
-            "translations": ["сложный", "хитрый", "обманчивый"],
-            "examples": [
-              {
-                "en": "The exam was very tricky for me",
-                "ru": "Экзамен был очень хитрым для меня"
-              }
-            ]
-          }
-        },
-        {
-          "en": {
-            "word": "trickster",
-            "transcription": "ˈtrɪkstər | трИкстер"
-          },
-          "ru": {
-            "note": "[СУЩ] trickster. Ловкач, обманщик или шутник. Предлоги: нет",
-            "translations": ["ловкач", "обманщик", "шутник"],
-            "examples": [
-              {
-                "en": "He is a trickster who likes to play pranks on his friends",
-                "ru": "Он ловкач, который любит разыгрывать своих друзей"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "ru": {
-      "note": "[ГЛАГ, СУЩ] to trick. Обманывать, дурачить или подшучивать над кем-то или чем-то. Существительное: обман, фокус, шутка. Предлоги: to trick someone into doing something (обмануть кого-то, чтобы он сделал что-то), to trick someone out of something (обмануть кого-то, чтобы отнять у него что-то), to play a trick on someone (сделать кому-то фокус или шутку)",
-      "translations": [
-        "обманывать",
-        "дурачить",
-        "подшучивать",
-        "обман",
-        "фокус",
-        "шутка"
-      ]
-    },
-    "img": "https://i.ytimg.com/vi/HcaD1uZsqbk/hqdefault.jpg",
-    "examples": [
-      {
-        "en": "She tricked him into giving her his password",
-        "ru": "Она обманула его, чтобы он дал ей свой пароль"
-      },
-      {
-        "en": "He tricked her out of her inheritance",
-        "ru": "Он обманул ее, чтобы отнять у нее наследство"
-      },
-      {
-        "en": "They played a trick on their teacher on April Fool's Day",
-        "ru": "Они сделали своему учителю фокус в день дураков"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "en": {
-      "word": "fast",
-      "transcription": {
-        "text": "fæst | фЭст",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fas/fast_/fast__us_1.mp3"
-        ]
-      },
-      "root_words": [
-        {
-          "en": {
-            "word": "fastness",
-            "transcription": "ˈfæstnəs | фЭстнес"
-          },
-          "ru": {
-            "note": "[СУЩ] fastness. Крепость, неприступность или быстрота. Предлоги: нет",
-            "translations": ["крепость", "неприступность", "быстрота"],
-            "examples": [
-              {
-                "en": "The castle was built on a hill for its fastness",
-                "ru": "Замок был построен на холме для его неприступности"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "ru": {
-      "note": "[ПРИЛ, НАРЕЧ, СУЩ] be fast. Быстрый, скорый или постный. Наречие: быстро или крепко. Существительное: пост. Предлоги: be fast at something (быть быстрым в чем-то), be fast asleep (спать крепко), fast from something (поститься от чего-то)",
-      "translations": [
-        "быстрый",
-        "скорый",
-        "постный",
-        "быстро",
-        "крепко",
-        "пост"
-      ]
-    },
-    "img": "https://muscleandhealth.com/wp-content/uploads/2022/01/interval.png",
-    "examples": [
-      {
-        "en": "He is very fast at solving math problems",
-        "ru": "Он очень быстро решает математические задачи"
-      },
-      {
-        "en": "She was fast asleep when the phone rang",
-        "ru": "Она спала крепко, когда зазвонил телефон"
-      },
-      {
-        "en": "Some people fast from meat during Lent",
-        "ru": "Некоторые люди постятся от мяса во время Великого поста"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "en": {
-      "word": "offensive",
-      "transcription": {
-        "text": "əˈfensɪv | эфЕнсив",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/off/offen/offensive__us_4.mp3"
-        ]
-      },
-      "root_words": [
-        {
-          "en": {
-            "word": "offend",
-            "transcription": "əˈfend | эфЕнд"
-          },
-          "ru": {
-            "note": "[ГЛАГ] to offend. Обижать, оскорблять или нарушать закон. Предлоги: to offend someone (обидеть или оскорбить кого-то), to offend against something (нарушить что-то)",
-            "translations": ["обижать", "оскорблять", "нарушать"],
-            "examples": [
-              {
-                "en": "He didn't mean to offend you with his joke",
-                "ru": "Он не хотел обидеть тебя своей шуткой"
-              }
-            ]
-          }
-        },
-        {
-          "en": {
-            "word": "offense",
-            "transcription": "əˈfens | эфЕнс"
-          },
-          "ru": {
-            "note": "[СУЩ] offense. Обида, оскорбление или преступление. Предлоги: to take offense at something (обидеться на что-то), to cause offense to someone (вызвать оскорбление у кого-то), to commit an offense (совершить преступление)",
-            "translations": ["обида", "оскорбление", "преступление"],
-            "examples": [
-              {
-                "en": "She took offense at his rude remark",
-                "ru": "Она обиделась на его грубое замечание"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "ru": {
-      "note": "[ПРИЛ, СУЩ] be offensive. Оскорбительный, неприятный или нападающий. Существительное: наступление, атака. Предлоги: be offensive to someone (быть оскорбительным для кого-то), be offensive for something (быть неприятным для чего-то), go on the offensive (перейти в наступление)",
-      "translations": [
-        "оскорбительный",
-        "неприятный",
-        "нападающий",
-        "наступление",
-        "атака"
-      ]
-    },
-    "img": "https://coffeeflower.ru/upload/iblock/896/2wawnr10wlucmp00we7ty1smzhodszsb.jpg",
-    "examples": [
-      {
-        "en": "His comments were very offensive to me",
-        "ru": "Его комментарии были очень оскорбительны для меня"
-      },
-      {
-        "en": "The smell was offensive for everyone in the room",
-        "ru": "Запах был неприятен для всех в комнате"
-      },
-      {
-        "en": "The army went on the offensive after a long siege",
-        "ru": "Армия перешла в наступление после долгой осады"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "en": {
-      "word": "select",
-      "transcription": {
-        "text": "sɪˈlɛkt | сиЛЕкт",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sel/selec/select__us_1.mp3"
-        ]
-      },
-      "root_words": [
-        {
-          "en": {
-            "word": "selection",
-            "transcription": "sɪˈlɛkʃn | сиЛЕкшн"
-          },
-          "ru": {
-            "note": "[СУЩ] selection. Выбор, подбор или отбор. Предлоги: нет",
-            "translations": ["выбор", "подбор", "отбор"],
-            "examples": [
-              {
-                "en": "She made a selection of the best books",
-                "ru": "Она сделала подбор лучших книг"
-              }
-            ]
-          }
-        },
-        {
-          "en": {
-            "word": "selective",
-            "transcription": "sɪˈlɛktɪv | сиЛЕктив"
-          },
-          "ru": {
-            "note": "[ПРИЛ] be selective. Избирательный, привередливый или дискриминационный. Предлоги: be selective about something (быть избирательным по отношению к чему-то), be selective in something (быть избирательным в чем-то)",
-            "translations": [
-              "избирательный",
-              "привередливый",
-              "дискриминационный"
-            ],
-            "examples": [
-              {
-                "en": "He is very selective about his friends",
-                "ru": "Он очень избирателен в отношении своих друзей"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "ru": {
-      "note": "[ГЛАГ, ПРИЛ] to select. Выбирать, отбирать или назначать. Прилагательное: выбранный, отобранный или назначенный. Предлоги: to select someone or something for something (выбирать или назначать кого-то или что-то для чего-то), to select someone or something from something (выбирать или отбирать кого-то или что-то из чего-то)",
-      "translations": [
-        "выбирать",
-        "отбирать",
-        "назначать",
-        "выбранный",
-        "отобранный",
-        "назначенный"
-      ]
-    },
-    "img": "https://www.lifewire.com/thmb/vQFl0fZlEsK8uM_kjoQTdnAck_Y=/650x0/filters:no_upscale():max_bytes(150000):strip_icc()/Select-File-Click-Drag-840c3468a23b46199368e4826ddfd6f7.jpg",
-    "examples": [
-      {
-        "en": "She selected a dress for the party",
-        "ru": "Она выбрала платье для вечеринки"
-      },
-      {
-        "en": "He selected three candidates from the list",
-        "ru": "Он отобрал трех кандидатов из списка"
-      },
-      {
-        "en": "They selected him as the leader of the team",
-        "ru": "Они назначили его лидером команды"
+        "en": "The law is principally aimed at protecting consumers.",
+        "ru": "Закон преимущественно направлен на защиту потребителей."
       }
     ]
   }
