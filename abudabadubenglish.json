@@ -5,8 +5,8 @@
     "back": {
       "defenition": "a round fruit with red, green, or yellow skin and firm white flesh",
       "examples": [
-        "I love eating apples.",
-        "She sliced the apple into thin pieces."
+        "I love eating *apples*.",
+        "She sliced the *apple* into thin pieces."
       ],
       "transcription": "/ˈæp.əl/",
       "ru_translation": "яблоко"
@@ -20,8 +20,8 @@
     "back": {
       "defenition": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws",
       "examples": [
-        "The cat purred as it curled up on the couch.",
-        "She adopted a stray cat from the shelter."
+        "The *cat* purred as it curled up on the couch.",
+        "She adopted a stray *cat* from the shelter."
       ],
       "transcription": "/kæt/",
       "ru_translation": "кошка"
@@ -35,8 +35,8 @@
     "back": {
       "defenition": "a tall plant with large yellow flowers that turn to face the sun",
       "examples": [
-        "The sunflower fields were a beautiful sight.",
-        "She planted sunflowers in her garden."
+        "The *sunflower* fields were a beautiful sight.",
+        "She planted *sunflowers* in her garden."
       ],
       "transcription": "/ˈsʌnˌflaʊ.ər/",
       "ru_translation": "подсолнух"
