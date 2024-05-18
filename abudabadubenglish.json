@@ -1,178 +1,46 @@
 [
   {
     "id": 1,
-    "en": {
-      "word": "principle",
-      "transcription": {
-        "text": "ˈprɪnsɪp(ə)l | прИнсипл",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principle__us_2.mp3"
-        ]
-      },
-      "root_words_id": [2, 3, 4]
+    "front": "apple",
+    "back": {
+      "defenition": "a round fruit with red, green, or yellow skin and firm white flesh",
+      "examples": [
+        "I love eating apples.",
+        "She sliced the apple into thin pieces."
+      ],
+      "transcription": "/ˈæp.əl/",
+      "ru_translation": "яблоко"
     },
-    "ru": {
-      "note": "[СУЩ] {СУЩ}: основная истина или предположение, служащее основой для системы верований или поведения или для цепочки рассуждений. ПРЕДЛОГИ: principle of something (принцип чего-то)",
-      "translations": ["принцип", "основа", "закон", "правило", "теория"]
-    },
-    "img": "https://i.pinimg.com/originals/0e/cb/ef/0ecbef7b2c96b792cc2a8f5eb605077f.png",
-    "examples": [
-      {
-        "en": "The basic principles of justice.",
-        "ru": "Основные принципы справедливости."
-      },
-      {
-        "en": "The principle of something is important.",
-        "ru": "Принцип чего-то важен."
-      },
-      {
-        "en": "He operates on the principle of fairness.",
-        "ru": "Он действует на основе принципа справедливости."
-      },
-      {
-        "en": "The principle of gravity explains why apples fall from trees.",
-        "ru": "Принцип гравитации объясняет, почему яблоки падают с деревьев."
-      },
-      {
-        "en": "The principle of equality is fundamental to democracy.",
-        "ru": "Принцип равенства является основой демократии."
-      },
-      {
-        "en": "The principle of freedom is cherished by many.",
-        "ru": "Принцип свободы ценится многими."
-      }
-    ]
+    "img": "https://media.baamboozle.com/uploads/images/51954/1607539713_159590"
   },
+
   {
     "id": 2,
-    "en": {
-      "word": "principled",
-      "transcription": {
-        "text": "ˈprɪnsɪp(ə)ld | прИнсиплд",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principled__us_1.mp3"
-        ]
-      },
-      "root_words_id": [1, 3, 4]
+    "front": "cat",
+    "back": {
+      "defenition": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws",
+      "examples": [
+        "The cat purred as it curled up on the couch.",
+        "She adopted a stray cat from the shelter."
+      ],
+      "transcription": "/kæt/",
+      "ru_translation": "кошка"
     },
-    "ru": {
-      "note": "[ПРИЛ] {ПРИЛ}: основанный на данном наборе правил; действующий в соответствии с моралью и показывающий признание правильного и неправильного.",
-      "translations": ["принципиальный", "нравственный", "этичный", "достойный"]
-    },
-    "img": "https://1001.ru/media/uploads/rzpo72es9kyvuq0g.jpg",
-    "examples": [
-      {
-        "en": "She is a principled woman.",
-        "ru": "Она принципиальная женщина."
-      },
-      {
-        "en": "He is a principled politician.",
-        "ru": "Он принципиальный политик."
-      },
-      {
-        "en": "They are principled professionals.",
-        "ru": "Они принципиальные профессионалы."
-      },
-      {
-        "en": "The company operates on principled standards.",
-        "ru": "Компания работает на принципиальных стандартах."
-      },
-      {
-        "en": "The principled approach led to success.",
-        "ru": "Принципиальный подход привел к успеху."
-      },
-      {
-        "en": "Principled decisions are often difficult.",
-        "ru": "Принципиальные решения часто бывают сложными."
-      }
-    ]
+    "img": "https://media.webmagazine24.it/wp-content/uploads/2019/08/29112421/gatto-768x768.jpg"
   },
+
   {
     "id": 3,
-    "en": {
-      "word": "unprincipled",
-      "transcription": {
-        "text": "ʌnˈprɪnsɪp(ə)ld | анпрИнсиплд",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/u/unp/unpri/unprincipled__us_1.mp3"
-        ]
-      },
-      "root_words_id": [1, 2, 4]
+    "front": "sunflower",
+    "back": {
+      "defenition": "a tall plant with large yellow flowers that turn to face the sun",
+      "examples": [
+        "The sunflower fields were a beautiful sight.",
+        "She planted sunflowers in her garden."
+      ],
+      "transcription": "/ˈsʌnˌflaʊ.ər/",
+      "ru_translation": "подсолнух"
     },
-    "ru": {
-      "note": "[ПРИЛ] {ПРИЛ}: не имеющий моральных принципов или стандартов хорошего поведения[^1^][1][^2^][2][^3^][3].",
-      "translations": ["беспринципный", "безнравственный"]
-    },
-    "img": "https://thumbs.dreamstime.com/b/immoral-doctor-taking-bribe-operation-being-greedy-scrooge-unprincipled-wearing-uniform-men-giving-him-118700849.jpg",
-    "examples": [
-      {
-        "en": "He is an unprincipled man.",
-        "ru": "Он - беспринципный человек."
-      },
-      {
-        "en": "She is unprincipled in her actions.",
-        "ru": "Она безнравственна в своих действиях."
-      },
-      {
-        "en": "Unprincipled behavior is not acceptable.",
-        "ru": "Беспринципное поведение недопустимо."
-      },
-      {
-        "en": "They are unprincipled in their business dealings.",
-        "ru": "Они безнравственны в своих деловых отношениях."
-      },
-      {
-        "en": "Unprincipled actions lead to negative consequences.",
-        "ru": "Беспринципные действия приводят к негативным последствиям."
-      },
-      {
-        "en": "Being unprincipled can harm one's reputation.",
-        "ru": "Быть безнравственным может повредить репутации."
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "en": {
-      "word": "principally",
-      "transcription": {
-        "text": "ˈprɪnsɪp(ə)li | прИнсипли",
-        "pronunciation_audio_links": [
-          "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/princ/principally__us_1.mp3"
-        ]
-      },
-      "root_words_id": [1, 2, 3]
-    },
-    "ru": {
-      "note": "[НАР] {НАР}: в большей степени, больше всего.",
-      "translations": ["главным образом", "в основном", "преимущественно"]
-    },
-    "img": "https://c.stocksy.com/a/bij800/z9/2082369.jpg",
-    "examples": [
-      {
-        "en": "He is principally a landscape painter.",
-        "ru": "Он в основном художник-пейзажист."
-      },
-      {
-        "en": "She is principally known for her novels.",
-        "ru": "Она преимущественно известна своими романами."
-      },
-      {
-        "en": "Principally, the project was a success.",
-        "ru": "В основном, проект был успешным."
-      },
-      {
-        "en": "The event was principally organized by volunteers.",
-        "ru": "Мероприятие в основном организовали добровольцы."
-      },
-      {
-        "en": "He is principally responsible for the error.",
-        "ru": "Он главным образом ответственен за ошибку."
-      },
-      {
-        "en": "The law is principally aimed at protecting consumers.",
-        "ru": "Закон преимущественно направлен на защиту потребителей."
-      }
-    ]
+    "img": "https://gef.eu/wp-content/uploads/2018/04/sunflower-768x768.jpg"
   }
 ]
