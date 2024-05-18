@@ -1,46 +1,282 @@
 [
   {
-    "id": 1,
-    "front": "apple",
+    "id": "arousejhqfbrslx",
+    "front": "arouse",
     "back": {
-      "defenition": "a round fruit with red, green, or yellow skin and firm white flesh",
+      "definition": "to cause someone to have a particular feeling",
       "examples": [
-        "I love eating *apples*.",
-        "She sliced the *apple* into thin pieces."
+        "The movie's suspenseful scenes really *arouse* my curiosity.",
+        "The passionate speech *aroused* strong emotions in the audience."
       ],
-      "transcription": "/ˈæp.əl/",
-      "ru_translation": "яблоко"
+      "transcription": "əˈraʊz",
+      "ru_translation": "вызывать, пробуждать"
     },
-    "img": "https://static.dan.co.me/images/slike/new/2022/10/14/1773161.jpg"
+    "img": "https://britlex.ru/images/arouse.jpg"
   },
-
   {
-    "id": 2,
-    "front": "cat",
+    "id": "arousalnglkfzwe",
+    "front": "arousal",
     "back": {
-      "defenition": "a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws",
+      "definition": "the causing of strong feelings or excitement in someone",
       "examples": [
-        "The *cat* purred as it curled up on the couch.",
-        "She adopted a stray *cat* from the shelter."
+        "His speech caused an *arousal* of patriotic fervor among the crowd.",
+        "The music created a sense of *arousal* in the listeners."
       ],
-      "transcription": "/kæt/",
-      "ru_translation": "кошка"
+      "transcription": "əˈraʊzl",
+      "ru_translation": "пробуждение, возбуждение"
     },
-    "img": "https://media.webmagazine24.it/wp-content/uploads/2019/08/29112421/gatto-768x768.jpg"
+    "img": "https://imgcloud.pw/images/2017/09/25/VivThomas_Arousal_Miranda_high_0018.jpg"
   },
-
   {
-    "id": 3,
-    "front": "sunflower",
+    "id": "prettyeqpnzrjcis",
+    "front": "pretty",
     "back": {
-      "defenition": "a tall plant with large yellow flowers that turn to face the sun",
+      "definition": "quite, but not extremely",
       "examples": [
-        "The *sunflower* fields were a beautiful sight.",
-        "She planted *sunflowers* in her garden."
+        "The hike was *pretty* challenging, but we made it to the top.",
+        "She's *pretty* confident that she'll pass the exam."
       ],
-      "transcription": "/ˈsʌnˌflaʊ.ər/",
-      "ru_translation": "подсолнух"
+      "transcription": "ˈprɪti",
+      "ru_translation": "довольно-таки"
     },
-    "img": "https://gef.eu/wp-content/uploads/2018/04/sunflower-768x768.jpg"
+    "img": "https://image.emojipng.com/484/4510484.jpg"
+  },
+  {
+    "id": "prettydofiajvuzx",
+    "front": "pretty",
+    "back": {
+      "definition": "attractive in a delicate way without being truly beautiful",
+      "examples": [
+        "The garden was filled with *pretty* flowers.",
+        "She wore a *pretty* dress to the party."
+      ],
+      "transcription": "ˈprɪti",
+      "ru_translation": "хорошенький, симпатичный"
+    },
+    "img": "https://wallbox.ru/resize/800x480/wallpapers/main2/201712/149000608958cfb049a96e60.49400147.jpg"
+  },
+  {
+    "id": "prettifycgjqwvrbta",
+    "front": "prettify",
+    "back": {
+      "definition": "to make something look more attractive",
+      "examples": [
+        "She decided to *prettify* the room with some colorful decorations.",
+        "Adding a few accessories can *prettify* even the simplest outfit."
+      ],
+      "transcription": "ˈprɪtɪfaɪ",
+      "ru_translation": "украшать"
+    },
+    "img": "https://tapety.tja.pl/obrazki/tja_normalne/229698.jpg"
+  },
+  {
+    "id": "grandtdofijzebcu",
+    "front": "grand",
+    "back": {
+      "definition": "impressive and large or important",
+      "examples": [
+        "The palace was a *grand* structure with towering spires.",
+        "She made a *grand* entrance at the party."
+      ],
+      "transcription": "grænd",
+      "ru_translation": "большой, великий"
+    },
+    "img": "https://i.ytimg.com/vi/pbIgrbP-WLA/hqdefault.jpg"
+  },
+  {
+    "id": "volumeasodipunxcl",
+    "front": "volume",
+    "back": {
+      "definition": "the amount of space that is contained within an object or solid shape",
+      "examples": [
+        "The *volume* of the box is calculated by multiplying its length, width, and height.",
+        "You can adjust the *volume* of the music using the control knob."
+      ],
+      "transcription": "ˈvɒljʊm",
+      "ru_translation": "объем"
+    },
+    "img": "https://lddisplay.com/wp-content/uploads/2021/11/2-5.jpg"
+  },
+  {
+    "id": "volumelxibjstqnfo",
+    "front": "volume",
+    "back": {
+      "definition": "the level of sound produced by a television, radio, etc.",
+      "examples": [
+        "Please turn up the *volume* so we can hear the movie better.",
+        "The *volume* of the music was so loud that it could be heard from the next room."
+      ],
+      "transcription": "ˈvɒljʊm",
+      "ru_translation": "громкость"
+    },
+    "img": "https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/high_volume-1024.png"
+  },
+  {
+    "id": "volumezncoiyqjsmub",
+    "front": "volume",
+    "back": {
+      "definition": "a book, especially one that is part of a series",
+      "examples": [
+        "She has a large collection of *volumes* from the fantasy series.",
+        "The library contains several *volumes* of historical documents."
+      ],
+      "transcription": "ˈvɒljʊm",
+      "ru_translation": "том"
+    },
+    "img": "https://i0.wp.com/jovencuba.com/wp-content/uploads/2017/07/the-capital-683904_960_720.jpg"
+  },
+  {
+    "id": "drawkfpourewqnmv",
+    "front": "draw (drew, drawn)",
+    "back": {
+      "definition": "to make a picture of something or someone with a pencil or pen",
+      "examples": [
+        "He likes to *draw* landscapes in his sketchbook.",
+        "She *drew* a portrait of her friend for their birthday."
+      ],
+      "transcription": "drɔː, druː, drɔːn",
+      "ru_translation": "рисовать"
+    },
+    "img": "https://mini-rivne.com/wp-content/uploads/2018/11/na-dopomohu-stomleniy-matusi_3.jpg"
+  },
+  {
+    "id": "drawnctupibnjqzwe",
+    "front": "draw (drew, drawn)",
+    "back": {
+      "definition": "to pull or direct something in a particular direction",
+      "examples": [
+        "He *drew* the curtains closed to block out the sunlight.",
+        "The magnet *draws* metal objects toward it."
+      ],
+      "transcription": "drɔː, druː, drɔːn",
+      "ru_translation": "тянуть"
+    },
+    "img": "https://e7.pngegg.com/pngimages/390/504/png-clipart-pull-the-curtains-stage-curtains-pull-the-curtains.png"
+  },
+  {
+    "id": "coachtrjeqoisbxdn",
+    "front": "coach",
+    "back": {
+      "definition": "a large bus with comfortable seats used for long journeys",
+      "examples": [
+        "We traveled to the city by *coach*.",
+        "The *coach* ride was smooth and comfortable."
+      ],
+      "transcription": "kəʊʧ",
+      "ru_translation": "автобус"
+    },
+    "img": "https://aclasscoachhire.co.uk/wp-content/uploads/2015/05/s2.jpg"
+  },
+  {
+    "id": "coachlbfozxmwtqvkr",
+    "front": "coach",
+    "back": {
+      "definition": "someone whose job is to teach people to improve at a sport, skill, or school subject",
+      "examples": [
+        "The basketball *coach* trained the team every day.",
+        "She hired a private *coach* to help her preparefor the exam."
+      ],
+      "transcription": "kəʊʧ",
+      "ru_translation": "тренер"
+    },
+    "img": "https://www.huddle.org/wp-content/uploads/2018/09/DJ-Durkin-Maryland-800x450.jpg"
+  },
+  {
+    "id": "provideolxzmbvfijq",
+    "front": "provide",
+    "back": {
+      "definition": "to give someone something that they need",
+      "examples": [
+        "The company provided all employees with laptops.",
+        "Parents must provide food and shelter for their children."
+      ],
+      "transcription": "prəˈvaɪd",
+      "ru_translation": "обеспечивать, снабжать"
+    },
+    "img": "https://img.favpng.com/15/23/25/agm-meeting-medicine-service-homeopathy-product-png-favpng-k58jFsdWwFqk0v0f4T0KYNmxy.jpg"
+  },
+  {
+    "id": "providerpylqwnstfmcu",
+    "front": "provider",
+    "back": {
+      "definition": "a company or person that gives you something you need",
+      "examples": [
+        "The internet provider offers high-speed connections to its customers.",
+        "She works as a healthcare provider in a local clinic."
+      ],
+      "transcription": "prəˈvaɪdə",
+      "ru_translation": "поставщик"
+    },
+    "img": "https://www.myhyperlocalnews.com/wp-content/uploads/2018/11/AdobeStock_49661599_WEB.jpg"
+  },
+  {
+    "id": "provisionibjdstlfmvkz",
+    "front": "provision",
+    "back": {
+      "definition": "the act of providing something",
+      "examples": [
+        "The provision of food and water is essential during a disaster.",
+        "The government made provisions for housing displaced families."
+      ],
+      "transcription": "prəˈvɪʒən",
+      "ru_translation": "обеспечение"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/310429/1632000668_98042_url.jpeg"
+  },
+  {
+    "id": "copewithnkqiwybrsuj",
+    "front": "cope with",
+    "back": {
+      "definition": "to deal successfully with a difficult situation",
+      "examples": [
+        "She struggled to cope with the loss of her loved one.",
+        "She's finding it hard to cope with the pressure of her new job."
+      ],
+      "transcription": "kəʊpwɪð",
+      "ru_translation": "совладать, справиться"
+    },
+    "img": "https://www.pruvodcepodnikanim.cz/wp-content/uploads/2020/11/shutterstock_648958366-scaled.jpg"
+  },
+  {
+    "id": "conditioneijrbsvxmza",
+    "front": "condition",
+    "back": {
+      "definition": "the particular state that something or someone is in",
+      "examples": [
+        "The car was in excellent condition after being serviced.",
+        "He's in no condition to drive after drinking."
+      ],
+      "transcription": "kənˈdɪʃən",
+      "ru_translation": "состояние"
+    },
+    "img": "https://cdn.elena-elizarova.ru/images/article/cf071840-c86a-11ec-8665-1163ea694780/800/image2.jpg"
+  },
+  {
+    "id": "landryjwboktqhzex",
+    "front": "land",
+    "back": {
+      "definition": "to (cause to) arrive on the ground or other surface after moving down through the air",
+      "examples": [
+        "The plane will land at the airport in an hour.",
+        "The bird gracefully lands on the branch."
+      ],
+      "transcription": "lænd",
+      "ru_translation": "приземляться, высаживаться"
+    },
+    "img": "https://i.ytimg.com/vi/oCSGBcztjzg/maxresdefault.jpg"
+  },
+  {
+    "id": "landvqriytjdmxuzfb",
+    "front": "land",
+    "back": {
+      "definition": "the surface of the earth that is not covered by water",
+      "examples": [
+        "They bought a house with a large plot of land.",
+        "The farmer works the land to grow crops."
+      ],
+      "transcription": "lænd",
+      "ru_translation": "земля"
+    },
+    "img": "https://i.ytimg.com/vi/iZpNdNNiVnw/maxresdefault.jpg"
   }
 ]
