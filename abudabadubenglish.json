@@ -278,5 +278,271 @@
       "ru_translation": "земля"
     },
     "img": "https://i.ytimg.com/vi/iZpNdNNiVnw/maxresdefault.jpg"
+  },
+  {
+    "id": "scopeabcd",
+    "front": "scope",
+    "back": {
+      "definition": "the area that is included in or dealt with by something; space or opportunity for action, thought, etc.",
+      "examples": [
+        "The project was beyond the *scope* of our resources.",
+        "She widened the *scope* of her investigation."
+      ],
+      "transcription": "skoʊp",
+      "ru_translation": "пределы, масштаб"
+    },
+    "img": "https://w7.pngwing.com/pngs/871/975/png-transparent-call-of-duty-ghosts-reticle-telescopic-sight-sniper-rifle-miscellaneous-sniper-weapons-thumbnail.png"
+  },
+  {
+    "id": "packabcd",
+    "front": "pack",
+    "back": {
+      "definition": "a group of similar things or people, especially one that you can hold in your hand or carry.",
+      "examples": [
+        "He bought a *pack* of gum at the store.",
+        "A *pack* of wolves roamed the forest."
+      ],
+      "transcription": "pæk",
+      "ru_translation": "пачка"
+    },
+    "img": "https://www.tehnoman.ru/picture_library/items/imgitem97522434949381_input.jpg"
+  },
+  {
+    "id": "packageabcd",
+    "front": "package",
+    "back": {
+      "definition": "an object or group of objects wrapped in paper or plastic, or packed in a box.",
+      "examples": [
+        "The *package* was delivered to my door.",
+        "She received a *package* in the mail."
+      ],
+      "transcription": "ˈpækɪdʒ",
+      "ru_translation": "пакет"
+    },
+    "img": "https://oglasi.ru/uploads/posts/2023-11/thumbs/1701357256_8.jpg"
+  },
+  {
+    "id": "craftabcd",
+    "front": "craft",
+    "back": {
+      "definition": "an activity involving skill in making things by hand.",
+      "examples": [
+        "She enjoys practicing her *craft* on weekends.",
+        "The artisan displayed his *craft* at the fair."
+      ],
+      "transcription": "krɑːft",
+      "ru_translation": "ремесло, мастерство"
+    },
+    "img": "https://i.pinimg.com/236x/51/37/ed/5137eda92f61262c779e85eed7716dee--ukraine-folk-art.jpg"
+  },
+  {
+    "id": "craftsmanabcd",
+    "front": "craftsman",
+    "back": {
+      "definition": "a person who is skilled in a particular craft.",
+      "examples": [
+        "The *craftsman* carved a beautiful sculpture.",
+        "He is a skilled *craftsman* in woodworking."
+      ],
+      "transcription": "ˈkrɑːftsmən",
+      "ru_translation": "ремесленник"
+    },
+    "img": "https://cdn.culture.ru/images/3bbc022f-1f14-55b7-8119-fd02959a4395/c_fill,g_center,w_400,h_292/c1e8e7d0d3826fb83e6051c0941a632d.jpg"
+  },
+  {
+    "id": "craftyabcd",
+    "front": "crafty",
+    "back": {
+      "definition": "clever at achieving one's aims by indirect or deceitful methods.",
+      "examples": [
+        "The *crafty* fox evaded capture.",
+        "She devised a *crafty* plan to get what she wanted."
+      ],
+      "transcription": "ˈkrɑːfti",
+      "ru_translation": "хитрый"
+    },
+    "img": "https://image.shutterstock.com/image-photo/scheming-smiling-man-rubbing-his-260nw-549728833.jpg"
+  },
+  {
+    "id": "worthabcd",
+    "front": "worth",
+    "back": {
+      "definition": "the value of something measured by its qualities or by the esteem in which it is held.",
+      "examples": [
+        "The book's *worth* was evident by its high price.",
+        "He proved his *worth* to the team."
+      ],
+      "transcription": "wɜːθ",
+      "ru_translation": "стоимость, стоящий"
+    },
+    "img": "https://saqshy.info/wp-content/uploads/bfi_thumb/sell-on-amazon-fba-6u4k45vv6jmo9daqshwg2p2fc501dgrfpeixsh9fpxc.jpg"
+  },
+  {
+    "id": "worthyabcd",
+    "front": "worthy",
+    "back": {
+      "definition": "having qualities that deserve your respect, attention, or admiration.",
+      "examples": [
+        "She is a *worthy* recipient of the award.",
+        "His actions were deemed *worthy* of praise."
+      ],
+      "transcription": "ˈwɜːði",
+      "ru_translation": "достойный"
+    },
+    "img": "https://image.shutterstock.com/image-vector/smiling-businessman-several-hands-thumbs-260nw-316549340.jpg"
+  },
+  {
+    "id": "urbanabcd",
+    "front": "urban",
+    "back": {
+      "definition": "relating to a city or town.",
+      "examples": [
+        "The *urban* landscape was filled with skyscrapers.",
+        "He enjoys the *urban* lifestyle."
+      ],
+      "transcription": "ˈɜːbən",
+      "ru_translation": "городской"
+    },
+    "img": "https://th.wallhaven.cc/lg/j8/j81gvp.jpg"
+  },
+  {
+    "id": "pondabcd",
+    "front": "pond",
+    "back": {
+      "definition": "a small body of still water formed naturally or by artificial means.",
+      "examples": [
+        "They went fishing in the *pond*.",
+        "A family of ducks lived in the *pond*."
+      ],
+      "transcription": "pɒnd",
+      "ru_translation": "пруд"
+    },
+    "img": "https://2.bp.blogspot.com/-eESJ4oNk8p0/V6lOqVTMktI/AAAAAAAAAiU/xTbIvvoxIlA-MKKJ23WM2E8Gf_C2kShTACLcB/s320/landscaping.jpg"
+  },
+  {
+    "id": "familiarabcdef",
+    "front": "familiar",
+    "back": {
+      "definition": "easy to recognize because of being seen, met, heard, etc before",
+      "examples": [
+        "She felt *familiar* with the surroundings.",
+        "The sound of the old clock was *familiar* to him."
+      ],
+      "transcription": "fəˈmɪliə",
+      "ru_translation": "знакомый"
+    },
+    "img": "https://pravoregiona77.ru/wp-content/uploads/9/9/2/992ca0a67bdd5e51123481b7c6809bf0.jpg"
+  },
+  {
+    "id": "familiarityghijkl",
+    "front": "familiarity",
+    "back": {
+      "definition": "close acquaintance with or knowledge of something",
+      "examples": [
+        "His *familiarity* with the subject made the lecture interesting.",
+        "She has a deep *familiarity* with local customs."
+      ],
+      "transcription": "fəˌmɪlɪˈærɪti",
+      "ru_translation": "знакомство"
+    },
+    "img": "https://totuldespremame.ro/wp-content/uploads/2012/03/lasa-i-ochii.jpg"
+  },
+  {
+    "id": "unfamiliarmnopqr",
+    "front": "unfamiliar",
+    "back": {
+      "definition": "not known or recognized",
+      "examples": [
+        "The terrain was completely *unfamiliar* to them.",
+        "He felt *unfamiliar* with the new software."
+      ],
+      "transcription": "ˌʌnfəˈmɪliə",
+      "ru_translation": "незнакомый"
+    },
+    "img": "https://thumbs.dreamstime.com/b/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%BC%D0%B5%D0%BD-%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%80-%D1%81%D0%BE-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%B0-%D0%B8%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC-%D0%BD%D0%B0-%D0%B1%D0%B5%D0%BB%D0%BE%D0%BC-%D1%84%D0%BE%D0%BD%D0%B5-255290947.jpg"
+  },
+  {
+    "id": "familiarizesstuvw",
+    "front": "familiarize",
+    "back": {
+      "definition": "to give (someone) knowledge or understanding of something",
+      "examples": [
+        "The teacher tried to *familiarize* the students with the new concept.",
+        "He took a moment to *familiarize* himself with the controls."
+      ],
+      "transcription": "fəˈmɪliəraɪz",
+      "ru_translation": "ознакомиться"
+    },
+    "img": "https://www.shutterstock.com/image-photo/notary-client-office-260nw-544187953.jpg"
+  },
+  {
+    "id": "tapxyzabc",
+    "front": "tap",
+    "back": {
+      "definition": "to hit something gently, and often repeatedly, especially making short sharp noises",
+      "examples": [
+        "He *tapped* the table with his pen.",
+        "She gently *tapped* on the door."
+      ],
+      "transcription": "tæp",
+      "ru_translation": "стучать"
+    },
+    "img": "https://arnapress.kz/storage/articles/converted/1613618952848176.jpg"
+  },
+  {
+    "id": "tapdefghi",
+    "front": "tap",
+    "back": {
+      "definition": "a device by which a flow of liquid or gas from a pipe or container can be controlled",
+      "examples": [
+        "Turn off the *tap* when not in use.",
+        "The kitchen *tap* was leaking."
+      ],
+      "transcription": "tæp",
+      "ru_translation": "кран"
+    },
+    "img": "https://rigelsib.ru/upload/iblock/646/kran_vodorazbornyy_khrom.jpg"
+  },
+  {
+    "id": "columnjklmno",
+    "front": "column",
+    "back": {
+      "definition": "an upright pillar, typically cylindrical, supporting an arch or other structure or standing alone as a monument",
+      "examples": [
+        "The ancient *columns* were still standing.",
+        "He admired the Greek *columns* in the old temple."
+      ],
+      "transcription": "ˈkɒləm",
+      "ru_translation": "столб, колонна"
+    },
+    "img": "https://4.bp.blogspot.com/-VyzqM02P8lw/Vx4z8HS4vPI/AAAAAAAABYE/OP8webQoDxUbKz4oFELrP5GvsON8TfWPQCLcB/s200/Column_1.jpgbb10d441-f96f-4e86-bd80-8a54f3e8993cOriginal.jpg"
+  },
+  {
+    "id": "guiltpqrstu",
+    "front": "guilt",
+    "back": {
+      "definition": "the fact of having committed a specified or implied offense or crime",
+      "examples": [
+        "He felt a deep sense of *guilt* after the accident.",
+        "The evidence clearly showed her *guilt*."
+      ],
+      "transcription": "gɪlt",
+      "ru_translation": "вина"
+    },
+    "img": "https://richoliff.wordpress.com/wp-content/uploads/2013/03/sad-man-stigma-110603.jpg"
+  },
+  {
+    "id": "guiltyvwxyz",
+    "front": "guilty",
+    "back": {
+      "definition": "having committed an offense, crime, or wrong, especially against moral or penal law",
+      "examples": [
+        "The jury found him *guilty* of all charges.",
+        "She felt *guilty* about lying to her friend."
+      ],
+      "transcription": "ˈgɪlti",
+      "ru_translation": "виновный"
+    },
+    "img": "https://stihi.ru/pics/2018/01/09/3430.jpg"
   }
 ]
