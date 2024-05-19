@@ -810,5 +810,355 @@
       "ru_translation": "канат, кабель"
     },
     "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HN862?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1562973642996"
+  },
+  {
+    "id": "intelligentabcd",
+    "front": "intelligent",
+    "back": {
+      "definition": "able to learn, understand, and think about things quickly and easily",
+      "examples": [
+        "She is an *intelligent* student who excels in all subjects.",
+        "The *intelligent* design of the system makes it easy to use."
+      ],
+      "transcription": "ɪnˈtɛlɪʤənt",
+      "ru_translation": "умный"
+    },
+    "img": "https://britlex.ru/images/intelligent.jpg"
+  },
+  {
+    "id": "intelligenceefgh",
+    "front": "intelligence",
+    "back": {
+      "definition": "the ability to learn, understand, and think about things",
+      "examples": [
+        "His *intelligence* is evident in the way he solves complex problems.",
+        "Artificial *intelligence* is revolutionizing many industries."
+      ],
+      "transcription": "ɪnˈtɛlɪʤəns",
+      "ru_translation": "интеллект"
+    },
+    "img": "https://static.scientificamerican.com/sciam/cache/file/737236C8-7BF8-42C3-913CECC6C90D0295_source.jpg?w=850&h=477&1510AE40-E730-46A8-83D6EA28921ED026"
+  },
+  {
+    "id": "admitijkl",
+    "front": "admit",
+    "back": {
+      "definition": "to agree that something is true, especially unwillingly",
+      "examples": [
+        "He had to *admit* his mistake.",
+        "She reluctantly *admitted* to breaking the vase."
+      ],
+      "transcription": "ədˈmɪt",
+      "ru_translation": "признавать, допускать"
+    },
+    "img": "https://britlex.ru/images/admit.jpg"
+  },
+  {
+    "id": "admissionmnop",
+    "front": "admission",
+    "back": {
+      "definition": "the act of agreeing that something is true, especially unwillingly",
+      "examples": [
+        "Her *admission* of guilt surprised everyone.",
+        "The *admission* fee to the museum is $10."
+      ],
+      "transcription": "ədˈmɪʃ(ə)n",
+      "ru_translation": "допущение, допуск"
+    },
+    "img": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/06/12/Pictures/_cfad6a16-6dfa-11e8-9a75-8898ac94ce9e.jpg"
+  },
+  {
+    "id": "admittedlyqrst",
+    "front": "admittedly",
+    "back": {
+      "definition": "used when you are agreeing that something is true, especially unwillingly",
+      "examples": [
+        "*Admittedly*, it was a difficult challenge.",
+        "*Admittedly*, I was wrong about the issue."
+      ],
+      "transcription": "ədˈmɪtɪdli",
+      "ru_translation": "по правде говоря"
+    },
+    "img": "https://i.ytimg.com/vi/A-RnEkycdxE/maxresdefault.jpg"
+  },
+  {
+    "id": "creamuqrs",
+    "front": "cream",
+    "back": {
+      "definition": "the thick, yellowish-white liquid that forms on the top of milk",
+      "examples": [
+        "Would you like some *cream* in your coffee?",
+        "She whipped the *cream* until it was thick."
+      ],
+      "transcription": "kriːm",
+      "ru_translation": "крем, сливки"
+    },
+    "img": "https://thumbs.dreamstime.com/b/cream-background-white-texture-41230485.jpg"
+  },
+  {
+    "id": "creamywxyz",
+    "front": "creamy",
+    "back": {
+      "definition": "thick and smooth like cream; containing cream",
+      "examples": [
+        "The soup has a *creamy* texture.",
+        "She prefers *creamy* sauces for her pasta."
+      ],
+      "transcription": "ˈkriːmi",
+      "ru_translation": "сливочный"
+    },
+    "img": "https://www.foodprocessing-technology.com/wp-content/uploads/sites/19/2018/02/swirl-of-cream.jpg"
+  },
+  {
+    "id": "appropriaterstuv",
+    "front": "appropriate",
+    "back": {
+      "definition": "to take something for your own use, usually without permission",
+      "examples": [
+        "He tried to *appropriate* the funds for personal use.",
+        "The company *appropriated* the new technology without permission."
+      ],
+      "transcription": "əˈprəʊprɪɪt",
+      "ru_translation": "присвоить"
+    },
+    "img": "https://britlex.ru/images/appropriate2.jpg"
+  },
+  {
+    "id": "appropriatevwxyz",
+    "front": "appropriate",
+    "back": {
+      "definition": "suitable or right for a particular situation or occasion",
+      "examples": [
+        "Her outfit was *appropriate* for the occasion.",
+        "It is important to wear *appropriate* attire to a job interview."
+      ],
+      "transcription": "əˈprəʊprɪɪt",
+      "ru_translation": "подходящий"
+    },
+    "img": "https://fisiostar.com/wp-content/uploads/2018/12/ergonomia-1-326x245.jpg"
+  },
+  {
+    "id": "appropriationabcd",
+    "front": "appropriation",
+    "back": {
+      "definition": "the act of taking something for your own use, usually without permission",
+      "examples": [
+        "The *appropriation* of public funds is illegal.",
+        "He was accused of cultural *appropriation*."
+      ],
+      "transcription": "əˌprəʊprɪˈeɪʃ(ə)n",
+      "ru_translation": "присвоение"
+    },
+    "img": "https://thumbs.dreamstime.com/z/gesture-grabbing-appropriation-made-hand-white-background-81092130.jpg?w=576"
+  },
+  {
+    "id": "rootefgh",
+    "front": "root",
+    "back": {
+      "definition": "the part of a plant that grows down into the earth to get water and food and holds the plant firm in the ground",
+      "examples": [
+        "The tree's *roots* are deep and strong.",
+        "She pulled the weed out by the *root*."
+      ],
+      "transcription": "ruːt",
+      "ru_translation": "корень"
+    },
+    "img": "https://w7.pngwing.com/pngs/898/999/png-transparent-grey-tree-stump-tree-root-3d-modeling-turbosquid-the-roots-branch-root-twig-thumbnail.png"
+  },
+  {
+    "id": "compareabcdef",
+    "front": "compare",
+    "back": {
+      "definition": "to examine or look for the differences between persons or things",
+      "examples": [
+        "It is difficult to *compare* apples with oranges.",
+        "She always *compares* prices before buying anything."
+      ],
+      "transcription": "kəmˈpeə",
+      "ru_translation": "сравнить"
+    },
+    "img": "https://static-3.bitchute.com/live/cover_images/BxRVpoOdvVTI/4QBJ6cenT2Y_640x360.jpg"
+  },
+  {
+    "id": "comparableghijk",
+    "front": "comparable",
+    "back": {
+      "definition": "similar in size, amount, or quality to something else",
+      "examples": [
+        "The new model is *comparable* to the old one.",
+        "Their results are not directly *comparable* with each other."
+      ],
+      "transcription": "ˈkɒmpərəbl",
+      "ru_translation": "сравнимый"
+    },
+    "img": "https://1.bp.blogspot.com/-DX7U6tCip7Q/X6kNXKGSl-I/AAAAAAAABd8/i3o8fISvHWov7Y1m3R925b82gHIm4n1EACLcBGAsYHQ/s320/apple-orange-846x455.png"
+  },
+  {
+    "id": "incomparablelmnop",
+    "front": "incomparable",
+    "back": {
+      "definition": "so good or great that nothing or no one else could achieve the same standard",
+      "examples": [
+        "Her beauty is *incomparable* to anyone else's.",
+        "The view from the mountain top is simply *incomparable*."
+      ],
+      "transcription": "ɪnˈkɒmpərəbl",
+      "ru_translation": "несравнимый"
+    },
+    "img": "https://thumbs.dreamstime.com/z/comparing-incomparable-teenager-chooses-apple-orange-33200472.jpg"
+  },
+  {
+    "id": "comparativeqrstuv",
+    "front": "comparative",
+    "back": {
+      "definition": "involving the comparison of two or more things",
+      "examples": [
+        "We conducted a *comparative* study between the two groups.",
+        "She made a *comparative* analysis of the data."
+      ],
+      "transcription": "kəmˈpærətɪv",
+      "ru_translation": "сравнительный"
+    },
+    "img": "https://www.shutterstock.com/shutterstock/photos/1446984338/display_1500/stock-photo-young-woman-comparing-with-two-things-1446984338.jpg"
+  },
+  {
+    "id": "comparativelywxyz",
+    "front": "comparatively",
+    "back": {
+      "definition": "as compared to something else",
+      "examples": [
+        "The exam was *comparatively* easy compared to last year's.",
+        "Living costs are *comparatively* high in this area."
+      ],
+      "transcription": "kəmˈpærətɪvli",
+      "ru_translation": "в сравнении"
+    },
+    "img": "https://media.istockphoto.com/id/1297524862/vector/relatively-friends.jpg?s=612x612&w=0&k=20&c=_buNXi3SJD7km7AycEanhik6obyfihjw0-RwjbAp2zc="
+  },
+  {
+    "id": "humanabcd",
+    "front": "human",
+    "back": {
+      "definition": "being, relating to, or belonging to a person or to people as opposed to animals",
+      "examples": [
+        "Every *human* has the right to freedom.",
+        "The *human* body is capable of amazing things."
+      ],
+      "transcription": "ˈhjuːmən",
+      "ru_translation": "человек, человеческий"
+    },
+    "img": "https://otvet.imgsmail.ru/download/273521633_57c44c5262d6293c456c241399a85884_800.jpg"
+  },
+  {
+    "id": "inhumanefgh",
+    "front": "inhuman",
+    "back": {
+      "definition": "extremely cruel; not having the qualities of kindness, pity, or sympathy that people usually have",
+      "examples": [
+        "His treatment of the prisoners was *inhuman*.",
+        "The dictator's actions were *inhuman* by any standard."
+      ],
+      "transcription": "ɪnˈhjuːmən",
+      "ru_translation": "бесчеловечный"
+    },
+    "img": "https://thumbs.dreamstime.com/b/human-skeleton-steel-cage-torture-52380897.jpg"
+  },
+  {
+    "id": "humanityijkl",
+    "front": "humanity",
+    "back": {
+      "definition": "people in general; all people",
+      "examples": [
+        "We must strive for the betterment of *humanity*.",
+        "Acts of kindness restore faith in *humanity*."
+      ],
+      "transcription": "hju(ː)ˈmænɪti",
+      "ru_translation": "человечество"
+    },
+    "img": "https://media.gemini.media/img/large/2022/11/15/2022_11_15_14_42_22_643.jpg"
+  },
+  {
+    "id": "slaymnop",
+    "front": "slay (slew, slain)",
+    "back": {
+      "definition": "to kill in a violent way",
+      "examples": [
+        "The dragon was *slain* by the knight.",
+        "He *slew* his enemies with great ferocity."
+      ],
+      "transcription": "sleɪ, sluː, sleɪn",
+      "ru_translation": "умертвить"
+    },
+    "img": "https://britlex.ru/images/slay.jpg"
+  },
+  {
+    "id": "persistqrst",
+    "front": "persist",
+    "back": {
+      "definition": "to continue to exist past the usual time, or to continue to do something in a determined way even when facing difficulties or opposition",
+      "examples": [
+        "She *persisted* in her efforts despite the challenges.",
+        "If symptoms *persist*, consult your doctor."
+      ],
+      "transcription": "pəˈsɪst",
+      "ru_translation": "сохраниться"
+    },
+    "img": "https://britlex.ru/images/persist.jpg"
+  },
+  {
+    "id": "persistentuvwx",
+    "front": "persistent",
+    "back": {
+      "definition": "lasting for a long time or difficult to get rid of",
+      "examples": [
+        "He has been *persistent* in asking for a promotion.",
+        "The rain has been *persistent* throughout the week."
+      ],
+      "transcription": "pəˈsɪstənt",
+      "ru_translation": "стойкий, устойчивый"
+    },
+    "img": "https://images.livehindustan.com/uploadimage/library/16_9/16_9_1/hard_working__1504786406.jpg"
+  },
+  {
+    "id": "persistenceyzab",
+    "front": "persistence",
+    "back": {
+      "definition": "the fact that someone or something persists",
+      "examples": [
+        "Her *persistence* in achieving her goals is admirable.",
+        "The *persistence* of the cold weather is unusual for this time of year."
+      ],
+      "transcription": "pəˈsɪstəns",
+      "ru_translation": "упорство"
+    },
+    "img": "https://www.clarityqst.com/wp-content/uploads/2018/02/Untitled-design-9.png"
+  },
+  {
+    "id": "widecdef",
+    "front": "wide",
+    "back": {
+      "definition": "having a larger distance from one side to the other than is usual or expected",
+      "examples": [
+        "The river is very *wide* at this point.",
+        "She has a *wide* range of interests."
+      ],
+      "transcription": "waɪd",
+      "ru_translation": "широкий, просторный"
+    },
+    "img": "https://sun9-1.userapi.com/c852124/v852124296/21a34/bDkv5J7Quo8.jpg"
+  },
+  {
+    "id": "widenijkl",
+    "front": "widen",
+    "back": {
+      "definition": "to become, or to make something become, wider",
+      "examples": [
+        "They plan to *widen* the road to accommodate more traffic.",
+        "Her eyes *widened* with surprise."
+      ],
+      "transcription": "ˈwaɪdn",
+      "ru_translation": "расширять"
+    },
+    "img": "https://telegra.ph/file/4a8f1663a4dfc4bebe4ad.jpg"
   }
 ]
