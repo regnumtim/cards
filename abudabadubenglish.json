@@ -544,5 +544,271 @@
       "ru_translation": "виновный"
     },
     "img": "https://stihi.ru/pics/2018/01/09/3430.jpg"
+  },
+  {
+    "id": "armabcd",
+    "front": "arm",
+    "back": {
+      "definition": "either of the two long parts of the upper body that are attached to the shoulders and have the hands at the end.",
+      "examples": [
+        "He broke his *arm* while playing football.",
+        "She raised her *arm* to ask a question."
+      ],
+      "transcription": "ɑːm",
+      "ru_translation": "рука"
+    },
+    "img": "https://i.pinimg.com/236x/6b/d6/5e/6bd65ed9b1fa3058e9e9aa3e27164c91.jpg"
+  },
+  {
+    "id": "forearmefgh",
+    "front": "forearm",
+    "back": {
+      "definition": "the part of the arm between the elbow and the wrist.",
+      "examples": [
+        "He has a tattoo on his *forearm*.",
+        "She felt pain in her *forearm* after lifting the weights."
+      ],
+      "transcription": "ˈfɔːrɑːm",
+      "ru_translation": "предплечье"
+    },
+    "img": "https://mnemoenglish.ru/img/englishdom/words/1169_default_240x168.jpg"
+  },
+  {
+    "id": "chamberijkl",
+    "front": "chamber",
+    "back": {
+      "definition": "a room used for a special or official purpose, or a group of people who form (part of) a parliament.",
+      "examples": [
+        "The meeting was held in the council *chamber*.",
+        "The heart has four *chambers*."
+      ],
+      "transcription": "ˈʧeɪmbə",
+      "ru_translation": "палата, зал"
+    },
+    "img": "https://2.bp.blogspot.com/-x1DxnYr5twg/WYS7jhBL4OI/AAAAAAAAc-0/j8Pu-uRSUNIFFGc4qtAELd5pl2oGgNxPwCLcBGAs/s400/Star%2BChamber.jpg"
+  },
+  {
+    "id": "owemnop",
+    "front": "owe",
+    "back": {
+      "definition": "to need to pay or give something to someone because they have lent money to you, or in exchange for something they have done for you.",
+      "examples": [
+        "I *owe* you ten dollars.",
+        "She still *owes* money on her car loan."
+      ],
+      "transcription": "əʊ",
+      "ru_translation": "задолжать"
+    },
+    "img": "https://i0.wp.com/www.lottyearns.co.uk/wp-content/uploads/2016/05/deal-pic19.jpg?resize=300%2C300&ssl=1"
+  },
+  {
+    "id": "includeqrst",
+    "front": "include",
+    "back": {
+      "definition": "to contain something as a part of something else, or to make something part of something else.",
+      "examples": [
+        "The tour *includes* a visit to the museum.",
+        "Please *include* your contact information in the email."
+      ],
+      "transcription": "ɪnˈkluːd",
+      "ru_translation": "включать, содержать в себе"
+    },
+    "img": "https://www.shutterstock.com/image-vector/modern-clipboard-line-icon-premium-600w-741874450.jpg"
+  },
+  {
+    "id": "inclusionuvwx",
+    "front": "inclusion",
+    "back": {
+      "definition": "the fact of including someone or something, especially as part of a group, list, etc.",
+      "examples": [
+        "The *inclusion* of more women in the workforce is vital.",
+        "His *inclusion* in the team was a great decision."
+      ],
+      "transcription": "ɪnˈkluːʒən",
+      "ru_translation": "включение"
+    },
+    "img": "https://media.gettyimages.com/id/1399624051/photo/business-success-an-inclusive-team-composition.jpg?s=2048x2048&w=gi&k=20&c=lyZNo-XDy8C6vbfTFc_E2kmX1Ekhp2fJcyfkZyZeSw0="
+  },
+  {
+    "id": "inclusiveyzab",
+    "front": "inclusive",
+    "back": {
+      "definition": "containing all; not keeping any out.",
+      "examples": [
+        "We aim to create an *inclusive* environment.",
+        "The price is *inclusive* of taxes."
+      ],
+      "transcription": "ɪnˈkluːsɪv",
+      "ru_translation": "включающий в себя"
+    },
+    "img": "https://s3.amazonaws.com/www-inside-design/uploads/2019/06/broadlystock1.jpeg"
+  },
+  {
+    "id": "inclusivelycdef",
+    "front": "inclusively",
+    "back": {
+      "definition": "in a way that includes everyone and everything.",
+      "examples": [
+        "The policy applies *inclusively* to all employees.",
+        "We need to think *inclusively* to solve this problem."
+      ],
+      "transcription": "ɪnˈkluːsɪvli",
+      "ru_translation": "включительно"
+    },
+    "img": "https://cdn.trend.az/2019/03/06/taxes_finans_060319.jpg"
+  },
+  {
+    "id": "appointghij",
+    "front": "appoint",
+    "back": {
+      "definition": "to choose someone officially for a job or responsibility.",
+      "examples": [
+        "They decided to *appoint* a new manager.",
+        "She was *appointed* to the board of directors."
+      ],
+      "transcription": "əˈpɔɪnt",
+      "ru_translation": "назначать, утверждать"
+    },
+    "img": "https://law.asia/wp-content/uploads/2017/03/Duty-to-appoint-independent-arbitrators-explained.jpg"
+  },
+  {
+    "id": "appointmentklmn",
+    "front": "appointment",
+    "back": {
+      "definition": "a formal arrangement to meet or visit someone at a particular time and place.",
+      "examples": [
+        "I have a dentist *appointment* tomorrow.",
+        "She scheduled an *appointment* with the doctor."
+      ],
+      "transcription": "əˈpɔɪntmənt",
+      "ru_translation": "деловое свидание, встреча"
+    },
+    "img": "https://www.synevo.pl/wp-content/uploads/2021/08/Program-Profilaktyka-40plus-wyniki-w-normie.jpg"
+  },
+  {
+    "id": "appointmentopqr",
+    "front": "appointment",
+    "back": {
+      "definition": "the act of officially choosing someone for a job, or the job itself.",
+      "examples": [
+        "His *appointment* as CEO was unexpected.",
+        "The *appointment* of the new judge was confirmed."
+      ],
+      "transcription": "əˈpɔɪntmənt",
+      "ru_translation": "назначение на должность"
+    },
+    "img": "https://pickatime.com/Home/images/main/bis_400.jpg"
+  },
+  {
+    "id": "celebrateabcdef",
+    "front": "celebrate",
+    "back": {
+      "definition": "to take part in special enjoyable activities in order to show that a particular occasion is important",
+      "examples": [
+        "We always *celebrate* birthdays with a cake.",
+        "They *celebrated* their anniversary by going out for dinner."
+      ],
+      "transcription": "ˈsɛlɪbreɪt",
+      "ru_translation": "праздновать"
+    },
+    "img": "https://marketingsmokeandmirrors.files.wordpress.com/2018/07/celebrate-with-purpose1.jpg"
+  },
+  {
+    "id": "celebrationghijk",
+    "front": "celebration",
+    "back": {
+      "definition": "a special social event, such as a party, when you celebrate something",
+      "examples": [
+        "The town held a big *celebration* for the holiday.",
+        "We had a *celebration* after the graduation ceremony."
+      ],
+      "transcription": "ˌsɛlɪˈbreɪʃən",
+      "ru_translation": "праздник"
+    },
+    "img": "https://www.caseyfieldsps.vic.edu.au/wp-content/uploads/2022/11/celebration-day-1.jpg"
+  },
+  {
+    "id": "celebratorylmnop",
+    "front": "celebratory",
+    "back": {
+      "definition": "celebrating an important event or a special occasion",
+      "examples": [
+        "There was a *celebratory* dinner for the award winners.",
+        "She gave a *celebratory* speech at the event."
+      ],
+      "transcription": "ˈsɛlɪbrətəri",
+      "ru_translation": "праздничный"
+    },
+    "img": "https://thecelebrationbanquethall.com/wp-content/gallery/decoration/1.jpg"
+  },
+  {
+    "id": "abuseqrstuv",
+    "front": "abuse",
+    "back": {
+      "definition": "to use something for the wrong purpose in a way that is harmful or morally wrong",
+      "examples": [
+        "He was accused of *abusing* his power.",
+        "The law protects against *abuse* of animals."
+      ],
+      "transcription": "əˈbjuːs",
+      "ru_translation": "оскорблять, бранить, брань"
+    },
+    "img": "https://britlex.ru/images/abuse2.jpg"
+  },
+  {
+    "id": "abusivexyzabc",
+    "front": "abusive",
+    "back": {
+      "definition": "using rude and offensive words",
+      "examples": [
+        "He was fired for making *abusive* comments.",
+        "The manager's *abusive* language shocked everyone."
+      ],
+      "transcription": "əˈbjuːsɪv",
+      "ru_translation": "оскорбительный"
+    },
+    "img": "https://lochassociates.co.uk/wp-content/uploads/2021/02/bullying-green-background_tcm27-54581_w1228_n.jpg"
+  },
+  {
+    "id": "digdqwer",
+    "front": "dig (dug dug)",
+    "back": {
+      "definition": "to break up and move soil using a tool, a machine, or your hands",
+      "examples": [
+        "He loves to *dig* in the garden.",
+        "We need to *dig* a hole for the new tree."
+      ],
+      "transcription": "dɪg, dʌɡ",
+      "ru_translation": "копать"
+    },
+    "img": "https://britlex.ru/images/dig.jpg"
+  },
+  {
+    "id": "behaviorfghij",
+    "front": "behavior",
+    "back": {
+      "definition": "the way that someone behaves",
+      "examples": [
+        "His *behavior* in class is always exemplary.",
+        "We need to address her disruptive *behavior*."
+      ],
+      "transcription": "bɪˈheɪvjə",
+      "ru_translation": "поведение"
+    },
+    "img": "https://ecc301c3-cdn.agilitycms.cloud/Attachments/NewItems/AS_144002133_Behaviour%20Therapy%201800x1800_RESIZED%20VERSION_20210519152811_0.jpg"
+  },
+  {
+    "id": "cableklmno",
+    "front": "cable",
+    "back": {
+      "definition": "a set of wires, covered by plastic, that carries electricity, phone signals, etc.",
+      "examples": [
+        "The internet *cable* needs to be replaced.",
+        "She tripped over the *cable* in the hallway."
+      ],
+      "transcription": "ˈkeɪbl",
+      "ru_translation": "канат, кабель"
+    },
+    "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HN862?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1562973642996"
   }
 ]
