@@ -361,7 +361,7 @@
       "transcription": "ˈkrɑːfti",
       "ru_translation": "хитрый"
     },
-    "img": "https://image.shutterstock.com/image-photo/scheming-smiling-man-rubbing-his-260nw-549728833.jpg"
+    "img": "https://st2.depositphotos.com/3489481/5992/i/950/depositphotos_59925073-stock-photo-sneaky-sly-scheming-crazy-looking.jpg"
   },
   {
     "id": "worthabcd",
@@ -771,7 +771,7 @@
   },
   {
     "id": "digdqwer",
-    "front": "dig (dug dug)",
+    "front": "dig (dug, dug)",
     "back": {
       "definition": "to break up and move soil using a tool, a machine, or your hands",
       "examples": [
@@ -1031,7 +1031,7 @@
         "Living costs are *comparatively* high in this area."
       ],
       "transcription": "kəmˈpærətɪvli",
-      "ru_translation": "в сравнении"
+      "ru_translation": "сравнительно"
     },
     "img": "https://media.istockphoto.com/id/1297524862/vector/relatively-friends.jpg?s=612x612&w=0&k=20&c=_buNXi3SJD7km7AycEanhik6obyfihjw0-RwjbAp2zc="
   },
@@ -1201,7 +1201,7 @@
       "transcription": "ˈvænɪʃ",
       "ru_translation": "исчезнуть"
     },
-    "img": "https://wealthofgeeks.com/wp-content/uploads/2023/07/disappearing-768x432.jpg"
+    "img": "https://2.bp.blogspot.com/-qL0_X7EZ9qw/WSpOyXptOKI/AAAAAAAAAMg/NSB7sAnIRaMODef7UNX2ehYIq76P8CEsgCPcBGAYYCw/s640/life-must-go-on-storycitra-poetry.jpg"
   },
   {
     "id": "stirstuvwx",
@@ -1353,7 +1353,7 @@
         "His *narration* kept the audience engaged."
       ],
       "transcription": "nəˈreɪʃən",
-      "ru_translation": "пересказ"
+      "ru_translation": "рассказ"
     },
     "img": "https://i.pinimg.com/736x/7e/c3/a4/7ec3a44229b9f30eb0b1c6766dde34bf.jpg"
   },
@@ -1454,5 +1454,327 @@
       "ru_translation": "непристойность"
     },
     "img": "https://sun9-77.userapi.com/impf/c855732/v855732842/16b184/JcCREvvy2uY.jpg?size=604x403&quality=96&sign=b904fbba60b696675b0f78b9a810fbaa&c_uniq_tag=zOc6qAjVMlYzJyx0rWrsrMfD-w9zuy9uLKPpQNDn0cs&type=album"
+  },
+  {
+    "id": "gloveabcd",
+    "front": "glove",
+    "back": {
+      "definition": "a piece of clothing that is worn on the hand and wrist for warmth or protection, with separate parts for each finger.",
+      "examples": [
+        "She put on her *gloves* before going outside.",
+        "He took off his *gloves* after shoveling snow."
+      ],
+      "transcription": "glʌv",
+      "ru_translation": "перчатка"
+    },
+    "img": "https://britlex.ru/images/glove.jpg"
+  },
+  {
+    "id": "cureefgh",
+    "front": "cure",
+    "back": {
+      "definition": "to make someone with an illness healthy again.",
+      "examples": [
+        "The doctor managed to *cure* the patient.",
+        "They are working to *cure* the disease."
+      ],
+      "transcription": "kjʊə",
+      "ru_translation": "лечить, лекарство"
+    },
+    "img": "https://britlex.ru/images/cure.jpg"
+  },
+  {
+    "id": "curableijkl",
+    "front": "curable",
+    "back": {
+      "definition": "able to be cured.",
+      "examples": [
+        "The illness is *curable* if treated early.",
+        "Some diseases are not *curable*."
+      ],
+      "transcription": "ˈkjʊərəbl",
+      "ru_translation": "излечимый"
+    },
+    "img": "https://avatars.mds.yandex.net/i?id=bdf4ff5fd15a08675837b0c73a8cd43b-4599550-images-thumbs&ref=rim&n=33&w=375&h=250"
+  },
+  {
+    "id": "incurablemnop",
+    "front": "incurable",
+    "back": {
+      "definition": "not able to be cured.",
+      "examples": [
+        "Unfortunately, the condition is *incurable*.",
+        "He was diagnosed with an *incurable* disease."
+      ],
+      "transcription": "ɪnˈkjʊərəbl",
+      "ru_translation": "неизлечимый"
+    },
+    "img": "https://www.pharmazeutische-zeitung.de/fileadmin/_processed_/3/7/csm_38650_f91d137780.jpg"
+  },
+  {
+    "id": "curativeqrst",
+    "front": "curative",
+    "back": {
+      "definition": "able to cure or cause to get better.",
+      "examples": [
+        "The *curative* properties of the herb were well-known.",
+        "This medicine has a *curative* effect on infections."
+      ],
+      "transcription": "ˈkjʊərətɪv",
+      "ru_translation": "лечебный"
+    },
+    "img": "https://akupunkturuzmanim.com/wp-content/uploads/2020/10/Adsiz-tasarim-13-1024x576.jpg"
+  },
+  {
+    "id": "avoiduuvw",
+    "front": "avoid",
+    "back": {
+      "definition": "to stay away from someone or something.",
+      "examples": [
+        "She tries to *avoid* talking to him.",
+        "He *avoids* junk food to stay healthy."
+      ],
+      "transcription": "əˈvɔɪd",
+      "ru_translation": "избегать"
+    },
+    "img": "https://britlex.ru/images/avoid.jpg"
+  },
+  {
+    "id": "avoidancexy",
+    "front": "avoidance",
+    "back": {
+      "definition": "the act of avoiding something or someone.",
+      "examples": [
+        "His *avoidance* of conflict is well-known.",
+        "She developed an *avoidance* of crowded places."
+      ],
+      "transcription": "əˈvɔɪdəns",
+      "ru_translation": "избежание"
+    },
+    "img": "https://www.theaccountancy.co.uk/wp-content/uploads/2019/08/tax-avoidance.jpg"
+  },
+  {
+    "id": "thinkoverzabc",
+    "front": "think over",
+    "back": {
+      "definition": "to consider an idea or plan carefully before making a decision.",
+      "examples": [
+        "I need to *think over* your offer.",
+        "He took some time to *think over* his options."
+      ],
+      "transcription": "θɪŋkˈəʊvə",
+      "ru_translation": "обдумать"
+    },
+    "img": "https://britlex.ru/images/think%20over.jpg"
+  },
+  {
+    "id": "thinkthroughdef",
+    "front": "think through",
+    "back": {
+      "definition": "to carefully consider the possible results of doing something.",
+      "examples": [
+        "She always *thinks through* her plans.",
+        "You need to *think through* the consequences."
+      ],
+      "transcription": "θɪŋkθruː",
+      "ru_translation": "продумать"
+    },
+    "img": "https://i.ytimg.com/vi/KHkVZ6tvIKU/hqdefault.jpg"
+  },
+  {
+    "id": "emergeghij",
+    "front": "emerge",
+    "back": {
+      "definition": "to appear by coming out of something or out from behind something.",
+      "examples": [
+        "A figure *emerged* from the shadows.",
+        "The truth finally *emerged* after years of silence."
+      ],
+      "transcription": "ɪˈmɜːʤ",
+      "ru_translation": "появляться"
+    },
+    "img": "https://britlex.ru/images/emerge.jpg"
+  },
+  {
+    "id": "emergentklm",
+    "front": "emergent",
+    "back": {
+      "definition": "starting to exist or to become known.",
+      "examples": [
+        "The *emergent* technology is still in its infancy.",
+        "He is an *emergent* talent in the industry."
+      ],
+      "transcription": "ɪˈmɜːʤənt",
+      "ru_translation": "возникающий"
+    },
+    "img": "https://t3.ftcdn.net/jpg/00/14/90/00/360_F_14900080_eWh4jIhPb5OFdDWlsXxbngLDXDUwEOKi.jpg"
+  },
+  {
+    "id": "emergencenop",
+    "front": "emergence",
+    "back": {
+      "definition": "the fact of something becoming known or starting to exist.",
+      "examples": [
+        "The *emergence* of new markets has boosted the economy.",
+        "We witnessed the *emergence* of a new era."
+      ],
+      "transcription": "ɪˈmɜːʤəns",
+      "ru_translation": "появление"
+    },
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rafael_-_ressureicaocristo01.jpg"
+  },
+  {
+    "id": "fishermandfghe",
+    "front": "fisherman",
+    "back": {
+      "definition": "someone who catches fish, especially as a job",
+      "examples": [
+        "The *fisherman* went out to sea early in the morning.",
+        "She bought fresh fish from the local *fisherman*."
+      ],
+      "transcription": "ˈfɪʃəmən",
+      "ru_translation": "рыбак"
+    },
+    "img": "https://britlex.ru/images/fisherman.jpg"
+  },
+  {
+    "id": "fisherydfghr",
+    "front": "fishery",
+    "back": {
+      "definition": "an area of water where fish are caught so they can be sold",
+      "examples": [
+        "The government regulates the *fishery* to prevent overfishing.",
+        "He invested in a *fishery* along the coast."
+      ],
+      "transcription": "ˈfɪʃəri",
+      "ru_translation": "рыболовство"
+    },
+    "img": "https://images.squarespace-cdn.com/content/v1/5e4abe98a0da1d65f55e01c3/1593121478737-H6SWQ2KOF533GX1KV2PK/image-asset.jpeg"
+  },
+  {
+    "id": "consciousdfghy",
+    "front": "conscious",
+    "back": {
+      "definition": "awake, thinking, and knowing what is happening around you",
+      "examples": [
+        "She was fully *conscious* during the operation.",
+        "He made a *conscious* effort to improve his behavior."
+      ],
+      "transcription": "ˈkɒnʃəs",
+      "ru_translation": "сознательный, сознающий"
+    },
+    "img": "https://britlex.ru/images/conscious.jpg"
+  },
+  {
+    "id": "unconsciousdfghu",
+    "front": "unconscious",
+    "back": {
+      "definition": "in the state of not being awake and not aware of things around you, especially as the result of a head injury",
+      "examples": [
+        "He was knocked *unconscious* during the fight.",
+        "She lay *unconscious* on the floor after the accident."
+      ],
+      "transcription": "ʌnˈkɒnʃəs",
+      "ru_translation": "без сознания"
+    },
+    "img": "https://img.freepik.com/free-photo/unconscious-young-woman-lying-at-home_220873-10103.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": "consciousnessdfghi",
+    "front": "consciousness",
+    "back": {
+      "definition": "the state of understanding and realizing something",
+      "examples": [
+        "He regained *consciousness* after a few minutes.",
+        "Her *consciousness* of the situation grew as she listened."
+      ],
+      "transcription": "ˈkɒnʃəsnɪs",
+      "ru_translation": "сознание"
+    },
+    "img": "https://s.eximg.jp/denwa/storage/fortune/article/6/276/3565e9410fa7425b_extralarge.jpeg"
+  },
+  {
+    "id": "subconsciousdfgho",
+    "front": "subconscious",
+    "back": {
+      "definition": "the part of your mind that contains feelings and thoughts that you do not know about, and that influences the way you behave",
+      "examples": [
+        "His fear of dogs is rooted in his *subconscious* mind.",
+        "The dream revealed her *subconscious* worries."
+      ],
+      "transcription": "ˌsʌbˈkɒnʃəs",
+      "ru_translation": "подсознательный"
+    },
+    "img": "https://www.zuuh.net/wp-content/uploads/2020/04/Psikoloji-taban-puanlari.jpg"
+  },
+  {
+    "id": "subconsciousnessdfghj",
+    "front": "subconsciousness",
+    "back": {
+      "definition": "the state of not being aware of something that influences your thoughts or behavior",
+      "examples": [
+        "Her *subconsciousness* influences her decisions without her knowing.",
+        "The therapist explored his *subconsciousness* to understand his behavior."
+      ],
+      "transcription": "ˌsʌbˈkɒnʃəsnəs",
+      "ru_translation": "подсознание"
+    },
+    "img": "https://bezpecnevotice.cz/wp-content/uploads/2020/03/2020-03-30-Psychika.jpg"
+  },
+  {
+    "id": "detectdfghk",
+    "front": "detect",
+    "back": {
+      "definition": "to notice something that is partly hidden or not clear, or to discover something, especially using a special method",
+      "examples": [
+        "The machine can *detect* even the smallest defects.",
+        "He was able to *detect* the scent of flowers in the air."
+      ],
+      "transcription": "dɪˈtɛkt",
+      "ru_translation": "обнаружить, выявить"
+    },
+    "img": "https://www.ferpol.pl/blog/wp-content/uploads/2020/06/wykrywacz-metali-768x512.jpg"
+  },
+  {
+    "id": "anywheredfgjl",
+    "front": "anywhere",
+    "back": {
+      "definition": "in, at, or to any place",
+      "examples": [
+        "You can sit *anywhere* you like.",
+        "He couldn’t find his keys *anywhere*."
+      ],
+      "transcription": "ˈɛnɪweə",
+      "ru_translation": "где угодно, куда угодно"
+    },
+    "img": "https://en.bcdn.biz/images/jokes/320x192/3b916248-1d90-4d8c-9dad-49f1cee94d95.jpg"
+  },
+  {
+    "id": "anyhowdfghm",
+    "front": "anyhow",
+    "back": {
+      "definition": "in a way that is not organized or tidy",
+      "examples": [
+        "The tools were just left *anyhow* in the shed.",
+        "She threw her clothes *anyhow* into the suitcase."
+      ],
+      "transcription": "ˈɛnɪhaʊ",
+      "ru_translation": "как угодно"
+    },
+    "img": "https://prv3.lori-images.net/chemodan-s-odezhdoi-i-chernaya-koshka-0007838755-preview.jpg"
+  },
+  {
+    "id": "daredfghn",
+    "front": "dare",
+    "back": {
+      "definition": "to be brave enough to do something difficult or dangerous",
+      "examples": [
+        "He didn’t *dare* to jump off the cliff.",
+        "She *dared* him to eat the spicy pepper."
+      ],
+      "transcription": "deə",
+      "ru_translation": "осмелиться"
+    },
+    "img": "https://britlex.ru/images/dare.jpg"
   }
 ]
