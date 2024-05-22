@@ -1691,7 +1691,7 @@
       "transcription": "ˈkɒnʃəsnɪs",
       "ru_translation": "сознание"
     },
-    "img": "https://s.eximg.jp/denwa/storage/fortune/article/6/276/3565e9410fa7425b_extralarge.jpeg"
+    "img": "https://i.pinimg.com/originals/e3/3f/26/e33f26a606ea7df77325456e6d9acc53.jpg"
   },
   {
     "id": "subconsciousdfgho",
@@ -1747,7 +1747,7 @@
       "transcription": "ˈɛnɪweə",
       "ru_translation": "где угодно, куда угодно"
     },
-    "img": "https://en.bcdn.biz/images/jokes/320x192/3b916248-1d90-4d8c-9dad-49f1cee94d95.jpg"
+    "img": "https://usrtk.org/wp-content/uploads/2019/04/videoblocks-people-walk-and-sit-at-a-park-around-a-pond-trees-and-the-blue-sky-in-the-background_bp3ik8ane_thumbnail-full01-400x281.png"
   },
   {
     "id": "anyhowdfghm",
@@ -1776,5 +1776,313 @@
       "ru_translation": "осмелиться"
     },
     "img": "https://britlex.ru/images/dare.jpg"
+  },
+  {
+    "id": "angerXYZ",
+    "front": "anger",
+    "back": {
+      "definition": "a strong feeling of displeasure or hostility",
+      "examples": [
+        "He felt a surge of *anger* at the injustice.",
+        "She couldn't hide her *anger* with him."
+      ],
+      "transcription": "ˈæŋgə",
+      "ru_translation": "гнев"
+    },
+    "img": "https://britlex.ru/images/anger.jpg"
+  },
+  {
+    "id": "stuffABC",
+    "front": "stuff",
+    "back": {
+      "definition": "a collection of things or materials that are not specified",
+      "examples": [
+        "I need to pack all my *stuff* for the trip.",
+        "She loves buying new *stuff* for her house."
+      ],
+      "transcription": "stʌf",
+      "ru_translation": "вещи, всякая фигня"
+    },
+    "img": "https://britlex.ru/images/stuff.jpg"
+  },
+  {
+    "id": "fortunateDEF",
+    "front": "fortunate",
+    "back": {
+      "definition": "having good luck; lucky",
+      "examples": [
+        "He was *fortunate* to find a good job so quickly.",
+        "She considered herself *fortunate* to have such supportive friends."
+      ],
+      "transcription": "ˈfɔːʧnɪt",
+      "ru_translation": "удачный"
+    },
+    "img": "https://britlex.ru/images/fortunate.jpg"
+  },
+  {
+    "id": "fortunatelyGHI",
+    "front": "fortunately",
+    "back": {
+      "definition": "happening because of good luck",
+      "examples": [
+        "*Fortunately*, the weather was perfect for the picnic.",
+        "We were *fortunately* able to get tickets to the concert."
+      ],
+      "transcription": "ˈfɔːʧnɪtli",
+      "ru_translation": "к счастью"
+    },
+    "img": "https://mosaica.ru/image/index/smallPreview/183297?water="
+  },
+  {
+    "id": "unfortunatelyJKL",
+    "front": "unfortunately",
+    "back": {
+      "definition": "happening because of bad luck",
+      "examples": [
+        "*Unfortunately*, we missed the last train home.",
+        "He *unfortunately* had to cancel his trip due to illness."
+      ],
+      "transcription": "ʌnˈfɔːʧnɪtli",
+      "ru_translation": "к сожалению"
+    },
+    "img": "https://image.shutterstock.com/image-photo/handsome-young-man-lost-train-260nw-577729747.jpg"
+  },
+  {
+    "id": "unfortunateMNO",
+    "front": "unfortunate",
+    "back": {
+      "definition": "having bad luck; unlucky",
+      "examples": [
+        "It was an *unfortunate* accident that could have been prevented.",
+        "They were *unfortunate* to lose their home in the fire."
+      ],
+      "transcription": "ʌnˈfɔːʧnɪt",
+      "ru_translation": "несчастный"
+    },
+    "img": "https://www.vdk.de/sys/data/16/img/h_00010628B1479390555.jpg"
+  },
+  {
+    "id": "wildernessPQR",
+    "front": "wilderness",
+    "back": {
+      "definition": "an area of land that has not been developed or is in its natural state",
+      "examples": [
+        "They went on a hike through the *wilderness*.",
+        "The cabin is located in the heart of the *wilderness*."
+      ],
+      "transcription": "ˈwɪldənɪs",
+      "ru_translation": "глушь, дикая местность"
+    },
+    "img": "https://britlex.ru/images/wilderness.jpg"
+  },
+  {
+    "id": "shutoutSTU",
+    "front": "shut out",
+    "back": {
+      "definition": "to prevent someone or something from entering a place",
+      "examples": [
+        "We need to *shut out* the noise from the street.",
+        "She felt *shut out* from the group."
+      ],
+      "transcription": "ʃʌtaʊt",
+      "ru_translation": "не впускать"
+    },
+    "img": "https://britlex.ru/images/shut%20out.jpg"
+  },
+  {
+    "id": "shutinVWX",
+    "front": "shut in",
+    "back": {
+      "definition": "to prevent someone or something from leaving a place",
+      "examples": [
+        "The storm *shut in* the travelers at the cabin.",
+        "She was *shut in* by her illness for weeks."
+      ],
+      "transcription": "ʃʌtɪn",
+      "ru_translation": "не выпускать"
+    },
+    "img": "https://img.youtube.com/vi/c3OUPfOrnyg/0.jpg"
+  },
+  {
+    "id": "noiseYZA",
+    "front": "noise",
+    "back": {
+      "definition": "a sound, especially one that is loud or unpleasant",
+      "examples": [
+        "The *noise* from the construction site was unbearable.",
+        "I couldn't sleep because of the *noise* outside."
+      ],
+      "transcription": "nɔɪz",
+      "ru_translation": "шум"
+    },
+    "img": "https://britlex.ru/images/noise.jpg"
+  },
+  {
+    "id": "noisyBCD",
+    "front": "noisy",
+    "back": {
+      "definition": "making a lot of noise",
+      "examples": [
+        "The *noisy* kids were playing in the street.",
+        "It was a very *noisy* party."
+      ],
+      "transcription": "ˈnɔɪzi",
+      "ru_translation": "шумный"
+    },
+    "img": "https://st3.depositphotos.com/10932024/17936/i/600/depositphotos_179360900-stock-photo-a-woman-shouting-screaming-portrait.jpg"
+  },
+  {
+    "id": "noiselessEFG",
+    "front": "noiseless",
+    "back": {
+      "definition": "without any noise; completely quiet",
+      "examples": [
+        "The car was almost *noiseless* as it drove down the street.",
+        "They moved through the house in a *noiseless* manner."
+      ],
+      "transcription": "ˈnɔɪzlɪs",
+      "ru_translation": "бесшумный"
+    },
+    "img": "https://thumbs.dreamstime.com/z/silent-mode-icon-isolated-not-sound-vector-quiet-sign-modern-simple-flat-sign-business-internet-silent-mode-icon-isolated-not-122652953.jpg?w=768"
+  },
+  {
+    "id": "fatHIJ",
+    "front": "fat",
+    "back": {
+      "definition": "a natural oily substance found in animal bodies, often stored under the skin",
+      "examples": [
+        "The doctor advised him to reduce his intake of *fat*.",
+        "The cat had a lot of *fat* on its belly."
+      ],
+      "transcription": "fæt",
+      "ru_translation": "жир, жирный"
+    },
+    "img": "https://8f2464903a.cbaul-cdnwnd.com/7cae3e6f31b8667d77fee98e3def5751/system_preview_detail_200000239-1508a16fd6/shutterstock_125676170.jpg"
+  },
+  {
+    "id": "fatnessKLM",
+    "front": "fatness",
+    "back": {
+      "definition": "the state or condition of being fat or overweight",
+      "examples": [
+        "His *fatness* made it difficult for him to move quickly.",
+        "They were concerned about the *fatness* of the livestock."
+      ],
+      "transcription": "ˈfætnəs",
+      "ru_translation": "упитанность"
+    },
+    "img": "https://thumbs.dreamstime.com/b/%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B9-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B-127252158.jpg"
+  },
+  {
+    "id": "fattenNOP",
+    "front": "fatten",
+    "back": {
+      "definition": "to make or become fat or fatter, especially by eating more",
+      "examples": [
+        "They wanted to *fatten* the turkey before Thanksgiving.",
+        "She was trying to *fatten* up for the winter."
+      ],
+      "transcription": "ˈfætn",
+      "ru_translation": "откармливать"
+    },
+    "img": "https://t1.ea.ltmcdn.com/es/posts/3/2/1/por_que_mi_gato_orina_sangre_24123_0_600.webp"
+  },
+  {
+    "id": "failQRS",
+    "front": "fail",
+    "back": {
+      "definition": "to not succeed in what you are trying to achieve or are expected to do",
+      "examples": [
+        "He didn't want to *fail* the test.",
+        "She tried to start the engine, but it *failed*."
+      ],
+      "transcription": "feɪl",
+      "ru_translation": "потерпеть неудачу"
+    },
+    "img": "https://britlex.ru/images/fail.jpg"
+  },
+  {
+    "id": "steadyTUV",
+    "front": "steady",
+    "back": {
+      "definition": "firmly fixed, constant, not subject to change or variation",
+      "examples": [
+        "He has a *steady* job at the factory.",
+        "She maintained a *steady* pace throughout the race."
+      ],
+      "transcription": "ˈstɛdi",
+      "ru_translation": "устойчивый"
+    },
+    "img": "https://britlex.ru/images/steady.jpg"
+  },
+  {
+    "id": "steadinessWXY",
+    "front": "steadiness",
+    "back": {
+      "definition": "the quality of being steady, stable, and not changing",
+      "examples": [
+        "His *steadiness* in the face of danger was admirable.",
+        "They appreciated the *steadiness* of her leadership."
+      ],
+      "transcription": "ˈstɛdɪnəs",
+      "ru_translation": "устойчивость"
+    },
+    "img": "https://ic-cdn.flipboard.com/yogajournal.com/65203431764d1612f69442186a41f55e212e31dd/_medium.jpeg"
+  },
+  {
+    "id": "unsteadyZAB",
+    "front": "unsteady",
+    "back": {
+      "definition": "not firm, stable, or secure; shaky",
+      "examples": [
+        "The table was *unsteady* and wobbled when touched.",
+        "He felt *unsteady* on his feet after the long flight."
+      ],
+      "transcription": "ʌnˈstɛdi",
+      "ru_translation": "неустойчивый"
+    },
+    "img": "https://img.heartlight.org/overlazy/backgrounds/765.jpg"
+  },
+  {
+    "id": "lossCDE",
+    "front": "loss",
+    "back": {
+      "definition": "the state or feeling of grief when deprived of someone or something of value",
+      "examples": [
+        "They suffered a great *loss* when their house burned down.",
+        "She felt a deep sense of *loss* after her friend's departure."
+      ],
+      "transcription": "lɒs",
+      "ru_translation": "потеря"
+    },
+    "img": "https://britlex.ru/images/loss.jpg"
+  },
+  {
+    "id": "pathFGH",
+    "front": "path",
+    "back": {
+      "definition": "a way or track laid down for walking or made by continual treading",
+      "examples": [
+        "We followed the *path* through the forest.",
+        "The garden has a winding *path* leading to the pond."
+      ],
+      "transcription": "pɑːθ",
+      "ru_translation": "путь"
+    },
+    "img": "https://britlex.ru/images/path.jpg"
+  },
+  {
+    "id": "pathwayIJK",
+    "front": "pathway",
+    "back": {
+      "definition": "a path or course taken by a person, animal, or thing",
+      "examples": [
+        "The *pathway* to success is often difficult.",
+        "They walked along the *pathway* in the park."
+      ],
+      "transcription": "ˈpɑːθweɪ",
+      "ru_translation": "путь, тропинка"
+    },
+    "img": "https://www.stratech.co.uk/wp-content/uploads/2020/06/image3.png"
   }
 ]
