@@ -2084,5 +2084,254 @@
       "ru_translation": "путь, тропинка"
     },
     "img": "https://www.stratech.co.uk/wp-content/uploads/2020/06/image3.png"
+  },
+  {
+    "id": "upsidedownabcd",
+    "front": "upside down",
+    "back": {
+      "definition": "in a position with the top turned to the bottom.",
+      "examples": [
+        "The picture was hung *upside down*.",
+        "He accidentally placed the book *upside down* on the shelf."
+      ],
+      "transcription": "ˈʌpsaɪddaʊn",
+      "ru_translation": "вверх ногами"
+    },
+    "img": "https://britlex.ru/images/upside%20down.jpg"
+  },
+  {
+    "id": "cozyabcd",
+    "front": "cozy",
+    "back": {
+      "definition": "comfortable, warm, and pleasant.",
+      "examples": [
+        "The living room is very *cozy* during the winter.",
+        "She loves to read a book in her *cozy* chair."
+      ],
+      "transcription": "ˈkəʊzi",
+      "ru_translation": "уютный"
+    },
+    "img": "https://britlex.ru/images/cozy.jpg"
+  },
+  {
+    "id": "depictabcd",
+    "front": "depict",
+    "back": {
+      "definition": "to represent or show something in a picture or story.",
+      "examples": [
+        "The artist *depicted* a beautiful landscape.",
+        "The movie *depicts* the struggles of the early settlers."
+      ],
+      "transcription": "dɪˈpɪkt",
+      "ru_translation": "изображать, описывать"
+    },
+    "img": "https://britlex.ru/images/depict.jpg"
+  },
+  {
+    "id": "depictionabcd",
+    "front": "depiction",
+    "back": {
+      "definition": "the way that something is represented or shown.",
+      "examples": [
+        "The book's *depiction* of life in the city is quite realistic.",
+        "The *depiction* of the character in the film was very accurate."
+      ],
+      "transcription": "dɪˈpɪkʃ(ə)n",
+      "ru_translation": "описание"
+    },
+    "img": "https://images.saatchiart.com/saatchi/1142019/art/7933757/7001354-HSC00002-6.jpg"
+  },
+  {
+    "id": "roomabcd",
+    "front": "room",
+    "back": {
+      "definition": "space that can be occupied or where something can be done.",
+      "examples": [
+        "There's not enough *room* for all the furniture.",
+        "They made *room* for a new dining table."
+      ],
+      "transcription": "ruːm",
+      "ru_translation": "место, пространство, комната"
+    },
+    "img": "https://britlex.ru/images/room.jpg"
+  },
+  {
+    "id": "roomyabcd",
+    "front": "roomy",
+    "back": {
+      "definition": "having a lot of space.",
+      "examples": [
+        "The new car is very *roomy* inside.",
+        "They bought a *roomy* house to accommodate their growing family."
+      ],
+      "transcription": "ˈruːmi",
+      "ru_translation": "вместительный"
+    },
+    "img": "https://sportishka.com/uploads/posts/2022-11/thumbs/1667503888_33-sportishka-com-p-populyarnie-mashini-v-yaponii-instagram-35.jpg"
+  },
+  {
+    "id": "lensabcd",
+    "front": "lens",
+    "back": {
+      "definition": "a curved piece of glass or other transparent material, used in cameras, glasses, and scientific equipment.",
+      "examples": [
+        "She adjusted the *lens* on her camera.",
+        "The *lens* of the microscope needs cleaning."
+      ],
+      "transcription": "lɛnz",
+      "ru_translation": "линза, объектив"
+    },
+    "img": "https://britlex.ru/images/lens.jpg"
+  },
+  {
+    "id": "tailabcd",
+    "front": "tail",
+    "back": {
+      "definition": "the part that sticks out and can move at the back of the body of an animal, bird, or fish.",
+      "examples": [
+        "The dog wagged its *tail* happily.",
+        "The cat's *tail* was bushy."
+      ],
+      "transcription": "teɪl",
+      "ru_translation": "хвост"
+    },
+    "img": "https://vidaconmascotas.com/wp-content/uploads/2021/01/Lesiones-en-la-cola-del-gato-un-verdadero-malestar-para.jpg"
+  },
+  {
+    "id": "tailsabcd",
+    "front": "tails",
+    "back": {
+      "definition": "the bottom or end part of something.",
+      "examples": [
+        "The airplane's *tails* were painted red.",
+        "He cut the *tails* off the vegetables."
+      ],
+      "transcription": "teɪlz",
+      "ru_translation": "обрезки, отходы"
+    },
+    "img": "https://klubmama.ru/uploads/posts/2022-08/thumbs/1660907835_1-klubmama-ru-p-podelki-iz-obrezkov-kartona-foto-1.jpg"
+  },
+  {
+    "id": "tailedabcd",
+    "front": "tailed",
+    "back": {
+      "definition": "having a tail.",
+      "examples": [
+        "The *tailed* creatures were seen in the forest.",
+        "A long-*tailed* bird perched on the branch."
+      ],
+      "transcription": "teɪld",
+      "ru_translation": "хвостатый"
+    },
+    "img": "https://pm1.narvii.com/7112/19a969647d79feb6fb745665ff732337a5eb7416r1-720-720v2_uhq.jpg"
+  },
+  {
+    "id": "canabcd",
+    "front": "can",
+    "back": {
+      "definition": "a closed metal container, especially cylinder-shaped, in which some types of drink and food are sold.",
+      "examples": ["He drank a *can* of soda.", "She opened a *can* of beans."],
+      "transcription": "kæn",
+      "ru_translation": "жестяная банка"
+    },
+    "img": "https://britlex.ru/images/can.jpg"
+  },
+  {
+    "id": "cannedabcd",
+    "front": "canned",
+    "back": {
+      "definition": "preserved and stored in a can.",
+      "examples": [
+        "They ate *canned* soup for lunch.",
+        "The *canned* food was stacked in the pantry."
+      ],
+      "transcription": "kænd",
+      "ru_translation": "консервированный"
+    },
+    "img": "https://media.collegetimes.com/uploads/2016/11/02161845/shutterstock_182853410.jpg"
+  },
+  {
+    "id": "flourabcd",
+    "front": "flour",
+    "back": {
+      "definition": "powder made from grain, especially wheat, used for making bread, cakes, pasta, pastry, etc.",
+      "examples": [
+        "She added *flour* to the cake mixture.",
+        "The recipe calls for a cup of *flour*."
+      ],
+      "transcription": "ˈflaʊə",
+      "ru_translation": "мука, порошок"
+    },
+    "img": "https://britlex.ru/images/flour.jpg"
+  },
+  {
+    "id": "magazineabcd",
+    "front": "magazine",
+    "back": {
+      "definition": "a type of thin book with large pages and a paper cover that contains articles and photographs and is published every week or month.",
+      "examples": [
+        "She read an interesting article in the *magazine*.",
+        "He subscribed to a fashion *magazine*."
+      ],
+      "transcription": "ˌmægəˈziːn",
+      "ru_translation": "журнал"
+    },
+    "img": "https://britlex.ru/images/magazine.jpg"
+  },
+  {
+    "id": "tenseabcd",
+    "front": "tense",
+    "back": {
+      "definition": "(of a person) nervous and worried and unable to relax.",
+      "examples": [
+        "She felt very *tense* before the exam.",
+        "His shoulders were *tense* with stress."
+      ],
+      "transcription": "tɛns",
+      "ru_translation": "напряжённый, напрягать"
+    },
+    "img": "https://britlex.ru/images/tense.jpg"
+  },
+  {
+    "id": "tensionabcd",
+    "front": "tension",
+    "back": {
+      "definition": "a feeling of nervousness before an important or difficult event.",
+      "examples": [
+        "The *tension* in the room was palpable.",
+        "There was a lot of *tension* before the meeting."
+      ],
+      "transcription": "ˈtɛnʃən",
+      "ru_translation": "напряженность"
+    },
+    "img": "https://salve.dental/images/lechenie-cariesa/zub-bolit/bolit-golova-i-zub.jpg"
+  },
+  {
+    "id": "wayabcd",
+    "front": "way",
+    "back": {
+      "definition": "a method, style, or manner of doing something.",
+      "examples": [
+        "She found a new *way* to solve the problem.",
+        "There are many *ways* to cook an egg."
+      ],
+      "transcription": "weɪ",
+      "ru_translation": "способ"
+    },
+    "img": "https://papik.pro/grafic/uploads/posts/2023-04/thumbs/1681341570_papik-pro-p-ostanovka-krovotecheniya-plakat-48.jpg"
+  },
+  {
+    "id": "splitabcd",
+    "front": "split (split, split)",
+    "back": {
+      "definition": "to (cause to) divide into two or more parts, especially along a particular line.",
+      "examples": [
+        "They *split* the bill equally.",
+        "The log was *split* into two pieces."
+      ],
+      "transcription": "splɪt",
+      "ru_translation": "расколоться, распасться"
+    },
+    "img": "https://britlex.ru/images/split.jpg"
   }
 ]
