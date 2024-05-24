@@ -2223,7 +2223,7 @@
       "transcription": "teɪld",
       "ru_translation": "хвостатый"
     },
-    "img": "https://pm1.narvii.com/7112/19a969647d79feb6fb745665ff732337a5eb7416r1-720-720v2_uhq.jpg"
+    "img": "https://4.bp.blogspot.com/-NaRDzqFHYAQ/UIJD40oHuGI/AAAAAAAAA2g/PC35dpcWvoc/s320/bijuu.jpg"
   },
   {
     "id": "canabcd",
@@ -2333,5 +2333,310 @@
       "ru_translation": "расколоться, распасться"
     },
     "img": "https://britlex.ru/images/split.jpg"
+  },
+  {
+    "id": "ringabcdefgh",
+    "front": "ring (rang, rung)",
+    "back": {
+      "definition": "to make a sound, especially by hitting a piece of metal against another piece of metal; to telephone someone",
+      "examples": [
+        "The phone started to *ring* loudly.",
+        "He *rang* the bell to get attention."
+      ],
+      "transcription": "rɪŋ, ræŋ, rʌŋ",
+      "ru_translation": "звонить"
+    },
+    "img": "https://britlex.ru/images/ring.jpg"
+  },
+  {
+    "id": "ringijklmnop",
+    "front": "ring",
+    "back": {
+      "definition": "the sound a bell makes",
+      "examples": [
+        "I heard the *ring* of the doorbell.",
+        "The *ring* of the school bell signaled the end of the day."
+      ],
+      "transcription": "rɪŋ",
+      "ru_translation": "звонок"
+    },
+    "img": "https://lh3.googleusercontent.com/Ma8ni6Uc3CcAfr-iicER3ZHBzYJtXq7E-4qAxFwRYEjlSjOGGLjp6Bk8T77ApN0Y0gM=w300"
+  },
+  {
+    "id": "ringqrstuvwx",
+    "front": "ring",
+    "back": {
+      "definition": "a circular piece of jewellery worn especially on your finger",
+      "examples": [
+        "She wore a beautiful diamond *ring*.",
+        "He gave her a gold *ring* for their anniversary."
+      ],
+      "transcription": "rɪŋ",
+      "ru_translation": "кольцо, круг"
+    },
+    "img": "https://www.millenaire.org/libraryres/img/177_1_small.jpeg"
+  },
+  {
+    "id": "thumbabcdefgh",
+    "front": "thumb",
+    "back": {
+      "definition": "the short, thick finger on the side of your hand",
+      "examples": [
+        "He gave a *thumbs*-up to show approval.",
+        "She accidentally hit her *thumb* with a hammer."
+      ],
+      "transcription": "θʌm",
+      "ru_translation": "большой палец"
+    },
+    "img": "https://britlex.ru/images/thumb.jpg"
+  },
+  {
+    "id": "boundaryijklmnop",
+    "front": "boundary",
+    "back": {
+      "definition": "a line that divides two areas or forms an edge around an area",
+      "examples": [
+        "The fence marks the *boundary* of the property.",
+        "They crossed the *boundary* into the neighboring country."
+      ],
+      "transcription": "ˈbaʊndəri",
+      "ru_translation": "граница, черта"
+    },
+    "img": "https://lisaannhardy.files.wordpress.com/2014/02/74-boundaries.jpg?w=300"
+  },
+  {
+    "id": "wageqrstuvwx",
+    "front": "wage",
+    "back": {
+      "definition": "a particular amount of money that is paid to an employee, especially for each hour worked",
+      "examples": [
+        "He earns a decent *wage* for his work.",
+        "The company increased the minimum *wage*."
+      ],
+      "transcription": "weɪʤ",
+      "ru_translation": "заработок, оплата"
+    },
+    "img": "https://britlex.ru/images/wage.jpg"
+  },
+  {
+    "id": "pointabcdefgh",
+    "front": "point",
+    "back": {
+      "definition": "the meaning or most important part of what someone says or writes",
+      "examples": [
+        "The *point* of the story is to be kind.",
+        "She made a good *point* during the discussion."
+      ],
+      "transcription": "pɔɪnt",
+      "ru_translation": "смысл, суть"
+    },
+    "img": "https://britlex.ru/images/point2.jpg"
+  },
+  {
+    "id": "pointlessijklmnop",
+    "front": "pointless",
+    "back": {
+      "definition": "having no purpose and it is a waste of time doing it",
+      "examples": [
+        "It is *pointless* to argue with him.",
+        "The meeting felt completely *pointless*."
+      ],
+      "transcription": "ˈpɒntlɪs",
+      "ru_translation": "бессмысленный"
+    },
+    "img": "https://i.ytimg.com/vi/Y1zvwEKa5s0/mqdefault.jpg"
+  },
+  {
+    "id": "favorqrstuvwx",
+    "front": "favor",
+    "back": {
+      "definition": "to support or prefer one particular possibility",
+      "examples": [
+        "Many people *favor* reducing taxes.",
+        "She tends to *favor* a more traditional approach."
+      ],
+      "transcription": "ˈfeɪvə",
+      "ru_translation": "благоприятствовать"
+    },
+    "img": "https://www.shutterstock.com/image-vector/borrowing-book-boy-public-library-260nw-137550200.jpg"
+  },
+  {
+    "id": "favorabcdefgh",
+    "front": "favor",
+    "back": {
+      "definition": "something you do to help someone",
+      "examples": ["Can you do me a *favor*?", "She asked him for a *favor*."],
+      "transcription": "ˈfeɪvə",
+      "ru_translation": "одолжение, услуга"
+    },
+    "img": "https://britlex.ru/images/favor.jpg"
+  },
+  {
+    "id": "favouriteijklmnop",
+    "front": "favourite",
+    "back": {
+      "definition": "best liked or most enjoyed",
+      "examples": [
+        "Chocolate is my *favourite* flavor.",
+        "This is my *favourite* book."
+      ],
+      "transcription": "ˈfeɪvərɪt",
+      "ru_translation": "любимый"
+    },
+    "img": "https://i.quotev.com/n3ktrgmxo3ra.jpg"
+  },
+  {
+    "id": "favorableqrstuvwx",
+    "front": "favorable",
+    "back": {
+      "definition": "showing that you like or approve of someone or something",
+      "examples": [
+        "The proposal received a *favorable* response.",
+        "Her performance received *favorable* reviews."
+      ],
+      "transcription": "ˈfeɪvərəbl",
+      "ru_translation": "благоприятный"
+    },
+    "img": "https://s31606.pcdn.co/wp-content/uploads/2016/12/create-your-own-luck.jpg"
+  },
+  {
+    "id": "unfavorableabcdefgh",
+    "front": "unfavorable",
+    "back": {
+      "definition": "showing that you do not like or approve of someone or something",
+      "examples": [
+        "The weather conditions were *unfavorable* for sailing.",
+        "The project received *unfavorable* feedback."
+      ],
+      "transcription": "ʌnˈfeɪvərəbl",
+      "ru_translation": "неблагоприятный"
+    },
+    "img": "https://quizlady.com/wp-content/uploads/qc-images/55f512b70c21d.jpg"
+  },
+  {
+    "id": "chefijklmnop",
+    "front": "chef",
+    "back": {
+      "definition": "a skilled and trained cook who works in a hotel or restaurant, especially the most important cook",
+      "examples": [
+        "The *chef* prepared a delicious meal.",
+        "She trained as a *chef* in Paris."
+      ],
+      "transcription": "ʃɛf",
+      "ru_translation": "шеф"
+    },
+    "img": "https://britlex.ru/images/chef.jpg"
+  },
+  {
+    "id": "considerableqrstuvwx",
+    "front": "considerable",
+    "back": {
+      "definition": "large or of noticeable importance",
+      "examples": [
+        "They made a *considerable* amount of progress.",
+        "The project required a *considerable* investment."
+      ],
+      "transcription": "kənˈsɪdərəbl",
+      "ru_translation": "крупный, значительный"
+    },
+    "img": "https://britlex.ru/images/considerable.jpg"
+  },
+  {
+    "id": "inconsiderableabcdefgh",
+    "front": "inconsiderable",
+    "back": {
+      "definition": "very small and therefore not important or not worth considering",
+      "examples": [
+        "The cost was not *inconsiderable*.",
+        "Her contribution was not *inconsiderable*."
+      ],
+      "transcription": "ˌɪnkənˈsɪdərəbl",
+      "ru_translation": "незначительный"
+    },
+    "img": "https://t4.ftcdn.net/jpg/02/38/99/85/240_F_238998551_zxUGw6HHDkx7yAJqdRnuwR6toW38sqDi.jpg"
+  },
+  {
+    "id": "multipleijklmnop",
+    "front": "multiple",
+    "back": {
+      "definition": "very many of the same type, or of different types",
+      "examples": [
+        "The company has *multiple* locations worldwide.",
+        "He gave *multiple* reasons for his decision."
+      ],
+      "transcription": "ˈmʌltɪpl",
+      "ru_translation": "множественный"
+    },
+    "img": "https://britlex.ru/images/multiple.jpg"
+  },
+  {
+    "id": "lessenqrstuvwx",
+    "front": "lessen",
+    "back": {
+      "definition": "to become less or to make something less",
+      "examples": [
+        "They took steps to *lessen* the risk.",
+        "The pain will *lessen* over time."
+      ],
+      "transcription": "ˈlɛsn",
+      "ru_translation": "уменьшать(ся)"
+    },
+    "img": "https://britlex.ru/images/lessen.jpg"
+  },
+  {
+    "id": "landmarkabcdefgh",
+    "front": "landmark",
+    "back": {
+      "definition": "a building or place that is easily recognized, especially one that you can use to judge where you are",
+      "examples": [
+        "The Eiffel Tower is a famous *landmark*.",
+        "They used the church as a *landmark* to find their way back."
+      ],
+      "transcription": "ˈlændmɑːk",
+      "ru_translation": "ориентир"
+    },
+    "img": "https://britlex.ru/images/landmark.jpg"
+  },
+  {
+    "id": "solidijklmnop",
+    "front": "solid",
+    "back": {
+      "definition": "hard or firm, keeping a clear shape",
+      "examples": [
+        "The table is made of *solid* wood.",
+        "The ice was *solid* enough to walk on."
+      ],
+      "transcription": "ˈsɒlɪd",
+      "ru_translation": "твердый, плотный"
+    },
+    "img": "https://britlex.ru/images/solid2.jpg"
+  },
+  {
+    "id": "herbqrstuvwx",
+    "front": "herb",
+    "back": {
+      "definition": "a type of plant whose leaves are used in cooking to give flavor to particular dishes or in making medicine",
+      "examples": [
+        "She added fresh *herbs* to the soup.",
+        "They grow *herbs* in their garden."
+      ],
+      "transcription": "hɜːb",
+      "ru_translation": "трава"
+    },
+    "img": "https://britlex.ru/images/herb.jpg"
+  },
+  {
+    "id": "herbalabcdefgh",
+    "front": "herbal",
+    "back": {
+      "definition": "relating to or made from herbs",
+      "examples": [
+        "She drinks *herbal* tea every morning.",
+        "They sell *herbal* remedies at the store."
+      ],
+      "transcription": "ˈhɜːbəl",
+      "ru_translation": "травяной"
+    },
+    "img": "https://www.rednirusmart.com/storage/files/in/91/thumb-new-320x240-c4864b69527d2e7f54282e18dd983cfd.jpg"
   }
 ]
