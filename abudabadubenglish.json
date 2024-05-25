@@ -252,6 +252,20 @@
     "img": "https://cdn.elena-elizarova.ru/images/article/cf071840-c86a-11ec-8665-1163ea694780/800/image2.jpg"
   },
   {
+    "id": "conditionbkfmzq",
+    "front": "condition",
+    "back": {
+      "definition": "an arrangement that must exist before something else can happen",
+      "examples": [
+        "Meeting this *condition* is necessary for the agreement.",
+        "The *condition* of the equipment must be checked regularly."
+      ],
+      "transcription": "kənˈdɪʃn",
+      "ru_translation": "условие"
+    },
+    "img": "https://www.populismstudies.org/wp-content/uploads/2020/04/Polarization-1024x851.png"
+  },
+  {
     "id": "landryjwboktqhzex",
     "front": "land",
     "back": {
@@ -2609,7 +2623,7 @@
       "transcription": "ˈsɒlɪd",
       "ru_translation": "твердый, плотный"
     },
-    "img": "https://britlex.ru/images/solid2.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Boron_carbide.JPG/400px-Boron_carbide.JPG"
   },
   {
     "id": "herbqrstuvwx",
@@ -2638,5 +2652,271 @@
       "ru_translation": "травяной"
     },
     "img": "https://www.rednirusmart.com/storage/files/in/91/thumb-new-320x240-c4864b69527d2e7f54282e18dd983cfd.jpg"
+  },
+  {
+    "id": "topicyduplk",
+    "front": "topic",
+    "back": {
+      "definition": "a subject that people talk or write about",
+      "examples": [
+        "We discussed various *topics* during the meeting.",
+        "The main *topic* of conversation was the new project."
+      ],
+      "transcription": "ˈtɒpɪk",
+      "ru_translation": "тема, предмет обсуждения"
+    },
+    "img": "https://britlex.ru/images/topic.jpg"
+  },
+  {
+    "id": "topicalihzxz",
+    "front": "topical",
+    "back": {
+      "definition": "relating to things that are happening or of interest at the present time",
+      "examples": [
+        "The article covers many *topical* issues.",
+        "This show discusses *topical* events in politics."
+      ],
+      "transcription": "ˈtɒpɪkəl",
+      "ru_translation": "актуальный, тематический"
+    },
+    "img": "https://www.curel.com/content/dam/sites/kaousa/www-curel-com/us/articles/manage-sensitiveskin-article-thumbnail.jpg"
+  },
+  {
+    "id": "hurtnydtkd",
+    "front": "hurt (hurt, hurt)",
+    "back": {
+      "definition": "to cause someone pain or to injure them",
+      "examples": [
+        "Be careful not to *hurt* yourself.",
+        "His words *hurt* her deeply."
+      ],
+      "transcription": "hɜːt",
+      "ru_translation": "причинять боль"
+    },
+    "img": "https://britlex.ru/images/hurt.jpg"
+  },
+  {
+    "id": "hurtoeljwk",
+    "front": "hurt",
+    "back": {
+      "definition": "injured or in pain",
+      "examples": [
+        "She felt *hurt* after the accident.",
+        "His *hurt* feelings were evident."
+      ],
+      "transcription": "hɜːt",
+      "ru_translation": "раненый"
+    },
+    "img": "https://www.educapeques.com/wp-content/uploads/2018/10/raspones-ni%C3%B1os.png"
+  },
+  {
+    "id": "affiliateyrkmn",
+    "front": "affiliate",
+    "back": {
+      "definition": "an organization that is connected with or controlled by another, usually larger, organization",
+      "examples": [
+        "The local club is an *affiliate* of the national organization.",
+        "Our company has several *affiliates* in different countries."
+      ],
+      "transcription": "əˈfɪlɪeɪt",
+      "ru_translation": "филиал, отделение"
+    },
+    "img": "https://britlex.ru/images/affiliate.jpg"
+  },
+  {
+    "id": "affiliationcayxb",
+    "front": "affiliation",
+    "back": {
+      "definition": "a connection with a political party or religion, or with a larger organization",
+      "examples": [
+        "He has no political *affiliation*.",
+        "Her *affiliation* with the charity is well known."
+      ],
+      "transcription": "əˌfɪlɪˈeɪʃ(ə)n",
+      "ru_translation": "присоединение"
+    },
+    "img": "https://st2.depositphotos.com/1594308/5380/i/450/depositphotos_53801155-stock-photo-making-agreement.jpg"
+  },
+  {
+    "id": "anxietyfhwsq",
+    "front": "anxiety",
+    "back": {
+      "definition": "an uncomfortable feeling of nervousness or worry about something that is happening or might happen in the future",
+      "examples": [
+        "She felt a lot of *anxiety* before the exam.",
+        "His *anxiety* about the future is understandable."
+      ],
+      "transcription": "æŋˈzaɪəti",
+      "ru_translation": "беспокойство, тревога"
+    },
+    "img": "https://britlex.ru/images/anxiety.jpg"
+  },
+  {
+    "id": "wavegrioaw",
+    "front": "wave",
+    "back": {
+      "definition": "a raised line of water that moves across the surface of the sea, ocean, etc.",
+      "examples": [
+        "The *waves* crashed against the shore.",
+        "We watched the surfers ride the *waves*."
+      ],
+      "transcription": "weɪv",
+      "ru_translation": "волна"
+    },
+    "img": "https://britlex.ru/images/wave2.jpg"
+  },
+  {
+    "id": "longagolmyfq",
+    "front": "long ago",
+    "back": {
+      "definition": "in the distant past",
+      "examples": [
+        "*Long ago*, people lived without modern technology.",
+        "The castle was built *long ago*."
+      ],
+      "transcription": "lɒŋəˈgəʊ",
+      "ru_translation": "давно, давным-давно"
+    },
+    "img": "https://britlex.ru/images/long%20ago.jpg"
+  },
+  {
+    "id": "spaceurjmna",
+    "front": "space",
+    "back": {
+      "definition": "an empty area that is available to be used",
+      "examples": [
+        "There is plenty of *space* in the new office.",
+        "We need more *space* for the event."
+      ],
+      "transcription": "speɪs",
+      "ru_translation": "пространство"
+    },
+    "img": "https://img.youtube.com/vi/yGCEw92dThM/mqdefault.jpg"
+  },
+  {
+    "id": "spaceiofktz",
+    "front": "space",
+    "back": {
+      "definition": "the area beyond the earth's atmosphere, where the stars and planets are",
+      "examples": [
+        "Astronauts travel into *space*.",
+        "The study of *space* is fascinating."
+      ],
+      "transcription": "speɪs",
+      "ru_translation": "космос"
+    },
+    "img": "https://thumbs.dreamstime.com/b/entrep-t-en-bois-spacieux-76191710.jpg"
+  },
+  {
+    "id": "spaciousjrthq",
+    "front": "spacious",
+    "back": {
+      "definition": "large and with a lot of space",
+      "examples": [
+        "The apartment is very *spacious*.",
+        "They moved to a *spacious* house."
+      ],
+      "transcription": "ˈspeɪʃəs",
+      "ru_translation": "просторный"
+    },
+    "img": "https://i.pinimg.com/236x/0b/73/dd/0b73dda7129fe60da52c9aa5e7b8e400.jpg"
+  },
+  {
+    "id": "spatialoprxba",
+    "front": "spatial",
+    "back": {
+      "definition": "relating to the position, area, and size of things",
+      "examples": [
+        "He has excellent *spatial* awareness.",
+        "The *spatial* arrangement of the room is important."
+      ],
+      "transcription": "ˈspeɪʃəl",
+      "ru_translation": "пространственный"
+    },
+    "img": "https://i.pinimg.com/originals/02/0e/44/020e44e7fcd84604c1bc1fb5598438ee.png"
+  },
+  {
+    "id": "cordkuvoan",
+    "front": "cord",
+    "back": {
+      "definition": "strong, thick string",
+      "examples": [
+        "He tied the package with a *cord*.",
+        "The lamp's *cord* is too short."
+      ],
+      "transcription": "kɔːd",
+      "ru_translation": "верёвка, шнур"
+    },
+    "img": "https://britlex.ru/images/cord.jpg"
+  },
+  {
+    "id": "visionbdtpex",
+    "front": "vision",
+    "back": {
+      "definition": "the ability to see",
+      "examples": [
+        "Her *vision* is excellent.",
+        "He lost his *vision* in the accident."
+      ],
+      "transcription": "ˈvɪʒən",
+      "ru_translation": "видение, зрение"
+    },
+    "img": "https://britlex.ru/images/vision.jpg"
+  },
+  {
+    "id": "visionaryrjmwo",
+    "front": "visionary",
+    "back": {
+      "definition": "a person who has the ability to imagine how something will develop in the future",
+      "examples": [
+        "She is considered a *visionary* in her field.",
+        "The company's founder was a true *visionary*."
+      ],
+      "transcription": "ˈvɪʒnəri",
+      "ru_translation": "провидец"
+    },
+    "img": "https://i.pinimg.com/originals/99/2f/52/992f52fc51d3a0ebfad1347dae0dc301.jpg"
+  },
+  {
+    "id": "dozenkjvdhq",
+    "front": "dozen",
+    "back": {
+      "definition": "twelve",
+      "examples": [
+        "He bought a *dozen* eggs.",
+        "There were a *dozen* people in the room."
+      ],
+      "transcription": "ˈdʌzn",
+      "ru_translation": "дюжина"
+    },
+    "img": "https://britlex.ru/images/dozen.jpg"
+  },
+  {
+    "id": "severaljxoaef",
+    "front": "several",
+    "back": {
+      "definition": "some; an amount that is not exact but is fewer than many",
+      "examples": [
+        "We have *several* options to consider.",
+        "She has *several* friends in the city."
+      ],
+      "transcription": "ˈsɛvrəl",
+      "ru_translation": "несколько"
+    },
+    "img": "https://britlex.ru/images/several.jpg"
+  },
+  {
+    "id": "termsbjufsl",
+    "front": "terms",
+    "back": {
+      "definition": "the conditions that control an agreement, arrangement, or activity",
+      "examples": [
+        "We need to agree on the *terms* of the contract.",
+        "The *terms* of the deal were favorable."
+      ],
+      "transcription": "tɜːmz",
+      "ru_translation": "условия, отношения"
+    },
+    "img": "https://edersaas.ru/wp-content/uploads/2023/07/desk-writing-work-hand-man-table-655321-pxhere.com-1-scaled.jpg"
   }
 ]
