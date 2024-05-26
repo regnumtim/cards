@@ -1215,7 +1215,7 @@
       "transcription": "ˈvænɪʃ",
       "ru_translation": "исчезнуть"
     },
-    "img": "https://2.bp.blogspot.com/-qL0_X7EZ9qw/WSpOyXptOKI/AAAAAAAAAMg/NSB7sAnIRaMODef7UNX2ehYIq76P8CEsgCPcBGAYYCw/s640/life-must-go-on-storycitra-poetry.jpg"
+    "img": "https://kartinkof.club/uploads/posts/2022-03/1648368036_1-kartinkof-club-p-mem-s-ischezayushchim-negrom-1.jpg"
   },
   {
     "id": "stirstuvwx",
@@ -1873,7 +1873,7 @@
       "transcription": "ʌnˈfɔːʧnɪt",
       "ru_translation": "несчастный"
     },
-    "img": "https://www.vdk.de/sys/data/16/img/h_00010628B1479390555.jpg"
+    "img": "https://c1.wallpaperflare.com/preview/649/983/649/desperate-despair-depressed-hopeless.jpg"
   },
   {
     "id": "wildernessPQR",
@@ -2791,7 +2791,7 @@
       "transcription": "speɪs",
       "ru_translation": "пространство"
     },
-    "img": "https://img.youtube.com/vi/yGCEw92dThM/mqdefault.jpg"
+    "img": "https://thumbs.dreamstime.com/b/entrep-t-en-bois-spacieux-76191710.jpg"
   },
   {
     "id": "spaceiofktz",
@@ -2805,7 +2805,7 @@
       "transcription": "speɪs",
       "ru_translation": "космос"
     },
-    "img": "https://thumbs.dreamstime.com/b/entrep-t-en-bois-spacieux-76191710.jpg"
+    "img": "https://img.compisher.com/images/002/image-4430-5.jpg"
   },
   {
     "id": "spaciousjrthq",
@@ -2918,5 +2918,299 @@
       "ru_translation": "условия, отношения"
     },
     "img": "https://edersaas.ru/wp-content/uploads/2023/07/desk-writing-work-hand-man-table-655321-pxhere.com-1-scaled.jpg"
+  },
+  {
+    "id": "generousabcd",
+    "front": "generous",
+    "back": {
+      "definition": "willing to give more of something, especially money, than is strictly necessary or expected",
+      "examples": [
+        "She is very *generous* with her time.",
+        "He made a *generous* donation to the charity."
+      ],
+      "transcription": "ˈʤɛnərəs",
+      "ru_translation": "щедрый"
+    },
+    "img": "https://www.magnesol.pe/userfiles/images/shutterstock_1536718076.jpg"
+  },
+  {
+    "id": "generosityefgh",
+    "front": "generosity",
+    "back": {
+      "definition": "the quality of being kind and generous",
+      "examples": [
+        "Her *generosity* knows no bounds.",
+        "We were touched by his *generosity* towards the less fortunate."
+      ],
+      "transcription": "ˌʤɛnəˈrɒsɪti",
+      "ru_translation": "щедрость"
+    },
+    "img": "https://i.ytimg.com/vi/Q27f28-44jY/hqdefault.jpg"
+  },
+  {
+    "id": "bayijkl",
+    "front": "bay",
+    "back": {
+      "definition": "a part of the coast where the land curves inwards so that the sea is surrounded by land on three sides",
+      "examples": [
+        "We sailed into the *bay* at sunset.",
+        "The small *bay* was perfect for swimming."
+      ],
+      "transcription": "beɪ",
+      "ru_translation": "залив"
+    },
+    "img": "https://britlex.ru/images/bay.jpg"
+  },
+  {
+    "id": "dutymnop",
+    "front": "duty",
+    "back": {
+      "definition": "a moral or legal obligation; a responsibility",
+      "examples": [
+        "It is your *duty* to vote.",
+        "She felt it was her *duty* to care for her parents."
+      ],
+      "transcription": "ˈdjuːti",
+      "ru_translation": "долг, обязанность"
+    },
+    "img": "https://britlex.ru/images/duty.jpg"
+  },
+  {
+    "id": "dutifulqrst",
+    "front": "dutiful",
+    "back": {
+      "definition": "performing the duties expected or required of one; characterized by doing one's duty",
+      "examples": [
+        "He is a *dutiful* son.",
+        "She carried out her tasks in a *dutiful* manner."
+      ],
+      "transcription": "ˈdjuːtɪfʊl",
+      "ru_translation": "исполнительный"
+    },
+    "img": "https://afghankelkin.com/wp-content/uploads/2016/11/n00059112-b.jpg"
+  },
+  {
+    "id": "databaseuvwx",
+    "front": "database",
+    "back": {
+      "definition": "a structured set of data held in a computer, especially one that is accessible in various ways",
+      "examples": [
+        "We need to update the *database* regularly.",
+        "The *database* contains information on all our clients."
+      ],
+      "transcription": "ˈdeɪtəˌbeɪs",
+      "ru_translation": "база данных"
+    },
+    "img": "https://3.bp.blogspot.com/-n4aXfxXEhAM/W91YtUdlBPI/AAAAAAAAAcM/br1a2QRuu9kI7owocTKDOUtMmatLjmfZQCLcBGAs/s400/database-1928236_960_720.png"
+  },
+  {
+    "id": "promptyzab",
+    "front": "prompt",
+    "back": {
+      "definition": "to cause someone to take a course of action",
+      "examples": [
+        "The incident *prompted* an investigation.",
+        "His remarks *prompted* me to rethink my position."
+      ],
+      "transcription": "prɒmpt",
+      "ru_translation": "побуждать"
+    },
+    "img": "https://britlex.ru/images/prompt.jpg"
+  },
+  {
+    "id": "promptcdef",
+    "front": "prompt",
+    "back": {
+      "definition": "done without delay; immediate",
+      "examples": [
+        "She gave a *prompt* reply.",
+        "The service was very *prompt*."
+      ],
+      "transcription": "prɒmpt",
+      "ru_translation": "срочный"
+    },
+    "img": "https://prv1.lori-images.net/biznesmen-s-portfelem-v-ruke-prygaet-cherez-propast-0004879165-preview.jpg"
+  },
+  {
+    "id": "promptghij",
+    "front": "prompt",
+    "back": {
+      "definition": "a word or phrase spoken as a reminder to an actor of a forgotten word or line",
+      "examples": [
+        "The actor needed a *prompt* during the performance.",
+        "She provided a *prompt* when he forgot his lines."
+      ],
+      "transcription": "prɒmpt",
+      "ru_translation": "подсказка"
+    },
+    "img": "https://stihi.ru/pics/2020/11/03/2437.jpg"
+  },
+  {
+    "id": "observeklmn",
+    "front": "observe",
+    "back": {
+      "definition": "to watch carefully the way something happens or the way someone does something, especially in order to learn more about it",
+      "examples": [
+        "He likes to *observe* birds in their natural habitat.",
+        "We will *observe* the reaction to the new policy."
+      ],
+      "transcription": "əbˈzɜːv",
+      "ru_translation": "наблюдать"
+    },
+    "img": "https://britlex.ru/images/observe.jpg"
+  },
+  {
+    "id": "observationopqr",
+    "front": "observation",
+    "back": {
+      "definition": "the action or process of closely observing or monitoring something or someone",
+      "examples": [
+        "The patient is under close *observation*.",
+        "His *observations* were very insightful."
+      ],
+      "transcription": "ˌɒbzə(ː)ˈveɪʃən",
+      "ru_translation": "наблюдение"
+    },
+    "img": "https://image.emojisky.com/218/11651218-middle.png"
+  },
+  {
+    "id": "observersstu",
+    "front": "observer",
+    "back": {
+      "definition": "a person who watches or notices something",
+      "examples": [
+        "He is a keen *observer* of human nature.",
+        "The *observer* noted several discrepancies."
+      ],
+      "transcription": "əbˈzɜːvə",
+      "ru_translation": "наблюдатель"
+    },
+    "img": "https://blog.korayspor.com/wp-content/uploads/2023/06/Beyin-Tarama-Teknolojileri-630x517.jpg"
+  },
+  {
+    "id": "spillvwxy",
+    "front": "spill",
+    "back": {
+      "definition": "to cause or allow liquid to flow over the edge of its container, especially unintentionally",
+      "examples": [
+        "She accidentally *spilled* coffee on the table.",
+        "Be careful not to *spill* the paint."
+      ],
+      "transcription": "spɪl",
+      "ru_translation": "проливать, рассыпать"
+    },
+    "img": "https://britlex.ru/images/spill.jpg"
+  },
+  {
+    "id": "briefyzab",
+    "front": "brief",
+    "back": {
+      "definition": "lasting only a short period of time",
+      "examples": [
+        "They had a *brief* conversation.",
+        "I will be *brief* in my explanation."
+      ],
+      "transcription": "briːf",
+      "ru_translation": "краткий"
+    },
+    "img": "https://static1.bigstockphoto.com/1/2/1/large1500/121618550.jpg"
+  },
+  {
+    "id": "neckcdef",
+    "front": "neck",
+    "back": {
+      "definition": "the part of a person's or animal's body connecting the head to the rest of the body",
+      "examples": [
+        "She wore a scarf around her *neck*.",
+        "Giraffes have long *necks*."
+      ],
+      "transcription": "nɛk",
+      "ru_translation": "шея"
+    },
+    "img": "https://baomoi-photo-fbcrawler.zadn.vn/w720x480/2020_09_14_287_36365135/af042382a9c1409f19d0.jpg"
+  },
+  {
+    "id": "societyghij",
+    "front": "society",
+    "back": {
+      "definition": "the aggregate of people living together in a more or less ordered community",
+      "examples": [
+        "We live in a diverse *society*.",
+        "The changes affected the whole *society*."
+      ],
+      "transcription": "səˈsaɪəti",
+      "ru_translation": "общество"
+    },
+    "img": "https://yt3.googleusercontent.com/ovmf6U-gJciUKTdB5btJKyKS-RLMMQCIFkgA2ZYa8ySXjglej4AepdZaNL0s9aT639PQxzKiQw=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "societalklmn",
+    "front": "societal",
+    "back": {
+      "definition": "relating to society or social relations",
+      "examples": [
+        "The project aims to address *societal* issues.",
+        "There are many *societal* norms that influence behavior."
+      ],
+      "transcription": "səˈsaɪətl",
+      "ru_translation": "общественный"
+    },
+    "img": "https://www.lda-design.co.uk/wp-content/uploads/Church-Street3.jpg"
+  },
+  {
+    "id": "weakopqr",
+    "front": "weak",
+    "back": {
+      "definition": "lacking physical strength and energy",
+      "examples": [
+        "After the illness, she felt very *weak*.",
+        "He has a *weak* handshake."
+      ],
+      "transcription": "wiːk",
+      "ru_translation": "слабый"
+    },
+    "img": "https://britlex.ru/images/weak.jpg"
+  },
+  {
+    "id": "weaknessstuv",
+    "front": "weakness",
+    "back": {
+      "definition": "the state or condition of lacking strength",
+      "examples": [
+        "His *weakness* was evident during the match.",
+        "Chocolate is her greatest *weakness*."
+      ],
+      "transcription": "ˈwiːknɪs",
+      "ru_translation": "слабость"
+    },
+    "img": "https://icon-library.com/images/celiac-disease-003-512.png"
+  },
+  {
+    "id": "weakenyzab",
+    "front": "weaken",
+    "back": {
+      "definition": "to make or become weaker in power, resolve, or physical strength",
+      "examples": [
+        "The medication can *weaken* your immune system.",
+        "His resolve began to *weaken* after many setbacks."
+      ],
+      "transcription": "ˈwiːkən",
+      "ru_translation": "ослабевать"
+    },
+    "img": "https://st.depositphotos.com/1001880/3068/i/950/depositphotos_30688075-stock-photo-tired-and-weaken-man-on.jpg"
+  },
+  {
+    "id": "resultincdef",
+    "front": "result in",
+    "back": {
+      "definition": "to cause a particular situation to happen",
+      "examples": [
+        "The new policy *resulted in* higher productivity.",
+        "His negligence *resulted in* an accident."
+      ],
+      "transcription": "rɪˈzʌltɪn",
+      "ru_translation": "привести к"
+    },
+    "img": "https://rabota-za-granicej.ru/wp-content/uploads/1/f/6/1f624515e8e11eb2ab63854879b987c6.jpeg"
   }
 ]
