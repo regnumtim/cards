@@ -3562,5 +3562,341 @@
       "ru_translation": "помогать"
     },
     "img": "https://britlex.ru/images/aid.jpg"
+  },
+  {
+    "id": "boilxyz",
+    "front": "boil",
+    "back": {
+      "definition": "to heat a liquid until bubbles rise continuously and it changes to steam.",
+      "examples": [
+        "Please *boil* the water before making tea.",
+        "He learned how to *boil* eggs perfectly."
+      ],
+      "transcription": "bɔɪl",
+      "ru_translation": "кипятить, варить"
+    },
+    "img": "https://remont-book.com/wp-content/uploads/2019/03/24-9.png"
+  },
+  {
+    "id": "boilernmopq",
+    "front": "boiler",
+    "back": {
+      "definition": "a container or device in which water is boiled to generate steam.",
+      "examples": [
+        "The *boiler* needs to be checked regularly.",
+        "They installed a new *boiler* in the basement."
+      ],
+      "transcription": "ˈbɔɪlə",
+      "ru_translation": "котел"
+    },
+    "img": "https://media.gazetadopovo.com.br/haus/2018/05/aquecedor-gua-de-passagem-banho-quente-large-768x512-58649ef0.jpg"
+  },
+  {
+    "id": "adventureasdf",
+    "front": "adventure",
+    "back": {
+      "definition": "an unusual, exciting, and possibly dangerous activity or experience.",
+      "examples": [
+        "Their trip turned into an unforgettable *adventure*.",
+        "He loves reading about *adventures* in distant lands."
+      ],
+      "transcription": "ədˈvɛnʧə",
+      "ru_translation": "приключение"
+    },
+    "img": "https://britlex.ru/images/adventure.jpg"
+  },
+  {
+    "id": "adventurerqwerty",
+    "front": "adventurer",
+    "back": {
+      "definition": "a person who enjoys or seeks dangerous or exciting experiences.",
+      "examples": [
+        "An *adventurer* always looks for new challenges.",
+        "She became an *adventurer* after exploring the Amazon jungle."
+      ],
+      "transcription": "ədˈvɛnʧərə",
+      "ru_translation": "искатель приключений, авантюрист"
+    },
+    "img": "https://i.pinimg.com/originals/58/a7/ed/58a7ed8b86f6f37aa5bf093161b7588a.png"
+  },
+  {
+    "id": "adventurousghijk",
+    "front": "adventurous",
+    "back": {
+      "definition": "willing to take risks or try out new methods, ideas, or experiences.",
+      "examples": [
+        "She has an *adventurous* spirit.",
+        "They went on an *adventurous* journey through the mountains."
+      ],
+      "transcription": "ədˈvɛnʧərəs",
+      "ru_translation": "смелый, авантюрный"
+    },
+    "img": "https://experiencekerala.in/kerala-tourism-blog/wp-content/uploads/2019/05/1-21.jpg"
+  },
+  {
+    "id": "weavelmnop",
+    "front": "weave (wove, woven)",
+    "back": {
+      "definition": "to form fabric by interlacing long threads passing in one direction with others at a right angle to them.",
+      "examples": [
+        "She learned how to *weave* on a traditional loom.",
+        "The spider can *weave* an intricate web."
+      ],
+      "transcription": "wiːv, wəʊv, wəʊvən",
+      "ru_translation": "плести, ткать"
+    },
+    "img": "https://britlex.ru/images/weave.jpg"
+  },
+  {
+    "id": "flavorabcde",
+    "front": "flavor",
+    "back": {
+      "definition": "the distinctive taste of a food or drink.",
+      "examples": [
+        "I love the *flavor* of this ice cream.",
+        "They added vanilla to enhance the *flavor*."
+      ],
+      "transcription": "ˈfleɪvə",
+      "ru_translation": "аромат, вкус"
+    },
+    "img": "https://britlex.ru/images/flavor.jpg"
+  },
+  {
+    "id": "flavorfghij",
+    "front": "flavor",
+    "back": {
+      "definition": "to give a particular taste to food or drink.",
+      "examples": [
+        "You can *flavor* the soup with herbs.",
+        "She *flavored* the cake with lemon zest."
+      ],
+      "transcription": "ˈfleɪvə",
+      "ru_translation": "приправлять"
+    },
+    "img": "https://dinne.ru/wp-content/uploads/2015/07/p_seventhO.jpg"
+  },
+  {
+    "id": "flavorklmno",
+    "front": "flavor",
+    "back": {
+      "definition": "a distinctive quality or atmosphere.",
+      "examples": [
+        "The restaurant has a unique *flavor*.",
+        "The city's cultural *flavor* is vibrant."
+      ],
+      "transcription": "ˈfleɪvə",
+      "ru_translation": "атмосфера, особенность"
+    },
+    "img": "https://i.ytimg.com/vi/cX3ILs5riNY/hqdefault.jpg"
+  },
+  {
+    "id": "removepqrst",
+    "front": "remove",
+    "back": {
+      "definition": "to take something or someone away from a place.",
+      "examples": [
+        "Please *remove* your shoes before entering.",
+        "They had to *remove* the old furniture."
+      ],
+      "transcription": "rɪˈmuːv",
+      "ru_translation": "убрать, удалить"
+    },
+    "img": "https://britlex.ru/images/remove.jpg"
+  },
+  {
+    "id": "removaluvwx",
+    "front": "removal",
+    "back": {
+      "definition": "the act of taking something or someone away from a place.",
+      "examples": [
+        "The *removal* of the tree was necessary.",
+        "They specialize in the *removal* of asbestos."
+      ],
+      "transcription": "rɪˈmuːvəl",
+      "ru_translation": "удаление"
+    },
+    "img": "https://www.uffizio.com/wp-content/uploads/2022/08/smart-waste.png"
+  },
+  {
+    "id": "shadowyz123",
+    "front": "shadow",
+    "back": {
+      "definition": "a dark area or shape produced by a body coming between rays of light and a surface.",
+      "examples": [
+        "She saw a *shadow* moving outside.",
+        "The tree cast a long *shadow* on the ground."
+      ],
+      "transcription": "ˈʃædəʊ",
+      "ru_translation": "тень"
+    },
+    "img": "https://i.pinimg.com/originals/7a/6f/59/7a6f59f0458d800b0430bcc6e2b7ccc3.jpg"
+  },
+  {
+    "id": "shadowy45678",
+    "front": "shadowy",
+    "back": {
+      "definition": "full of shadows or dark places; difficult to see or understand clearly.",
+      "examples": [
+        "The *shadowy* figures disappeared quickly.",
+        "The room was dark and *shadowy*."
+      ],
+      "transcription": "ˈʃædəʊi",
+      "ru_translation": "тёмный, смутный"
+    },
+    "img": "https://img.milli.az/2016/07/29/456339.jpg"
+  },
+  {
+    "id": "suburb9876",
+    "front": "suburb",
+    "back": {
+      "definition": "an outlying district of a city, especially a residential one.",
+      "examples": [
+        "They live in a quiet *suburb*.",
+        "The *suburb* is known for its excellent schools."
+      ],
+      "transcription": "ˈsʌbɜːb",
+      "ru_translation": "пригород"
+    },
+    "img": "https://britlex.ru/images/suburb.jpg"
+  },
+  {
+    "id": "suburban5432",
+    "front": "suburban",
+    "back": {
+      "definition": "of or characteristic of a suburb.",
+      "examples": [
+        "They moved to a *suburban* neighborhood.",
+        "The *suburban* lifestyle is peaceful."
+      ],
+      "transcription": "səˈbɜːbən",
+      "ru_translation": "пригородный"
+    },
+    "img": "https://i.ytimg.com/vi/d5PlJdlVTf4/maxresdefault.jpg"
+  },
+  {
+    "id": "complex1098",
+    "front": "complex",
+    "back": {
+      "definition": "consisting of many different and connected parts.",
+      "examples": [
+        "The project is quite *complex*.",
+        "He solved the *complex* puzzle."
+      ],
+      "transcription": "ˈkɒmplɛks",
+      "ru_translation": "сложный"
+    },
+    "img": "https://britlex.ru/images/complex.jpg"
+  },
+  {
+    "id": "complexity7654",
+    "front": "complexity",
+    "back": {
+      "definition": "the state or quality of being intricate or complicated.",
+      "examples": [
+        "The *complexity* of the problem is overwhelming.",
+        "She enjoys the *complexity* of classical music."
+      ],
+      "transcription": "kəmˈplɛksɪti",
+      "ru_translation": "сложность"
+    },
+    "img": "https://i.ytimg.com/vi/uroFpSjyt0s/hqdefault.jpg"
+  },
+  {
+    "id": "birth3210",
+    "front": "birth",
+    "back": {
+      "definition": "the emergence of a baby or other young from the body of its mother.",
+      "examples": [
+        "The *birth* of a child is a joyful event.",
+        "She gave *birth* at home."
+      ],
+      "transcription": "bɜːθ",
+      "ru_translation": "рождение"
+    },
+    "img": "https://burst.shopifycdn.com/photos/mother-smiles-as-she-holds-newborn-baby-while-resting-in-bed.jpg?width=1000&format=pjpg&exif=0&iptc=0"
+  },
+  {
+    "id": "givebirth4321",
+    "front": "give birth",
+    "back": {
+      "definition": "to bring forth a baby from the womb.",
+      "examples": [
+        "She is about to *give birth* any day now.",
+        "Many animals *give birth* in the spring."
+      ],
+      "transcription": "gɪv bɜːθ",
+      "ru_translation": "рождать"
+    },
+    "img": "https://irgpc.ru/wp-content/uploads/2022/06/9.-o-rodostimulyacii-min.png"
+  },
+  {
+    "id": "exploit5678",
+    "front": "exploit",
+    "back": {
+      "definition": "to make full use of and derive benefit from a resource.",
+      "examples": [
+        "They were quick to *exploit* the new technology.",
+        "Farmers *exploit* the fertile soil."
+      ],
+      "transcription": "ˈɛksplɔɪt",
+      "ru_translation": "использовать, эксплуатировать"
+    },
+    "img": "https://vtdi.net/wp-content/uploads/zombie-in-my-office.jpg"
+  },
+  {
+    "id": "exploitation9876",
+    "front": "exploitation",
+    "back": {
+      "definition": "the action or fact of treating someone unfairly in order to benefit from their work.",
+      "examples": [
+        "They condemned the *exploitation* of child labor.",
+        "He is fighting against the *exploitation* of workers."
+      ],
+      "transcription": "ˌɛksplɔɪˈteɪʃən",
+      "ru_translation": "использование, эксплуатация"
+    },
+    "img": "https://stihi.ru/pics/2022/05/04/7195.jpg"
+  },
+  {
+    "id": "exploiter6543",
+    "front": "exploiter",
+    "back": {
+      "definition": "a person who makes use of things or people selfishly or unethically.",
+      "examples": [
+        "He was known as an *exploiter* of his workers.",
+        "The *exploiter* took advantage of their trust."
+      ],
+      "transcription": "ɪksˈplɔɪtə",
+      "ru_translation": "эксплуататор"
+    },
+    "img": "https://dailystormer.in/wp-content/uploads/2022/11/Screen-Shot-2022-11-05-at-7.55.06-AM.png"
+  },
+  {
+    "id": "contain3210",
+    "front": "contain",
+    "back": {
+      "definition": "to have or hold something within.",
+      "examples": [
+        "The bottle *contains* water.",
+        "Can you *contain* your excitement?"
+      ],
+      "transcription": "kənˈteɪn",
+      "ru_translation": "содержать"
+    },
+    "img": "https://img.huffingtonpost.com/asset/5d025bf92500006813e54610.jpeg?ops=1200_630"
+  },
+  {
+    "id": "containment7890",
+    "front": "containment",
+    "back": {
+      "definition": "the action of keeping something harmful under control or within limits.",
+      "examples": [
+        "They worked on the *containment* of the disease.",
+        "The government focused on the *containment* of inflation."
+      ],
+      "transcription": "kənˈteɪnmənt",
+      "ru_translation": "сдерживание"
+    },
+    "img": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/_webp_large_2x/public/images/2021/10/07/Foreign_Affairs_4_Essays_Sarotte_Horizontal.jpg.webp?itok=Qloh2v_a"
   }
 ]
