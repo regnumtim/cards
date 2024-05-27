@@ -2302,7 +2302,7 @@
         "His shoulders were *tense* with stress."
       ],
       "transcription": "tɛns",
-      "ru_translation": "напряжённый, напрягать"
+      "ru_translation": "напряжённый"
     },
     "img": "https://britlex.ru/images/tense.jpg"
   },
@@ -2487,12 +2487,12 @@
   },
   {
     "id": "favouriteijklmnop",
-    "front": "favourite",
+    "front": "favorite",
     "back": {
       "definition": "best liked or most enjoyed",
       "examples": [
-        "Chocolate is my *favourite* flavor.",
-        "This is my *favourite* book."
+        "Chocolate is my *favorite* flavor.",
+        "This is my *favorite* book."
       ],
       "transcription": "ˈfeɪvərɪt",
       "ru_translation": "любимый"
@@ -2764,6 +2764,20 @@
       "ru_translation": "волна"
     },
     "img": "https://britlex.ru/images/wave2.jpg"
+  },
+  {
+    "id": "wavenopq",
+    "front": "wave",
+    "back": {
+      "definition": "to raise your hand and move it from side to side as a way of greeting someone, saying goodbye, or attracting someone's attention",
+      "examples": [
+        "She *waved* at her friend across the street.",
+        "The crowd *waved* flags during the parade."
+      ],
+      "transcription": "weɪv",
+      "ru_translation": "махать"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/1090402/1682504473_324484.png"
   },
   {
     "id": "longagolmyfq",
@@ -3212,5 +3226,341 @@
       "ru_translation": "привести к"
     },
     "img": "https://rabota-za-granicej.ru/wp-content/uploads/1/f/6/1f624515e8e11eb2ab63854879b987c6.jpeg"
+  },
+  {
+    "id": "dayoffxyza",
+    "front": "day off",
+    "back": {
+      "definition": "a day when you do not work",
+      "examples": [
+        "I can't wait for my next *day off*.",
+        "On his *day off*, he likes to go hiking."
+      ],
+      "transcription": "deɪɒf",
+      "ru_translation": "выходной"
+    },
+    "img": "https://britlex.ru/images/day%20off.jpg"
+  },
+  {
+    "id": "customswabc",
+    "front": "customs",
+    "back": {
+      "definition": "the place at a port, airport, or border where travelers' bags are looked at to find out if any goods are being carried illegally",
+      "examples": [
+        "We had to go through *customs* when we arrived at the airport.",
+        "She was stopped at *customs* for carrying too many items."
+      ],
+      "transcription": "ˈkʌstəmz",
+      "ru_translation": "таможня"
+    },
+    "img": "https://britlex.ru/images/customs.jpg"
+  },
+  {
+    "id": "greetuvwx",
+    "front": "greet",
+    "back": {
+      "definition": "to welcome someone with particular words or a particular action, or to react to something in the stated way",
+      "examples": [
+        "They *greeted* each other with a hug.",
+        "He always *greets* me with a smile."
+      ],
+      "transcription": "griːt",
+      "ru_translation": "приветствовать"
+    },
+    "img": "https://britlex.ru/images/greet.jpg"
+  },
+  {
+    "id": "greetingabcd",
+    "front": "greeting",
+    "back": {
+      "definition": "something friendly or polite that you say or do when you meet or welcome someone",
+      "examples": [
+        "She waved a *greeting* to her friends.",
+        "The host gave a warm *greeting* to all the guests."
+      ],
+      "transcription": "ˈgriːtɪŋ",
+      "ru_translation": "приветствие"
+    },
+    "img": "https://w7.pngwing.com/pngs/105/117/png-transparent-greeting-morning-relocation-culture-person-xmas-greeting-miscellaneous-culture-child.png"
+  },
+  {
+    "id": "edgemnop",
+    "front": "edge",
+    "back": {
+      "definition": "the outer or furthest point of something",
+      "examples": [
+        "She sat at the *edge* of the table.",
+        "He was standing on the *edge* of the cliff."
+      ],
+      "transcription": "ɛʤ",
+      "ru_translation": "край"
+    },
+    "img": "https://britlex.ru/images/edge.jpg"
+  },
+  {
+    "id": "edgedqrst",
+    "front": "edged",
+    "back": {
+      "definition": "having an edge of a specified kind",
+      "examples": [
+        "The knife was *edged* with a fine blade.",
+        "The garden was beautifully *edged* with flowers."
+      ],
+      "transcription": "ɛʤd",
+      "ru_translation": "окруженный, окантованный"
+    },
+    "img": "https://fonzon.club/uploads/posts/2022-01/thumbs/1643324299_55-fonzon-club-p-mech-iz-igri-74.png"
+  },
+  {
+    "id": "edgyuvwx",
+    "front": "edgy",
+    "back": {
+      "definition": "nervous; not calm",
+      "examples": [
+        "She felt *edgy* before the big meeting.",
+        "His *edgy* behavior made everyone uncomfortable."
+      ],
+      "transcription": "ˈɛʤi",
+      "ru_translation": "нервный, раздражительный"
+    },
+    "img": "https://img2.fedpress.ru/thumbs/800/2022/08/2720/aa4e38b59f0d976c65d742163873cd13.jpg"
+  },
+  {
+    "id": "preserveyzab",
+    "front": "preserve",
+    "back": {
+      "definition": "to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed",
+      "examples": [
+        "We need to *preserve* our natural resources.",
+        "This law helps to *preserve* historic buildings."
+      ],
+      "transcription": "prɪˈzɜːv",
+      "ru_translation": "сохранять, беречь"
+    },
+    "img": "https://britlex.ru/images/preserve.jpg"
+  },
+  {
+    "id": "preservecdef",
+    "front": "preserve",
+    "back": {
+      "definition": "an area of land kept in its natural state, especially for hunting and fishing or for raising animals and fish",
+      "examples": [
+        "The wildlife *preserve* is home to many endangered species.",
+        "He visited a nature *preserve* during his vacation."
+      ],
+      "transcription": "prɪˈzɜːv",
+      "ru_translation": "заповедник"
+    },
+    "img": "https://domzaborov.ru/upload/iblock/c6a/c6a856becff780feb821417bfd15338b.jpg"
+  },
+  {
+    "id": "preserveghij",
+    "front": "preserve",
+    "back": {
+      "definition": "a type of jam made by boiling fruit and sugar to a thick mixture",
+      "examples": [
+        "She spread strawberry *preserve* on her toast.",
+        "They make their own fruit *preserves* every summer."
+      ],
+      "transcription": "prɪˈzɜːv",
+      "ru_translation": "варенье, презервы"
+    },
+    "img": "https://pravilauborki.ru/wp-content/uploads/2019/01/varenie-2.jpeg"
+  },
+  {
+    "id": "preservationklmn",
+    "front": "preservation",
+    "back": {
+      "definition": "the act of keeping something the same or of preventing it from being damaged",
+      "examples": [
+        "The *preservation* of old buildings is important for cultural heritage.",
+        "Food *preservation* techniques have improved over the years."
+      ],
+      "transcription": "ˌprɛzə(ː)ˈveɪʃən",
+      "ru_translation": "сохранение"
+    },
+    "img": "https://iksr.ru/wp-content/uploads/2023/02/kptsr.jpg"
+  },
+  {
+    "id": "handsomeopqr",
+    "front": "handsome",
+    "back": {
+      "definition": "(of a man) physically attractive in a traditional, male way",
+      "examples": [
+        "He is a very *handsome* man.",
+        "The *handsome* actor received a lot of attention."
+      ],
+      "transcription": "ˈhænsəm",
+      "ru_translation": "красивый (обычно о мужчинах)"
+    },
+    "img": "https://britlex.ru/images/handsome.jpg"
+  },
+  {
+    "id": "lackstuv",
+    "front": "lack",
+    "back": {
+      "definition": "the fact that something is not available or that there is not enough of it",
+      "examples": [
+        "There was a *lack* of evidence.",
+        "His *lack* of experience showed during the interview."
+      ],
+      "transcription": "læk",
+      "ru_translation": "недостаток"
+    },
+    "img": "https://britlex.ru/images/lack.jpg"
+  },
+  {
+    "id": "lackwxyz",
+    "front": "lack",
+    "back": {
+      "definition": "to not have or not have enough of something that is needed or wanted",
+      "examples": [
+        "They *lack* the necessary skills for the job.",
+        "We *lacked* the resources to complete the project."
+      ],
+      "transcription": "læk",
+      "ru_translation": "не хватать, недоставать"
+    },
+    "img": "https://top10a.ru/wp-content/uploads/2019/04/iovjvqvvs.jpg"
+  },
+  {
+    "id": "skinaabc",
+    "front": "skin",
+    "back": {
+      "definition": "the natural outer layer that covers a person, animal, fruit, etc.",
+      "examples": [
+        "She has very sensitive *skin*.",
+        "The *skin* of the fruit was thick and bitter."
+      ],
+      "transcription": "skɪn",
+      "ru_translation": "кожа"
+    },
+    "img": "https://jnswire.s3.amazonaws.com/jns-media/7a/89/41227/skin.jpg"
+  },
+  {
+    "id": "encouragedefg",
+    "front": "encourage",
+    "back": {
+      "definition": "to make someone more likely to do something, or to make something more likely to happen",
+      "examples": [
+        "Her parents *encouraged* her to study hard.",
+        "The teacher's praise *encouraged* the students."
+      ],
+      "transcription": "ɪnˈkʌrɪʤ",
+      "ru_translation": "поддерживать, поощрять"
+    },
+    "img": "https://britlex.ru/images/encourage.jpg"
+  },
+  {
+    "id": "encouragementhij",
+    "front": "encouragement",
+    "back": {
+      "definition": "words or behavior that give someone confidence to do something",
+      "examples": [
+        "She needed a lot of *encouragement* to complete the task.",
+        "The coach's *encouragement* boosted the team's morale."
+      ],
+      "transcription": "ɪnˈkʌrɪʤmənt",
+      "ru_translation": "поощрение"
+    },
+    "img": "https://quizpug.com/wp-content/uploads/qc-images/5722404ba6cbd.jpg"
+  },
+  {
+    "id": "discouragedklm",
+    "front": "discourage",
+    "back": {
+      "definition": "to make someone feel less confident, enthusiastic, and positive about something, or less willing to do something",
+      "examples": [
+        "He was *discouraged* by the lack of progress.",
+        "Don't let one failure *discourage* you."
+      ],
+      "transcription": "dɪsˈkʌrɪʤ",
+      "ru_translation": "отговаривать, обескураживать"
+    },
+    "img": "https://britlex.ru/images/discourage.jpg"
+  },
+  {
+    "id": "discouragementnop",
+    "front": "discouragement",
+    "back": {
+      "definition": "the feeling of being less confident or less hopeful",
+      "examples": [
+        "The constant setbacks led to *discouragement*.",
+        "There was a sense of *discouragement* among the team."
+      ],
+      "transcription": "dɪsˈkʌrɪʤmənt",
+      "ru_translation": "упадок духа, обескураженность"
+    },
+    "img": "https://ichef.bbci.co.uk/news/1024/branded_bengali/6D68/production/_124280082_gettyimages-650326960.jpg"
+  },
+  {
+    "id": "harassqrst",
+    "front": "harass",
+    "back": {
+      "definition": "to continue to annoy or upset someone over a period of time",
+      "examples": [
+        "She felt *harassed* by the constant phone calls.",
+        "The protesters were *harassed* by the police."
+      ],
+      "transcription": "ˈhærəs",
+      "ru_translation": "тревожить, беспокоить"
+    },
+    "img": "https://www.ktk.kz/getimage/newsimgru/228478"
+  },
+  {
+    "id": "harassmentuvwx",
+    "front": "harassment",
+    "back": {
+      "definition": "behavior that annoys or upsets someone",
+      "examples": [
+        "She reported the *harassment* to her supervisor.",
+        "The company has strict policies against *harassment*."
+      ],
+      "transcription": "ˈhærəsmənt",
+      "ru_translation": "домогательство, беспокойство"
+    },
+    "img": "https://ic.pics.livejournal.com/nastya_maks/66518602/625954/625954_800.jpg"
+  },
+  {
+    "id": "taskyzab",
+    "front": "task",
+    "back": {
+      "definition": "a piece of work to be done, especially one done regularly, unwillingly, or with difficulty",
+      "examples": [
+        "He was given a difficult *task* to complete.",
+        "The daily *tasks* are quite routine."
+      ],
+      "transcription": "tɑːsk",
+      "ru_translation": "задание, задача"
+    },
+    "img": "https://britlex.ru/images/task.jpg"
+  },
+  {
+    "id": "aidcdef",
+    "front": "aid",
+    "back": {
+      "definition": "help or support",
+      "examples": [
+        "They provided *aid* to the disaster victims.",
+        "Financial *aid* is available for those in need."
+      ],
+      "transcription": "eɪd",
+      "ru_translation": "помощь"
+    },
+    "img": "https://miloserdiedv.ru/wp-content/uploads/2016/06/c0b37d3f-3b12-48a1-b099-c65315bd4325.jpg"
+  },
+  {
+    "id": "aidghij",
+    "front": "aid",
+    "back": {
+      "definition": "to help",
+      "examples": [
+        "The organization aims to *aid* those in need.",
+        "The nurse *aided* the patient with his medication."
+      ],
+      "transcription": "eɪd",
+      "ru_translation": "помогать"
+    },
+    "img": "https://britlex.ru/images/aid.jpg"
   }
 ]
