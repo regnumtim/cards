@@ -2679,7 +2679,7 @@
       "transcription": "ˈtɒpɪkəl",
       "ru_translation": "актуальный, тематический"
     },
-    "img": "https://www.curel.com/content/dam/sites/kaousa/www-curel-com/us/articles/manage-sensitiveskin-article-thumbnail.jpg"
+    "img": "https://i.ytimg.com/vi/5oy7lQVJG0Q/mqdefault.jpg"
   },
   {
     "id": "hurtnydtkd",
@@ -3447,7 +3447,7 @@
         "The teacher's praise *encouraged* the students."
       ],
       "transcription": "ɪnˈkʌrɪʤ",
-      "ru_translation": "поддерживать, поощрять"
+      "ru_translation": "поощрять"
     },
     "img": "https://britlex.ru/images/encourage.jpg"
   },
@@ -3475,7 +3475,7 @@
         "Don't let one failure *discourage* you."
       ],
       "transcription": "dɪsˈkʌrɪʤ",
-      "ru_translation": "отговаривать, обескураживать"
+      "ru_translation": "демотивировать"
     },
     "img": "https://britlex.ru/images/discourage.jpg"
   },
@@ -3489,7 +3489,7 @@
         "There was a sense of *discouragement* among the team."
       ],
       "transcription": "dɪsˈkʌrɪʤmənt",
-      "ru_translation": "упадок духа, обескураженность"
+      "ru_translation": "демотивирование"
     },
     "img": "https://ichef.bbci.co.uk/news/1024/branded_bengali/6D68/production/_124280082_gettyimages-650326960.jpg"
   },
@@ -3898,5 +3898,397 @@
       "ru_translation": "сдерживание"
     },
     "img": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/_webp_large_2x/public/images/2021/10/07/Foreign_Affairs_4_Essays_Sarotte_Horizontal.jpg.webp?itok=Qloh2v_a"
+  },
+  {
+    "id": "bargainabc123",
+    "front": "bargain",
+    "back": {
+      "definition": "an agreement between two people or groups in which each promises to do something for the other",
+      "examples": [
+        "They reached a *bargain* after hours of negotiation.",
+        "I found a great *bargain* on these shoes."
+      ],
+      "transcription": "ˈbɑːgɪn",
+      "ru_translation": "сделка, торг"
+    },
+    "img": "https://xn----dtbefqi1athe.xn--p1ai/upload/iblock/b48/b48b29b2573ed3dd7ca1f186e9e33751.png"
+  },
+  {
+    "id": "bargainxyz456",
+    "front": "bargain",
+    "back": {
+      "definition": "to discuss the conditions of a sale, agreement, etc. with the aim of reaching an agreement that is acceptable",
+      "examples": [
+        "They *bargained* over the price for hours.",
+        "You can *bargain* with the seller to get a better deal."
+      ],
+      "transcription": "ˈbɑːgɪn",
+      "ru_translation": "торговаться, заключать сделку"
+    },
+    "img": "https://britlex.ru/images/bargain.jpg"
+  },
+  {
+    "id": "toolmno789",
+    "front": "tool",
+    "back": {
+      "definition": "a piece of equipment that you use with your hands to make or repair something",
+      "examples": [
+        "He used a hammer as a *tool* to fix the shelf.",
+        "Make sure you have all the *tools* before starting the project."
+      ],
+      "transcription": "tuːl",
+      "ru_translation": "инструмент"
+    },
+    "img": "https://britlex.ru/images/tool.jpg"
+  },
+  {
+    "id": "agendapqr123",
+    "front": "agenda",
+    "back": {
+      "definition": "a list of matters to be discussed at a meeting",
+      "examples": [
+        "The first item on the *agenda* is the budget.",
+        "We need to add this topic to the *agenda* for the next meeting."
+      ],
+      "transcription": "əˈʤɛndə",
+      "ru_translation": "повестка дня"
+    },
+    "img": "https://britlex.ru/images/agenda.jpg"
+  },
+  {
+    "id": "ancestorstu456",
+    "front": "ancestor",
+    "back": {
+      "definition": "a person related to you who lived a long time ago",
+      "examples": [
+        "She discovered that one of her *ancestors* was a famous explorer.",
+        "Our *ancestors* passed down many traditions."
+      ],
+      "transcription": "ˈænsɪstə",
+      "ru_translation": "предок"
+    },
+    "img": "https://1.bp.blogspot.com/_BZVZAaYJPcQ/TNUWwzNCudI/AAAAAAAAAvg/b-kYX9FUgVs/s1600/ancestors.jpeg"
+  },
+  {
+    "id": "ancestralvwx789",
+    "front": "ancestral",
+    "back": {
+      "definition": "relating to members of your family from the past",
+      "examples": [
+        "They visited their *ancestral* home in the countryside.",
+        "The family has many *ancestral* traditions."
+      ],
+      "transcription": "ænˈsɛstrəl",
+      "ru_translation": "наследственный, родовой"
+    },
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Naryshkin_family_tree.jpg/640px-Naryshkin_family_tree.jpg"
+  },
+  {
+    "id": "missiledef123",
+    "front": "missile",
+    "back": {
+      "definition": "a flying weapon that has its own engine so that it can travel a long distance before exploding at its target",
+      "examples": [
+        "The country tested a new *missile* last week.",
+        "The *missile* hit its target accurately."
+      ],
+      "transcription": "ˈmɪsaɪl",
+      "ru_translation": "ракета"
+    },
+    "img": "https://britlex.ru/images/missile.jpg"
+  },
+  {
+    "id": "elaborateghi456",
+    "front": "elaborate",
+    "back": {
+      "definition": "to add more information to or explain something that you have said",
+      "examples": [
+        "Can you *elaborate* on your previous statement?",
+        "She refused to *elaborate* on the details."
+      ],
+      "transcription": "ɪˈlæbərɪt",
+      "ru_translation": "разрабатывать, вырабатывать"
+    },
+    "img": "https://britlex.ru/images/elaborate.jpg"
+  },
+  {
+    "id": "elaboratejkl789",
+    "front": "elaborate",
+    "back": {
+      "definition": "containing a lot of careful detail or many detailed parts",
+      "examples": [
+        "The dress had an *elaborate* design.",
+        "He gave an *elaborate* explanation of the process."
+      ],
+      "transcription": "ɪˈlæbərɪt",
+      "ru_translation": "сложный, продуманный"
+    },
+    "img": "https://power-e.ru/wp-content/uploads/1_baa4jb2i-as67yhduiiklw.jpeg"
+  },
+  {
+    "id": "elaborationmno123",
+    "front": "elaboration",
+    "back": {
+      "definition": "the addition of more information to or an explanation of something that you have said",
+      "examples": [
+        "The essay lacked *elaboration* on key points.",
+        "She provided an *elaboration* on the topic."
+      ],
+      "transcription": "ɪˌlæbəˈreɪʃən",
+      "ru_translation": "разработка, проработка"
+    },
+    "img": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663608789_13-mykaleidoscope-ru-p-logika-i-chuvstva-oboi-13.jpg"
+  },
+  {
+    "id": "poolpqr456",
+    "front": "pool",
+    "back": {
+      "definition": "a small area of usually still water",
+      "examples": [
+        "They swam in the *pool* all afternoon.",
+        "There is a *pool* of water in the backyard after the rain."
+      ],
+      "transcription": "puːl",
+      "ru_translation": "бассейн"
+    },
+    "img": "https://britlex.ru/images/pool.jpg"
+  },
+  {
+    "id": "substitutejkl456",
+    "front": "substitute",
+    "back": {
+      "definition": "to use something or someone instead of another thing or person",
+      "examples": [
+        "You can *substitute* olive oil for butter in this recipe.",
+        "They *substituted* a different player in the second half."
+      ],
+      "transcription": "ˈsʌbstɪtjuːt",
+      "ru_translation": "заменять"
+    },
+    "img": "https://britlex.ru/images/substitute.jpg"
+  },
+  {
+    "id": "substitutemno789",
+    "front": "substitute",
+    "back": {
+      "definition": "a thing or person that is used instead of another thing or person",
+      "examples": [
+        "Sugar is often used as a *substitute* for honey.",
+        "She was the *substitute* teacher for the day."
+      ],
+      "transcription": "ˈsʌbstɪtjuːt",
+      "ru_translation": "замена"
+    },
+    "img": "https://s.kaskus.id/images/2016/06/24/3371901_20160624055558.jpg"
+  },
+  {
+    "id": "substitutionpqr123",
+    "front": "substitution",
+    "back": {
+      "definition": "the use of one person or thing instead of another",
+      "examples": [
+        "The *substitution* of players is allowed during the game.",
+        "There was a *substitution* of ingredients in the recipe."
+      ],
+      "transcription": "ˌsʌbstɪˈtjuːʃən",
+      "ru_translation": "замена, замещение"
+    },
+    "img": "https://www.pngitem.com/pimgs/m/445-4453103_clip-art-microsoft-shared-micoservices-on-substitutes-icon.png"
+  },
+  {
+    "id": "loneabc123",
+    "front": "lone",
+    "back": {
+      "definition": "being alone; without other people",
+      "examples": [
+        "He was the *lone* survivor of the accident.",
+        "She stood *lone* on the hill, looking at the sunset."
+      ],
+      "transcription": "ləʊn",
+      "ru_translation": "одинокий (факт, что кто-то один)"
+    },
+    "img": "https://britlex.ru/images/lone.jpg"
+  },
+  {
+    "id": "lonelydef456",
+    "front": "lonely",
+    "back": {
+      "definition": "unhappy because you are not with other people",
+      "examples": [
+        "She felt *lonely* after moving to a new city.",
+        "The *lonely* boy sat by himself at lunch."
+      ],
+      "transcription": "ˈləʊnli",
+      "ru_translation": "одинокий (чувство)"
+    },
+    "img": "https://images.hdqwalls.com/download/sad-girl-sitting-on-dock-silhouette-nb-800x1280.jpg"
+  },
+  {
+    "id": "lonelinessghi789",
+    "front": "loneliness",
+    "back": {
+      "definition": "the state of being lonely",
+      "examples": [
+        "He struggled with *loneliness* after his friends moved away.",
+        "Her *loneliness* was overwhelming during the holidays."
+      ],
+      "transcription": "ˈləʊnlɪnəs",
+      "ru_translation": "одиночество"
+    },
+    "img": "https://cafebiz.cafebizcdn.vn/162123310254002176/2021/3/26/lonely-20-1616771925201411698047-16167719509441870614890.jpg"
+  },
+  {
+    "id": "lonesomejkl123",
+    "front": "lonesome",
+    "back": {
+      "definition": "unhappy because you are not with other people",
+      "examples": [
+        "He felt *lonesome* in the big city.",
+        "She spent a *lonesome* evening at home."
+      ],
+      "transcription": "ˈləʊnsəm",
+      "ru_translation": "унылый от одиночества"
+    },
+    "img": "https://psiola-center.ru/wp-content/uploads/b/5/b/b5b06be4aaf47548a1846971b3270752.jpeg"
+  },
+  {
+    "id": "amazemno456",
+    "front": "amaze",
+    "back": {
+      "definition": "to cause someone to be extremely surprised",
+      "examples": [
+        "Her talent never ceases to *amaze* me.",
+        "The magician's tricks always *amaze* the audience."
+      ],
+      "transcription": "əˈmeɪz",
+      "ru_translation": "изумлять"
+    },
+    "img": "https://britlex.ru/images/amaze.jpg"
+  },
+  {
+    "id": "amazementpqr789",
+    "front": "amazement",
+    "back": {
+      "definition": "extreme surprise",
+      "examples": [
+        "He watched in *amazement* as the fireworks lit up the sky.",
+        "Her *amazement* was clear when she saw the surprise party."
+      ],
+      "transcription": "əˈmeɪzmənt",
+      "ru_translation": "изумление"
+    },
+    "img": "https://i.ytimg.com/vi/5ttEKET2rwE/sddefault.jpg"
+  },
+  {
+    "id": "blondeabc456",
+    "front": "blonde",
+    "back": {
+      "definition": "a woman with pale or yellow hair",
+      "examples": [
+        "She is a natural *blonde*.",
+        "The actress was known for her *blonde* hair."
+      ],
+      "transcription": "blɒnd",
+      "ru_translation": "блондинка"
+    },
+    "img": "https://britlex.ru/images/blonde.jpg"
+  },
+  {
+    "id": "blonddef789",
+    "front": "blond",
+    "back": {
+      "definition": "a man with pale or yellow hair",
+      "examples": [
+        "He was the only *blond* in his family.",
+        "The surfer had sun-bleached *blond* hair."
+      ],
+      "transcription": "blɒnd",
+      "ru_translation": "блондин"
+    },
+    "img": "https://geoturtle.com/wp-content/uploads/2018/10/IMG_1163-850x504.jpg"
+  },
+  {
+    "id": "fascinateghi123",
+    "front": "fascinate",
+    "back": {
+      "definition": "to interest someone a lot",
+      "examples": [
+        "Ancient history *fascinates* her.",
+        "The documentary *fascinated* everyone in the room."
+      ],
+      "transcription": "ˈfæsɪneɪt",
+      "ru_translation": "очаровывать"
+    },
+    "img": "https://britlex.ru/images/fascinate.jpg"
+  },
+  {
+    "id": "fascinationjkl456",
+    "front": "fascination",
+    "back": {
+      "definition": "the fact of finding someone or something fascinating",
+      "examples": [
+        "Her *fascination* with science began at a young age.",
+        "The book explains the *fascination* humans have with space."
+      ],
+      "transcription": "ˌfæsɪˈneɪʃən",
+      "ru_translation": "очарование"
+    },
+    "img": "https://healthinfo.ua/uploads/articles/a32014d78f01e51049f817807d2a82436fd09cf2.jpg"
+  },
+  {
+    "id": "fascinatingmno789",
+    "front": "fascinating",
+    "back": {
+      "definition": "extremely interesting",
+      "examples": [
+        "The lecture on black holes was absolutely *fascinating*.",
+        "He told a *fascinating* story about his travels."
+      ],
+      "transcription": "ˈfæsɪneɪtɪŋ",
+      "ru_translation": "очаровательный"
+    },
+    "img": "https://img.goodfon.ru/wallpaper/original/4/db/angelina-briunetka-pricheska-makiiazh-vzgliad-portret-pukhov.jpg"
+  },
+  {
+    "id": "violentpqr123",
+    "front": "violent",
+    "back": {
+      "definition": "using force to hurt or attack",
+      "examples": [
+        "The protest turned *violent* after dark.",
+        "He has a history of *violent* behavior."
+      ],
+      "transcription": "ˈvaɪələnt",
+      "ru_translation": "насильственный, жестокий"
+    },
+    "img": "https://s.pfst.net/2014.04/620395988067fe3cf83b7e2c6a230d6e8d902c904b4_b.jpg"
+  },
+  {
+    "id": "violenceabc456",
+    "front": "violence",
+    "back": {
+      "definition": "actions or words that are intended to hurt people",
+      "examples": [
+        "The *violence* in the movie was disturbing.",
+        "There was a surge in *violence* in the city."
+      ],
+      "transcription": "ˈvaɪələns",
+      "ru_translation": "насилие"
+    },
+    "img": "https://image.bnews.vn/MediaUpload/Medium/2022/07/03/danh-nhau-20220703160131.jpg"
+  },
+  {
+    "id": "reliefdef789",
+    "front": "relief",
+    "back": {
+      "definition": "a feeling of happiness that something unpleasant has not happened or has ended",
+      "examples": [
+        "She felt a sense of *relief* after the exam was over.",
+        "It was such a *relief* to hear that he was safe."
+      ],
+      "transcription": "rɪˈliːf",
+      "ru_translation": "облегчение"
+    },
+    "img": "https://britlex.ru/images/relief.jpg"
   }
 ]
