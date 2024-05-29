@@ -4290,5 +4290,454 @@
       "ru_translation": "облегчение"
     },
     "img": "https://britlex.ru/images/relief.jpg"
+  },
+  {
+    "id": "excludeXYZ123",
+    "front": "exclude",
+    "back": {
+      "definition": "to prevent someone or something from entering a place or taking part in an activity",
+      "examples": [
+        "The club decided to *exclude* anyone under the age of 18.",
+        "She felt *excluded* from the group discussions."
+      ],
+      "transcription": "ɪksˈkluːd",
+      "ru_translation": "исключать"
+    },
+    "img": "https://britlex.ru/images/exclude.jpg"
+  },
+  {
+    "id": "exclusionABC456",
+    "front": "exclusion",
+    "back": {
+      "definition": "the act of not allowing someone or something to take part in an activity or to enter a place",
+      "examples": [
+        "His *exclusion* from the meeting was unexpected.",
+        "The policy aims at the *exclusion* of dangerous substances."
+      ],
+      "transcription": "ɪksˈkluːʒən",
+      "ru_translation": "исключение"
+    },
+    "img": "https://udgtv.blob.core.windows.net/images/uploads/2019/03/Discriminaci%c3%b3n-696x464.jpg"
+  },
+  {
+    "id": "exclusiveDEF789",
+    "front": "exclusive",
+    "back": {
+      "definition": "limited to only one person or group of people",
+      "examples": [
+        "The hotel offers *exclusive* access to the beach.",
+        "They signed an *exclusive* contract with the artist."
+      ],
+      "transcription": "ɪksˈkluːsɪv",
+      "ru_translation": "исключительный"
+    },
+    "img": "https://banner2.cleanpng.com/20180514/ufw/kisspng-sticker-label-5af99e763933a7.9521838615263084702343.jpg"
+  },
+  {
+    "id": "visibleGHI012",
+    "front": "visible",
+    "back": {
+      "definition": "able to be seen",
+      "examples": [
+        "The mountain was barely *visible* through the fog.",
+        "She made herself *visible* to the crowd."
+      ],
+      "transcription": "ˈvɪzəbl",
+      "ru_translation": "видимый"
+    },
+    "img": "https://sosordinateurs.com/wp-content/uploads/2022/01/How-much-does-Phasmophobia-cost-1.jpg"
+  },
+  {
+    "id": "invisibleJKL345",
+    "front": "invisible",
+    "back": {
+      "definition": "impossible to see",
+      "examples": [
+        "The *invisible* force moved the object across the room.",
+        "He felt *invisible* among the crowd."
+      ],
+      "transcription": "ɪnˈvɪzəbl",
+      "ru_translation": "невидимый"
+    },
+    "img": "https://pic.rutubelist.ru/video/e4/03/e4038fed391d7a4aef4b04c8bcc5b62c.jpg"
+  },
+  {
+    "id": "visibilityMNO678",
+    "front": "visibility",
+    "back": {
+      "definition": "how clearly objects can be seen, or how far you can see clearly, often because of the weather conditions",
+      "examples": [
+        "Poor *visibility* caused the flight to be delayed.",
+        "The car's *visibility* is improved with larger windows."
+      ],
+      "transcription": "ˌvɪzɪˈbɪlɪti",
+      "ru_translation": "видимость"
+    },
+    "img": "https://thumbs.dreamstime.com/b/driving-behind-truck-under-dense-fog-very-bad-visibility-220200242.jpg"
+  },
+  {
+    "id": "invisibilityPQR901",
+    "front": "invisibility",
+    "back": {
+      "definition": "the fact of being impossible to see",
+      "examples": [
+        "The magician's trick relied on *invisibility*.",
+        "They felt a sense of *invisibility* in the large city."
+      ],
+      "transcription": "ɪnˌvɪzəˈbɪlɪti",
+      "ru_translation": "невидимость"
+    },
+    "img": "https://i.ytimg.com/vi/VvX84o_e7vs/sddefault.jpg"
+  },
+  {
+    "id": "rollSTU234",
+    "front": "roll",
+    "back": {
+      "definition": "to (cause something to) move somewhere by turning over and over or from side to side",
+      "examples": [
+        "The ball *rolled* down the hill.",
+        "She *rolled* the dough out flat."
+      ],
+      "transcription": "rəʊl",
+      "ru_translation": "закатывать, скручивать"
+    },
+    "img": "https://cdn.nur.kz/images/1120x630/8a93c0ad61eeb907.jpeg?version=1"
+  },
+  {
+    "id": "rollVWX567",
+    "front": "roll",
+    "back": {
+      "definition": "a long, narrow piece of something, especially paper or cloth, that is rolled into the shape of a tube",
+      "examples": [
+        "He bought a *roll* of wrapping paper.",
+        "The carpet comes in *rolls* of various sizes."
+      ],
+      "transcription": "rəʊl",
+      "ru_translation": "рулон"
+    },
+    "img": "https://britlex.ru/images/roll2.jpg"
+  },
+  {
+    "id": "carryoutYZA890",
+    "front": "carry out",
+    "back": {
+      "definition": "to do or complete something, especially something that you have said you would do or that you have been told to do",
+      "examples": [
+        "They were asked to *carry out* the plan.",
+        "He *carried out* the instructions carefully."
+      ],
+      "transcription": "ˈkæriaʊt",
+      "ru_translation": "выполнять, исполнять"
+    },
+    "img": "https://britlex.ru/images/carry%20out.jpg"
+  },
+
+  {
+    "id": "rapeWordXYZ123",
+    "front": "rape",
+    "back": {
+      "definition": "to force someone to have sex when they are unwilling, using violence or threatening behaviour",
+      "examples": [
+        "The criminal was arrested for attempting to *rape* the victim.",
+        "She bravely testified against her attacker who tried to *rape* her."
+      ],
+      "transcription": "reɪp",
+      "ru_translation": "насиловать"
+    },
+    "img": "https://cdn.punchng.com/wp-content/uploads/2022/08/01213259/Rape.jpg"
+  },
+  {
+    "id": "rapeNounABC456",
+    "front": "rape",
+    "back": {
+      "definition": "the crime of forcing someone to have sex when they are unwilling, using violence or threatening behaviour",
+      "examples": [
+        "He was convicted of *rape* and sentenced to prison.",
+        "The victim reported the *rape* to the authorities immediately."
+      ],
+      "transcription": "reɪp",
+      "ru_translation": "изнасилование"
+    },
+    "img": "https://i.ytimg.com/vi/QVaeAGIwtlk/hqdefault.jpg"
+  },
+  {
+    "id": "rapistDEF789",
+    "front": "rapist",
+    "back": {
+      "definition": "someone who forces another person to have sex when they are unwilling, using violence or threatening behaviour",
+      "examples": [
+        "The *rapist* was caught by the police after a thorough investigation.",
+        "Survivors of *rapists* often need long-term support and counseling."
+      ],
+      "transcription": "ˈreɪpɪst",
+      "ru_translation": "насильник"
+    },
+    "img": "https://3.bp.blogspot.com/_j_Bcf_6uMS4/TMFBYaOH5tI/AAAAAAAAPbw/CM7rdVAN72s/w1200-h630-p-k-no-nu/alg_mugshot_west.jpg"
+  },
+  {
+    "id": "manualBCD123",
+    "front": "manual",
+    "back": {
+      "definition": "a book that gives you practical instructions on how to do something or how to use something, such as a machine",
+      "examples": [
+        "The instruction *manual* was very helpful.",
+        "She referred to the *manual* for troubleshooting."
+      ],
+      "transcription": "ˈmænjʊəl",
+      "ru_translation": "руководство, учебник"
+    },
+    "img": "https://barnsly.store/upload/medialibrary/5b2/5b25e252c392e72b1211fecf156654f6.png"
+  },
+  {
+    "id": "manualEFG456",
+    "front": "manual",
+    "back": {
+      "definition": "done with the hands",
+      "examples": [
+        "The job requires *manual* labor.",
+        "He enjoys *manual* work over office tasks."
+      ],
+      "transcription": "ˈmænjʊəl",
+      "ru_translation": "ручной"
+    },
+    "img": "https://alexgrim.ru/wp-content/uploads/2020/05/master-klassy-gorod-masterov-24-min-768x512.jpg"
+  },
+  {
+    "id": "manuallyHIJ789",
+    "front": "manually",
+    "back": {
+      "definition": "using your hands",
+      "examples": [
+        "The machine can be operated *manually* if needed.",
+        "They *manually* updated the records."
+      ],
+      "transcription": "ˈmanjʊəli",
+      "ru_translation": "вручную"
+    },
+    "img": "https://cpdshel.ru/wp-content/uploads/a/1/b/a1b6510af8be7685b660a3a2c2fa3085.jpeg"
+  },
+  {
+    "id": "honorKLM012",
+    "front": "honor",
+    "back": {
+      "definition": "a quality that combines respect, being proud, and honesty",
+      "examples": [
+        "He served his country with *honor*.",
+        "It's a matter of *honor* for the family."
+      ],
+      "transcription": "ˈɒnə",
+      "ru_translation": "честь, слава"
+    },
+    "img": "https://images.squarespace-cdn.com/content/5302796ce4b016fa7cacd2f5/1520622253742-RBXMLGBIWO7XVPRMOXOE/redcarpet.jpg"
+  },
+  {
+    "id": "honorNOP345",
+    "front": "honor",
+    "back": {
+      "definition": "to show great respect for someone or something, especially in public",
+      "examples": [
+        "They *honored* the veterans at the ceremony.",
+        "She was *honored* with an award."
+      ],
+      "transcription": "ˈɒnə",
+      "ru_translation": "чтить, славить"
+    },
+    "img": "https://theslide.ru/img/thumbs/14cde0ab3213e081af2c09065407e9a4-800x.jpg"
+  },
+  {
+    "id": "honoraryQRS678",
+    "front": "honorary",
+    "back": {
+      "definition": "given as an honor to someone",
+      "examples": [
+        "He received an *honorary* degree from the university.",
+        "She was named an *honorary* member of the club."
+      ],
+      "transcription": "ˈɒnərəri",
+      "ru_translation": "почётный"
+    },
+    "img": "https://www.motorival.com/wp-content/uploads/2019/12/jonathan-rea-awarded-second-honorary-degree-01-300x144.jpg"
+  },
+  {
+    "id": "honorableTUV901",
+    "front": "honorable",
+    "back": {
+      "definition": "honest and fair, or deserving praise and respect",
+      "examples": [
+        "He led an *honorable* life.",
+        "It was an *honorable* decision."
+      ],
+      "transcription": "ˈɒnərəbl",
+      "ru_translation": "благородный"
+    },
+    "img": "https://econet.ru/uploads/pictures/486327/content_%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D0%BE2_%281%29.jpg"
+  },
+  {
+    "id": "missWXY234",
+    "front": "miss",
+    "back": {
+      "definition": "to feel sad that a person or thing is not present",
+      "examples": [
+        "I *miss* my family when I'm away.",
+        "She *misses* her old friends."
+      ],
+      "transcription": "mɪs",
+      "ru_translation": "скучать"
+    },
+    "img": "https://allaboutourladies.ru/wp-content/uploads/2020/09/dhkxpskxuaedo-w.jpg"
+  },
+  {
+    "id": "missZAB567",
+    "front": "miss",
+    "back": {
+      "definition": "to fail to do or experience something, often something planned or expected, or to avoid doing or experiencing something",
+      "examples": [
+        "I don't want to *miss* the meeting.",
+        "He *missed* the bus this morning."
+      ],
+      "transcription": "mɪs",
+      "ru_translation": "пропускать"
+    },
+    "img": "https://cdn.snapi.dev/images/v1/h/m/image-821551236-1461603.jpg"
+  },
+  {
+    "id": "oilCDE890",
+    "front": "oil",
+    "back": {
+      "definition": "a thick liquid that comes from petroleum, used as a fuel or for making parts of machines move smoothly",
+      "examples": [
+        "They need to change the *oil* in the car.",
+        "The *oil* industry is very profitable."
+      ],
+      "transcription": "ɔɪl",
+      "ru_translation": "масло"
+    },
+    "img": "https://milosvet.com.ua/1438-large_default/kastorovoe-maslo-raf-farm.jpg"
+  },
+  {
+    "id": "oilyFGH123",
+    "front": "oily",
+    "back": {
+      "definition": "covered in oil or containing a lot of oil",
+      "examples": [
+        "His hands were *oily* after fixing the car.",
+        "The salad was too *oily* for my taste."
+      ],
+      "transcription": "ˈɔɪli",
+      "ru_translation": "маслянистый"
+    },
+    "img": "https://clarissasblog.com/wp-content/uploads/2016/10/wp-1477586605467.jpg"
+  },
+  {
+    "id": "fieldIJK456",
+    "front": "field",
+    "back": {
+      "definition": "an area of land, used for growing crops or keeping animals, usually surrounded by a fence",
+      "examples": [
+        "The farmer planted wheat in the *field*.",
+        "They played soccer in the open *field*."
+      ],
+      "transcription": "fiːld",
+      "ru_translation": "поле, область"
+    },
+    "img": "https://img.goodfon.ru/original/800x480/0/bb/leto-nebo-oblaka-pole-koloski.jpg"
+  },
+  {
+    "id": "renderLMN789",
+    "front": "render",
+    "back": {
+      "definition": "to cause someone or something to be in a particular state",
+      "examples": [
+        "His actions *rendered* her speechless.",
+        "The damage *rendered* the vehicle useless."
+      ],
+      "transcription": "ˈrɛndə",
+      "ru_translation": "приводить в какое-либо состояние"
+    },
+    "img": "https://img.posjateng.id/img/content/2019/12/22/9861/kena-serangan-jantung-pejabat-dishub-wonogiri-berpulang-5IobQrfQry.jpg"
+  },
+  {
+    "id": "accelerateOPQ012",
+    "front": "accelerate",
+    "back": {
+      "definition": "to move more quickly, or to make something happen faster or sooner",
+      "examples": [
+        "The car *accelerated* quickly.",
+        "We need to *accelerate* the process."
+      ],
+      "transcription": "əkˈsɛləreɪt",
+      "ru_translation": "ускорять"
+    },
+    "img": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/02/1200/675/bat-front.jpg?ve=1&tl=1"
+  },
+  {
+    "id": "accelerationRST345",
+    "front": "acceleration",
+    "back": {
+      "definition": "the increase in the speed at which something happens",
+      "examples": [
+        "The *acceleration* of the car was impressive.",
+        "They noticed an *acceleration* in the rate of change."
+      ],
+      "transcription": "əkˌsɛləˈreɪʃ(ə)n",
+      "ru_translation": "ускорение"
+    },
+    "img": "https://www.fermag.com/wp-content/uploads/2023/05/AdobeStock_78585464.jpg"
+  },
+  {
+    "id": "pokeUVW678",
+    "front": "poke",
+    "back": {
+      "definition": "to push a finger or other pointed object quickly into someone or something",
+      "examples": [
+        "She *poked* him to get his attention.",
+        "He *poked* the fire with a stick."
+      ],
+      "transcription": "pəʊk",
+      "ru_translation": "тыкать"
+    },
+    "img": "https://candid.technology/wp-content/uploads/2023/08/how-to-poke-someone-on-facebook-930x620.jpg"
+  },
+  {
+    "id": "pokeXYZ901",
+    "front": "poke",
+    "back": {
+      "definition": "a quick push with your finger or a pointed object",
+      "examples": [
+        "He gave her a *poke* to wake her up.",
+        "The *poke* was unexpected."
+      ],
+      "transcription": "pəʊk",
+      "ru_translation": "тычок"
+    },
+    "img": "https://abattybroad.wordpress.com/wp-content/uploads/2011/03/stop-poking-me-large.jpg"
+  },
+  {
+    "id": "steelABC234",
+    "front": "steel",
+    "back": {
+      "definition": "a strong metal that is a mixture of iron and carbon, used for making things that need a strong structure",
+      "examples": [
+        "The bridge is made of *steel*.",
+        "He works in the *steel* industry."
+      ],
+      "transcription": "stiːl",
+      "ru_translation": "сталь"
+    },
+    "img": "https://www.dgfeito.com/wp-content/uploads/2018/07/30b.png"
+  },
+  {
+    "id": "steelDEF567",
+    "front": "steel",
+    "back": {
+      "definition": "made of steel",
+      "examples": [
+        "The *steel* door was very strong.",
+        "They bought a *steel* table."
+      ],
+      "transcription": "stiːl",
+      "ru_translation": "стальной"
+    },
+    "img": "https://waysi.ru/wp-content/uploads/6/0/4/6047749e97f86f22804b2c96b98865bb.jpg"
   }
 ]
