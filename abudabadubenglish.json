@@ -266,6 +266,34 @@
     "img": "https://www.populismstudies.org/wp-content/uploads/2020/04/Polarization-1024x851.png"
   },
   {
+    "id": "conditionalAsd456",
+    "front": "conditional",
+    "back": {
+      "definition": "depending on something else being done",
+      "examples": [
+        "His acceptance was *conditional* on passing the exam.",
+        "The contract is *conditional* upon approval from the board."
+      ],
+      "transcription": "kənˈdɪʃənl",
+      "ru_translation": "условный"
+    },
+    "img": "https://image.cermati.com/q_70/qbhigcspiazk0iyke7b5"
+  },
+  {
+    "id": "unconditionalQwe789",
+    "front": "unconditional",
+    "back": {
+      "definition": "not limited by conditions; complete and absolute",
+      "examples": [
+        "They offered *unconditional* support.",
+        "Her love for her children is *unconditional*."
+      ],
+      "transcription": "ˌʌnkənˈdɪʃənl",
+      "ru_translation": "безусловный"
+    },
+    "img": "https://img.elephantjournal.com/wp-content/uploads/2020/09/healthy-relationship-700x475.jpg"
+  },
+  {
     "id": "landryjwboktqhzex",
     "front": "land",
     "back": {
@@ -4739,5 +4767,299 @@
       "ru_translation": "стальной"
     },
     "img": "https://waysi.ru/wp-content/uploads/6/0/4/6047749e97f86f22804b2c96b98865bb.jpg"
+  },
+  {
+    "id": "putsmthdowntoXyZ123",
+    "front": "put smth down to",
+    "back": {
+      "definition": "to think that a problem or situation is caused by a particular thing",
+      "examples": [
+        "She *puts* his bad mood *down to* lack of sleep.",
+        "He *put* the failure *down to* poor planning."
+      ],
+      "transcription": "pʊtsmthdaʊntuː",
+      "ru_translation": "объяснить, списать на"
+    },
+    "img": "https://i.ytimg.com/vi/KzyvQI0IGLU/hqdefault.jpg"
+  },
+  {
+    "id": "overnightAbc456",
+    "front": "overnight",
+    "back": {
+      "definition": "for or during the night",
+      "examples": [
+        "We stayed *overnight* at a cozy inn.",
+        "The package will be delivered *overnight*."
+      ],
+      "transcription": "ˌəʊvəˈnaɪt",
+      "ru_translation": "ночной"
+    },
+    "img": "https://i.ytimg.com/vi/UAoZJVyvKIA/hqdefault.jpg"
+  },
+  {
+    "id": "povertyQwe789",
+    "front": "poverty",
+    "back": {
+      "definition": "the condition of being extremely poor",
+      "examples": [
+        "Many families are living in *poverty*.",
+        "The organization works to alleviate *poverty*."
+      ],
+      "transcription": "ˈpɒvəti",
+      "ru_translation": "бедность, нищета"
+    },
+    "img": "https://img.dni.ru/binaries/v3_main/325712.jpg"
+  },
+  {
+    "id": "impoverishHjk012",
+    "front": "impoverish",
+    "back": {
+      "definition": "to make someone very poor",
+      "examples": [
+        "The war *impoverished* many families.",
+        "Bad investments can *impoverish* a person."
+      ],
+      "transcription": "ɪmˈpɒvərɪʃ",
+      "ru_translation": "обеднять"
+    },
+    "img": "https://images-cdn.bridgemanimages.com/api/1.0/image/600wm.ICA.31541940.7055475/4911334.jpg"
+  },
+  {
+    "id": "declareUio345",
+    "front": "declare",
+    "back": {
+      "definition": "to announce something clearly, firmly, publicly, or officially",
+      "examples": [
+        "The president *declared* a state of emergency.",
+        "She *declared* her intention to run for office."
+      ],
+      "transcription": "dɪˈkleə",
+      "ru_translation": "объявлять"
+    },
+    "img": "https://mgppu.ru/files/galleries/photos/6b4d3adeaf5515d11282e344da72ae08.jpg"
+  },
+  {
+    "id": "declarationLmn678",
+    "front": "declaration",
+    "back": {
+      "definition": "an announcement, often one that is written and official",
+      "examples": [
+        "The company made a *declaration* of bankruptcy.",
+        "He read the *declaration* aloud to the crowd."
+      ],
+      "transcription": "ˌdɛkləˈreɪʃən",
+      "ru_translation": "объявление"
+    },
+    "img": "https://static-3.bitchute.com/live/cover_images/2DfNS9O91Ms0/0Jx56UuIybM_640x360.jpg"
+  },
+  {
+    "id": "periodXyz901",
+    "front": "period",
+    "back": {
+      "definition": "the mark (.) used in writing at the end of a sentence",
+      "examples": [
+        "Every sentence must end with a *period*.",
+        "Place a *period* at the end of the statement."
+      ],
+      "transcription": "ˈpɪərɪəd",
+      "ru_translation": "точка (в предложении)"
+    },
+    "img": "https://ylianova.ru/800/600/https/ic.pics.livejournal.com/anchiktigra/18346223/2433250/2433250_original.jpg"
+  },
+  {
+    "id": "raceRty234",
+    "front": "race",
+    "back": {
+      "definition": "a competition in which all the competitors try to be the fastest and to finish first",
+      "examples": [
+        "She won the 100-meter *race*.",
+        "The car *race* was thrilling to watch."
+      ],
+      "transcription": "reɪs",
+      "ru_translation": "гонка"
+    },
+    "img": "https://autobelyavcev.ru/wp-content/uploads/2016/05/gn1.1.jpg"
+  },
+  {
+    "id": "raceUio567",
+    "front": "race",
+    "back": {
+      "definition": "a group, especially of people, with particular similar physical characteristics, who are considered as belonging to the same type, or the fact of belonging to such a group",
+      "examples": [
+        "Discrimination based on *race* is illegal.",
+        "People of different *races* live in this city."
+      ],
+      "transcription": "reɪs",
+      "ru_translation": "раса"
+    },
+    "img": "https://gerpespro.ru/wp-content/uploads/6/3/9/6394bf343747eea44dba2da06d4b37c6.jpeg"
+  },
+  {
+    "id": "racialVbn890",
+    "front": "racial",
+    "back": {
+      "definition": "relating to race or to different races",
+      "examples": [
+        "They discussed *racial* issues in the community.",
+        "The country has laws against *racial* discrimination."
+      ],
+      "transcription": "ˈreɪʃəl",
+      "ru_translation": "расовый"
+    },
+    "img": "https://i.ytimg.com/vi/3gUHDW7dXLQ/hqdefault.jpg"
+  },
+  {
+    "id": "leadMno123",
+    "front": "lead",
+    "back": {
+      "definition": "to control a group of people, a country, or a situation",
+      "examples": [
+        "She was chosen to *lead* the project.",
+        "He *leads* a team of researchers."
+      ],
+      "transcription": "liːd",
+      "ru_translation": "вести"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/491603/1636474025_56330.jpeg"
+  },
+  {
+    "id": "barZxc012",
+    "front": "bar",
+    "back": {
+      "definition": "a long, thin, straight piece of metal or wood",
+      "examples": [
+        "She used a metal *bar* to open the window.",
+        "The prison cell had *bars* on the windows."
+      ],
+      "transcription": "bɑː",
+      "ru_translation": "кусок, плитка, слиток"
+    },
+    "img": "https://britlex.ru/images/bar.jpg"
+  },
+  {
+    "id": "barVbn345",
+    "front": "bar",
+    "back": {
+      "definition": "to prevent something or someone from doing something or going somewhere, or to not allow something",
+      "examples": [
+        "They *barred* him from entering the building.",
+        "The regulations *bar* the use of certain chemicals."
+      ],
+      "transcription": "bɑː",
+      "ru_translation": "запрещать"
+    },
+    "img": "https://mmkids.ru/wp-content/uploads/6/c/d/6cde883761a3560ed17cd9fddf4fbd22.jpeg"
+  },
+  {
+    "id": "barsHjk678",
+    "front": "bars",
+    "back": {
+      "definition": "long, thin, straight pieces of metal or wood",
+      "examples": [
+        "The jail cell had iron *bars*.",
+        "He squeezed through the *bars* of the fence."
+      ],
+      "transcription": "bɑːz",
+      "ru_translation": "решётка (напр. в тюрьме)"
+    },
+    "img": "https://www.pinclipart.com/picdir/middle/1-15489_clip-art-royalty-free-stock-bars-group-cell.png"
+  },
+  {
+    "id": "squeezeMno901",
+    "front": "squeeze",
+    "back": {
+      "definition": "to press something firmly, especially from all sides in order to change its shape, reduce its size, or remove liquid from it",
+      "examples": [
+        "She *squeezed* the juice from the orange.",
+        "He *squeezed* her hand gently."
+      ],
+      "transcription": "skwiːz",
+      "ru_translation": "сжимать"
+    },
+    "img": "https://britlex.ru/images/squeeze.jpg"
+  },
+  {
+    "id": "citePqr234",
+    "front": "cite",
+    "back": {
+      "definition": "to mention something as proof for a theory or as a reason why something has happened",
+      "examples": [
+        "He *cited* several reasons for his decision.",
+        "She *cited* a famous study in her research paper."
+      ],
+      "transcription": "saɪt",
+      "ru_translation": "ссылаться, цитировать"
+    },
+    "img": "https://i.pinimg.com/originals/b6/a6/cc/b6a6cca34621893bebe9af12ccbe9686.jpg"
+  },
+  {
+    "id": "citationStu567",
+    "front": "citation",
+    "back": {
+      "definition": "a word or piece of writing taken from a written work",
+      "examples": [
+        "The article included several *citations* from experts.",
+        "He received a *citation* for his contributions to the field."
+      ],
+      "transcription": "saɪˈteɪʃən",
+      "ru_translation": "цитата, цитирование"
+    },
+    "img": "https://pensierieparolefamose.altervista.org/wp-content/uploads/2016/02/HiRes-500x375.jpg"
+  },
+  {
+    "id": "annualVwx890",
+    "front": "annual",
+    "back": {
+      "definition": "happening once every year",
+      "examples": [
+        "They hold an *annual* meeting in December.",
+        "The *annual* report was released last week."
+      ],
+      "transcription": "ˈænjʊəl",
+      "ru_translation": "ежегодный"
+    },
+    "img": "https://britlex.ru/images/annual.jpg"
+  },
+  {
+    "id": "bowYza123",
+    "front": "bow",
+    "back": {
+      "definition": "a knot with two curved parts and two loose ends, used as a decoration or to tie shoes",
+      "examples": [
+        "She tied her shoelaces in a *bow*.",
+        "The gift was decorated with a red *bow*."
+      ],
+      "transcription": "baʊ",
+      "ru_translation": "бант, бабочка"
+    },
+    "img": "https://britlex.ru/images/bow3.jpg"
+  },
+  {
+    "id": "bowBcd456",
+    "front": "bow",
+    "back": {
+      "definition": "a weapon for shooting arrows, made of a long, thin piece of wood bent into a curve by a tightly stretched string",
+      "examples": [
+        "He drew the *bow* and released the arrow.",
+        "The archer's *bow* was beautifully crafted."
+      ],
+      "transcription": "baʊ",
+      "ru_translation": "лук"
+    },
+    "img": "https://britlex.ru/images/bow2.jpg"
+  },
+  {
+    "id": "bowDef789",
+    "front": "bow",
+    "back": {
+      "definition": "to bend your head or body forward, especially as a way of showing someone respect or expressing thanks to people who have watched you perform",
+      "examples": [
+        "The performer *bowed* to the audience.",
+        "They *bowed* in respect to their elders."
+      ],
+      "transcription": "baʊ",
+      "ru_translation": "нагнуться"
+    },
+    "img": "https://britlex.ru/images/bow.jpg"
   }
 ]
