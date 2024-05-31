@@ -5061,5 +5061,411 @@
       "ru_translation": "нагнуться"
     },
     "img": "https://britlex.ru/images/bow.jpg"
+  },
+  {
+    "id": "punishXYZabc",
+    "front": "punish",
+    "back": {
+      "definition": "to cause someone who has done something wrong or committed a crime to suffer, by hurting them, forcing them to pay money, sending them to prison, etc.",
+      "examples": [
+        "The teacher will *punish* any student who breaks the rules.",
+        "Parents often *punish* their children for bad behavior."
+      ],
+      "transcription": "ˈpʌnɪʃ",
+      "ru_translation": "наказывать"
+    },
+    "img": "https://britlex.ru/images/punish.jpg"
+  },
+  {
+    "id": "punishableXYZabc",
+    "front": "punishable",
+    "back": {
+      "definition": "a punishable crime is one that someone can be punished for.",
+      "examples": [
+        "The act of vandalism is *punishable* by law.",
+        "In some countries, certain actions are *punishable* by severe penalties."
+      ],
+      "transcription": "ˈpʌnɪʃəbl",
+      "ru_translation": "наказуемый"
+    },
+    "img": "https://i.quotev.com/l5q63no43xdq.jpg"
+  },
+  {
+    "id": "punishmentXYZabc",
+    "front": "punishment",
+    "back": {
+      "definition": "the act of punishing someone.",
+      "examples": [
+        "He received a severe *punishment* for his crimes.",
+        "The *punishment* should fit the crime."
+      ],
+      "transcription": "ˈpʌnɪʃmənt",
+      "ru_translation": "наказание"
+    },
+    "img": "https://i.ytimg.com/vi/lDhE0OuZm44/hqdefault.jpg"
+  },
+  {
+    "id": "unpunishedXYZabc",
+    "front": "unpunished",
+    "back": {
+      "definition": "if a crime goes unpunished, no one is punished for it.",
+      "examples": [
+        "Many crimes go *unpunished* in this area.",
+        "The thief walked away *unpunished*."
+      ],
+      "transcription": "ʌnˈpʌnɪʃt",
+      "ru_translation": "безнаказанный"
+    },
+    "img": "https://investfuture.ru/files/npf_news/2020-12-01/1607440263.jpg"
+  },
+  {
+    "id": "punitiveXYZabc",
+    "front": "punitive",
+    "back": {
+      "definition": "intended as a punishment.",
+      "examples": [
+        "The government is taking *punitive* measures against the rebels.",
+        "He faced *punitive* fines for his actions."
+      ],
+      "transcription": "ˈpjuːnɪtɪv",
+      "ru_translation": "карательный"
+    },
+    "img": "https://www.alexanderlawgroupplc.com/images/what_are_punitive_damages_in_an_accident_case.jpg"
+  },
+  {
+    "id": "purpleXYZabc",
+    "front": "purple",
+    "back": {
+      "definition": "of a dark reddish-blue colour.",
+      "examples": [
+        "She wore a beautiful *purple* dress to the party.",
+        "The sky turned *purple* at sunset."
+      ],
+      "transcription": "ˈpɜːpl",
+      "ru_translation": "пурпурный, фиолетовый"
+    },
+    "img": "https://i.pinimg.com/736x/bc/5c/eb/bc5ceb20cd91ee10829a34453288de45--purple-wallpaper-purple-backgrounds.jpg"
+  },
+  {
+    "id": "handfulXYZabc",
+    "front": "handful",
+    "back": {
+      "definition": "an amount of something that can be held in one hand.",
+      "examples": [
+        "He grabbed a *handful* of nuts.",
+        "She held a *handful* of sand."
+      ],
+      "transcription": "ˈhændfʊl",
+      "ru_translation": "горсть"
+    },
+    "img": "https://britlex.ru/images/handful.jpg"
+  },
+  {
+    "id": "armfulXYZabc",
+    "front": "armful",
+    "back": {
+      "definition": "the amount that a person can carry in one or both arms.",
+      "examples": [
+        "She carried an *armful* of books to the library.",
+        "He brought an *armful* of flowers for her."
+      ],
+      "transcription": "ˈɑːmfʊl",
+      "ru_translation": "охапка"
+    },
+    "img": "https://ak.picdn.net/offset/photos/54aab915a6dfde507e9fd45a/medium/photo.jpg"
+  },
+  {
+    "id": "mouthfulXYZabc",
+    "front": "mouthful",
+    "back": {
+      "definition": "an amount of food or drink that fills your mouth.",
+      "examples": [
+        "He took a *mouthful* of water.",
+        "She ate a *mouthful* of cake."
+      ],
+      "transcription": "ˈmaʊθfʊl",
+      "ru_translation": "полный рот"
+    },
+    "img": "https://www.celico.com.ar/wp-content/uploads/2017/07/ni%C3%B1aoo.jpg"
+  },
+  {
+    "id": "witnessXYZabc",
+    "front": "witness",
+    "back": {
+      "definition": "a person who sees an event happening, especially a crime or an accident.",
+      "examples": [
+        "The *witness* testified in court.",
+        "She was the only *witness* to the accident."
+      ],
+      "transcription": "ˈwɪtnɪs",
+      "ru_translation": "свидетель"
+    },
+    "img": "https://britlex.ru/images/witness.jpg"
+  },
+  {
+    "id": "witness2XYZabc",
+    "front": "witness",
+    "back": {
+      "definition": "to see something happen, especially an accident or crime.",
+      "examples": [
+        "He *witnessed* the robbery.",
+        "She *witnessed* a terrible accident."
+      ],
+      "transcription": "ˈwɪtnɪs",
+      "ru_translation": "свидетельствовать, быть свидетелем"
+    },
+    "img": "https://www.constangy.com/assets/htmlimages/Interrogation.AdobeStock_207090524.jpg"
+  },
+  {
+    "id": "gradeXYZabc",
+    "front": "grade",
+    "back": {
+      "definition": "a level of quality, size, importance, etc.",
+      "examples": [
+        "She received a high *grade* on her test.",
+        "This material is of excellent *grade*."
+      ],
+      "transcription": "greɪd",
+      "ru_translation": "оценка"
+    },
+    "img": "https://www.advisorhub.com/wp-content/uploads/2018/07/opinionReport-Card-on-an-Industry-in-Transition-772x485.png"
+  },
+  {
+    "id": "grade2XYZabc",
+    "front": "grade",
+    "back": {
+      "definition": "to separate people or things into different levels of quality, size, importance, etc.",
+      "examples": [
+        "The teachers *grade* the students' work.",
+        "We need to *grade* the apples by size."
+      ],
+      "transcription": "greɪd",
+      "ru_translation": "сортировать, разделять по какому-либо признаку"
+    },
+    "img": "https://pictolic.com/img/2021/how-are-apples-processed/how-are-apples-processed-1.jpg"
+  },
+  {
+    "id": "pipeXYZabc",
+    "front": "pipe",
+    "back": {
+      "definition": "a tube inside which liquid or gas flows from one place to another.",
+      "examples": [
+        "Water flows through the *pipe* to the house.",
+        "They installed a new *pipe* in the kitchen."
+      ],
+      "transcription": "paɪp",
+      "ru_translation": "труба, трубка"
+    },
+    "img": "https://img.favpng.com/1/24/8/tobacco-pipe-tobacco-smoking-pipe-smoking-png-favpng-20fj2Wi4PGMnYQ88CYAuMLYuZ.jpg"
+  },
+  {
+    "id": "restrainXYZabc",
+    "front": "restrain",
+    "back": {
+      "definition": "to hold back from action; keep in check or under control.",
+      "examples": [
+        "He tried to *restrain* his anger.",
+        "The police had to *restrain* the suspect."
+      ],
+      "transcription": "rɪsˈtreɪn",
+      "ru_translation": "сдерживать, удерживать (физический аспект)"
+    },
+    "img": "https://britlex.ru/images/restrain.jpg"
+  },
+  {
+    "id": "restraintXYZabc",
+    "front": "restraint",
+    "back": {
+      "definition": "calm and controlled behaviour.",
+      "examples": [
+        "She showed great *restraint* during the argument.",
+        "He acted with *restraint* in a difficult situation."
+      ],
+      "transcription": "rɪsˈtreɪnt",
+      "ru_translation": "сдержанность"
+    },
+    "img": "https://static.quizur.com/i/b/57e5bca7009153.6551014457e5bca6e6fe73.45286575.jpg"
+  },
+  {
+    "id": "restraint2XYZabc",
+    "front": "restraint",
+    "back": {
+      "definition": "something that limits the freedom of someone or something, or that prevents something from growing or increasing",
+      "examples": [
+        "The government imposed *restraints* on public spending.",
+        "He showed *restraint* by not eating the cake."
+      ],
+      "transcription": "rɪsˈtreɪnt",
+      "ru_translation": "сдерживание, удерживание (физический аспект)"
+    },
+    "img": "https://marketingbusinesscoach.com/wp-content/uploads/2019/05/GI-OctoStrap4-LView.jpg"
+  },
+  {
+    "id": "unrestrainedXYZabc",
+    "front": "unrestrained",
+    "back": {
+      "definition": "not limited or controlled.",
+      "examples": [
+        "They enjoyed *unrestrained* laughter.",
+        "The crowd was *unrestrained* in their excitement."
+      ],
+      "transcription": "ˌʌnrɪsˈtreɪnd",
+      "ru_translation": "несдержанный, необузданный"
+    },
+    "img": "https://i.ytimg.com/vi/BkwZKZWMvMw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSSg-MA8=&rs=AOn4CLA2A451P8VUIEI7kLys8fX4ID2J9A"
+  },
+  {
+    "id": "constrainXYZabc",
+    "front": "constrain",
+    "back": {
+      "definition": "to control and limit something.",
+      "examples": [
+        "Budget cuts will *constrain* our project.",
+        "He felt *constrained* by the rules."
+      ],
+      "transcription": "kənˈstreɪn",
+      "ru_translation": "ограничивать (в плане условий, ограничений или рамок)"
+    },
+    "img": "https://britlex.ru/images/constrain.jpg"
+  },
+  {
+    "id": "constraintXYZabc",
+    "front": "constraint",
+    "back": {
+      "definition": "something that controls what you do by keeping you within particular limits.",
+      "examples": [
+        "There are financial *constraints* on the project.",
+        "We must work within the *constraints* of the law."
+      ],
+      "transcription": "kənˈstreɪnt",
+      "ru_translation": "ограничение (в плане условий, ограничений или рамок)"
+    },
+    "img": "https://img.scoop.it/CKFdLnlfn6luvPXzR0Z0WYXXXL4j3HpexhjNOf_P3YmryPKwJ94QGRtDb3Sbc6KY"
+  },
+  {
+    "id": "unconstrainedXYZabc",
+    "front": "unconstrained",
+    "back": {
+      "definition": "not limited by any rules or conditions.",
+      "examples": [
+        "His creativity was *unconstrained* by rules.",
+        "They lived a life *unconstrained* by societal norms."
+      ],
+      "transcription": "ˌʌnkənˈstreɪnd",
+      "ru_translation": "непринужденный"
+    },
+    "img": "https://farm9.staticflickr.com/8299/7849172652_9f749f76a8_z.jpg"
+  },
+  {
+    "id": "suspectXYZabc",
+    "front": "suspect",
+    "back": {
+      "definition": "to think or believe something to be true or probable.",
+      "examples": [
+        "I *suspect* he is lying.",
+        "The police *suspect* foul play."
+      ],
+      "transcription": "ˈsʌspɛkt",
+      "ru_translation": "подозревать"
+    },
+    "img": "https://britlex.ru/images/suspect.jpg"
+  },
+  {
+    "id": "suspect2XYZabc",
+    "front": "suspect",
+    "back": {
+      "definition": "a person believed to have committed a crime or done something wrong.",
+      "examples": [
+        "The *suspect* was arrested at the scene.",
+        "He is the prime *suspect* in the case."
+      ],
+      "transcription": "ˈsʌspɛkt",
+      "ru_translation": "подозреваемый"
+    },
+    "img": "https://u.9111s.ru/uploads/201912/01/1448c68f695caef019d4d77c0eefb116.jpg"
+  },
+  {
+    "id": "suspiciousXYZabc",
+    "front": "suspicious",
+    "back": {
+      "definition": "feeling doubt or no trust in someone or something.",
+      "examples": [
+        "She gave him a *suspicious* look.",
+        "They were *suspicious* of his motives."
+      ],
+      "transcription": "ˈsʌspɪʃəs",
+      "ru_translation": "подозрительный"
+    },
+    "img": "https://i.pinimg.com/736x/f3/45/c0/f345c07bef456cd9ad15ba08c2a8ec31.jpg"
+  },
+  {
+    "id": "converseXYZabc",
+    "front": "converse",
+    "back": {
+      "definition": "to have a conversation with someone.",
+      "examples": [
+        "They *conversed* for hours.",
+        "We often *converse* about various topics."
+      ],
+      "transcription": "kənˈvɜːs",
+      "ru_translation": "разговаривать, беседовать"
+    },
+    "img": "https://cpatwpe.s3.amazonaws.com/cpatrendlines/wp-content/uploads/2017/08/OlderYoungerBusinessmen_AdobeStock_45930227.jpeg"
+  },
+  {
+    "id": "conversationXYZabc",
+    "front": "conversation",
+    "back": {
+      "definition": "a talk between two or more people, usually an informal one.",
+      "examples": [
+        "They had a long *conversation* about the future.",
+        "Our *conversation* was interrupted by a phone call."
+      ],
+      "transcription": "ˌkɒnvəˈseɪʃən",
+      "ru_translation": "разговор, беседа"
+    },
+    "img": "https://cdn1.tenchat.ru/static/vbc-gostinder/2023-04-18/compressed/fd58022f-31fe-4c5b-ad44-bf42ce9e08e0.jpeg"
+  },
+  {
+    "id": "liquidXYZabc",
+    "front": "liquid",
+    "back": {
+      "definition": "a substance, such as water, that is not solid or a gas and that can be poured easily.",
+      "examples": [
+        "Water is a *liquid* at room temperature.",
+        "She spilled the *liquid* on the table."
+      ],
+      "transcription": "ˈlɪkwɪd",
+      "ru_translation": "жидкость"
+    },
+    "img": "https://britlex.ru/images/liquid.jpg"
+  },
+  {
+    "id": "liquid2XYZabc",
+    "front": "liquid",
+    "back": {
+      "definition": "in the form of a liquid.",
+      "examples": [
+        "The medicine is in *liquid* form.",
+        "He prefers *liquid* soap."
+      ],
+      "transcription": "ˈlɪkwɪd",
+      "ru_translation": "жидкий"
+    },
+    "img": "https://vilkin.pro/wp-content/uploads/2020/05/armyanskiy-tort-mikado-6-770x513.jpg"
+  },
+  {
+    "id": "liquidityXYZabc",
+    "front": "liquidity",
+    "back": {
+      "definition": "the fact of being able to be changed into cash easily.",
+      "examples": [
+        "The company has high *liquidity*.",
+        "They need to maintain *liquidity* to cover expenses."
+      ],
+      "transcription": "lɪˈkwɪdɪti",
+      "ru_translation": "ликвидность, текучесть"
+    },
+    "img": "https://noqreport.com/wp-content/uploads/2022/07/Liquidity.jpg"
   }
 ]
