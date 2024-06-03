@@ -5467,5 +5467,369 @@
       "ru_translation": "ликвидность, текучесть"
     },
     "img": "https://noqreport.com/wp-content/uploads/2022/07/Liquidity.jpg"
+  },
+  {
+    "id": "resembleabcd",
+    "front": "resemble",
+    "back": {
+      "definition": "to look like or be like someone or something",
+      "examples": [
+        "She closely *resembles* her mother.",
+        "This painting *resembles* a famous one from the museum."
+      ],
+      "transcription": "rɪˈzɛmbl",
+      "ru_translation": "походить, иметь сходство"
+    },
+    "img": "https://wpassets.adda247.com/wp-content/uploads/multisite/2021/11/18153914/87.jpg"
+  },
+  {
+    "id": "resemblancedefg",
+    "front": "resemblance",
+    "back": {
+      "definition": "the fact that two people or things look like each other or are similar in some other way",
+      "examples": [
+        "There is a strong *resemblance* between the two brothers.",
+        "The movie's plot bears a striking *resemblance* to a classic novel."
+      ],
+      "transcription": "rɪˈzɛmbləns",
+      "ru_translation": "сходство"
+    },
+    "img": "https://i.pinimg.com/736x/a6/20/45/a6204591be3a080ea34b9bdd9d430a4b.jpg"
+  },
+  {
+    "id": "decidehijk",
+    "front": "decide",
+    "back": {
+      "definition": "to choose something, especially after thinking carefully about several possibilities",
+      "examples": [
+        "She finally *decided* on the blue dress.",
+        "They *decided* to move to a new city."
+      ],
+      "transcription": "dɪˈsaɪd",
+      "ru_translation": "решать, принимать решение"
+    },
+    "img": "https://britlex.ru/images/decide.jpg"
+  },
+  {
+    "id": "decisionlmno",
+    "front": "decision",
+    "back": {
+      "definition": "a choice that you make about something after thinking about several possibilities",
+      "examples": [
+        "Making a quick *decision* can sometimes be risky.",
+        "He made a *decision* to change his career path."
+      ],
+      "transcription": "dɪˈsɪʒən",
+      "ru_translation": "решение"
+    },
+    "img": "https://i.pinimg.com/736x/7b/bf/f4/7bbff4588953daf586373727bcba506f.jpg"
+  },
+  {
+    "id": "indecisionpqrs",
+    "front": "indecision",
+    "back": {
+      "definition": "the state of being unable to make a choice",
+      "examples": [
+        "Her *indecision* caused her to miss the opportunity.",
+        "The meeting was delayed due to his *indecision*."
+      ],
+      "transcription": "ˌɪndɪˈsɪʒən",
+      "ru_translation": "нерешительность"
+    },
+    "img": "https://i.ytimg.com/vi/TFcDpDcWzjM/hqdefault.jpg"
+  },
+  {
+    "id": "boldtuvw",
+    "front": "bold",
+    "back": {
+      "definition": "not frightened of danger",
+      "examples": [
+        "She made a *bold* move to start her own business.",
+        "His *bold* actions saved the day."
+      ],
+      "transcription": "bəʊld",
+      "ru_translation": "храбрый, смелый"
+    },
+    "img": "https://britlex.ru/images/bold.jpg"
+  },
+  {
+    "id": "boldnessxyza",
+    "front": "boldness",
+    "back": {
+      "definition": "the quality of being brave and confident and not being afraid to take risks",
+      "examples": [
+        "Her *boldness* in presenting new ideas was admired.",
+        "The *boldness* of his speech inspired the crowd."
+      ],
+      "transcription": "ˈbəʊldnəs",
+      "ru_translation": "храбрость, смелость"
+    },
+    "img": "https://i.pinimg.com/originals/d2/2b/67/d22b67a191e2fff26dc9af214f8a7c02.jpg"
+  },
+  {
+    "id": "casebcde",
+    "front": "case",
+    "back": {
+      "definition": "a particular situation or example of something",
+      "examples": [
+        "In this *case*, we need to follow the protocol.",
+        "Each *case* is unique and requires careful consideration."
+      ],
+      "transcription": "keɪs",
+      "ru_translation": "случай, дело"
+    },
+    "img": "https://britlex.ru/images/case2.jpg"
+  },
+  {
+    "id": "casefghij",
+    "front": "case",
+    "back": {
+      "definition": "a matter to be decided by a judge in a law court",
+      "examples": [
+        "The *case* was brought before the court last week.",
+        "The lawyer worked hard on the criminal *case*."
+      ],
+      "transcription": "keɪs",
+      "ru_translation": "дело (уголовное)"
+    },
+    "img": "https://ic.pics.livejournal.com/burkin_vit/68187072/109605/109605_original.png"
+  },
+  {
+    "id": "determineklmn",
+    "front": "determine",
+    "back": {
+      "definition": "to control or influence something directly, or to decide what will happen",
+      "examples": [
+        "We need to *determine* the cause of the problem.",
+        "The results will *determine* the next steps."
+      ],
+      "transcription": "dɪˈtɜːmɪn",
+      "ru_translation": "определять"
+    },
+    "img": "https://britlex.ru/images/determine.jpg"
+  },
+  {
+    "id": "determinationopqr",
+    "front": "determination",
+    "back": {
+      "definition": "the ability to continue trying to do something, although it is very difficult",
+      "examples": [
+        "Her *determination* to succeed was inspiring.",
+        "The team's *determination* led them to victory."
+      ],
+      "transcription": "dɪˌtɜːmɪˈneɪʃən",
+      "ru_translation": "определение"
+    },
+    "img": "https://sun6-21.userapi.com/MA-aNR1_z9-XKLbWKF1_txdUEQFvSe0jgubjaw/9hnkw8r3PxY.jpg"
+  },
+  {
+    "id": "determinedstuv",
+    "front": "determined",
+    "back": {
+      "definition": "wanting to do something very much and not allowing anyone or any difficulties to stop you",
+      "examples": [
+        "She was *determined* to finish the project on time.",
+        "He remained *determined* despite the challenges."
+      ],
+      "transcription": "dɪˈtɜːmɪnd",
+      "ru_translation": "полный решимости"
+    },
+    "img": "https://thumbs.dreamstime.com/b/determined-young-businesswoman-running-wind-against-gray-background-31840826.jpg"
+  },
+  {
+    "id": "undeterminedwxyz",
+    "front": "undetermined",
+    "back": {
+      "definition": "not decided or settled",
+      "examples": [
+        "The cause of the fire is still *undetermined*.",
+        "The outcome of the investigation remains *undetermined*."
+      ],
+      "transcription": "ˌʌndɪˈtɜːmɪnd",
+      "ru_translation": "неопределённый"
+    },
+    "img": "https://ytimg.googleusercontent.com/vi/AzeCDMsCcOE/0.jpg"
+  },
+  {
+    "id": "determinateabcd",
+    "front": "determinate",
+    "back": {
+      "definition": "fixed or exact",
+      "examples": [
+        "The contract has a *determinate* duration.",
+        "They need a *determinate* answer by tomorrow."
+      ],
+      "transcription": "dɪˈtɜːmɪnɪt",
+      "ru_translation": "определённый"
+    },
+    "img": "https://c8.alamy.com/comp/EMEECB/man-with-up-and-down-business-graph-vector-illustration-EMEECB.jpg"
+  },
+  {
+    "id": "wasteefgh",
+    "front": "waste",
+    "back": {
+      "definition": "an unnecessary or wrong use of money, substances, time, energy, abilities, etc.",
+      "examples": [
+        "Throwing away good food is such a *waste*.",
+        "The project was a complete *waste* of resources."
+      ],
+      "transcription": "weɪst",
+      "ru_translation": "отходы, потери"
+    },
+    "img": "https://britlex.ru/images/waste2.jpg"
+  },
+  {
+    "id": "wasteijkl",
+    "front": "waste",
+    "back": {
+      "definition": "to use too much of something or use something badly when there is a limited amount of it",
+      "examples": [
+        "Don't *waste* your time on trivial matters.",
+        "She tends to *waste* a lot of paper."
+      ],
+      "transcription": "weɪst",
+      "ru_translation": "тратить впустую"
+    },
+    "img": "https://britlex.ru/images/waste.jpg"
+  },
+  {
+    "id": "wastewaterlmno",
+    "front": "wastewater",
+    "back": {
+      "definition": "water that is not clean because it has already been used in homes, businesses, factories, etc.",
+      "examples": [
+        "The factory discharges *wastewater* into the river.",
+        "They are working on treating *wastewater* for reuse."
+      ],
+      "transcription": "ˈweɪstˌwɔːtə",
+      "ru_translation": "сточные воды"
+    },
+    "img": "https://aosts.com/wp-content/uploads/2018/01/neighborhood-wastewater-treatment-solution.jpg"
+  },
+  {
+    "id": "regardpqrs",
+    "front": "regard",
+    "back": {
+      "definition": "respect or admiration for someone or something",
+      "examples": [
+        "She has high *regard* for her mentor.",
+        "He is held in great *regard* by his colleagues."
+      ],
+      "transcription": "rɪˈgɑːd",
+      "ru_translation": "внимание, почтение"
+    },
+    "img": "https://avatars.mds.yandex.net/get-ydo/2426891/2a000001739723087bcba615bd61a4aaadfc/diploma"
+  },
+  {
+    "id": "regardstuvw",
+    "front": "regard",
+    "back": {
+      "definition": "to consider or have an opinion about something or someone",
+      "examples": [
+        "He is highly *regarded* in his field.",
+        "They *regard* her as a valuable team member."
+      ],
+      "transcription": "rɪˈgɑːd",
+      "ru_translation": "относиться к чему-л., принимать во внимание"
+    },
+    "img": "https://tvline.com/wp-content/uploads/2015/06/rookie-blue-season-6-photos-111.jpg"
+  },
+  {
+    "id": "difficultyxyza",
+    "front": "difficulty",
+    "back": {
+      "definition": "the fact of not being easy to do or understand",
+      "examples": [
+        "She had *difficulty* understanding the instructions.",
+        "They are experiencing *difficulty* with the new software."
+      ],
+      "transcription": "ˈdɪfɪkəlti",
+      "ru_translation": "трудность"
+    },
+    "img": "https://britlex.ru/images/difficulty.jpg"
+  },
+  {
+    "id": "ticketbcde",
+    "front": "ticket",
+    "back": {
+      "definition": "a small piece of paper or card given to someone, usually to show that they have paid for an event, journey, or activity",
+      "examples": [
+        "He bought a *ticket* for the concert.",
+        "Don't forget to bring your *ticket* to the game."
+      ],
+      "transcription": "ˈtɪkɪt",
+      "ru_translation": "билет, талон"
+    },
+    "img": "https://britlex.ru/images/ticket.jpg"
+  },
+  {
+    "id": "betfghij",
+    "front": "bet",
+    "back": {
+      "definition": "an amount of money that you risk on the result of an event or a competition",
+      "examples": [
+        "He placed a *bet* on the horse race.",
+        "She made a *bet* with her friend on the game."
+      ],
+      "transcription": "bɛt",
+      "ru_translation": "ставка, пари"
+    },
+    "img": "https://britlex.ru/images/bet.jpg"
+  },
+  {
+    "id": "betklmn",
+    "front": "bet",
+    "back": {
+      "definition": "to risk money on the result of an event or a competition",
+      "examples": [
+        "I *bet* $50 on the football match.",
+        "He *bets* on every game he watches."
+      ],
+      "transcription": "bɛt",
+      "ru_translation": "держать пари, биться об заклад"
+    },
+    "img": "https://contabilul.manager.ro/dbimg/images/raportari-contabile-2014.jpg"
+  },
+  {
+    "id": "settleopqr",
+    "front": "settle",
+    "back": {
+      "definition": "to reach a decision or an agreement about something, or to end a disagreement",
+      "examples": [
+        "They decided to *settle* the dispute out of court.",
+        "We need to *settle* this matter quickly."
+      ],
+      "transcription": "ˈsɛtl",
+      "ru_translation": "уладить"
+    },
+    "img": "https://leader-id.storage.yandexcloud.net/upload/2564997/c59be594-da7f-4e98-b7cd-8a1dc849d40c.jpg"
+  },
+  {
+    "id": "settledefg",
+    "front": "settle",
+    "back": {
+      "definition": "to go and live somewhere, especially permanently",
+      "examples": [
+        "They decided to *settle* in the countryside.",
+        "He plans to *settle* down and start a family."
+      ],
+      "transcription": "ˈsɛtl",
+      "ru_translation": "поселиться, обосновываться"
+    },
+    "img": "https://data.si/wp-content/uploads/2018/08/subvencioniranje-najemnine.jpg"
+  },
+  {
+    "id": "unsettleijkl",
+    "front": "unsettle",
+    "back": {
+      "definition": "to make someone feel anxious or slightly worried",
+      "examples": [
+        "The sudden news *unsettled* everyone in the office.",
+        "His behavior *unsettles* me."
+      ],
+      "transcription": "ʌnˈsɛtl",
+      "ru_translation": "расстраивать, выбивать из колеи"
+    },
+    "img": "https://www.mundopsicologos.com/site/article/65604/54984/mal-amigo_ai1.jpg"
   }
 ]
