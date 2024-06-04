@@ -5831,5 +5831,313 @@
       "ru_translation": "расстраивать, выбивать из колеи"
     },
     "img": "https://www.mundopsicologos.com/site/article/65604/54984/mal-amigo_ai1.jpg"
+  },
+  {
+    "id": "flowabc123",
+    "front": "flow",
+    "back": {
+      "definition": "the movement of something in one direction, especially continuously and easily",
+      "examples": [
+        "This is life in the *flow*.",
+        "The *flow* of goods vehicles never ends here."
+      ],
+      "transcription": "fləʊ",
+      "ru_translation": "поток, течение"
+    },
+    "img": "https://britlex.ru/images/flow.jpg"
+  },
+  {
+    "id": "flowdef456",
+    "front": "flow",
+    "back": {
+      "definition": "to move in one direction, especially continuously and easily",
+      "examples": [
+        "Water *flows* from the faucet.",
+        "Information *flows* quickly in the digital age."
+      ],
+      "transcription": "fləʊ",
+      "ru_translation": "течь, литься"
+    },
+    "img": "https://1.bp.blogspot.com/-xL2SYGZi7AI/TkNjwjykDNI/AAAAAAAACb8/aAnQpbBPfwY/s320/flowing_over_dam3-water.jpg"
+  },
+  {
+    "id": "approveghi789",
+    "front": "approve",
+    "back": {
+      "definition": "to accept, allow, or officially agree to something",
+      "examples": [
+        "The committee *approved* the new policy.",
+        "She *approved* the request for vacation time."
+      ],
+      "transcription": "əˈpruːv",
+      "ru_translation": "утвердить, одобрить (офиц.)"
+    },
+    "img": "https://britlex.ru/images/approve.jpg"
+  },
+  {
+    "id": "approvaljkl012",
+    "front": "approval",
+    "back": {
+      "definition": "the feeling of having a positive opinion of someone or something",
+      "examples": [
+        "He looked at her with *approval*.",
+        "The project received unanimous *approval* from the board."
+      ],
+      "transcription": "əˈpruːvəl",
+      "ru_translation": "утверждение, одобрение"
+    },
+    "img": "https://cdn-edge.kwork.ru/pics/t3/26/147121-2.jpg"
+  },
+  {
+    "id": "disapprovejkl345",
+    "front": "disapprove",
+    "back": {
+      "definition": "to feel that something or someone is bad, wrong, etc.",
+      "examples": [
+        "She *disapproved* of his behavior.",
+        "Many people *disapprove* of smoking in public places."
+      ],
+      "transcription": "ˌdɪsəˈpruːv",
+      "ru_translation": "не одобрять, осуждать"
+    },
+    "img": "https://thumbs.dreamstime.com/b/business-man-bad-news-22732496.jpg"
+  },
+  {
+    "id": "approveofmno678",
+    "front": "approve of",
+    "back": {
+      "definition": "to have a positive opinion of someone or something",
+      "examples": [
+        "Her parents *approve of* her new boyfriend.",
+        "He doesn't *approve of* loud music."
+      ],
+      "transcription": "əˈpruːvɒv",
+      "ru_translation": "одобрять (субъективно)"
+    },
+    "img": "https://britlex.ru/images/approve%20of.jpg"
+  },
+  {
+    "id": "atfirstpqr901",
+    "front": "at first",
+    "back": {
+      "definition": "at the beginning",
+      "examples": [
+        "*At first*, I didn't understand the instructions.",
+        "She was nervous *at first*, but soon relaxed."
+      ],
+      "transcription": "ætfɜːst",
+      "ru_translation": "сначала, сперва"
+    },
+    "img": "https://britlex.ru/images/at%20first.jpg"
+  },
+  {
+    "id": "occasionstu234",
+    "front": "occasion",
+    "back": {
+      "definition": "a particular time, especially when something happens or has happened",
+      "examples": [
+        "She bought a new dress for the *occasion*.",
+        "He has met her on several *occasions*."
+      ],
+      "transcription": "əˈkeɪʒən",
+      "ru_translation": "случай, повод, событие"
+    },
+    "img": "https://britlex.ru/images/occasion.jpg"
+  },
+  {
+    "id": "occasionalvwx567",
+    "front": "occasional",
+    "back": {
+      "definition": "not happening or done often or regularly",
+      "examples": [
+        "He makes *occasional* visits to the office.",
+        "She takes an *occasional* day off."
+      ],
+      "transcription": "əˈkeɪʒənl",
+      "ru_translation": "случающийся иногда, нерегулярный"
+    },
+    "img": "https://i.pinimg.com/originals/c1/05/2b/c1052be7c872a1d3a4129b8259165985.png"
+  },
+  {
+    "id": "describeabc890",
+    "front": "describe",
+    "back": {
+      "definition": "to say or write what someone or something is like",
+      "examples": [
+        "Can you *describe* the suspect?",
+        "She loves to *describe* her travels in detail."
+      ],
+      "transcription": "dɪsˈkraɪb",
+      "ru_translation": "описать"
+    },
+    "img": "https://britlex.ru/images/describe.jpg"
+  },
+  {
+    "id": "descriptivebcd123",
+    "front": "descriptive",
+    "back": {
+      "definition": "describing something, especially in a detailed, interesting way",
+      "examples": [
+        "The author's *descriptive* writing brings the scene to life.",
+        "He gave a very *descriptive* account of the event."
+      ],
+      "transcription": "dɪsˈkrɪptɪv",
+      "ru_translation": "описательный"
+    },
+    "img": "https://www.syl.ru/misc/i/ni/1/5/6/4/8/9/5/i/1564895.jpg"
+  },
+  {
+    "id": "descriptioncde456",
+    "front": "description",
+    "back": {
+      "definition": "something that tells you what something or someone is like",
+      "examples": [
+        "The police have a detailed *description* of the suspect.",
+        "The book contains vivid *descriptions* of the landscapes."
+      ],
+      "transcription": "dɪsˈkrɪpʃən",
+      "ru_translation": "описание"
+    },
+    "img": "https://yagla.ru/img/05-kak-sdelat-opisanie-tovara-ot-kotorogo-nevozmojno-otkazatsya.png"
+  },
+  {
+    "id": "ropedef789",
+    "front": "rope",
+    "back": {
+      "definition": "(a piece of) strong, thick string made of long twisted threads",
+      "examples": [
+        "He tied the package with *rope*.",
+        "The climbers used a *rope* for safety."
+      ],
+      "transcription": "rəʊp",
+      "ru_translation": "верёвка"
+    },
+    "img": "https://britlex.ru/images/rope.jpg"
+  },
+  {
+    "id": "featureghi012",
+    "front": "feature",
+    "back": {
+      "definition": "a typical quality or an important part of something",
+      "examples": [
+        "The smartphone's main *feature* is its camera.",
+        "Her eyes are her best *feature*."
+      ],
+      "transcription": "ˈfiːʧə",
+      "ru_translation": "черта, особенность"
+    },
+    "img": "https://i.pinimg.com/originals/f0/18/18/f01818a368e3d4a489f84b6e603bdbad.jpg"
+  },
+  {
+    "id": "featurejkl345",
+    "front": "feature",
+    "back": {
+      "definition": "to include someone or something as an important part",
+      "examples": [
+        "The movie *features* several famous actors.",
+        "The exhibition *features* works by local artists."
+      ],
+      "transcription": "ˈfiːʧə",
+      "ru_translation": "показывать как важную часть, включать"
+    },
+    "img": "https://i.ytimg.com/vi/sZBldX1li3k/hqdefault.jpg"
+  },
+  {
+    "id": "byfarmno678",
+    "front": "by far",
+    "back": {
+      "definition": "by a great amount",
+      "examples": [
+        "This is *by far* the best restaurant in town.",
+        "She is *by far* the most talented artist I've ever met."
+      ],
+      "transcription": "baɪfɑː",
+      "ru_translation": "намного, гораздо, безусловно"
+    },
+    "img": "https://mas.diariodeibiza.es/masdi/di-contenido/uploads/2017/06/Restaurante-Tatel-veladas-exclusivas-5.jpg"
+  },
+  {
+    "id": "drumpqr901",
+    "front": "drum",
+    "back": {
+      "definition": "a musical instrument, especially one made from a skin stretched over the end of a hollow tube or bowl, played by hitting with the hand or a stick",
+      "examples": [
+        "He played the *drum* in the school band.",
+        "The children love to beat on the *drum*."
+      ],
+      "transcription": "drʌm",
+      "ru_translation": "барабан"
+    },
+    "img": "https://img.youtube.com/vi/AeGgUzyuOkM/0.jpg"
+  },
+  {
+    "id": "drumstu234",
+    "front": "drum",
+    "back": {
+      "definition": "to hit a drum, make a sound similar to that of a drum",
+      "examples": [
+        "He likes to *drum* on the table when he's bored.",
+        "Rain *drummed* on the roof all night."
+      ],
+      "transcription": "drʌm",
+      "ru_translation": "барабанить"
+    },
+    "img": "https://britlex.ru/images/drum.jpg"
+  },
+  {
+    "id": "drummervwx567",
+    "front": "drummer",
+    "back": {
+      "definition": "someone who plays a drum or drums",
+      "examples": [
+        "The band's *drummer* is amazing.",
+        "He became a *drummer* at a young age."
+      ],
+      "transcription": "ˈdrʌmə",
+      "ru_translation": "барабанщик"
+    },
+    "img": "https://potd.pdnonline.com/wp-content/uploads/2016/11/Deirdre-OCallaghan-The-Drum-Thing-9-Jack-White.jpg"
+  },
+  {
+    "id": "emitefg890",
+    "front": "emit",
+    "back": {
+      "definition": "to send out a beam, noise, smell, or gas",
+      "examples": [
+        "The device *emits* a high-pitched sound.",
+        "Factories *emit* pollutants into the air."
+      ],
+      "transcription": "ɪˈmɪt",
+      "ru_translation": "издавать, извергать, излучать"
+    },
+    "img": "https://britlex.ru/images/emit.jpg"
+  },
+  {
+    "id": "emissionhij123",
+    "front": "emission",
+    "back": {
+      "definition": "the act of sending out gas, heat, light, etc.",
+      "examples": [
+        "The new regulations aim to reduce carbon *emissions*.",
+        "The *emission* of light from the lamp was very bright."
+      ],
+      "transcription": "ɪˈmɪʃən",
+      "ru_translation": "излучение, выброс, выхлоп"
+    },
+    "img": "https://www.siliconrepublic.com/wp-content/uploads/2020/04/AdobeStock_95437745.jpeg"
+  },
+  {
+    "id": "indeedklm456",
+    "front": "indeed",
+    "back": {
+      "definition": "really or certainly, often used to emphasize something",
+      "examples": [
+        "She is *indeed* a talented artist.",
+        "The meal was *indeed* delicious."
+      ],
+      "transcription": "ɪnˈdiːd",
+      "ru_translation": "в самом деле, действительно"
+    },
+    "img": "https://britlex.ru/images/indeed.jpg"
   }
 ]
