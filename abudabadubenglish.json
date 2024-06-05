@@ -6139,5 +6139,338 @@
       "ru_translation": "в самом деле, действительно"
     },
     "img": "https://britlex.ru/images/indeed.jpg"
+  },
+  {
+    "id": "tableasdfghjkl",
+    "front": "table",
+    "back": {
+      "definition": "a piece of furniture with a flat top and one or more legs, used for placing things on, eating from, writing on, etc.",
+      "examples": [
+        "Please set the *table* for dinner.",
+        "I left my book on the *table*."
+      ],
+      "transcription": "ˈteɪbl",
+      "ru_translation": "стол"
+    },
+    "img": "https://hivemodern.com/public_resources/wood-table-edward-barber-jay-osgerby-vitra-3.jpg"
+  },
+  {
+    "id": "tableqwertyuiop",
+    "front": "table",
+    "back": {
+      "definition": "a set of facts or figures arranged in rows and columns",
+      "examples": [
+        "The data is presented in the *table* on page 5.",
+        "He created a *table* to organize the information."
+      ],
+      "transcription": "ˈteɪbl",
+      "ru_translation": "таблица"
+    },
+    "img": "https://youclever.org/wp-content/uploads/2020/07/tablitsa-kvadratov.png"
+  },
+  {
+    "id": "hostilezxcvbnm",
+    "front": "hostile",
+    "back": {
+      "definition": "unfriendly and not liking something",
+      "examples": [
+        "The crowd was openly *hostile* to the speaker.",
+        "She felt *hostile* towards her new stepmother."
+      ],
+      "transcription": "ˈhɒstaɪl",
+      "ru_translation": "враждебный"
+    },
+    "img": "https://britlex.ru/images/hostile.jpg"
+  },
+  {
+    "id": "hostilityasdfg",
+    "front": "hostility",
+    "back": {
+      "definition": "an occasion when someone is unfriendly or shows that they do not like something",
+      "examples": [
+        "There was a lot of *hostility* between the two teams.",
+        "His *hostility* towards the idea was obvious."
+      ],
+      "transcription": "hɒsˈtɪlɪti",
+      "ru_translation": "враждебность"
+    },
+    "img": "https://sushi-week.ru/wp-content/uploads/sonnik-rugatsya-ili-ssoritsya-s-bratom2.jpg"
+  },
+  {
+    "id": "optionhjkl",
+    "front": "option",
+    "back": {
+      "definition": "one thing that can be chosen from a set of possibilities, or the freedom to make a choice",
+      "examples": [
+        "You have the *option* to take the early train.",
+        "There are several *options* available."
+      ],
+      "transcription": "ˈɒpʃən",
+      "ru_translation": "выбор, вариант"
+    },
+    "img": "https://britlex.ru/images/option.jpg"
+  },
+  {
+    "id": "optionalqwert",
+    "front": "optional",
+    "back": {
+      "definition": "If something is optional, you can choose if you want to do it, pay it, buy it, etc.",
+      "examples": [
+        "The extra insurance is *optional*.",
+        "Attendance is *optional* for this meeting."
+      ],
+      "transcription": "ˈɒpʃənl",
+      "ru_translation": "необязательный"
+    },
+    "img": "https://lk.expert/wp-content/uploads/2022/06/3-7.jpg"
+  },
+  {
+    "id": "significantzxcvb",
+    "front": "significant",
+    "back": {
+      "definition": "important or noticeable",
+      "examples": [
+        "The discovery is a *significant* breakthrough.",
+        "He made a *significant* contribution to the project."
+      ],
+      "transcription": "sɪgˈnɪfɪkənt",
+      "ru_translation": "значительный"
+    },
+    "img": "https://britlex.ru/images/significant.jpg"
+  },
+  {
+    "id": "significanceqazwsx",
+    "front": "significance",
+    "back": {
+      "definition": "importance",
+      "examples": [
+        "The *significance* of this event cannot be overstated.",
+        "She didn't understand the *significance* of his words."
+      ],
+      "transcription": "sɪgˈnɪfɪkəns",
+      "ru_translation": "значимость"
+    },
+    "img": "https://atneventstaffing.com/wp-content/uploads/2018/04/tmo001-768x511.jpg"
+  },
+  {
+    "id": "insignificantedc",
+    "front": "insignificant",
+    "back": {
+      "definition": "small or not noticeable, and therefore not considered important",
+      "examples": [
+        "The error was so *insignificant* that it went unnoticed.",
+        "He felt his contributions were *insignificant*."
+      ],
+      "transcription": "ˌɪnsɪgˈnɪfɪkənt",
+      "ru_translation": "незначительный"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/102214/1628057382_68618.jpeg"
+  },
+  {
+    "id": "makefunofrfvtgb",
+    "front": "make fun of",
+    "back": {
+      "definition": "to be unkind to someone and laugh at or cause others to laugh at the person",
+      "examples": [
+        "It's not nice to *make fun of* people.",
+        "They used to *make fun of* him because of his accent."
+      ],
+      "transcription": "meɪkfʌnəf",
+      "ru_translation": "высмеивать, насмехаться"
+    },
+    "img": "https://britlex.ru/images/make%20fun%20of.jpg"
+  },
+  {
+    "id": "chopqwert",
+    "front": "chop",
+    "back": {
+      "definition": "to cut something into pieces with an axe, knife, or other sharp instrument",
+      "examples": [
+        "He *chopped* the vegetables for the salad.",
+        "She *chopped* some wood for the fire."
+      ],
+      "transcription": "ʧɒp",
+      "ru_translation": "рубить, резать"
+    },
+    "img": "https://britlex.ru/images/chop.jpg"
+  },
+  {
+    "id": "generaltgb",
+    "front": "general",
+    "back": {
+      "definition": "involving or relating to most or all people, things, or places, especially when these are considered as a unit",
+      "examples": [
+        "In *general*, the event was a success.",
+        "He has a *general* knowledge of many subjects."
+      ],
+      "transcription": "ˈʤɛnərəl",
+      "ru_translation": "общий"
+    },
+    "img": "https://britlex.ru/images/general.jpg"
+  },
+  {
+    "id": "generaliseedcvb",
+    "front": "generalise",
+    "back": {
+      "definition": "to say or write that something is true all of the time, when it is only true some of the time",
+      "examples": [
+        "It's unfair to *generalise* based on a single incident.",
+        "People often *generalise* from their own experiences."
+      ],
+      "transcription": "ˈʤɛnərəlaɪz",
+      "ru_translation": "обобщать"
+    },
+    "img": "https://tse2.mm.bing.net/th?id=OIP.S8Nma4374MD-n2rAic4j9QHaEK&pid=Api"
+  },
+  {
+    "id": "generalisationqaz",
+    "front": "generalisation",
+    "back": {
+      "definition": "a written or spoken statement in which you say or write that something is true all of the time when it is only true some of the time",
+      "examples": [
+        "The *generalisation* was not accurate.",
+        "She made a broad *generalisation* about the topic."
+      ],
+      "transcription": "ˌʤɛnərəlaɪˈzeɪʃən",
+      "ru_translation": "обобщение"
+    },
+    "img": "https://econet.ru/media/video_covers/4744/original.jpg?1484473916"
+  },
+  {
+    "id": "awakewsx",
+    "front": "awake",
+    "back": {
+      "definition": "not sleeping",
+      "examples": [
+        "I stayed *awake* all night.",
+        "She was *awake* when I came home."
+      ],
+      "transcription": "əˈweɪk",
+      "ru_translation": "бодрствующий"
+    },
+    "img": "https://fb.ru/media/i/2/4/8/4/1/3/i/248413.jpg"
+  },
+  {
+    "id": "awakeawokeawokenrfv",
+    "front": "awake (awoke, awoken)",
+    "back": {
+      "definition": "to stop sleeping or to make someone stop sleeping",
+      "examples": [
+        "He was *awoken* by a loud noise.",
+        "She usually *awakes* early in the morning."
+      ],
+      "transcription": "əˈweɪk, əˈwəʊk, əˈwəʊkən",
+      "ru_translation": "просыпаться, будить"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/195811/1619507348_90784.jpeg"
+  },
+  {
+    "id": "mereqaz",
+    "front": "mere",
+    "back": {
+      "definition": "used to emphasize that something is not large or important",
+      "examples": ["It was a *mere* coincidence.", "He's a *mere* child."],
+      "transcription": "mɪə",
+      "ru_translation": "всего лишь"
+    },
+    "img": "https://studychinese.ru/content/dictionary/pictures/0/416.jpg"
+  },
+  {
+    "id": "performwsxc",
+    "front": "perform",
+    "back": {
+      "definition": "to do an action or piece of work",
+      "examples": [
+        "She will *perform* the surgery.",
+        "They *performed* well in the competition."
+      ],
+      "transcription": "pəˈfɔːm",
+      "ru_translation": "выполнять, исполнять"
+    },
+    "img": "https://britlex.ru/images/perform.jpg"
+  },
+  {
+    "id": "performanceedc",
+    "front": "performance",
+    "back": {
+      "definition": "the action of entertaining other people by dancing, singing, acting, or playing music",
+      "examples": [
+        "The *performance* was breathtaking.",
+        "He gave a great *performance*."
+      ],
+      "transcription": "pəˈfɔːməns",
+      "ru_translation": "представление"
+    },
+    "img": "https://spokenvision.com/wp-content/uploads/2018/06/Performing-Arts-770x502.jpg"
+  },
+  {
+    "id": "lawnqazwsx",
+    "front": "lawn",
+    "back": {
+      "definition": "an area of grass, especially near to a house or in a park, that is cut regularly to keep it short",
+      "examples": [
+        "The kids are playing on the *lawn*.",
+        "He mows the *lawn* every weekend."
+      ],
+      "transcription": "lɔːn",
+      "ru_translation": "газон, лужайка"
+    },
+    "img": "https://www.tuinbijdewildernis.nl/wp-content/uploads/2019/01/kunstgras-shutterstock_533390473-1000x600.jpg"
+  },
+  {
+    "id": "lawnmoweredcvb",
+    "front": "lawn-mower",
+    "back": {
+      "definition": "a machine used for cutting grass",
+      "examples": [
+        "He bought a new *lawn-mower*.",
+        "The *lawn-mower* is in the garage."
+      ],
+      "transcription": "ˈlɔːnˌməʊə",
+      "ru_translation": "газонокосилка"
+    },
+    "img": "https://mir-s3-cdn-cf.behance.net/projects/max_808/d4d59e104018879.Y3JvcCw4MDgsNjMyLDAsMA.png"
+  },
+  {
+    "id": "gentletgb",
+    "front": "gentle",
+    "back": {
+      "definition": "calm, kind, or soft",
+      "examples": [
+        "He has a *gentle* touch.",
+        "She spoke in a *gentle* voice."
+      ],
+      "transcription": "ˈʤɛntl",
+      "ru_translation": "нежный, мягкий, тихий"
+    },
+    "img": "https://britlex.ru/images/gentle.jpg"
+  },
+  {
+    "id": "beyondrfv",
+    "front": "beyond",
+    "back": {
+      "definition": "further away in the distance (than something)",
+      "examples": [
+        "The village is *beyond* the river.",
+        "Look *beyond* the mountains."
+      ],
+      "transcription": "bɪˈjɒnd",
+      "ru_translation": "вне"
+    },
+    "img": "https://britlex.ru/images/beyond.jpg"
+  },
+  {
+    "id": "hidehidhiddenedcv",
+    "front": "hide (hid, hidden)",
+    "back": {
+      "definition": "to put something or someone in a place where that thing or person cannot be seen or found, or to put yourself somewhere where you cannot be seen or found",
+      "examples": [
+        "He tried to *hide* the evidence.",
+        "She *hid* behind the curtains."
+      ],
+      "transcription": "haɪd, hɪd, ˈhɪdn",
+      "ru_translation": "прятать, скрывать"
+    },
+    "img": "https://fun-cats.ru/wp-content/uploads/b/8/c/b8c1d3a8f2b3c7477ce13f6904df4cee.jpeg"
   }
 ]
