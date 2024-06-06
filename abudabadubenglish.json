@@ -4792,7 +4792,7 @@
         "The package will be delivered *overnight*."
       ],
       "transcription": "ˌəʊvəˈnaɪt",
-      "ru_translation": "ночной"
+      "ru_translation": "на ночь, ночной"
     },
     "img": "https://i.ytimg.com/vi/UAoZJVyvKIA/hqdefault.jpg"
   },
@@ -5080,7 +5080,7 @@
     "id": "punishableXYZabc",
     "front": "punishable",
     "back": {
-      "definition": "a punishable crime is one that someone can be punished for.",
+      "definition": "(of a crime) that can be punished, especially by law.",
       "examples": [
         "The act of vandalism is *punishable* by law.",
         "In some countries, certain actions are *punishable* by severe penalties."
@@ -5444,7 +5444,7 @@
     "id": "liquid2XYZabc",
     "front": "liquid",
     "back": {
-      "definition": "in the form of a liquid.",
+      "definition": "a substance that flows freely and is not a solid or a gas, for example water or oil.",
       "examples": [
         "The medicine is in *liquid* form.",
         "He prefers *liquid* soap."
@@ -6399,7 +6399,7 @@
         "He gave a great *performance*."
       ],
       "transcription": "pəˈfɔːməns",
-      "ru_translation": "представление"
+      "ru_translation": "представление, производительность"
     },
     "img": "https://spokenvision.com/wp-content/uploads/2018/06/Performing-Arts-770x502.jpg"
   },
@@ -6455,7 +6455,7 @@
         "Look *beyond* the mountains."
       ],
       "transcription": "bɪˈjɒnd",
-      "ru_translation": "вне"
+      "ru_translation": "вне, за"
     },
     "img": "https://britlex.ru/images/beyond.jpg"
   },
@@ -6472,5 +6472,324 @@
       "ru_translation": "прятать, скрывать"
     },
     "img": "https://fun-cats.ru/wp-content/uploads/b/8/c/b8c1d3a8f2b3c7477ce13f6904df4cee.jpeg"
+  },
+  {
+    "id": "postponeABCD",
+    "front": "postpone",
+    "back": {
+      "definition": "to delay an event or arrangement until a later date.",
+      "examples": [
+        "We need to *postpone* the meeting until next week.",
+        "The event was *postponed* due to bad weather."
+      ],
+      "transcription": "pəʊstˈpəʊn",
+      "ru_translation": "откладывать, отсрочивать"
+    },
+    "img": "https://britlex.ru/images/postpone.jpg"
+  },
+  {
+    "id": "postponementEFGH",
+    "front": "postponement",
+    "back": {
+      "definition": "the action of delaying something or arranging for it to happen at a later date.",
+      "examples": [
+        "The *postponement* of the concert disappointed many fans.",
+        "Due to unforeseen circumstances, there has been a *postponement* in the project."
+      ],
+      "transcription": "pəʊstˈpəʊnmənt",
+      "ru_translation": "откладывание, отсрочка"
+    },
+    "img": "https://thumbs.dreamstime.com/b/procrastination-worker-cartoon-illustration-office-cutting-bonsai-tree-his-workpace-working-vector-your-141024035.jpg"
+  },
+  {
+    "id": "highlightIJKL",
+    "front": "highlight",
+    "back": {
+      "definition": "to attract attention to or emphasize something important.",
+      "examples": [
+        "I would like to *highlight* the main points of our discussion.",
+        "The report *highlights* the key achievements of the year."
+      ],
+      "transcription": "ˈhaɪˌlaɪt",
+      "ru_translation": "выделять, подсвечивать"
+    },
+    "img": "https://britlex.ru/images/highlight.jpg"
+  },
+  {
+    "id": "straightMNOP",
+    "front": "straight",
+    "back": {
+      "definition": "not curved or bent.",
+      "examples": [
+        "She has long, *straight* hair.",
+        "Keep your back *straight* to avoid injury."
+      ],
+      "transcription": "streɪt",
+      "ru_translation": "прямой, прямо"
+    },
+    "img": "https://britlex.ru/images/straight.jpg"
+  },
+  {
+    "id": "straightenQRST",
+    "front": "straighten",
+    "back": {
+      "definition": "to make something become straight.",
+      "examples": [
+        "He used an iron to *straighten* his shirt.",
+        "The chiropractor helped to *straighten* my spine."
+      ],
+      "transcription": "ˈstreɪtn",
+      "ru_translation": "выпрямлять"
+    },
+    "img": "https://bg.odysseedubienetre.be/img/images_1/grvida-pode-alisar-o-cabelo_2.jpg"
+  },
+  {
+    "id": "dealUVWX",
+    "front": "deal",
+    "back": {
+      "definition": "an agreement or arrangement, especially in business.",
+      "examples": [
+        "They made a *deal* to exchange goods.",
+        "We have a *deal* with the supplier."
+      ],
+      "transcription": "diːl",
+      "ru_translation": "сделка, дело"
+    },
+    "img": "https://britlex.ru/images/deal.jpg"
+  },
+  {
+    "id": "dealYZAB",
+    "front": "deal",
+    "back": {
+      "definition": "to do business or trade with someone.",
+      "examples": [
+        "Our company *deals* with many international clients.",
+        "She *deals* in antiques."
+      ],
+      "transcription": "diːl",
+      "ru_translation": "иметь дело"
+    },
+    "img": "https://consn.ru/wp-content/uploads/2023/01/bisnes-support-1024x683.jpeg"
+  },
+  {
+    "id": "dealerCDEF",
+    "front": "dealer",
+    "back": {
+      "definition": "a person who trades in something.",
+      "examples": [
+        "He is a well-known art *dealer*.",
+        "The car *dealer* offered us a good price."
+      ],
+      "transcription": "ˈdiːlə",
+      "ru_translation": "торговец"
+    },
+    "img": "https://a.d-cd.net/8a03582s-960.jpg"
+  },
+  {
+    "id": "dealershipGHIJ",
+    "front": "dealership",
+    "back": {
+      "definition": "a business that has permission to sell products from a particular company, especially cars.",
+      "examples": [
+        "He works at a Ford *dealership*.",
+        "The *dealership* has many cars in stock."
+      ],
+      "transcription": "ˈdiːləʃɪp",
+      "ru_translation": "торговое агентство"
+    },
+    "img": "https://demo.kaliumtheme.com/automotive/wp-content/uploads/2018/05/about-us-3-655x390.jpg"
+  },
+  {
+    "id": "delayKLMN",
+    "front": "delay",
+    "back": {
+      "definition": "to make something happen at a later time than originally planned or expected.",
+      "examples": [
+        "The flight was *delayed* due to fog.",
+        "We had to *delay* the start of the project."
+      ],
+      "transcription": "dɪˈleɪ",
+      "ru_translation": "задерживать, задерживаться"
+    },
+    "img": "https://britlex.ru/images/delay.jpg"
+  },
+  {
+    "id": "delayKLMN2",
+    "front": "delay",
+    "back": {
+      "definition": "a period when you have to wait longer than expected for something to happen.",
+      "examples": [
+        "There was a *delay* in the delivery of the package.",
+        "The project faced several *delays* due to weather conditions."
+      ],
+      "transcription": "dɪˈleɪ",
+      "ru_translation": "задержка"
+    },
+    "img": "https://img.freepik.com/premium-photo/unsatisfied-client-refuse-taking-late-food-order-delivery-delay-courier-and-angry-customer-woman-giving-impulsive-furious-employee-takeaway-meal-near-office-building-outdoors_482257-53125.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": "nerdOPQR",
+    "front": "nerd",
+    "back": {
+      "definition": "a person who is extremely interested in one subject, especially computers, and knows a lot of facts about it.",
+      "examples": [
+        "He's a computer *nerd*.",
+        "She felt like a *nerd* in high school."
+      ],
+      "transcription": "nɜːd",
+      "ru_translation": "ботан, задрот"
+    },
+    "img": "https://psiola-center.ru/wp-content/uploads/c/0/4/c0404ae2b0268ff7646471889d7a3af1.jpeg"
+  },
+  {
+    "id": "fanSTUV",
+    "front": "fan",
+    "back": {
+      "definition": "a device that is used to move the air around and make people or things cooler.",
+      "examples": [
+        "She turned on the *fan* to cool the room.",
+        "The *fan* was blowing hot air."
+      ],
+      "transcription": "fæn",
+      "ru_translation": "вентилятор"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/394622/1648353466_46789.jpeg"
+  },
+  {
+    "id": "debtWXYZ",
+    "front": "debt",
+    "back": {
+      "definition": "something, especially money, that is owed to someone else, or the state of owing something.",
+      "examples": ["He is in a lot of *debt*.", "She paid off her *debts*."],
+      "transcription": "dɛt",
+      "ru_translation": "долг"
+    },
+    "img": "https://econet.ru/media/4/covers/187010/original.jpeg?1542085787"
+  },
+  {
+    "id": "debtorABCD",
+    "front": "debtor",
+    "back": {
+      "definition": "a person or organization that owes money.",
+      "examples": [
+        "The company is a major *debtor*.",
+        "The *debtor* was unable to pay the loan."
+      ],
+      "transcription": "ˈdɛtə",
+      "ru_translation": "должник"
+    },
+    "img": "https://cdn.hoyes.com/wp-content/uploads/2013/12/debt-service-ratio.jpg"
+  },
+  {
+    "id": "submitEFGH",
+    "front": "submit",
+    "back": {
+      "definition": "to give or offer something for a decision to be made by others.",
+      "examples": [
+        "You need to *submit* your application by the end of the month.",
+        "Please *submit* your report on time."
+      ],
+      "transcription": "səbˈmɪt",
+      "ru_translation": "подавать информацию"
+    },
+    "img": "https://informburo.kz/storage/photos/21/main/Go5w1pmRE1C6fdzjkSbIQmRycV1djOEm7xZsLVqv.jpg"
+  },
+  {
+    "id": "submitIJKL",
+    "front": "submit",
+    "back": {
+      "definition": "to accept that someone has control over you and do what they tell you to do.",
+      "examples": [
+        "He refused to *submit* to their demands.",
+        "The prisoners were forced to *submit*."
+      ],
+      "transcription": "səbˈmɪt",
+      "ru_translation": "подчиняться, покоряться"
+    },
+    "img": "https://i.pinimg.com/736x/e3/38/29/e338291819b992fae5438e193f1d9805.jpg"
+  },
+  {
+    "id": "raiseMNOP",
+    "front": "raise",
+    "back": {
+      "definition": "to lift something to a higher position.",
+      "examples": [
+        "Please *raise* your hand if you have a question.",
+        "She helped *raise* the flag."
+      ],
+      "transcription": "reɪz",
+      "ru_translation": "поднимать, повышать, растить (детей)"
+    },
+    "img": "https://clipart-library.com/img1/1812426.png"
+  },
+  {
+    "id": "raiseQRST",
+    "front": "raise",
+    "back": {
+      "definition": "an increase in the amount that you are paid for the work you do.",
+      "examples": [
+        "He got a *raise* after his performance review.",
+        "The company announced a 5% *raise* for all employees."
+      ],
+      "transcription": "reɪz",
+      "ru_translation": "повышение, подъем"
+    },
+    "img": "https://u.9111s.ru/uploads/202305/06/f92bdb0678fa948b8fbdd2ca92da9bec.jpg"
+  },
+  {
+    "id": "startupUVWX",
+    "front": "start up",
+    "back": {
+      "definition": "to create or begin a new business or organization.",
+      "examples": [
+        "They decided to *start up* a new tech company.",
+        "She used her savings to *start up* her own business."
+      ],
+      "transcription": "stɑːtʌp",
+      "ru_translation": "основать (компанию, организацию)"
+    },
+    "img": "https://britlex.ru/images/start%20up.jpg"
+  },
+  {
+    "id": "belowYZAB",
+    "front": "below",
+    "back": {
+      "definition": "in a lower position (than), under.",
+      "examples": [
+        "The temperatures dropped *below* freezing.",
+        "The basement is *below* the ground floor."
+      ],
+      "transcription": "bɪˈləʊ",
+      "ru_translation": "ниже, внизу, под"
+    },
+    "img": "https://bogatyr.club/uploads/posts/2023-03/thumbs/1677652110_bogatyr-club-p-aisberg-pod-vodoi-foni-pinterest-18.jpg"
+  },
+  {
+    "id": "climbCDEF",
+    "front": "climb",
+    "back": {
+      "definition": "to go up, or to go towards the top of something.",
+      "examples": [
+        "They decided to *climb* the mountain.",
+        "He *climbed* up the ladder."
+      ],
+      "transcription": "klaɪm",
+      "ru_translation": "взбираться, подниматься"
+    },
+    "img": "https://britlex.ru/images/climb.jpg"
+  },
+  {
+    "id": "climbGHIJ",
+    "front": "climb",
+    "back": {
+      "definition": "an act of going up something.",
+      "examples": [
+        "The *climb* was challenging but rewarding.",
+        "They began their *climb* early in the morning."
+      ],
+      "transcription": "klaɪm",
+      "ru_translation": "подъем, восхождение"
+    },
+    "img": "https://i.pinimg.com/736x/08/15/2a/08152a1bcd6992d07beadc015c86ce8d.jpg"
   }
 ]
