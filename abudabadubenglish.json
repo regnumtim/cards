@@ -342,12 +342,40 @@
       "definition": "a group of similar things or people, especially one that you can hold in your hand or carry.",
       "examples": [
         "He bought a *pack* of gum at the store.",
-        "A *pack* of wolves roamed the forest."
+        "I still have his old cigarette *pack*."
       ],
       "transcription": "pæk",
       "ru_translation": "пачка"
     },
     "img": "https://www.tehnoman.ru/picture_library/items/imgitem97522434949381_input.jpg"
+  },
+  {
+    "id": "packefgh",
+    "front": "pack",
+    "back": {
+      "definition": "to put things into a container, especially for transport or storage",
+      "examples": [
+        "I need to *pack* my suitcase for the trip.",
+        "She *packed* the boxes with care."
+      ],
+      "transcription": "pæk",
+      "ru_translation": "упаковывать"
+    },
+    "img": "https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-pack-books-step-2.jpg"
+  },
+  {
+    "id": "packabcd",
+    "front": "pack",
+    "back": {
+      "definition": "a group of animals that live together, especially those of the dog family",
+      "examples": [
+        "A *pack* of wolves was seen near the village.",
+        "The lionesses hunted together like a *pack*."
+      ],
+      "transcription": "pæk",
+      "ru_translation": "стая, свора"
+    },
+    "img": "https://i.pinimg.com/originals/1a/49/19/1a4919f263563a4ae7dd4234a086df90.jpg"
   },
   {
     "id": "packageabcd",
@@ -784,16 +812,86 @@
     "img": "https://1.bp.blogspot.com/-M7-zXx1H8m0/TcA-cXeZaJI/AAAAAAAAAjg/APct3nGGqGA/s400/wedding-street-party1.jpg"
   },
   {
-    "id": "abuseqrstuv",
+    "id": "abuseefgh",
+    "front": "abuse",
+    "back": {
+      "definition": "the use of something for the wrong purpose in a way that is harmful or morally wrong",
+      "examples": [
+        "The *abuse* of power is a serious issue.",
+        "Drug *abuse* can have devastating effects."
+      ],
+      "transcription": "əˈbjuːs",
+      "ru_translation": "злоупотребление"
+    },
+    "img": "https://britlex.ru/images/abuse.jpg"
+  },
+  {
+    "id": "abuseijkl",
     "front": "abuse",
     "back": {
       "definition": "to use something for the wrong purpose in a way that is harmful or morally wrong",
       "examples": [
-        "He was accused of *abusing* his power.",
-        "The law protects against *abuse* of animals."
+        "He *abused* his position to gain access to confidential information.",
+        "She *abused* the company's resources for personal gain."
       ],
       "transcription": "əˈbjuːs",
-      "ru_translation": "оскорблять, бранить, брань"
+      "ru_translation": "злоупотреблять"
+    },
+    "img": "https://levchuki.ru/wp-content/uploads/2017/11/%D1%8D%D0%BC%D0%BE%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5-2.jpg"
+  },
+  {
+    "id": "abusemnop",
+    "front": "abuse",
+    "back": {
+      "definition": "violent, cruel treatment of someone",
+      "examples": [
+        "The child suffered years of *abuse* at the hands of his parents.",
+        "Animal *abuse* is a crime in many countries."
+      ],
+      "transcription": "əˈbjuːs",
+      "ru_translation": "насилие, жестокое обращение"
+    },
+    "img": "https://britlex.ru/images/abuse3.jpg"
+  },
+  {
+    "id": "abuseqrst",
+    "front": "abuse",
+    "back": {
+      "definition": "rude and offensive words said to another person",
+      "examples": [
+        "He shouted *abuse* at the referee.",
+        "The politician faced a torrent of *abuse* from the crowd."
+      ],
+      "transcription": "əˈbjuːs",
+      "ru_translation": "ругань, брань"
+    },
+    "img": "https://fb.ru/misc/i/gallery/42817/3057929.jpg"
+  },
+  {
+    "id": "abuseuvwx",
+    "front": "abuse",
+    "back": {
+      "definition": "to treat someone cruelly or violently",
+      "examples": [
+        "She was *abused* by her captors.",
+        "The prisoners were *abused* during their detention."
+      ],
+      "transcription": "əˈbjuːs",
+      "ru_translation": "совершать насилие, жестоко обращаться"
+    },
+    "img": "https://edtimes.in/wp-content/uploads/2017/08/shutterstock_20363095.jpg"
+  },
+  {
+    "id": "abuseqrstuv",
+    "front": "abuse",
+    "back": {
+      "definition": "to speak to someone rudely or offensively",
+      "examples": [
+        "He was *abused* by the crowd for his poor performance.",
+        "The customer *abused* the cashier over a mistake."
+      ],
+      "transcription": "əˈbjuːs",
+      "ru_translation": "оскорблять, бранить"
     },
     "img": "https://britlex.ru/images/abuse2.jpg"
   },
@@ -6791,5 +6889,299 @@
       "ru_translation": "подъем, восхождение"
     },
     "img": "https://i.pinimg.com/736x/08/15/2a/08152a1bcd6992d07beadc015c86ce8d.jpg"
+  },
+  {
+    "id": "crashabcd",
+    "front": "crash",
+    "back": {
+      "definition": "to hit something, often making a loud noise or causing damage",
+      "examples": [
+        "The car *crashed* into the wall.",
+        "He heard a loud *crash* in the middle of the night."
+      ],
+      "transcription": "kræʃ",
+      "ru_translation": "врезаться, разбивать(ся)"
+    },
+    "img": "https://britlex.ru/images/crash.jpg"
+  },
+  {
+    "id": "crashefgh",
+    "front": "crash",
+    "back": {
+      "definition": "an accident involving a vehicle, usually a serious one in which the vehicle is damaged and someone is hurt",
+      "examples": [
+        "There was a *crash* on the highway this morning.",
+        "She died in a car *crash*."
+      ],
+      "transcription": "kræʃ",
+      "ru_translation": "крушение, грохот"
+    },
+    "img": "https://s1.akhbarona.com/files/teyara29_988680611.jpg"
+  },
+  {
+    "id": "consistofijkl",
+    "front": "consist of",
+    "back": {
+      "definition": "to be formed or made up of (specified things or people)",
+      "examples": [
+        "The team *consists of* five members.",
+        "Her diet *consists of* fruits and vegetables."
+      ],
+      "transcription": "kənˈsɪstɒv",
+      "ru_translation": "состоять из чего-либо"
+    },
+    "img": "https://i.ytimg.com/vi/qjcGooymNig/maxresdefault.jpg"
+  },
+  {
+    "id": "touchmnop",
+    "front": "touch",
+    "back": {
+      "definition": "to put your hand or another part of your body lightly onto and off something or someone",
+      "examples": [
+        "Please don't *touch* the exhibits.",
+        "She *touched* the fabric to feel its texture."
+      ],
+      "transcription": "tʌʧ",
+      "ru_translation": "трогать"
+    },
+    "img": "https://kafepauza.mk/wp-content/uploads/2012/10/0-25-lekcii-za-zhivotot-koi-decata-treba-da-gi-nauchat-od-roditelite-www.kafepauza.mk_.jpg"
+  },
+  {
+    "id": "touchqrst",
+    "front": "touch",
+    "back": {
+      "definition": "an act of touching someone or something",
+      "examples": [
+        "A gentle *touch* can be very comforting.",
+        "The baby's *touch* was very soft."
+      ],
+      "transcription": "tʌʧ",
+      "ru_translation": "прикосновение"
+    },
+    "img": "https://u2.9111s.ru/uploads/202307/17/e1f9eba307363ea080260692a6e380ba.jpg"
+  },
+  {
+    "id": "intouchuvwx",
+    "front": "in touch",
+    "back": {
+      "definition": "in communication with someone",
+      "examples": [
+        "We need to stay *in touch* after graduation.",
+        "I'll keep *in touch* with you via email."
+      ],
+      "transcription": "ɪntʌʧ",
+      "ru_translation": "на связи"
+    },
+    "img": "https://mmo4me.com/attachments/cdfi-virtual-handshake-art-3col-jpg.123204/"
+  },
+  {
+    "id": "geneabcd",
+    "front": "gene",
+    "back": {
+      "definition": "a part of the DNA in a cell that controls the physical development, behavior, etc. of an individual plant or animal and is passed on from its parents",
+      "examples": [
+        "Genes* play a crucial role in heredity.",
+        "He inherited the gene* for blue eyes from his mother."
+      ],
+      "transcription": "ʤiːn",
+      "ru_translation": "ген"
+    },
+    "img": "https://britlex.ru/images/gene.jpg"
+  },
+  {
+    "id": "neighbourefgh",
+    "front": "neighbour",
+    "back": {
+      "definition": "someone who lives near you",
+      "examples": [
+        "Our *neighbour* brought us cookies.",
+        "She has been a *neighbour* for ten years."
+      ],
+      "transcription": "ˈneɪbə",
+      "ru_translation": "сосед"
+    },
+    "img": "https://img.7dach.ru/image/600/17/79/12/2020/05/19/5ed7e3.jpg"
+  },
+  {
+    "id": "neighborhoodijkl",
+    "front": "neighborhood",
+    "back": {
+      "definition": "an area of a town or city that people live in",
+      "examples": [
+        "They moved to a new *neighborhood*.",
+        "Our *neighborhood* is very friendly."
+      ],
+      "transcription": "ˈneɪbəhʊd",
+      "ru_translation": "район, квартал"
+    },
+    "img": "https://prccustomresearch.com/wp-content/uploads/2018/07/GettyImages-1042569440-1024x576.jpg"
+  },
+  {
+    "id": "neighbouringmnop",
+    "front": "neighbouring",
+    "back": {
+      "definition": "near or next to somewhere",
+      "examples": [
+        "We visited the *neighbouring* town.",
+        "The *neighbouring* houses are very similar."
+      ],
+      "transcription": "ˈneɪbərɪŋ",
+      "ru_translation": "соседний"
+    },
+    "img": "https://cdn1.nyt.com/images/2011/10/24/us/SUBURBS-slide-A151/SUBURBS-slide-A151-jumbo.jpg"
+  },
+  {
+    "id": "tenderqrst",
+    "front": "tender",
+    "back": {
+      "definition": "gentle, loving, or kind",
+      "examples": [
+        "He gave her a *tender* kiss.",
+        "The meat was very *tender* and juicy."
+      ],
+      "transcription": "ˈtɛndə",
+      "ru_translation": "нежный"
+    },
+    "img": "https://i.mycdn.me/videoPreview?id=1047304014371&type=37&idx=13&tkn=cn_a_wnmESI2T9wIQorwgNU_xa0&fn=external_8"
+  },
+  {
+    "id": "tendernessuvwx",
+    "front": "tenderness",
+    "back": {
+      "definition": "the quality of being gentle, loving, or kind",
+      "examples": [
+        "She felt a great *tenderness* for her children.",
+        "His voice was full of *tenderness*."
+      ],
+      "transcription": "ˈtɛndənɪs",
+      "ru_translation": "нежность"
+    },
+    "img": "https://wallbox.ru/resize/640x480/wallpapers/main/201530/fd4f27b28bc8005.jpg"
+  },
+  {
+    "id": "tellapartyz",
+    "front": "tell apart",
+    "back": {
+      "definition": "to be able to see the difference between two very similar things or people",
+      "examples": [
+        "I can't *tell* the twins *apart*.",
+        "Can you *tell apart* these two colors?"
+      ],
+      "transcription": "tɛləˈpɑːt",
+      "ru_translation": "различать"
+    },
+    "img": "https://britlex.ru/images/tell%20apart.jpg"
+  },
+  {
+    "id": "followabcd",
+    "front": "follow",
+    "back": {
+      "definition": "to move behind someone or something and go where they go",
+      "examples": [
+        "The dog *followed* its owner.",
+        "Please *follow* the guide."
+      ],
+      "transcription": "ˈfɒləʊ",
+      "ru_translation": "следовать, следить"
+    },
+    "img": "https://britlex.ru/images/follow.jpg"
+  },
+  {
+    "id": "followingefgh",
+    "front": "following",
+    "back": {
+      "definition": "the next in a series",
+      "examples": [
+        "The *following* day, we went to the beach.",
+        "Please answer the *following* questions."
+      ],
+      "transcription": "ˈfɒləʊɪŋ",
+      "ru_translation": "следующий"
+    },
+    "img": "https://u.9111s.ru/uploads/202008/24/0013490f58d027f97c2759a896ddecdf.jpg"
+  },
+  {
+    "id": "asfollowsijkl",
+    "front": "as follows",
+    "back": {
+      "definition": "used to introduce a list or explanation",
+      "examples": [
+        "The rules are *as follows*:",
+        "The instructions are *as follows*: clean the area, apply the glue, and press firmly."
+      ],
+      "transcription": "æzˈfɒləʊz",
+      "ru_translation": "следующим образом"
+    },
+    "img": "https://cdn10.picryl.com/photo/1990/02/09/an-instructor-helps-a-recruit-align-an-m-16a1-during-basic-training-cc0b35-640.jpg"
+  },
+  {
+    "id": "followermnop",
+    "front": "follower",
+    "back": {
+      "definition": "someone who supports, admires, or believes in a particular person, group, or idea",
+      "examples": [
+        "She has many *followers* on social media.",
+        "He is a *follower* of the new movement."
+      ],
+      "transcription": "ˈfɒləʊə",
+      "ru_translation": "последователь"
+    },
+    "img": "https://i.ytimg.com/vi/0DBXOseaCZI/sddefault.jpg"
+  },
+  {
+    "id": "groceryqrst",
+    "front": "grocery",
+    "back": {
+      "definition": "a store where food and small items for the house are sold",
+      "examples": [
+        "I need to go to the *grocery* store.",
+        "He bought some fruit at the *grocery*."
+      ],
+      "transcription": "ˈgrəʊsəri",
+      "ru_translation": "продуктовый"
+    },
+    "img": "https://britlex.ru/images/grocery.jpg"
+  },
+  {
+    "id": "consultuvwx",
+    "front": "consult",
+    "back": {
+      "definition": "to get information or advice from a person, book, etc. with special knowledge on a particular subject",
+      "examples": [
+        "You should *consult* a doctor.",
+        "I need to *consult* the manual."
+      ],
+      "transcription": "kənˈsʌlt",
+      "ru_translation": "советоваться"
+    },
+    "img": "https://vicons.ru/wp-content/uploads/2021/02/interviu-1.jpg"
+  },
+  {
+    "id": "vagueyz",
+    "front": "vague",
+    "back": {
+      "definition": "not clearly expressed, known, described, or decided",
+      "examples": [
+        "His directions were *vague*.",
+        "She had a *vague* idea of what she wanted."
+      ],
+      "transcription": "veɪg",
+      "ru_translation": "смутный"
+    },
+    "img": "https://britlex.ru/images/vague.jpg"
+  },
+  {
+    "id": "vaguenessabcd",
+    "front": "vagueness",
+    "back": {
+      "definition": "the quality of not being clearly expressed, known, described, or decided",
+      "examples": [
+        "There was a *vagueness* in his response.",
+        "The *vagueness* of the instructions caused confusion."
+      ],
+      "transcription": "ˈveɪgnəs",
+      "ru_translation": "неопределенность"
+    },
+    "img": "https://i.pinimg.com/736x/ee/80/ee/ee80ee5257bf7515f0b49d93ec327ce7.jpg"
   }
 ]
