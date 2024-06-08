@@ -5483,6 +5483,20 @@
     "img": "https://u.9111s.ru/uploads/201912/01/1448c68f695caef019d4d77c0eefb116.jpg"
   },
   {
+    "id": "suspicionxyz",
+    "front": "suspicion",
+    "back": {
+      "definition": "a feeling or belief that something is likely or true, especially something bad.",
+      "examples": [
+        "The police had a *suspicion* that he was involved in the crime.",
+        "She looked at him with *suspicion*, not fully trusting his explanation."
+      ],
+      "transcription": "səˈspɪʃən",
+      "ru_translation": "подозрение"
+    },
+    "img": "https://memepedia.ru/wp-content/uploads/2016/09/1393992931__.png"
+  },
+  {
     "id": "suspiciousXYZabc",
     "front": "suspicious",
     "back": {
@@ -6980,8 +6994,8 @@
     "back": {
       "definition": "a part of the DNA in a cell that controls the physical development, behavior, etc. of an individual plant or animal and is passed on from its parents",
       "examples": [
-        "Genes* play a crucial role in heredity.",
-        "He inherited the gene* for blue eyes from his mother."
+        "*Genes* play a crucial role in heredity.",
+        "He inherited the *gene* for blue eyes from his mother."
       ],
       "transcription": "ʤiːn",
       "ru_translation": "ген"
@@ -7152,7 +7166,7 @@
         "I need to *consult* the manual."
       ],
       "transcription": "kənˈsʌlt",
-      "ru_translation": "советоваться"
+      "ru_translation": "консультироваться, советоваться"
     },
     "img": "https://vicons.ru/wp-content/uploads/2021/02/interviu-1.jpg"
   },
@@ -7183,5 +7197,355 @@
       "ru_translation": "неопределенность"
     },
     "img": "https://i.pinimg.com/736x/ee/80/ee/ee80ee5257bf7515f0b49d93ec327ce7.jpg"
+  },
+  {
+    "id": "juryqwer",
+    "front": "jury",
+    "back": {
+      "definition": "a group of people who have been chosen to listen to the facts in a trial in a law court and to decide whether a person is guilty or not guilty, or whether a claim has been proved.",
+      "examples": [
+        "The *jury* listened to all the evidence before making a decision.",
+        "She was selected to serve on the *jury* for the trial."
+      ],
+      "transcription": "ˈʤʊəri",
+      "ru_translation": "жюри, присяжные"
+    },
+    "img": "https://britlex.ru/images/jury.jpg"
+  },
+  {
+    "id": "jurorabcd",
+    "front": "juror",
+    "back": {
+      "definition": "a member of a jury.",
+      "examples": [
+        "Each *juror* has an important role in the trial.",
+        "The *juror* listened carefully to the testimony."
+      ],
+      "transcription": "ˈʤʊərə",
+      "ru_translation": "присяжный"
+    },
+    "img": "https://ichef.bbci.co.uk/images/ic/480x270/p0gsmcxl.jpg"
+  },
+  {
+    "id": "announceefgh",
+    "front": "announce",
+    "back": {
+      "definition": "to make something known or tell people about something officially.",
+      "examples": [
+        "They will *announce* the results tomorrow.",
+        "The company is set to *announce* a new product."
+      ],
+      "transcription": "əˈnaʊns",
+      "ru_translation": "объявлять"
+    },
+    "img": "https://www.mundopsicologos.com/site/article/33651/50178/aprende-a-vencer-tu-miedo-a-hablar-en-publico-0_ai1.jpg"
+  },
+  {
+    "id": "announcementijkl",
+    "front": "announcement",
+    "back": {
+      "definition": "something that someone says officially, giving information about something.",
+      "examples": [
+        "There was an important *announcement* about the meeting.",
+        "The *announcement* was made over the loudspeaker."
+      ],
+      "transcription": "əˈnaʊnsmənt",
+      "ru_translation": "объявление"
+    },
+    "img": "https://cattco.org/sites/default/files/community-service/megaphone.jpg"
+  },
+  {
+    "id": "bringbackmnop",
+    "front": "bring back",
+    "back": {
+      "definition": "to return something or someone to a place.",
+      "examples": [
+        "Please *bring back* my book when you're done with it.",
+        "They promised to *bring back* souvenirs from their trip."
+      ],
+      "transcription": "brɪŋbæk",
+      "ru_translation": "вернуть"
+    },
+    "img": "https://lib.susu.ru/wp-content/uploads/120951302130201-930x620.jpg"
+  },
+  {
+    "id": "givebackqrst",
+    "front": "give back",
+    "back": {
+      "definition": "to return something to the person who gave it to you.",
+      "examples": [
+        "I need to *give back* this book to the library.",
+        "Don't forget to *give back* the keys when you leave."
+      ],
+      "transcription": "gɪvbæk",
+      "ru_translation": "отдать"
+    },
+    "img": "https://b2b2c.market/oc-content/uploads/25061/2493928.jpg"
+  },
+  {
+    "id": "takebackuvwx",
+    "front": "take back",
+    "back": {
+      "definition": "to return something to the place you borrowed or bought it from.",
+      "examples": [
+        "I need to *take back* this shirt to the store.",
+        "He decided to *take back* his complaint."
+      ],
+      "transcription": "teɪkbæk",
+      "ru_translation": "забрать"
+    },
+    "img": "https://lcity.dp.ua/wp-content/uploads/2021/10/images.jpg"
+  },
+  {
+    "id": "stickyzab",
+    "front": "stick",
+    "back": {
+      "definition": "a thin piece of wood or other material.",
+      "examples": [
+        "He used a *stick* to roast marshmallows over the fire.",
+        "She picked up a *stick* and drew in the dirt."
+      ],
+      "transcription": "stɪk",
+      "ru_translation": "палка"
+    },
+    "img": "https://www.kindpng.com/picc/m/140-1408035_minecraft-stick-png-transparent-png.png"
+  },
+  {
+    "id": "stickstuckstuckcdef",
+    "front": "stick (stuck, stuck)",
+    "back": {
+      "definition": "to attach something to something else using a substance, or to become attached to a surface.",
+      "examples": [
+        "She used glue to *stick* the paper together.",
+        "The label won't *stick* to the bottle."
+      ],
+      "transcription": "stɪk, stʌk",
+      "ru_translation": "приклеивать(ся)"
+    },
+    "img": "https://otvet.imgsmail.ru/download/a5505aedbe430f2a0ce8ffea54929e0e_i-940.jpg"
+  },
+  {
+    "id": "stickstuckstuckghij",
+    "front": "stick (stuck, stuck)",
+    "back": {
+      "definition": "to become fixed in one position and not be able to move.",
+      "examples": [
+        "The door handle *stuck* and we couldn't get out.",
+        "My car got *stuck* in the mud."
+      ],
+      "transcription": "stɪk, stʌk",
+      "ru_translation": "застревать"
+    },
+    "img": "https://i.ytimg.com/vi/GaBgCkIE3KM/hqdefault.jpg"
+  },
+  {
+    "id": "stickyuvwx",
+    "front": "sticky",
+    "back": {
+      "definition": "having the properties of glue; tending to stick to things.",
+      "examples": [
+        "The honey made his fingers *sticky*.",
+        "She stepped on something *sticky* on the floor."
+      ],
+      "transcription": "ˈstɪki",
+      "ru_translation": "липкий"
+    },
+    "img": "https://i.ytimg.com/vi/vOL-7GVnT_8/hqdefault.jpg"
+  },
+  {
+    "id": "asthoughklmn",
+    "front": "as though",
+    "back": {
+      "definition": "used to describe how a situation seems to be.",
+      "examples": [
+        "She looked *as though* she had seen a ghost.",
+        "He acted *as though* he didn't care."
+      ],
+      "transcription": "æzðəʊ",
+      "ru_translation": "как будто"
+    },
+    "img": "https://britlex.ru/images/as%20though.jpg"
+  },
+  {
+    "id": "asforo1234",
+    "front": "as for",
+    "back": {
+      "definition": "used to start talking about someone or something.",
+      "examples": [
+        "*As for* me, I prefer to stay at home.",
+        "*As for* the weather, it's going to rain tomorrow."
+      ],
+      "transcription": "æzfɔːr",
+      "ru_translation": "что касается"
+    },
+    "img": "https://palsawa.com/uploads/images/A7PY8.jpg"
+  },
+  {
+    "id": "courtpqrst",
+    "front": "court",
+    "back": {
+      "definition": "a place where legal trials take place and where crimes, etc. are judged.",
+      "examples": [
+        "She has to appear in *court* next week.",
+        "The *court* ruled in favor of the defendant."
+      ],
+      "transcription": "kɔːt",
+      "ru_translation": "суд"
+    },
+    "img": "https://toppng.com/uploads/preview/gavel-11530936763jgvlv4eehr.png"
+  },
+  {
+    "id": "courtkort",
+    "front": "court",
+    "back": {
+      "definition": "an area marked out on the ground for playing sports such as tennis and basketball.",
+      "examples": [
+        "They played a game of tennis on the *court*.",
+        "The basketball *court* was crowded with players."
+      ],
+      "transcription": "kɔːt",
+      "ru_translation": "площадка, корт"
+    },
+    "img": "https://i.pinimg.com/originals/29/71/57/297157381d049a70388a89e7c7539d5a.jpg"
+  },
+  {
+    "id": "courtroomlmno",
+    "front": "courtroom",
+    "back": {
+      "definition": "a room where a law court meets.",
+      "examples": [
+        "The trial was held in a small *courtroom*.",
+        "The *courtroom* was filled with reporters."
+      ],
+      "transcription": "ˈkɔːtrʊm",
+      "ru_translation": "зал суда"
+    },
+    "img": "https://olimpikramer.com/wp-content/uploads/2016/02/orphans-court.jpg"
+  },
+  {
+    "id": "courthouse5678",
+    "front": "courthouse",
+    "back": {
+      "definition": "a building containing courts of law.",
+      "examples": [
+        "The *courthouse* is located downtown.",
+        "They walked up the steps of the *courthouse*."
+      ],
+      "transcription": "ˈkɔːtˈhaʊs",
+      "ru_translation": "здание суда"
+    },
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pasco_Cty_Courthouse_Dade_City.jpg/640px-Pasco_Cty_Courthouse_Dade_City.jpg"
+  },
+  {
+    "id": "teartoretornd8e9",
+    "front": "tear (tore, torn)",
+    "back": {
+      "definition": "to pull or be pulled apart, or to pull pieces off.",
+      "examples": [
+        "She *tore* the paper into pieces.",
+        "His shirt was *torn* during the fight."
+      ],
+      "transcription": "teə, ˈtɔː, ˈtɔːn",
+      "ru_translation": "рвать"
+    },
+    "img": "https://britlex.ru/images/tear.jpg"
+  },
+  {
+    "id": "watchjklm",
+    "front": "watch",
+    "back": {
+      "definition": "a small clock that you wear on your wrist or carry in your pocket.",
+      "examples": [
+        "He checked his *watch* to see the time.",
+        "She received a new *watch* for her birthday."
+      ],
+      "transcription": "wɒʧ",
+      "ru_translation": "наручные часы"
+    },
+    "img": "https://britlex.ru/images/watch.jpg"
+  },
+  {
+    "id": "watchmnop",
+    "front": "watch",
+    "back": {
+      "definition": "to look at something for a period of time, especially something that is changing or moving.",
+      "examples": [
+        "They *watched* the sunset together.",
+        "She likes to *watch* movies on the weekend."
+      ],
+      "transcription": "wɒʧ",
+      "ru_translation": "смотреть, наблюдать"
+    },
+    "img": "https://ir.ozone.ru/s3/multimedia-1/6366156145.jpg"
+  },
+  {
+    "id": "seekoutrt123",
+    "front": "seek (sought, sought)",
+    "back": {
+      "definition": "to try to find or get something, especially something that is not a physical object.",
+      "examples": [
+        "He is *seeking* advice from a lawyer.",
+        "They *sought* shelter from the storm."
+      ],
+      "transcription": "siːk, sɔːt",
+      "ru_translation": "искать"
+    },
+    "img": "https://smart-lab.ru/uploads/images/02/35/89/2016/10/02/3c4a30.jpg"
+  },
+  {
+    "id": "nakedzxcv",
+    "front": "naked",
+    "back": {
+      "definition": "not wearing any clothes.",
+      "examples": [
+        "He was standing *naked* in the bathroom.",
+        "The *naked* truth is sometimes hard to accept."
+      ],
+      "transcription": "ˈneɪkɪd",
+      "ru_translation": "голый, обнаженный"
+    },
+    "img": "https://image.shutterstock.com/image-photo/naked-yoga-beautiful-sexy-body-600w-345343250.jpg"
+  },
+  {
+    "id": "nakednessbnmj",
+    "front": "nakedness",
+    "back": {
+      "definition": "the state of being without clothes.",
+      "examples": [
+        "She felt a sense of vulnerability in her *nakedness*.",
+        "The painting depicted the *nakedness* of the human form."
+      ],
+      "transcription": "ˈneɪkɪdnəs",
+      "ru_translation": "нагота"
+    },
+    "img": "https://britlex.ru/images/naked.jpg"
+  },
+  {
+    "id": "strainytre",
+    "front": "strain",
+    "back": {
+      "definition": "to become stretched or to experience pressure, or to make something do or experience this.",
+      "examples": [
+        "Don't *strain* your eyes by reading in the dark.",
+        "The heavy lifting *strained* his back."
+      ],
+      "transcription": "streɪn",
+      "ru_translation": "напрягать"
+    },
+    "img": "https://narcoff.com/wp-content/uploads/6_novyj-razmer.jpg"
+  },
+  {
+    "id": "strainwqasd",
+    "front": "strain",
+    "back": {
+      "definition": "a state of worry and tension caused by a difficult situation.",
+      "examples": [
+        "The job is causing her a lot of *strain*.",
+        "There was a *strain* in their relationship."
+      ],
+      "transcription": "streɪn",
+      "ru_translation": "напряжение"
+    },
+    "img": "https://kz-russia.ru/wp-content/uploads/2/5/8/2587104997964bd3e62ffcd35f3cc8f6.jpeg"
   }
 ]
