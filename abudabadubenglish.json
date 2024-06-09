@@ -7547,5 +7547,257 @@
       "ru_translation": "напряжение"
     },
     "img": "https://kz-russia.ru/wp-content/uploads/2/5/8/2587104997964bd3e62ffcd35f3cc8f6.jpeg"
+  },
+  {
+    "id": "wearabc123",
+    "front": "wear (wore, worn)",
+    "back": {
+      "definition": "to have clothing, jewellery, etc. on your body",
+      "examples": [
+        "She likes to *wear* colorful dresses.",
+        "He will *wear* a suit to the event."
+      ],
+      "transcription": "weə, wɔː, wɔːn",
+      "ru_translation": "носить, быть одетым во что-либо"
+    },
+    "img": "https://i.pinimg.com/originals/68/87/bd/6887bdda8a43aa16d3a699d1766d7bb5.png"
+  },
+  {
+    "id": "blastxyz456",
+    "front": "blast",
+    "back": {
+      "definition": "a sudden strong movement of air",
+      "examples": [
+        "The *blast* of wind knocked over the trees.",
+        "We heard a loud *blast* from the explosion."
+      ],
+      "transcription": "blɑːst",
+      "ru_translation": "дуновение, порыв, взрыв"
+    },
+    "img": "https://risovach.ru/upload/2020/02/generator/kot-vzryv_231146706_orig_.jpg"
+  },
+  {
+    "id": "grainuvw789",
+    "front": "grain",
+    "back": {
+      "definition": "a seed or seeds from a plant, especially a plant like a grass such as rice or wheat",
+      "examples": [
+        "Farmers harvested *grain* from the fields.",
+        "A *grain* of rice fell on the floor."
+      ],
+      "transcription": "greɪn",
+      "ru_translation": "зерно, крупица"
+    },
+    "img": "https://britlex.ru/images/grain.jpg"
+  },
+  {
+    "id": "dropoutofrst987",
+    "front": "drop out of",
+    "back": {
+      "definition": "to stop doing something before you have completely finished",
+      "examples": [
+        "She decided to *drop out of* college.",
+        "Many students *drop out of* school each year."
+      ],
+      "transcription": "drɒpaʊtɒv",
+      "ru_translation": "бросать (учебу и т. д.)"
+    },
+    "img": "https://www.thecitizen.co.tz/resource/image/2575692/landscape_ratio3x2/768/512/529f4ece68ae19b16d9ce9f91abbebd9/oO/pic-drop-out-of-school.jpg"
+  },
+  {
+    "id": "dropoutlmn654",
+    "front": "dropout",
+    "back": {
+      "definition": "a person who leaves school, college, or university before completing a qualification",
+      "examples": [
+        "He became a *dropout* and started his own business.",
+        "The school is trying to reduce the number of *dropouts*."
+      ],
+      "transcription": "ˈdrɒpaʊt",
+      "ru_translation": "человек, бросивший учебу"
+    },
+    "img": "https://fullfact.org/media/_versions/student_dropout_rate_pic_social_media.jpg"
+  },
+  {
+    "id": "fireplaceabc321",
+    "front": "fireplace",
+    "back": {
+      "definition": "a space in the wall of a room for a fire to burn in",
+      "examples": [
+        "They sat by the *fireplace* to keep warm.",
+        "The *fireplace* was decorated with stockings for Christmas."
+      ],
+      "transcription": "ˈfaɪəˌpleɪs",
+      "ru_translation": "камин"
+    },
+    "img": "https://britlex.ru/images/fireplace.jpg"
+  },
+  {
+    "id": "quantitydef321",
+    "front": "quantity",
+    "back": {
+      "definition": "the amount or number of something, especially that can be measured",
+      "examples": [
+        "The recipe calls for a large *quantity* of sugar.",
+        "They have a limited *quantity* of resources."
+      ],
+      "transcription": "ˈkwɒntɪti",
+      "ru_translation": "количество"
+    },
+    "img": "https://britlex.ru/images/quantity.jpg"
+  },
+  {
+    "id": "quantitativeghi654",
+    "front": "quantitative",
+    "back": {
+      "definition": "relating to numbers or amounts",
+      "examples": [
+        "The study includes *quantitative* data analysis.",
+        "They performed a *quantitative* assessment of the risks."
+      ],
+      "transcription": "ˈkwɒntɪtətɪv",
+      "ru_translation": "количественный"
+    },
+    "img": "https://www.enago.com/academy/wp-content/uploads/2022/06/hypothesis-testing_Global-750x340.jpg"
+  },
+  {
+    "id": "crawljkl789",
+    "front": "crawl",
+    "back": {
+      "definition": "to move along on hands and knees or with your body stretched out along a surface",
+      "examples": [
+        "The baby started to *crawl* at six months old.",
+        "He had to *crawl* under the table to reach the toy."
+      ],
+      "transcription": "krɔːl",
+      "ru_translation": "ползать"
+    },
+    "img": "https://thumbs.dreamstime.com/b/crawling-baby-isolated-white-background-toddler-65015490.jpg"
+  },
+  {
+    "id": "bagmno012",
+    "front": "bag",
+    "back": {
+      "definition": "a container made of thin material (such as paper, plastic, or cloth) that opens at the top and is used for holding or carrying things",
+      "examples": [
+        "She carried her lunch in a paper *bag*.",
+        "He packed his clothes in a *bag*."
+      ],
+      "transcription": "bæg",
+      "ru_translation": "сумка, мешок"
+    },
+    "img": "https://i.etsystatic.com/8758345/r/il/d538f8/784879278/il_794xN.784879278_c5x8.jpg"
+  },
+  {
+    "id": "handbagpqr345",
+    "front": "handbag",
+    "back": {
+      "definition": "a small bag for money, keys, make-up, etc., carried especially by women",
+      "examples": [
+        "She bought a new *handbag* for the party.",
+        "Her *handbag* was full of essentials."
+      ],
+      "transcription": "ˈhændbæg",
+      "ru_translation": "дамская сумка"
+    },
+    "img": "https://double-city.ru/images/cms/data/woman_bags/Bags_1/img_8636_5.jpg"
+  },
+  {
+    "id": "baggystu678",
+    "front": "baggy",
+    "back": {
+      "definition": "not fitting closely",
+      "examples": [
+        "He prefers to wear *baggy* jeans.",
+        "The sweater was too *baggy* for her."
+      ],
+      "transcription": "ˈbægi",
+      "ru_translation": "мешковатый"
+    },
+    "img": "https://ae01.alicdn.com/kf/HTB1H2nAKkCWBuNjy0Faq6xUlXXaP.jpg"
+  },
+  {
+    "id": "gravevwx901",
+    "front": "grave",
+    "back": {
+      "definition": "a place in the ground where a dead person is buried",
+      "examples": [
+        "They visited her *grave* on the anniversary of her death.",
+        "The *grave* was adorned with flowers."
+      ],
+      "transcription": "greɪv",
+      "ru_translation": "могила"
+    },
+    "img": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*_vOZgwnM8wORVwTn6Y52-g.jpeg"
+  },
+  {
+    "id": "graveseriousdef234",
+    "front": "grave",
+    "back": {
+      "definition": "seriously bad",
+      "examples": [
+        "He was in *grave* danger after the accident.",
+        "The situation is becoming *grave*."
+      ],
+      "transcription": "greɪv",
+      "ru_translation": "серьезный"
+    },
+    "img": "https://park72.ru/wp-content/uploads/2020/02/1_H0tAQhuNBfP0uGu7reYBXw.jpg"
+  },
+  {
+    "id": "graveyardabc456",
+    "front": "graveyard",
+    "back": {
+      "definition": "a place, often next to a church, where dead people are buried",
+      "examples": [
+        "They walked through the old *graveyard* at dusk.",
+        "The *graveyard* was quiet and peaceful."
+      ],
+      "transcription": "ˈgreɪvjɑːd",
+      "ru_translation": "кладбище (у церкви)"
+    },
+    "img": "https://4.bp.blogspot.com/_Fzq94YVbHHM/TBKlNjU1D3I/AAAAAAAAzDI/XX3AUg2oJrk/s1600/graveyard_photography_12.jpg"
+  },
+  {
+    "id": "makeupghi789",
+    "front": "make up",
+    "back": {
+      "definition": "to invent something, such as an excuse or a story, often in order to deceive",
+      "examples": [
+        "She had to *make up* an excuse for being late.",
+        "He *made up* a story to avoid trouble."
+      ],
+      "transcription": "meɪkʌp",
+      "ru_translation": "выдумать (создание истории или факта)"
+    },
+    "img": "https://tse3.mm.bing.net/th?id=OIP.lTFO8f9eFJ0BL3AHqlsfMQHaHa&pid=15.1"
+  },
+  {
+    "id": "thinkupjkl012",
+    "front": "think up",
+    "back": {
+      "definition": "to produce a new idea or plan",
+      "examples": [
+        "We need to *think up* a solution to this problem.",
+        "She *thought up* a new recipe for the contest."
+      ],
+      "transcription": "θɪŋkʌp",
+      "ru_translation": "придумать (создание новой идеи или плана)"
+    },
+    "img": "https://s2.glbimg.com/AmHk0uLSohH5290bLcwaA_rfk4s=/512x320/smart/e.glbimg.com/og/ed/f/original/2015/02/02/ideia.jpg"
+  },
+  {
+    "id": "dreamupmno345",
+    "front": "dream up",
+    "back": {
+      "definition": "to invent something very unusual and usually silly",
+      "examples": [
+        "He *dreamed up* an elaborate scheme.",
+        "She *dreamed up* a fantastic story."
+      ],
+      "transcription": "driːmʌp",
+      "ru_translation": "выдумывать (создании чего-то фантастического)"
+    },
+    "img": "https://www.projectboldlife.com/images/2019/02/what-do-our-dreams-mean-feature.jpg"
   }
 ]
