@@ -1073,7 +1073,7 @@
         "It is important to wear *appropriate* attire to a job interview."
       ],
       "transcription": "əˈprəʊprɪɪt",
-      "ru_translation": "подходящий"
+      "ru_translation": "подходящий, надлежащий"
     },
     "img": "https://fisiostar.com/wp-content/uploads/2018/12/ergonomia-1-326x245.jpg"
   },
@@ -4147,7 +4147,7 @@
         "He gave an *elaborate* explanation of the process."
       ],
       "transcription": "ɪˈlæbərɪt",
-      "ru_translation": "сложный, продуманный"
+      "ru_translation": "сложный, продуманный, проработанный"
     },
     "img": "https://power-e.ru/wp-content/uploads/1_baa4jb2i-as67yhduiiklw.jpeg"
   },
@@ -7451,6 +7451,20 @@
     "img": "https://britlex.ru/images/tear.jpg"
   },
   {
+    "id": "teardgzx",
+    "front": "tear",
+    "back": {
+      "definition": "a drop of clear salty liquid secreted by glands in a person's eye when they cry or when the eye is irritated.",
+      "examples": [
+        "A single *tear* rolled down her cheek.",
+        "He wiped away the *tears* with his sleeve."
+      ],
+      "transcription": "tɪər",
+      "ru_translation": "слеза"
+    },
+    "img": "https://demotivation.ru/wp-content/uploads/2022/01/3-4.jpeg"
+  },
+  {
     "id": "watchjklm",
     "front": "watch",
     "back": {
@@ -7799,5 +7813,369 @@
       "ru_translation": "выдумывать (создании чего-то фантастического)"
     },
     "img": "https://www.projectboldlife.com/images/2019/02/what-do-our-dreams-mean-feature.jpg"
+  },
+  {
+    "id": "practicekqjw",
+    "front": "practice",
+    "back": {
+      "definition": "the act of doing something regularly or repeatedly to improve your skill at doing it.",
+      "examples": [
+        "She has a daily *practice* of meditation.",
+        "The *practice* of yoga has many health benefits."
+      ],
+      "transcription": "ˈpræktɪs",
+      "ru_translation": "практика"
+    },
+    "img": "https://assets.soundgym.co/press/media/activities/practice.png"
+  },
+  {
+    "id": "practicelwdp",
+    "front": "practice",
+    "back": {
+      "definition": "to do something regularly or repeatedly to improve your skill at doing it.",
+      "examples": [
+        "She *practices* yoga every morning.",
+        "They *practice* speaking English with each other."
+      ],
+      "transcription": "ˈpræktɪs",
+      "ru_translation": "практиковать(ся)"
+    },
+    "img": "https://i.pinimg.com/736x/91/07/85/910785c3d360d44a3195715db2e35d8d.jpg"
+  },
+  {
+    "id": "entitlefznp",
+    "front": "entitle",
+    "back": {
+      "definition": "to give a title to a book, play, etc.",
+      "examples": [
+        "The author decided to *entitle* the book 'Journey to the Unknown'.",
+        "They *entitled* the movie 'A New Dawn'."
+      ],
+      "transcription": "ɪnˈtaɪtl",
+      "ru_translation": "давать название, озаглавливать"
+    },
+    "img": "https://britlex.ru/images/entitle2.jpg"
+  },
+  {
+    "id": "entitlerhkj",
+    "front": "entitle",
+    "back": {
+      "definition": "to give someone the right to do or have something.",
+      "examples": [
+        "Being a senior member *entitles* you to extra benefits.",
+        "The coupon *entitles* you to a 10% discount on your next purchase."
+      ],
+      "transcription": "ɪnˈtaɪtl",
+      "ru_translation": "давать право на что-либо"
+    },
+    "img": "https://static.tildacdn.com/tild6333-3532-4461-b734-643635346164/8f3b769e110895b18e4e.jpg"
+  },
+  {
+    "id": "pileqbwl",
+    "front": "pile",
+    "back": {
+      "definition": "a number of things that have been placed on top of each other.",
+      "examples": [
+        "She placed the books in a *pile* on the desk.",
+        "There was a *pile* of clothes on the floor."
+      ],
+      "transcription": "paɪl",
+      "ru_translation": "куча, груда, стопка"
+    },
+    "img": "https://i.pinimg.com/736x/4f/9f/5a/4f9f5aa0f3f53c93a6bef0f7df9547d3.jpg"
+  },
+  {
+    "id": "stockpilehlzv",
+    "front": "stockpile",
+    "back": {
+      "definition": "a large amount of food, goods, or weapons that are kept ready for future use.",
+      "examples": [
+        "They have a *stockpile* of canned food in the basement.",
+        "The government maintains a *stockpile* of emergency supplies."
+      ],
+      "transcription": "ˈstɒkpaɪl",
+      "ru_translation": "запас, резерв"
+    },
+    "img": "https://centro-pol.ru/wp-content/uploads/2019/01/4-15-700x466.jpg"
+  },
+  {
+    "id": "stockpilexnsw",
+    "front": "stockpile",
+    "back": {
+      "definition": "to collect a large amount of something to be kept for future use.",
+      "examples": [
+        "People began to *stockpile* groceries before the storm hit.",
+        "They *stockpile* weapons in case of an attack."
+      ],
+      "transcription": "ˈstɒkpaɪl",
+      "ru_translation": "делать запас, запасаться"
+    },
+    "img": "https://nashagazeta.ch/sites/default/files/produits.jpg"
+  },
+  {
+    "id": "surfaceojwx",
+    "front": "surface",
+    "back": {
+      "definition": "the outside part or uppermost layer of something.",
+      "examples": [
+        "The *surface* of the table was smooth.",
+        "Dust accumulated on the *surface* of the shelf."
+      ],
+      "transcription": "ˈsɜːfɪs",
+      "ru_translation": "поверхность"
+    },
+    "img": "https://i.pinimg.com/736x/9e/4b/21/9e4b219fd4d23141cf8a5772d939bcfd--ocean-wallpaper-background-hd-wallpaper.jpg"
+  },
+  {
+    "id": "ducklingytse",
+    "front": "duckling",
+    "back": {
+      "definition": "a young duck.",
+      "examples": [
+        "The *duckling* followed its mother to the pond.",
+        "They watched the *ducklings* swim in the lake."
+      ],
+      "transcription": "ˈdʌklɪŋ",
+      "ru_translation": "утёнок"
+    },
+    "img": "https://i.pinimg.com/736x/e9/a4/d1/e9a4d15b03d5708e547b66369a6b059f--cute-ducklings-baby-ducks.jpg"
+  },
+  {
+    "id": "conductrfqi",
+    "front": "conduct",
+    "back": {
+      "definition": "the manner in which a person behaves, especially in a particular place or situation.",
+      "examples": [
+        "His *conduct* during the meeting was exemplary.",
+        "The student's *conduct* in class was disruptive."
+      ],
+      "transcription": "ˈkɒndʌkt",
+      "ru_translation": "поведение"
+    },
+    "img": "https://3.bp.blogspot.com/-_R30W2eGDJw/UGcgpgtMaZI/AAAAAAAAASA/x2Xeqp0ccmQ/s1600/dispruptive_WEB-595x468.jpg"
+  },
+  {
+    "id": "conductzjqn",
+    "front": "conduct",
+    "back": {
+      "definition": "the action or manner of managing an activity or organization.",
+      "examples": [
+        "The *conduct* of the experiment was meticulous.",
+        "She was in charge of the *conduct* of the conference."
+      ],
+      "transcription": "ˈkɒndʌkt",
+      "ru_translation": "проведение чего-либо, ведение"
+    },
+    "img": "https://doctorteam.ru/images/service2/konf/konference.jpg"
+  },
+  {
+    "id": "conductxtrw",
+    "front": "conduct",
+    "back": {
+      "definition": "to organize and perform a particular activity.",
+      "examples": [
+        "They will *conduct* a survey next week.",
+        "The scientist *conducted* an experiment in the lab."
+      ],
+      "transcription": "ˈkɒndʌkt",
+      "ru_translation": "проводить"
+    },
+    "img": "https://britlex.ru/images/conduct.jpg"
+  },
+  {
+    "id": "conductormrvz",
+    "front": "conductor",
+    "back": {
+      "definition": "a person who directs the performance of an orchestra or choir.",
+      "examples": [
+        "The *conductor* led the orchestra with great skill.",
+        "She was the first female *conductor* of the symphony."
+      ],
+      "transcription": "kənˈdʌktə",
+      "ru_translation": "дирижер, проводник"
+    },
+    "img": "https://s3.amazonaws.com/external_clips/attachments/921102/original/open-uri20170826-20407-lptbwp?1503774494"
+  },
+  {
+    "id": "misconductyeqx",
+    "front": "misconduct",
+    "back": {
+      "definition": "unacceptable or improper behavior, especially by an employee or professional person.",
+      "examples": [
+        "The employee was fired for *misconduct*.",
+        "There were allegations of *misconduct* against the official."
+      ],
+      "transcription": "mɪsˈkɒndʌkt",
+      "ru_translation": "проступок"
+    },
+    "img": "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/900/3c52dfc6-5b8a-420e-8570-399b5214d6a2.jpg"
+  },
+  {
+    "id": "lawsuitpxom",
+    "front": "lawsuit",
+    "back": {
+      "definition": "a problem taken to a law court by an ordinary person or an organization rather than the police for a legal decision.",
+      "examples": [
+        "They filed a *lawsuit* against the company.",
+        "The *lawsuit* was settled out of court."
+      ],
+      "transcription": "ˈlɔːsjuːt",
+      "ru_translation": "судебный иск"
+    },
+    "img": "https://bloglaboral.garrigues.com/wp-content/uploads/2022/03/BLOG-LABORAL-Nulidad-en-periodo-de-prueba.png"
+  },
+  {
+    "id": "seizebcwj",
+    "front": "seize",
+    "back": {
+      "definition": "to take hold of something quickly and firmly.",
+      "examples": [
+        "The police *seized* the stolen goods.",
+        "He *seized* her arm to keep her from falling."
+      ],
+      "transcription": "siːz",
+      "ru_translation": "хватать, воспользоваться"
+    },
+    "img": "https://britlex.ru/images/seize.jpg"
+  },
+  {
+    "id": "seizurerwuf",
+    "front": "seizure",
+    "back": {
+      "definition": "the action of taking something by force or with legal authority.",
+      "examples": [
+        "The *seizure* of the property was illegal.",
+        "They faced the *seizure* of their assets."
+      ],
+      "transcription": "ˈsiːʒə",
+      "ru_translation": "захват, конфискация"
+    },
+    "img": "https://finansypress.ru/wp-content/uploads/2018/12/04-depositphotos_136707974_xl-2015.jpg"
+  },
+  {
+    "id": "seizurelwpa",
+    "front": "seizure",
+    "back": {
+      "definition": "a very sudden attack of an illness in which someone becomes unconscious or develops violent movements.",
+      "examples": [
+        "He suffered a *seizure* and was taken to the hospital.",
+        "The medication helps to control *seizures*."
+      ],
+      "transcription": "ˈsiːʒə",
+      "ru_translation": "приступ"
+    },
+    "img": "https://golovnaiabol.ru/wp-content/uploads/2024/01/16849505596821-1024x693.jpg"
+  },
+  {
+    "id": "innocentybds",
+    "front": "innocent",
+    "back": {
+      "definition": "not guilty of a particular crime.",
+      "examples": [
+        "She was found *innocent* of all charges.",
+        "The *innocent* man was released from prison."
+      ],
+      "transcription": "ˈɪnəsənt",
+      "ru_translation": "невинный, невиновный"
+    },
+    "img": "https://i.pinimg.com/originals/fa/25/d6/fa25d66441741338b82d4ec0ec0d9f6f.jpg"
+  },
+  {
+    "id": "innocencegxrf",
+    "front": "innocence",
+    "back": {
+      "definition": "the fact that someone is not guilty of a crime.",
+      "examples": [
+        "He maintained his *innocence* throughout the trial.",
+        "The lawyer proved her client's *innocence*."
+      ],
+      "transcription": "ˈɪnəsəns",
+      "ru_translation": "невинность, невиновность"
+    },
+    "img": "https://s.mediasole.ru/images/2792/2792832/102547995_original.jpg"
+  },
+  {
+    "id": "curiousjtmn",
+    "front": "curious",
+    "back": {
+      "definition": "interested in learning about people or things around you.",
+      "examples": [
+        "She was *curious* about the new neighbors.",
+        "The children were *curious* to see what was inside the box."
+      ],
+      "transcription": "ˈkjʊərɪəs",
+      "ru_translation": "любопытный"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/67785/1652869991_127761.jpeg"
+  },
+  {
+    "id": "curiosityxlgf",
+    "front": "curiosity",
+    "back": {
+      "definition": "an eager wish to know or learn about something.",
+      "examples": [
+        "His *curiosity* led him to explore the abandoned house.",
+        "The book sparked her *curiosity* about ancient Egypt."
+      ],
+      "transcription": "ˌkjʊərɪˈɒsɪti",
+      "ru_translation": "любопытство"
+    },
+    "img": "https://fotorelax.ru/wp-content/uploads/2016/01/12-photos-of-cats-Japanese-Seiji-Mamiya-01.jpg"
+  },
+  {
+    "id": "wellxnbr",
+    "front": "well",
+    "back": {
+      "definition": "a deep hole in the ground from which you can get water, oil, or gas.",
+      "examples": [
+        "They dug a *well* to access fresh water.",
+        "The *well* ran dry during the drought."
+      ],
+      "transcription": "wɛl",
+      "ru_translation": "колодец, скважина"
+    },
+    "img": "https://i.pinimg.com/originals/a3/d7/db/a3d7dbb1eb1ca789debc8483ffaff993.jpg"
+  },
+  {
+    "id": "environmentmrnb",
+    "front": "environment",
+    "back": {
+      "definition": "the air, water, and land in or on which people, animals, and plants live.",
+      "examples": [
+        "We need to protect the *environment* from pollution.",
+        "The forest provides a natural *environment* for many species."
+      ],
+      "transcription": "ɪnˈvaɪərənmənt",
+      "ru_translation": "окружающая среда"
+    },
+    "img": "https://deutsch-sprechen.ru/images/topic/os.jpg"
+  },
+  {
+    "id": "environmentgdwt",
+    "front": "environment",
+    "back": {
+      "definition": "the aggregate of surrounding things, conditions, or influences.",
+      "examples": [
+        "The office *environment* can affect productivity.",
+        "She grew up in a loving *environment*."
+      ],
+      "transcription": "ɪnˈvaɪərənmənt",
+      "ru_translation": "окружение, обстановка"
+    },
+    "img": "https://blog.loc8commercial.com/wp-content/uploads/2016/04/office-interiors.jpg"
+  },
+  {
+    "id": "environmentalxyzt",
+    "front": "environmental",
+    "back": {
+      "definition": "relating to the natural world and the impact of human activity on its condition.",
+      "examples": [
+        "The company is committed to reducing its *environmental* impact.",
+        "We need to address *environmental* issues urgently."
+      ],
+      "transcription": "ɪnˌvaɪərənˈmɛntl",
+      "ru_translation": "относящийся к окружающей среде, экологический"
+    },
+    "img": "https://drearth.com/wp-content/uploads/Recycle-Logo-2.jpg"
   }
 ]
