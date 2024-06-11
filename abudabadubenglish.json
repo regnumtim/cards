@@ -5730,7 +5730,7 @@
         "The team's *determination* led them to victory."
       ],
       "transcription": "dɪˌtɜːmɪˈneɪʃən",
-      "ru_translation": "определение"
+      "ru_translation": "решимость, определение"
     },
     "img": "https://sun6-21.userapi.com/MA-aNR1_z9-XKLbWKF1_txdUEQFvSe0jgubjaw/9hnkw8r3PxY.jpg"
   },
@@ -8177,5 +8177,369 @@
       "ru_translation": "относящийся к окружающей среде, экологический"
     },
     "img": "https://drearth.com/wp-content/uploads/Recycle-Logo-2.jpg"
+  },
+  {
+    "id": "clearabc123",
+    "front": "clear",
+    "back": {
+      "definition": "easy to understand, hear, read, or see",
+      "examples": [
+        "The instructions were very *clear*.",
+        "Make sure your handwriting is *clear*."
+      ],
+      "transcription": "klɪə",
+      "ru_translation": "ясный, чистый"
+    },
+    "img": "https://thumbs.dreamstime.com/b/sky-ocean-26404159.jpg"
+  },
+  {
+    "id": "clearerdef456",
+    "front": "clearer",
+    "back": {
+      "definition": "more clear",
+      "examples": [
+        "This image is *clearer* than the previous one.",
+        "Can you explain it in a *clearer* way?"
+      ],
+      "transcription": "ˈklɪərə",
+      "ru_translation": "яснее, очиститель"
+    },
+    "img": "https://cdn1.ozone.ru/s3/multimedia-a/6049242826.jpg"
+  },
+  {
+    "id": "uncleargih789",
+    "front": "unclear",
+    "back": {
+      "definition": "not obvious or easy to see or know",
+      "examples": [
+        "The reason for his absence is still *unclear*.",
+        "It's *unclear* what she meant by that."
+      ],
+      "transcription": "ʌnˈklɪə",
+      "ru_translation": "неясный"
+    },
+    "img": "https://images-cdn.9gag.com/photo/aLQD7gA_700b.jpg"
+  },
+  {
+    "id": "clearancejkl012",
+    "front": "clearance",
+    "back": {
+      "definition": "the space between two objects",
+      "examples": [
+        "There isn't enough *clearance* under the bridge for the truck.",
+        "Check the *clearance* between the shelves."
+      ],
+      "transcription": "ˈklɪərəns",
+      "ru_translation": "зазор, просвет"
+    },
+    "img": "https://autotheme.info/wp-content/uploads/2019/11/klirens.jpg"
+  },
+  {
+    "id": "clearancemno345",
+    "front": "clearance",
+    "back": {
+      "definition": "official permission for something",
+      "examples": [
+        "We need *clearance* to access the secure area.",
+        "He has security *clearance* for this information."
+      ],
+      "transcription": "ˈklɪərəns",
+      "ru_translation": "разрешение властей"
+    },
+    "img": "https://i.pinimg.com/originals/7e/1e/89/7e1e89173abe15d5d5d59d6f37c1575a.jpg"
+  },
+  {
+    "id": "envelopepqr678",
+    "front": "envelope",
+    "back": {
+      "definition": "a flat, usually square or rectangular, paper container for a letter",
+      "examples": [
+        "I put the letter in an *envelope*.",
+        "Please seal the *envelope* before sending."
+      ],
+      "transcription": "ˈɛnvələʊp",
+      "ru_translation": "конверт"
+    },
+    "img": "https://i2.wp.com/goodnessgrace.net/wp-content/uploads/2018/01/kingfisherbluer_2_3.jpg?fit=867%2C576&ssl=1"
+  },
+  {
+    "id": "fillinstu901",
+    "front": "fill in",
+    "back": {
+      "definition": "to write or type information on a document in spaces that are provided for it",
+      "examples": [
+        "Please *fill in* the application form.",
+        "She asked him to *fill in* the blanks."
+      ],
+      "transcription": "fɪlɪn",
+      "ru_translation": "заполнить (форму, бланк (брит.))"
+    },
+    "img": "https://britlex.ru/images/fill%20in.jpg"
+  },
+  {
+    "id": "filloutvwx234",
+    "front": "fill out",
+    "back": {
+      "definition": "to write or type information on a document in spaces that are provided for it",
+      "examples": [
+        "He needed to *fill out* the registration form.",
+        "Can you *fill out* this questionnaire?"
+      ],
+      "transcription": "fɪlaʊt",
+      "ru_translation": "заполнить (форму, бланк (америк.))"
+    },
+    "img": "https://foto.wuestenigel.com/wp-content/uploads/api/woman-filling-up-the-documents-in-the-office.jpeg"
+  },
+  {
+    "id": "seeoffyz567",
+    "front": "see off",
+    "back": {
+      "definition": "to go to the place that someone is leaving from in order to say goodbye to them",
+      "examples": [
+        "We went to the airport to *see off* our friends.",
+        "He came to the station to *see off* his colleague."
+      ],
+      "transcription": "siːɒf",
+      "ru_translation": "провожать кого-либо (в путь)"
+    },
+    "img": "https://britlex.ru/images/see%20off.jpg"
+  },
+  {
+    "id": "seeoutabc890",
+    "front": "see out",
+    "back": {
+      "definition": "to go with someone to the door when they are leaving in order to say goodbye to them",
+      "examples": [
+        "She stayed to *see out* her guests.",
+        "Please allow me to *see out* my visitor."
+      ],
+      "transcription": "siːaʊt",
+      "ru_translation": "провожать кого-либо (до выхода)"
+    },
+    "img": "https://attuale.ru/wp-content/uploads/2019/01/82355951.jpg"
+  },
+  {
+    "id": "credibledef123",
+    "front": "credible",
+    "back": {
+      "definition": "able to be believed or trusted",
+      "examples": [
+        "The witness provided a *credible* testimony.",
+        "Her explanation seemed perfectly *credible*."
+      ],
+      "transcription": "ˈkrɛdəbl",
+      "ru_translation": "достоверный, надежный"
+    },
+    "img": "https://cdn2.iconfinder.com/data/icons/miscellaneous-16-line/128/credible_reliable_Dependable_authentic_credibility_trust-512.png"
+  },
+  {
+    "id": "credibilityghi456",
+    "front": "credibility",
+    "back": {
+      "definition": "the quality of being trusted and believed in",
+      "examples": [
+        "His actions undermined his *credibility*.",
+        "The scientist's *credibility* was beyond question."
+      ],
+      "transcription": "ˌkrədɪˈbɪlɪti",
+      "ru_translation": "доверие, надежность"
+    },
+    "img": "https://u.9111s.ru/uploads/202112/20/dca346395b6d13f78091ee5e079962a0.jpg"
+  },
+  {
+    "id": "respondjkl789",
+    "front": "respond",
+    "back": {
+      "definition": "to say or do something as a reaction to something that has been said or done",
+      "examples": [
+        "She failed to *respond* to my email.",
+        "How did he *respond* to the news?"
+      ],
+      "transcription": "rɪsˈpɒnd",
+      "ru_translation": "отвечать, реагировать"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/60905/1612441990_31648"
+  },
+  {
+    "id": "respondentmno012",
+    "front": "respondent",
+    "back": {
+      "definition": "a person who answers a request for information",
+      "examples": [
+        "The survey received responses from 100 *respondents*.",
+        "Each *respondent* was asked to complete a questionnaire."
+      ],
+      "transcription": "rɪsˈpɒndənt",
+      "ru_translation": "тот, кто отвечает, опрашиваемый"
+    },
+    "img": "https://hardmoneybankers.com/wp-content/uploads/2017/01/Patient-Interview.jpg"
+  },
+  {
+    "id": "gainpqr345",
+    "front": "gain",
+    "back": {
+      "definition": "to get something that is useful, that gives you an advantage, or that is in some way positive, especially over a period of time",
+      "examples": [
+        "She managed to *gain* a lot of experience.",
+        "She hopes to *gain* more knowledge through the course."
+      ],
+      "transcription": "geɪn",
+      "ru_translation": "получать, приобретать"
+    },
+    "img": "https://www.furman.edu/career-services/wp-content/uploads/sites/81/2019/08/experience.jpg"
+  },
+  {
+    "id": "gainsstu678",
+    "front": "gain",
+    "back": {
+      "definition": "an increase in wealth or resources",
+      "examples": [
+        "The company reported a *gain* in profits.",
+        "Investors are pleased with the *gain* in stock value."
+      ],
+      "transcription": "geɪn",
+      "ru_translation": "прибыль, выгода"
+    },
+    "img": "https://watermark.lovepik.com/photo/40095/2907.jpg_wh1200.jpg"
+  },
+  {
+    "id": "anymorevwx901",
+    "front": "anymore",
+    "back": {
+      "definition": "any longer",
+      "examples": [
+        "I don't live there *anymore*.",
+        "She doesn't work here *anymore*."
+      ],
+      "transcription": "ˌɛniˈmɔː",
+      "ru_translation": "больше (не)"
+    },
+    "img": "https://www.motherjones.com/wp-content/uploads/shutterstock_94420186.jpg"
+  },
+  {
+    "id": "urgentyz234",
+    "front": "urgent",
+    "back": {
+      "definition": "needing immediate attention",
+      "examples": [
+        "This matter is *urgent* and requires immediate action.",
+        "She received an *urgent* call from the office."
+      ],
+      "transcription": "ˈɜːʤənt",
+      "ru_translation": "срочный"
+    },
+    "img": "https://8b08ab88-ee1b-4b04-9ae9-321e0da71ae2.selcdn.net/22d020b9-7fc5-4189-ab0a-eb3398272c07/shutterstock1729319068w458.jpg"
+  },
+  {
+    "id": "urgencyabc567",
+    "front": "urgency",
+    "back": {
+      "definition": "the quality of being very important and needing attention immediately",
+      "examples": [
+        "The *urgency* of the situation cannot be overstated.",
+        "They spoke with a sense of *urgency*."
+      ],
+      "transcription": "ˈɜːʤənsi",
+      "ru_translation": "срочность"
+    },
+    "img": "https://nakidki-na-sidenya.ru/image/cache/catalog/banners/122-568x568.jpg"
+  },
+  {
+    "id": "honeydef890",
+    "front": "honey",
+    "back": {
+      "definition": "a sweet, sticky, yellow substance made by bees and used as food",
+      "examples": [
+        "She likes to add *honey* to her tea.",
+        "The *honey* was harvested from local bees."
+      ],
+      "transcription": "ˈhʌni",
+      "ru_translation": "мёд"
+    },
+    "img": "https://img.day.az/2019/07/26/800x550/1536239663_medd.jpg"
+  },
+  {
+    "id": "matchghi123",
+    "front": "match",
+    "back": {
+      "definition": "a sports competition or event in which two people or teams compete against each other",
+      "examples": [
+        "The football *match* was thrilling.",
+        "They watched the *match* together."
+      ],
+      "transcription": "mæʧ",
+      "ru_translation": "матч, соревнование"
+    },
+    "img": "https://foto.haberler.com/haber/2024/06/10/a-milli-futbol-takimi-hazirlik-macinda-polonya-17420217_5275_m.jpg"
+  },
+  {
+    "id": "matchjkl456",
+    "front": "match",
+    "back": {
+      "definition": "a thin, wooden stick that produces a flame when rubbed against a rough surface",
+      "examples": [
+        "He lit the candle with a *match*.",
+        "Be careful with *matches* around children."
+      ],
+      "transcription": "mæʧ",
+      "ru_translation": "спичка"
+    },
+    "img": "https://i.pinimg.com/originals/1a/d6/31/1ad631a21eaafcb70b7f9b1f6f887596.png"
+  },
+  {
+    "id": "matchmno789",
+    "front": "match",
+    "back": {
+      "definition": "to be equal to something in quality, amount, or size",
+      "examples": [
+        "Her skills *match* the job requirements.",
+        "The colors *match* perfectly."
+      ],
+      "transcription": "mæʧ",
+      "ru_translation": "подходить, соответствовать"
+    },
+    "img": "https://drimtim.ru/wp-content/uploads/2022/04/poisk-cheloveka-po-foto.jpg"
+  },
+  {
+    "id": "matchpqr012",
+    "front": "match",
+    "back": {
+      "definition": "something that is equal to another thing in quality, amount, or size",
+      "examples": [
+        "She finally met her *match* in the finals.",
+        "The two teams are a perfect *match*."
+      ],
+      "transcription": "mæʧ",
+      "ru_translation": "соответствие, совпадение"
+    },
+    "img": "https://thumbs.dreamstime.com/b/%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-%D1%81-%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%BC%D0%B8-%D0%BB%D1%8E%D0%B4%D1%8C%D0%BC%D0%B8-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0%D0%BC%D0%B8-%D1%81%D0%B8%D0%BC%D0%BF%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B0%D1%8F-246079346.jpg"
+  },
+  {
+    "id": "mismatchstu345",
+    "front": "mismatch",
+    "back": {
+      "definition": "to put together people or things that are unsuitable for each other",
+      "examples": [
+        "The colors *mismatch* and look odd together.",
+        "It was a *mismatch* between their skills and the job requirements."
+      ],
+      "transcription": "ˌmɪsˈmæʧ",
+      "ru_translation": "не подходить друг другу"
+    },
+    "img": "https://thumbs.dreamstime.com/b/puzzle-d-does-not-fit-three-dimensional-one-red-part-who-58116193.jpg"
+  },
+  {
+    "id": "mismatchvwx678",
+    "front": "mismatch",
+    "back": {
+      "definition": "a combination of things or people that do not work well together or are not suitable for each other",
+      "examples": [
+        "There was a *mismatch* between the offer and demand.",
+        "Their personalities were a *mismatch*."
+      ],
+      "transcription": "ˌmɪsˈmæʧ",
+      "ru_translation": "несоответствие, несовпадение"
+    },
+    "img": "https://blog.au.ru/wp-content/uploads/2013/12/1.jpg"
   }
 ]
