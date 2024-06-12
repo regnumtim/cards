@@ -7180,7 +7180,7 @@
         "She had a *vague* idea of what she wanted."
       ],
       "transcription": "veɪg",
-      "ru_translation": "смутный"
+      "ru_translation": "смутный, неопределенный"
     },
     "img": "https://britlex.ru/images/vague.jpg"
   },
@@ -8193,6 +8193,20 @@
     "img": "https://thumbs.dreamstime.com/b/sky-ocean-26404159.jpg"
   },
   {
+    "id": "clearnmo123",
+    "front": "clear",
+    "back": {
+      "definition": "to remove or get rid of whatever is blocking or filling something",
+      "examples": [
+        "He needs to *clear* the snow from the driveway.",
+        "We should *clear* the table after dinner."
+      ],
+      "transcription": "klɪə",
+      "ru_translation": "чистить, очищать"
+    },
+    "img": "https://onlyforemont.ru/wp-content/uploads/2018/10/uborka-v-vannoj-komnate-sostavlyaem-grafik.jpg"
+  },
+  {
     "id": "clearerdef456",
     "front": "clearer",
     "back": {
@@ -8244,7 +8258,7 @@
         "He has security *clearance* for this information."
       ],
       "transcription": "ˈklɪərəns",
-      "ru_translation": "разрешение властей"
+      "ru_translation": "официальное разрешение"
     },
     "img": "https://i.pinimg.com/originals/7e/1e/89/7e1e89173abe15d5d5d59d6f37c1575a.jpg"
   },
@@ -8333,6 +8347,20 @@
     "img": "https://cdn2.iconfinder.com/data/icons/miscellaneous-16-line/128/credible_reliable_Dependable_authentic_credibility_trust-512.png"
   },
   {
+    "id": "incrediblepqr456",
+    "front": "incredible",
+    "back": {
+      "definition": "impossible, or very difficult, to believe",
+      "examples": [
+        "The view from the top of the mountain is *incredible*.",
+        "He has an *incredible* talent for painting."
+      ],
+      "transcription": "ɪnˈkrɛdəbl",
+      "ru_translation": "невероятный"
+    },
+    "img": "https://novi.ba/storage/2015/05/13/thumbs/5553ad36-db90-4f89-a661-40cd25bbfe5f-slika1-preview.jpg?v=2"
+  },
+  {
     "id": "credibilityghi456",
     "front": "credibility",
     "back": {
@@ -8359,6 +8387,20 @@
       "ru_translation": "отвечать, реагировать"
     },
     "img": "https://media.baamboozle.com/uploads/images/60905/1612441990_31648"
+  },
+  {
+    "id": "responsexyz789",
+    "front": "response",
+    "back": {
+      "definition": "an answer or reaction",
+      "examples": [
+        "Her *response* to the question was unexpected.",
+        "We received an immediate *response* to our request."
+      ],
+      "transcription": "rɪˈspɒns",
+      "ru_translation": "ответ, реакция"
+    },
+    "img": "https://rusinfo.info/wp-content/uploads/1/5/e/15eb1f9dfb969a3d554d45bb2d43b5c4.jpg"
   },
   {
     "id": "respondentmno012",
@@ -8541,5 +8583,299 @@
       "ru_translation": "несоответствие, несовпадение"
     },
     "img": "https://blog.au.ru/wp-content/uploads/2013/12/1.jpg"
+  },
+  {
+    "id": "equipabc123",
+    "front": "equip",
+    "back": {
+      "definition": "to provide a person or place with the things that are needed for a particular kind of activity or work",
+      "examples": [
+        "We need to *equip* the laboratory with the latest equipment.",
+        "They are *equipping* the classrooms with new computers."
+      ],
+      "transcription": "ɪˈkwɪp",
+      "ru_translation": "оснащать, снаряжать"
+    },
+    "img": "https://avatars.mds.yandex.net/get-altay/5380071/2a0000017f91a94a88afc8226fbcb362c12b/XXL_height"
+  },
+  {
+    "id": "equipmentxyz456",
+    "front": "equipment",
+    "back": {
+      "definition": "the set of necessary tools, clothing, etc. for a particular purpose",
+      "examples": [
+        "The gym has all the latest *equipment*.",
+        "You must wear safety *equipment* at all times."
+      ],
+      "transcription": "ɪˈkwɪpmənt",
+      "ru_translation": "оборудование, оснащение"
+    },
+    "img": "https://orthospinenews.com/wp-content/uploads/2019/11/1.jpg"
+  },
+  {
+    "id": "bumpdef789",
+    "front": "bump",
+    "back": {
+      "definition": "to hurt part of your body by hitting it against something hard",
+      "examples": [
+        "She *bumped* her head on the shelf.",
+        "Watch out, or you might *bump* into something."
+      ],
+      "transcription": "bʌmp",
+      "ru_translation": "ударять(ся)"
+    },
+    "img": "https://i.ytimg.com/vi/x59A_g-32zk/hqdefault.jpg"
+  },
+  {
+    "id": "bumpghi012",
+    "front": "bump",
+    "back": {
+      "definition": "a round, raised area on a surface or on the body",
+      "examples": [
+        "He had a *bump* on his forehead.",
+        "The road was full of *bumps* and holes."
+      ],
+      "transcription": "bʌmp",
+      "ru_translation": "шишка, выпуклость"
+    },
+    "img": "https://centralca.cdn-anvilcms.net/media/images/2021/06/02/images/27767239-a-speed-bump-on-a-uk-road.max-1200x675.jpg"
+  },
+  {
+    "id": "islandjkl345",
+    "front": "island",
+    "back": {
+      "definition": "a piece of land completely surrounded by water",
+      "examples": [
+        "We spent our vacation on a beautiful tropical *island*.",
+        "The *island* is famous for its pristine beaches."
+      ],
+      "transcription": "ˈaɪlənd",
+      "ru_translation": "остров"
+    },
+    "img": "https://www.indian-ocean.com/wp-content/uploads/2019/01/Fregate-Island.jpg"
+  },
+  {
+    "id": "handovermno678",
+    "front": "hand over",
+    "back": {
+      "definition": "to give something to someone else",
+      "examples": [
+        "Please *hand over* your keys at the reception.",
+        "He *handed over* the documents to the manager."
+      ],
+      "transcription": "hændˈəʊvə",
+      "ru_translation": "передать"
+    },
+    "img": "https://britlex.ru/images/hand%20over.jpg"
+  },
+  {
+    "id": "properpqr901",
+    "front": "proper",
+    "back": {
+      "definition": "correct or suitable for a particular purpose",
+      "examples": [
+        "It's important to have *proper* lighting in the study area.",
+        "Make sure to wear *proper* attire for the event."
+      ],
+      "transcription": "ˈprɒpə",
+      "ru_translation": "правильный, надлежащий"
+    },
+    "img": "https://cdn.bandmix.com/bandmix_us/media/300/300691/1015923-l.jpg"
+  },
+  {
+    "id": "properlystu234",
+    "front": "properly",
+    "back": {
+      "definition": "correctly, or in a satisfactory way",
+      "examples": [
+        "The machine is not working *properly*.",
+        "You need to follow the instructions *properly*."
+      ],
+      "transcription": "ˈprɒpəli",
+      "ru_translation": "должным образом, как следует"
+    },
+    "img": "https://fox4kc.com/wp-content/uploads/sites/16/2020/04/hypatia-h_858c1ce767d97d7d4014a9f58f368488-h_1a1c2fe459698eeea3e1ba9d778fb9cc.jpg?w=640&h=360&crop=1"
+  },
+  {
+    "id": "impropervwx567",
+    "front": "improper",
+    "back": {
+      "definition": "not correct, suitable, or right",
+      "examples": [
+        "His behavior was completely *improper* for the occasion.",
+        "Wearing casual clothes to a formal event is *improper*."
+      ],
+      "transcription": "ɪmˈprɒpə",
+      "ru_translation": "неподходящий, неуместный"
+    },
+    "img": "https://memepedia.ru/wp-content/uploads/2020/03/paren-u-mogily-mem-2.jpg"
+  },
+  {
+    "id": "enhanceyz1234",
+    "front": "enhance",
+    "back": {
+      "definition": "to improve the quality, amount, or strength of something",
+      "examples": [
+        "We need to *enhance* the security of the system.",
+        "The new features *enhance* the user experience."
+      ],
+      "transcription": "ɪnˈhɑːns",
+      "ru_translation": "улучшать, усиливать"
+    },
+    "img": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/273099808/original/8f16f9edc3d3acf8f332daffa23c317c0b3595ab/enhance-photo-quality-from-low-resolution-to-high-resolution.jpg"
+  },
+  {
+    "id": "enhancementabc567",
+    "front": "enhancement",
+    "back": {
+      "definition": "the process of improving the quality, amount, or strength of something",
+      "examples": [
+        "The latest software update includes several *enhancements*.",
+        "There have been significant *enhancements* in the product."
+      ],
+      "transcription": "ɪnˈhɑːnsmənt",
+      "ru_translation": "улучшение, усиление"
+    },
+    "img": "https://assets.sutori.com/user-uploads/image/a5bd1767-c783-4b76-9699-8d82b5978cf6/antivirusy-dlya-windows.jpeg"
+  },
+  {
+    "id": "nucleardef890",
+    "front": "nuclear",
+    "back": {
+      "definition": "being or using the power produced when the nucleus of an atom is divided or joined to another nucleus",
+      "examples": [
+        "The country is developing *nuclear* energy.",
+        "There are concerns about *nuclear* weapons proliferation."
+      ],
+      "transcription": "ˈnjuːklɪə",
+      "ru_translation": "ядерный"
+    },
+    "img": "https://britlex.ru/images/nuclear.jpg"
+  },
+  {
+    "id": "tournamentghi123",
+    "front": "tournament",
+    "back": {
+      "definition": "a competition for teams or single players in which a series of games is played",
+      "examples": [
+        "They are participating in an international *tournament*.",
+        "The *tournament* will last for two weeks."
+      ],
+      "transcription": "ˈtʊənəmənt",
+      "ru_translation": "турнир"
+    },
+    "img": "https://britlex.ru/images/tournament.jpg"
+  },
+  {
+    "id": "stemjkl456",
+    "front": "stem",
+    "back": {
+      "definition": "the stick-like central part of a plant that grows above the ground and from which leaves and flowers grow",
+      "examples": [
+        "The *stem* of the plant is very strong.",
+        "Each flower is attached to the main *stem*."
+      ],
+      "transcription": "stɛm",
+      "ru_translation": "стебель"
+    },
+    "img": "https://sbio.info/datas/resized/0-1325023907_steblo.crop865x600.jpg"
+  },
+  {
+    "id": "stemjkl789",
+    "front": "stem",
+    "back": {
+      "definition": "to stop something unwanted from spreading or increasing",
+      "examples": [
+        "They are trying to *stem* the flow of illegal drugs.",
+        "New measures have been introduced to *stem* the tide of crime."
+      ],
+      "transcription": "stɛm",
+      "ru_translation": "останавливать"
+    },
+    "img": "https://cs12.pikabu.ru/post_img/2021/10/20/9/og_og_1634739244231636431.jpg"
+  },
+  {
+    "id": "innerabc012",
+    "front": "inner",
+    "back": {
+      "definition": "inside or contained within something else",
+      "examples": [
+        "She felt a sense of *inner* peace.",
+        "The *inner* workings of the machine are quite complex."
+      ],
+      "transcription": "ˈɪnə",
+      "ru_translation": "внутренний"
+    },
+    "img": "https://glavpacient.ru/upload/mnenie/3.png"
+  },
+  {
+    "id": "outerdef345",
+    "front": "outer",
+    "back": {
+      "definition": "at a greater distance from the centre",
+      "examples": [
+        "The *outer* layer of the skin is called the epidermis.",
+        "They live in the *outer* suburbs of the city."
+      ],
+      "transcription": "ˈaʊtə",
+      "ru_translation": "внешний"
+    },
+    "img": "https://images.satu.kz/120326126_w640_h640_kapsuly-dlya-nabora.jpg"
+  },
+  {
+    "id": "inspireghi678",
+    "front": "inspire",
+    "back": {
+      "definition": "to make someone feel that they want to do something and can do it",
+      "examples": [
+        "His speech *inspired* everyone in the audience.",
+        "She hopes to *inspire* young artists with her work."
+      ],
+      "transcription": "ɪnˈspaɪə",
+      "ru_translation": "вдохновить"
+    },
+    "img": "https://britlex.ru/images/inspire.jpg"
+  },
+  {
+    "id": "inspirationjkl901",
+    "front": "inspiration",
+    "back": {
+      "definition": "someone or something that gives you ideas for doing something",
+      "examples": [
+        "Her story was an *inspiration* to many.",
+        "He found *inspiration* in nature for his paintings."
+      ],
+      "transcription": "ˌɪnspəˈreɪʃən",
+      "ru_translation": "вдохновение"
+    },
+    "img": "https://i.pinimg.com/originals/3e/19/66/3e196670fc47dd46146870b459a1973b.jpg"
+  },
+  {
+    "id": "inspirationalmno234",
+    "front": "inspirational",
+    "back": {
+      "definition": "making you feel full of hope or encouraged",
+      "examples": [
+        "She gave an *inspirational* talk about overcoming adversity.",
+        "His journey from poverty to success is truly *inspirational*."
+      ],
+      "transcription": "ˌɪnspəˈreɪʃən(ə)l",
+      "ru_translation": "вдохновляющий (имеющий намерение, чтобы вдохновить)"
+    },
+    "img": "https://digiato.com/wp-content/uploads/2017/10/PUBLIC-SPEAKING.jpg"
+  },
+  {
+    "id": "inspiringpqr567",
+    "front": "inspiring",
+    "back": {
+      "definition": "encouraging, or making you feel you want to do something",
+      "examples": [
+        "The movie was really *inspiring*.",
+        "Her dedication to her work is very *inspiring*."
+      ],
+      "transcription": "ɪnˈspaɪə.rɪŋ",
+      "ru_translation": "вдохновляющий (то, что по факту вдохновляет)"
+    },
+    "img": "https://avatars.mds.yandex.net/get-mpic/4599566/img_id5279064290292000371.jpeg/9"
   }
 ]
