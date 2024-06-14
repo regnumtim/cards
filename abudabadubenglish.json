@@ -9255,5 +9255,341 @@
       "ru_translation": "подвергать преследованиям"
     },
     "img": "https://sun9-14.userapi.com/c841032/u293099986/video/y_3add116b.jpg"
+  },
+  {
+    "id": "appealndjfrk",
+    "front": "appeal",
+    "back": {
+      "definition": "to make a serious or urgent request, typically to the public",
+      "examples": [
+        "She made an *appeal* for donations to help the victims.",
+        "He *appealed* to the audience for calm."
+      ],
+      "transcription": "əˈpiːl",
+      "ru_translation": "обращаться, взывать, апеллировать"
+    },
+    "img": "https://britlex.ru/images/appeal.jpg"
+  },
+  {
+    "id": "appealbgtxhe",
+    "front": "appeal",
+    "back": {
+      "definition": "a serious or urgent request, typically to the public",
+      "examples": [
+        "The *appeal* for calm was broadcasted on all channels.",
+        "The police made an *appeal* for information."
+      ],
+      "transcription": "əˈpiːl",
+      "ru_translation": "обращение, призыв"
+    },
+    "img": "https://prezentacii.org/upload/cloud/19/10/167177/images/screen123.jpg"
+  },
+  {
+    "id": "appealkqeyzc",
+    "front": "appeal",
+    "back": {
+      "definition": "the quality of being attractive or interesting",
+      "examples": [
+        "The *appeal* of the new design is undeniable.",
+        "She has a certain *appeal* that attracts many people."
+      ],
+      "transcription": "əˈpiːl",
+      "ru_translation": "привлекательность"
+    },
+    "img": "https://lifekhacker.com/_nw/114/19556655.jpg"
+  },
+  {
+    "id": "appealzmtyqv",
+    "front": "appeal",
+    "back": {
+      "definition": "to be attractive or interesting",
+      "examples": [
+        "The idea of moving to the countryside *appeals* to me.",
+        "This book *appeals* to a wide audience."
+      ],
+      "transcription": "əˈpiːl",
+      "ru_translation": "привлекать"
+    },
+    "img": "https://psiola-center.ru/wp-content/uploads/7/1/6/716de51dcd2bef5c519275b2e3916240.webp"
+  },
+  {
+    "id": "appealingdmxqc",
+    "front": "appealing",
+    "back": {
+      "definition": "attractive or interesting",
+      "examples": [
+        "The new restaurant has an *appealing* menu.",
+        "She finds his personality very *appealing*."
+      ],
+      "transcription": "əˈpiːlɪŋ",
+      "ru_translation": "привлекательный"
+    },
+    "img": "https://i01.fotocdn.net/s111/67b8bf79d4360866/public_pin_m/2479465004.jpg"
+  },
+  {
+    "id": "barelyhckrwe",
+    "front": "barely",
+    "back": {
+      "definition": "only just; almost not",
+      "examples": [
+        "He could *barely* see in the dark.",
+        "She *barely* managed to finish the race."
+      ],
+      "transcription": "ˈbeəli",
+      "ru_translation": "едва, еле-еле"
+    },
+    "img": "https://britlex.ru/images/barely.jpg"
+  },
+  {
+    "id": "issueklbwmz",
+    "front": "issue",
+    "back": {
+      "definition": "an important topic or problem for debate or discussion",
+      "examples": [
+        "The environmental *issue* was discussed at the meeting.",
+        "Healthcare is a major *issue* in the upcoming election."
+      ],
+      "transcription": "ˈɪʃuː",
+      "ru_translation": "вопрос, проблема"
+    },
+    "img": "https://miro.medium.com/v2/resize:fit:609/1*PcN5tN_UMNmRgUQFoEbXmg.jpeg"
+  },
+  {
+    "id": "issuefnrloc",
+    "front": "issue",
+    "back": {
+      "definition": "the action of supplying or distributing an item for use, sale, or official purposes",
+      "examples": [
+        "The latest *issue* of the magazine is now available.",
+        "This month's *issue* includes an article on climate change."
+      ],
+      "transcription": "ˈɪʃuː",
+      "ru_translation": "выпуск, номер"
+    },
+    "img": "https://i.ytimg.com/vi/oO0oeeVYJYg/maxresdefault.jpg"
+  },
+  {
+    "id": "issueysmxql",
+    "front": "issue",
+    "back": {
+      "definition": "to make a statement or warning, especially officially",
+      "examples": [
+        "The company will *issue* a statement tomorrow.",
+        "The authorities *issued* a warning about the severe weather."
+      ],
+      "transcription": "ˈɪʃuː",
+      "ru_translation": "делать заявление (официально)"
+    },
+    "img": "https://www.reviewjournal.com/wp-content/uploads/2020/11/Election_2020_Trump-cloud3.jpg"
+  },
+  {
+    "id": "issuewqblhf",
+    "front": "issue",
+    "back": {
+      "definition": "to supply or distribute an item for use, sale, or official purposes",
+      "examples": [
+        "They will *issue* new passports next month.",
+        "The bank will *issue* new credit cards to all customers."
+      ],
+      "transcription": "ˈɪʃuː",
+      "ru_translation": "выдавать, выпускать (паспорт, журналы и т. д.)"
+    },
+    "img": "https://pasporta.org/wp-content/uploads/zagranpasport-cherez-mfc.jpg"
+  },
+  {
+    "id": "perwdtyjh",
+    "front": "per",
+    "back": {
+      "definition": "for each",
+      "examples": [
+        "He earns $20 *per* hour.",
+        "The speed limit is 60 miles *per* hour."
+      ],
+      "transcription": "pɜː",
+      "ru_translation": "(кол-во) на (единицу)"
+    },
+    "img": "https://britlex.ru/images/per.jpg"
+  },
+  {
+    "id": "alteredmynz",
+    "front": "alter",
+    "back": {
+      "definition": "to change or make different",
+      "examples": [
+        "They decided to *alter* the design of the building.",
+        "Her appearance hasn't *altered* much over the years."
+      ],
+      "transcription": "ˈɔːltə",
+      "ru_translation": "изменять(ся)"
+    },
+    "img": "https://amiel.club/uploads/posts/2022-10/1664878198_23-amiel-club-p-komnati-posle-remonta-foto-instagram-24.jpg"
+  },
+  {
+    "id": "alterationjqnrc",
+    "front": "alteration",
+    "back": {
+      "definition": "a change or modification",
+      "examples": [
+        "The dress needs some *alterations* to fit properly.",
+        "They made several *alterations* to the document."
+      ],
+      "transcription": "ˌɔːltəˈreɪʃ(ə)n",
+      "ru_translation": "внесение изменений, изменение"
+    },
+    "img": "https://sewingiscool.com/wp-content/uploads/2021/01/How-To-Alter-Tulle-On-a-Dress-Easily-Shorten-and-Hem-Tulle.jpg"
+  },
+  {
+    "id": "alterableyxbqw",
+    "front": "alterable",
+    "back": {
+      "definition": "capable of being changed or modified",
+      "examples": [
+        "The terms of the contract are *alterable*.",
+        "This plan is *alterable* based on new information."
+      ],
+      "transcription": "ˈɔːltərəbl",
+      "ru_translation": "изменяемый"
+    },
+    "img": "https://klubmama.ru/uploads/posts/2022-08/thumbs/1660353281_47-klubmama-ru-p-massa-dlya-podelok-s-frantsuzskogo-zhevana-48.jpg"
+  },
+  {
+    "id": "unalteredwntbk",
+    "front": "unaltered",
+    "back": {
+      "definition": "remaining the same; unchanged",
+      "examples": [
+        "The original structure remains *unaltered*.",
+        "Her opinion has remained *unaltered* despite the new evidence."
+      ],
+      "transcription": "ʌnˈɔːltəd",
+      "ru_translation": "неизменный"
+    },
+    "img": "https://tse3.mm.bing.net/th?id=OIP.qBJp19dYFl0aUhO4FRRJpQHaJW&pid=15.1"
+  },
+  {
+    "id": "unalterablehdnkf",
+    "front": "unalterable",
+    "back": {
+      "definition": "not able to be changed",
+      "examples": [
+        "The rules are *unalterable* once set.",
+        "His decision was *unalterable*."
+      ],
+      "transcription": "ʌnˈɔːltərəbl",
+      "ru_translation": "неизменяемый"
+    },
+    "img": "https://4.bp.blogspot.com/-n3wuRhmylKo/WtReKeYMCfI/AAAAAAAAC_k/FDiFX8engBw7a3wLzpJMwW5F852LcejCgCLcBGAs/s400/%25D1%2582%25D0%25B2.jpg"
+  },
+  {
+    "id": "poundzhxqjw",
+    "front": "pound",
+    "back": {
+      "definition": "a unit of weight equal to 16 ounces",
+      "examples": [
+        "This bag of flour weighs one *pound*.",
+        "He lost five *pounds* in a month."
+      ],
+      "transcription": "paʊnd",
+      "ru_translation": "фунт"
+    },
+    "img": "https://i.pinimg.com/736x/1f/07/35/1f073554f5ca35dafead2239b2e3a05a.jpg"
+  },
+  {
+    "id": "seatvkjreb",
+    "front": "seat",
+    "back": {
+      "definition": "a thing made or used for sitting on, such as a chair or stool",
+      "examples": [
+        "Please take a *seat*.",
+        "This *seat* is reserved for the elderly."
+      ],
+      "transcription": "siːt",
+      "ru_translation": "место, сиденье"
+    },
+    "img": "https://www.pinclipart.com/picdir/middle/76-763371_a-man-gives-up-his-seat-for-old.png"
+  },
+  {
+    "id": "seathldtyu",
+    "front": "seat",
+    "back": {
+      "definition": "to sit down or to cause someone to sit down",
+      "examples": [
+        "She was *seated* at the head of the table.",
+        "The usher *seated* the guests before the show started."
+      ],
+      "transcription": "siːt",
+      "ru_translation": "садиться, сидеть"
+    },
+    "img": "https://cdn.goconqr.com/uploads/media/image/10293711/desktop_9ca4ed5b-4ac5-4c8b-ae77-9e5e707a4ca5.jpg"
+  },
+  {
+    "id": "candysqwdnm",
+    "front": "candy",
+    "back": {
+      "definition": "sweets, typically made from sugar",
+      "examples": [
+        "Children love *candy*.",
+        "She gave him a piece of *candy*."
+      ],
+      "transcription": "ˈkændi",
+      "ru_translation": "конфеты"
+    },
+    "img": "https://ichef.bbci.co.uk/news/1024/branded_bbc/6986/production/_108341072_gettyimages-167211555.jpg"
+  },
+  {
+    "id": "meanwhileqzxjbr",
+    "front": "meanwhile",
+    "back": {
+      "definition": "at the same time; during the time in between",
+      "examples": [
+        "I was working on the project. *Meanwhile*, my colleague was preparing the presentation.",
+        "She was cooking dinner. *Meanwhile*, the kids were playing outside."
+      ],
+      "transcription": "ˈmiːnˈwaɪl",
+      "ru_translation": "тем временем"
+    },
+    "img": "https://images-cdn.9gag.com/photo/aYrQd4x_700b.jpg"
+  },
+  {
+    "id": "railwayzbnqtk",
+    "front": "railway",
+    "back": {
+      "definition": "a system of tracks on which trains run (British English)",
+      "examples": [
+        "The *railway* system in the UK is extensive.",
+        "He works for the national *railway* company."
+      ],
+      "transcription": "ˈreɪlweɪ",
+      "ru_translation": "железная дорога (брит.)"
+    },
+    "img": "https://britlex.ru/images/railway.jpg"
+  },
+  {
+    "id": "railroaddmyjfw",
+    "front": "railroad",
+    "back": {
+      "definition": "a system of tracks on which trains run (American English)",
+      "examples": [
+        "The *railroad* was built in the 19th century.",
+        "She traveled across the country by *railroad*."
+      ],
+      "transcription": "ˈreɪlrəʊd",
+      "ru_translation": "железная дорога (америк.)"
+    },
+    "img": "https://wallbox.ru/wallpapers/main/201628/9f866753e2d3ff4.jpg"
+  },
+  {
+    "id": "closetgmxjqb",
+    "front": "closet",
+    "back": {
+      "definition": "a small room or compartment for storing things, especially clothes",
+      "examples": [
+        "She hung her coat in the *closet*.",
+        "The *closet* is full of old clothes."
+      ],
+      "transcription": "ˈklɒzɪt",
+      "ru_translation": "стенной шкаф"
+    },
+    "img": "https://i.pinimg.com/736x/21/91/4b/21914be58848209db4091db746a5fd31.jpg"
   }
 ]
