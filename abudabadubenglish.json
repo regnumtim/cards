@@ -8566,7 +8566,7 @@
         "It was a *mismatch* between their skills and the job requirements."
       ],
       "transcription": "ˌmɪsˈmæʧ",
-      "ru_translation": "не подходить друг другу"
+      "ru_translation": "не подходить, не соответстовать"
     },
     "img": "https://thumbs.dreamstime.com/b/puzzle-d-does-not-fit-three-dimensional-one-red-part-who-58116193.jpg"
   },
@@ -9300,7 +9300,7 @@
   },
   {
     "id": "appealzmtyqv",
-    "front": "appeal",
+    "front": "appeal to",
     "back": {
       "definition": "to be attractive or interesting",
       "examples": [
@@ -9591,5 +9591,327 @@
       "ru_translation": "стенной шкаф"
     },
     "img": "https://i.pinimg.com/736x/21/91/4b/21914be58848209db4091db746a5fd31.jpg"
+  },
+  {
+    "id": "violateabc123",
+    "front": "violate",
+    "back": {
+      "definition": "to break or act against something, especially a law, agreement, principle, or something that should be treated with respect",
+      "examples": [
+        "He didn't mean to *violate* the rules.",
+        "The company was fined for *violating* safety regulations."
+      ],
+      "transcription": "ˈvaɪəleɪt",
+      "ru_translation": "нарушать"
+    },
+    "img": "https://risovach.ru/upload/2020/02/generator/mc-konkretnyy-narushaet-zapret-na-kurenie-v-ne-polozhenom-meste_231067762_orig_.jpg"
+  },
+  {
+    "id": "violationdef456",
+    "front": "violation",
+    "back": {
+      "definition": "an action that breaks a law, agreement, principle, etc.",
+      "examples": [
+        "Any *violation* of the law will be punished.",
+        "She reported the *violation* to the authorities."
+      ],
+      "transcription": "ˌvaɪəˈleɪʃən",
+      "ru_translation": "нарушение"
+    },
+    "img": "https://electro-power.by/image/articles/article-big-1.jpg"
+  },
+  {
+    "id": "violatorghi789",
+    "front": "violator",
+    "back": {
+      "definition": "someone who breaks or acts against something, especially a law, agreement, or principle",
+      "examples": [
+        "The *violator* was caught and fined.",
+        "Police are searching for the *violator* of the park regulations."
+      ],
+      "transcription": "ˈvaɪəleɪtə",
+      "ru_translation": "нарушитель, преступник"
+    },
+    "img": "https://www.mix24.cz/wp-content/uploads/2022/10/odsouzena-vezeni-zena-mrize-pouta-600x400.jpg"
+  },
+  {
+    "id": "frontjkl012",
+    "front": "front",
+    "back": {
+      "definition": "the part of a building, object, or person's body that faces forward or is most often seen or used",
+      "examples": [
+        "She painted the *front* door red.",
+        "The store's *front* window displays are beautiful."
+      ],
+      "transcription": "frʌnt",
+      "ru_translation": "перед, передний"
+    },
+    "img": "https://i.pinimg.com/originals/76/70/f6/7670f68df92f9df3d07b02d4ce006f48.jpg"
+  },
+  {
+    "id": "infrontofmno345",
+    "front": "in front of",
+    "back": {
+      "definition": "close to the front part of something or someone",
+      "examples": [
+        "She parked her car *in front of* the house.",
+        "There was a big tree *in front of* the building."
+      ],
+      "transcription": "ɪnfrʌntɒv",
+      "ru_translation": "перед чем-то"
+    },
+    "img": "https://static.punjabkesari.in/multimedia/2017_2image_12_54_48253399711-ll.jpg"
+  },
+  {
+    "id": "frontalpqr678",
+    "front": "frontal",
+    "back": {
+      "definition": "relating to the front of something",
+      "examples": [
+        "The car suffered *frontal* damage in the accident.",
+        "He has a scar on his *frontal* lobe."
+      ],
+      "transcription": "ˈfrʌntl",
+      "ru_translation": "передний, лобовой"
+    },
+    "img": "https://www.xitetech.com/uploads/original/2019/02/vivo-v15-pro.jpg"
+  },
+  {
+    "id": "takecarestu901",
+    "front": "take care of",
+    "back": {
+      "definition": "to be responsible for someone or something",
+      "examples": [
+        "Please *take care* of my plants while I'm away.",
+        "She *takes care* of her younger siblings."
+      ],
+      "transcription": "teɪkkeə",
+      "ru_translation": "позаботиться, заняться"
+    },
+    "img": "https://pixy.org/src/75/750724.jpg"
+  },
+  {
+    "id": "caretakeruvw234",
+    "front": "caretaker",
+    "back": {
+      "definition": "a person employed to look after a building",
+      "examples": [
+        "The *caretaker* locked the school after everyone left.",
+        "She worked as a *caretaker* in the museum."
+      ],
+      "transcription": "ˈkeəˌteɪkə",
+      "ru_translation": "смотритель"
+    },
+    "img": "https://ph0.qna.center/storage/photos/grande36/1995933.jpg"
+  },
+  {
+    "id": "authoritiesxyz567",
+    "front": "authorities",
+    "back": {
+      "definition": "the group of people with official legal power to make decisions or make people obey the laws in a particular area",
+      "examples": [
+        "The *authorities* are investigating the crime.",
+        "He reported the incident to the local *authorities*."
+      ],
+      "transcription": "ɔːˈθɒrɪtiz",
+      "ru_translation": "органы власти"
+    },
+    "img": "https://britlex.ru/images/authorities.jpg"
+  },
+  {
+    "id": "matterabc890",
+    "front": "matter",
+    "back": {
+      "definition": "a subject or situation that you need to think about, discuss, or deal with",
+      "examples": [
+        "It's a *matter* of great importance.",
+        "They discussed the *matter* at length."
+      ],
+      "transcription": "ˈmætə",
+      "ru_translation": "дело, вопрос"
+    },
+    "img": "https://i.ytimg.com/vi/C-vmuIxbEiA/hqdefault.jpg"
+  },
+  {
+    "id": "matterdef123",
+    "front": "matter",
+    "back": {
+      "definition": "to be important, or to affect what happens",
+      "examples": [
+        "Every vote *matters* in the election.",
+        "It doesn't *matter* what they think."
+      ],
+      "transcription": "ˈmætə",
+      "ru_translation": "иметь значение"
+    },
+    "img": "https://i.pinimg.com/originals/5b/5c/ac/5b5cac1024dc19a36204c55a875ece23.png"
+  },
+  {
+    "id": "thankghi456",
+    "front": "thank",
+    "back": {
+      "definition": "to express to someone that you are pleased about or are grateful for something that they have done",
+      "examples": [
+        "I want to *thank* you for your help.",
+        "She *thanked* everyone for coming."
+      ],
+      "transcription": "θæŋk",
+      "ru_translation": "благодарить"
+    },
+    "img": "https://1.bp.blogspot.com/-VRKA0KSwzk8/Wgwis94-uwI/AAAAAAAACNo/A47d3df0Bmwe_FC0dG_W6fRFuxjBwSQ7wCLcBGAs/w1200-h630-p-k-no-nu/thank%2Byou.jpg"
+  },
+  {
+    "id": "thankfuljkl789",
+    "front": "thankful",
+    "back": {
+      "definition": "happy or grateful because of something",
+      "examples": [
+        "I'm *thankful* for your support.",
+        "She was *thankful* for the good news."
+      ],
+      "transcription": "ˈθæŋkfʊl",
+      "ru_translation": "благодарный"
+    },
+    "img": "https://www.wikihow.com/images/thumb/9/90/Thank-Someone-Step-3-Version-5.jpg/aid15463-v4-728px-Thank-Someone-Step-3-Version-5.jpg.webp"
+  },
+  {
+    "id": "thanklessmno012",
+    "front": "thankless",
+    "back": {
+      "definition": "describes a job or activity that does not show that you are grateful for the effort someone has made",
+      "examples": [
+        "Being a referee is often a *thankless* job.",
+        "She felt her efforts were *thankless*."
+      ],
+      "transcription": "ˈθæŋklɪs",
+      "ru_translation": "неблагодарный"
+    },
+    "img": "https://assets.photar.ru/2018/12/38-2.jpg"
+  },
+  {
+    "id": "getthroughpqr345",
+    "front": "get through",
+    "back": {
+      "definition": "to succeed in talking to someone on the phone",
+      "examples": [
+        "I couldn't *get through* to him all day.",
+        "She finally *got through* after several attempts."
+      ],
+      "transcription": "gɛtθruː",
+      "ru_translation": "дозвониться"
+    },
+    "img": "https://krasto.info/wp-content/uploads/2015/12/susinervines-zmogus.jpg"
+  },
+  {
+    "id": "getthroughstu678",
+    "front": "get through",
+    "back": {
+      "definition": "to finish something, or to complete something",
+      "examples": [
+        "I need to *get through* this report by tomorrow.",
+        "He *got through* the exam with flying colors."
+      ],
+      "transcription": "gɛtθruː",
+      "ru_translation": "проходить через"
+    },
+    "img": "https://centriym.ru/wp-content/uploads/2022/02/5-1024x576.png"
+  },
+  {
+    "id": "cupvwxyz901",
+    "front": "cup",
+    "back": {
+      "definition": "a small, round container, often with a handle, used for drinking tea, coffee, etc.",
+      "examples": [
+        "She drank a *cup* of coffee.",
+        "He handed me a *cup* filled with tea."
+      ],
+      "transcription": "kʌp",
+      "ru_translation": "чашка, кружка"
+    },
+    "img": "https://i.pinimg.com/originals/9b/1e/13/9b1e13ddcc1dc50c93a7e3af67811b30.png"
+  },
+  {
+    "id": "takeoffabc234",
+    "front": "take off",
+    "back": {
+      "definition": "to remove something, especially a piece of clothing",
+      "examples": [
+        "Please *take off* your shoes before entering.",
+        "He *took off* his hat as a sign of respect."
+      ],
+      "transcription": "teɪkɒf",
+      "ru_translation": "снимать (одежду)"
+    },
+    "img": "https://www.wikihow.com/images/thumb/9/9f/Take-off-a-Shirt-Step-5.jpg/v4-728px-Take-off-a-Shirt-Step-5.jpg"
+  },
+  {
+    "id": "takeoffdef567",
+    "front": "take off",
+    "back": {
+      "definition": "to leave the ground and begin to fly",
+      "examples": [
+        "The plane will *take off* in ten minutes.",
+        "Birds *take off* from the water surface."
+      ],
+      "transcription": "teɪkɒf",
+      "ru_translation": "взлетать"
+    },
+    "img": "https://i.pinimg.com/originals/c0/aa/1c/c0aa1c563e4c6490fe4bed5e07c6cc4a.jpg"
+  },
+  {
+    "id": "devoteghi890",
+    "front": "devote",
+    "back": {
+      "definition": "to give your time or effort completely to something you believe in or to a person, or to use a particular amount of time or energy doing something",
+      "examples": [
+        "She *devoted* herself to her work.",
+        "He *devotes* a lot of time to his hobbies."
+      ],
+      "transcription": "dɪˈvəʊt",
+      "ru_translation": "посвятить, уделить"
+    },
+    "img": "https://britlex.ru/images/devote.jpg"
+  },
+  {
+    "id": "devotionjkl123",
+    "front": "devotion",
+    "back": {
+      "definition": "loyalty and love or care for someone or something",
+      "examples": [
+        "Her *devotion* to her family is admirable.",
+        "They showed great *devotion* to their cause."
+      ],
+      "transcription": "dɪˈvəʊʃən",
+      "ru_translation": "преданность"
+    },
+    "img": "https://paramhansyog.com/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-16-at-11.49.25-AM.jpeg"
+  },
+  {
+    "id": "assumeuvw456",
+    "front": "assume",
+    "back": {
+      "definition": "to accept something to be true without question or proof",
+      "examples": [
+        "I *assumed* he was coming with us.",
+        "Don't *assume* anything without checking the facts."
+      ],
+      "transcription": "əˈsjuːm",
+      "ru_translation": "предполагать, допускать, принимать принятие (на себя)"
+    },
+    "img": "https://www.educationtrainingnetwork.com/magazine/wp-content/uploads/2016/10/projects2-933x445.jpg"
+  },
+  {
+    "id": "assumptionxyz789",
+    "front": "assumption",
+    "back": {
+      "definition": "something that you accept as true without question or proof",
+      "examples": [
+        "His actions were based on a false *assumption*.",
+        "We need to clarify our *assumptions* before proceeding."
+      ],
+      "transcription": "əˈsʌmpʃ(ə)n",
+      "ru_translation": "предположение, допущение, принятие"
+    },
+    "img": "https://i.pinimg.com/originals/89/87/ca/8987ca41783e8e4d185d452502fbbebe.jpg"
   }
 ]
