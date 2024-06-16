@@ -9913,5 +9913,257 @@
       "ru_translation": "предположение, допущение, принятие"
     },
     "img": "https://i.pinimg.com/originals/89/87/ca/8987ca41783e8e4d185d452502fbbebe.jpg"
+  },
+  {
+    "id": "arrayABCD",
+    "front": "array",
+    "back": {
+      "definition": "a large group of things or people, especially one that is attractive or causes admiration or has been positioned in a particular way.",
+      "examples": [
+        "The museum has an impressive *array* of ancient artifacts.",
+        "The company presented an *array* of new products at the exhibition."
+      ],
+      "transcription": "əˈreɪ",
+      "ru_translation": "множество, массив"
+    },
+    "img": "https://1.bp.blogspot.com/-quy6iBsQrOM/XsNh7jwfOpI/AAAAAAAAAc0/DrQy7g6M31MRz7-O8z6iY9blLbRanBeowCLcBGAsYHQ/w1200-h630-p-k-no-nu/vector.png"
+  },
+  {
+    "id": "shelterEFGH",
+    "front": "shelter",
+    "back": {
+      "definition": "a building designed to give protection from bad weather, danger, or attack.",
+      "examples": [
+        "They took *shelter* from the storm under a large tree.",
+        "The homeless man found *shelter* in the community center."
+      ],
+      "transcription": "ˈʃɛltə",
+      "ru_translation": "убежище, приют"
+    },
+    "img": "https://britlex.ru/images/shelter.jpg"
+  },
+  {
+    "id": "shelterIJKL",
+    "front": "shelter",
+    "back": {
+      "definition": "to protect yourself, or another person or thing, from bad weather, danger, or attack.",
+      "examples": [
+        "We *sheltered* under the bridge during the rain.",
+        "The government provided tents to *shelter* the refugees."
+      ],
+      "transcription": "ˈʃɛltə",
+      "ru_translation": "давать приют, укрывать(ся)"
+    },
+    "img": "https://cdn08.allafrica.com/download/pic/main/main/csiid/00251223:cca020b64e128ec23ca9ec6b8893f908:arc614x376:w1200.jpg"
+  },
+  {
+    "id": "contraryMNOP",
+    "front": "contrary",
+    "back": {
+      "definition": "opposite or completely different.",
+      "examples": [
+        "His views are *contrary* to mine.",
+        "She always has a *contrary* opinion during meetings."
+      ],
+      "transcription": "ˈkɒntrəri",
+      "ru_translation": "противоположный, вопреки"
+    },
+    "img": "https://i.ytimg.com/vi/ZExa2_8b-Yg/hqdefault.jpg"
+  },
+  {
+    "id": "diminishQRST",
+    "front": "diminish",
+    "back": {
+      "definition": "to reduce or be reduced in size or importance.",
+      "examples": [
+        "The pain will gradually *diminish* over time.",
+        "His influence in the company has *diminished* since the scandal."
+      ],
+      "transcription": "dɪˈmɪnɪʃ",
+      "ru_translation": "уменьшать(ся), ослабевать"
+    },
+    "img": "https://www.adasasystems.com/assets/images/2/hydrometric-networks_header-27683d9b.jpg"
+  },
+  {
+    "id": "diminutionUVWX",
+    "front": "diminution",
+    "back": {
+      "definition": "a reduction in the size, extent, or importance of something.",
+      "examples": [
+        "There was a noticeable *diminution* in his enthusiasm.",
+        "The *diminution* of resources has impacted the project."
+      ],
+      "transcription": "ˌdɪmɪˈnjuːʃən",
+      "ru_translation": "уменьшение, снижение"
+    },
+    "img": "https://thumbs.dreamstime.com/b/graphique-de-la-diminution-3d-14222873.jpg"
+  },
+  {
+    "id": "offerYZAB",
+    "front": "offer",
+    "back": {
+      "definition": "to ask someone if they would like to have something or if they would like you to do something.",
+      "examples": [
+        "He *offered* me a job at his company.",
+        "She *offered* to help with the cleaning."
+      ],
+      "transcription": "ˈɒfə",
+      "ru_translation": "предлагать"
+    },
+    "img": "https://www.retail.ru/upload/medialibrary/055/Dlya-prodavtsov.jpg"
+  },
+  {
+    "id": "offerCDEF",
+    "front": "offer",
+    "back": {
+      "definition": "the act of asking if someone would like to have something or if they would like you to do something.",
+      "examples": [
+        "He made an *offer* to buy the house.",
+        "Her *offer* of assistance was greatly appreciated."
+      ],
+      "transcription": "ˈɒfə",
+      "ru_translation": "предложение"
+    },
+    "img": "https://static.tildacdn.com/tild3666-3131-4632-a663-653361613965/7018d6649e95ba0967e7.jpg"
+  },
+  {
+    "id": "setoutGHIJ",
+    "front": "set out",
+    "back": {
+      "definition": "to give the details of or explain something, especially in writing.",
+      "examples": [
+        "The contract *sets out* all the terms and conditions.",
+        "He *set out* his ideas in a detailed report."
+      ],
+      "transcription": "sɛtaʊt",
+      "ru_translation": "разъяснять, изложить"
+    },
+    "img": "https://britlex.ru/images/set%20out.jpg"
+  },
+  {
+    "id": "setoutKLMN",
+    "front": "set out",
+    "back": {
+      "definition": "to start a journey.",
+      "examples": [
+        "They *set out* on their journey early in the morning.",
+        "We *set out* for the mountains at dawn."
+      ],
+      "transcription": "sɛtaʊt",
+      "ru_translation": "отправиться, двинуться (в путь)"
+    },
+    "img": "https://veter-s.ru/wp-content/uploads/2022/06/populjarnye-napravlenija-dlja-zhenshhin-puteshestvujushhih-v-odinochku-1024x683.jpg"
+  },
+  {
+    "id": "setoutOPQR",
+    "front": "set out",
+    "back": {
+      "definition": "to start doing something when you have already decided what you want to achieve.",
+      "examples": [
+        "She *set out* to become a doctor.",
+        "They *set out* with the goal of winning the championship."
+      ],
+      "transcription": "sɛtaʊt",
+      "ru_translation": "приступить к чему-либо с определенной целью, ставить цель"
+    },
+    "img": "https://med-law.ru/files/251/biblioteka.jpg"
+  },
+  {
+    "id": "complainSTUV",
+    "front": "complain",
+    "back": {
+      "definition": "to say that something is wrong or not satisfactory.",
+      "examples": [
+        "He *complained* about the noise from the construction site.",
+        "She *complained* that her soup was too cold."
+      ],
+      "transcription": "kəmˈpleɪn",
+      "ru_translation": "жаловаться"
+    },
+    "img": "https://i.pinimg.com/736x/03/7a/8d/037a8d687ad52165ebcbc214412e10f3.jpg"
+  },
+  {
+    "id": "complaintWXYZ",
+    "front": "complaint",
+    "back": {
+      "definition": "a statement that something is wrong or not satisfactory.",
+      "examples": [
+        "The company received several *complaints* about the poor service.",
+        "Her *complaint* was that the room was too hot."
+      ],
+      "transcription": "kəmˈpleɪnt",
+      "ru_translation": "жалоба"
+    },
+    "img": "https://www.wikihow.com/images/thumb/6/65/Complain-in-a-Restaurant-Step-1-Version-3.jpg/aid133935-v4-728px-Complain-in-a-Restaurant-Step-1-Version-3.jpg.webp"
+  },
+  {
+    "id": "commitmentABCD",
+    "front": "commitment",
+    "back": {
+      "definition": "a promise or firm decision to do something.",
+      "examples": [
+        "He made a *commitment* to improve his fitness.",
+        "Her *commitment* to the project was evident."
+      ],
+      "transcription": "kəˈmɪtmənt",
+      "ru_translation": "приверженность, обязательство"
+    },
+    "img": "https://insight.knowledgeworkx.com/media/k2/items/cache/e17c186eb9077cbeac8526f7738e2917_XL.jpg"
+  },
+  {
+    "id": "interveneEFGH",
+    "front": "intervene",
+    "back": {
+      "definition": "to intentionally become involved in a difficult situation in order to improve it or prevent it from getting worse.",
+      "examples": [
+        "The teacher had to *intervene* in the argument.",
+        "The government *intervened* to prevent a financial crisis."
+      ],
+      "transcription": "ˌɪntə(ː)ˈviːn",
+      "ru_translation": "вмешиваться"
+    },
+    "img": "https://turov.pro/wp-content/uploads/2023/09/adobestock_134107950.jpg"
+  },
+  {
+    "id": "interventionIJKL",
+    "front": "intervention",
+    "back": {
+      "definition": "the action of becoming intentionally involved in a difficult situation.",
+      "examples": [
+        "The *intervention* of the police prevented violence.",
+        "Medical *intervention* was necessary to save his life."
+      ],
+      "transcription": "ˌɪntə(ː)ˈvɛnʃən",
+      "ru_translation": "вмешательство"
+    },
+    "img": "https://1.bp.blogspot.com/-trv2U8Pnm3U/YU7u1GpkrGI/AAAAAAABM0c/7RD4xos4Cu0mYvA_qjNAkNCBnWRi9OIDQCLcBGAsYHQ/w640-h360/external-content.duckduckgo.com.jpg"
+  },
+  {
+    "id": "errorMNOP",
+    "front": "error",
+    "back": {
+      "definition": "a mistake.",
+      "examples": [
+        "There was an *error* in the calculation.",
+        "She made an *error* on her tax return."
+      ],
+      "transcription": "ˈɛrə",
+      "ru_translation": "ошибка, погрешность"
+    },
+    "img": "https://i.ytimg.com/vi/p61WQeX_my0/hqdefault.jpg"
+  },
+  {
+    "id": "erroneousQRST",
+    "front": "erroneous",
+    "back": {
+      "definition": "wrong or false.",
+      "examples": [
+        "The report contained several *erroneous* conclusions.",
+        "His assumption was completely *erroneous*."
+      ],
+      "transcription": "ɪˈrəʊnɪəs",
+      "ru_translation": "ошибочный"
+    },
+    "img": "https://atestado-medico.com/wp-content/uploads/2023/05/atestado-medico-falso-1.jpg"
   }
 ]
