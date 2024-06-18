@@ -5805,6 +5805,20 @@
     "img": "https://britlex.ru/images/waste.jpg"
   },
   {
+    "id": "wastefulUvwx",
+    "front": "wasteful",
+    "back": {
+      "definition": "using something in a careless way and causing some of it to be wasted",
+      "examples": [
+        "Leaving the lights on all night is *wasteful*.",
+        "The *wasteful* use of resources needs to be addressed."
+      ],
+      "transcription": "ˈweɪstfʊl",
+      "ru_translation": "расточительный, разорительный"
+    },
+    "img": "https://milwhite.ru/wp-content/uploads/2022/05/scale_1200.jpeg"
+  },
+  {
     "id": "wastewaterlmno",
     "front": "wastewater",
     "back": {
@@ -10557,5 +10571,369 @@
       "ru_translation": "тревога ожидания, подвешенность, напряжение"
     },
     "img": "https://i.ytimg.com/vi/DjiGN2MasFM/hqdefault.jpg"
+  },
+  {
+    "id": "fryAbcd",
+    "front": "fry",
+    "back": {
+      "definition": "to cook food in hot oil or fat",
+      "examples": [
+        "I love to *fry* eggs for breakfast.",
+        "You should *fry* the potatoes until they are golden brown."
+      ],
+      "transcription": "fraɪ",
+      "ru_translation": "жарить"
+    },
+    "img": "https://britlex.ru/images/fry.jpg"
+  },
+  {
+    "id": "domesticEfgh",
+    "front": "domestic",
+    "back": {
+      "definition": "relating to the home, house, or family",
+      "examples": [
+        "She enjoys *domestic* chores like cooking and cleaning.",
+        "The *domestic* market is showing signs of improvement."
+      ],
+      "transcription": "dəʊˈmɛstɪk",
+      "ru_translation": "домашний, семейный"
+    },
+    "img": "https://prv3.lori-images.net/man-cleaning-home-with-vacuum-cleaner-0024948099-preview.jpg"
+  },
+  {
+    "id": "domesticateIjkl",
+    "front": "domesticate",
+    "back": {
+      "definition": "to bring animals or plants under human control in order to provide food, power, or company",
+      "examples": [
+        "Humans began to *domesticate* animals thousands of years ago.",
+        "It takes time to *domesticate* wild plants for farming."
+      ],
+      "transcription": "dəʊˈmɛstɪkeɪt",
+      "ru_translation": "приручить, одомашнить"
+    },
+    "img": "https://www.ancient-origins.net/sites/default/files/styles/large/public/field/image/domesticated-dogs.jpg?itok=iZ-GnayU"
+  },
+  {
+    "id": "easeMnop",
+    "front": "ease",
+    "back": {
+      "definition": "the state of experiencing no difficulty, effort, pain, etc.",
+      "examples": [
+        "She completed the task with *ease*.",
+        "His presence brings a sense of *ease* to the team."
+      ],
+      "transcription": "iːz",
+      "ru_translation": "простота, лёгкость"
+    },
+    "img": "https://stihi.ru/pics/2019/10/21/5625.jpg"
+  },
+  {
+    "id": "easeQrst",
+    "front": "ease",
+    "back": {
+      "definition": "to make or become less severe, difficult, unpleasant, painful, etc.",
+      "examples": [
+        "The medicine will *ease* your pain.",
+        "She tried to *ease* his anxiety with some comforting words."
+      ],
+      "transcription": "iːz",
+      "ru_translation": "облегчать"
+    },
+    "img": "https://cdn.trinixy.ru/pics5/20151113/prisposobleniya_01.jpg"
+  },
+  {
+    "id": "uneasyUvwx",
+    "front": "uneasy",
+    "back": {
+      "definition": "slightly worried or uncomfortable about a particular situation",
+      "examples": [
+        "She felt *uneasy* about the upcoming exam.",
+        "The silence in the room made everyone feel *uneasy*."
+      ],
+      "transcription": "ʌnˈiːzi",
+      "ru_translation": "тревожный, беспокойный, нелегкий"
+    },
+    "img": "https://cache-cdn.cosme.net/media/cur-contents/file/parts/I0004182/c13c780ac8fbc074e2f1d2bd413238e3.jpg"
+  },
+  {
+    "id": "uneasinessYzab",
+    "front": "uneasiness",
+    "back": {
+      "definition": "the feeling of being worried or uncomfortable about something",
+      "examples": [
+        "There was a sense of *uneasiness* in the crowd.",
+        "His *uneasiness* grew as the deadline approached."
+      ],
+      "transcription": "ʌnˈiːzɪnɪs",
+      "ru_translation": "тревожность, беспокойство, нелегкость"
+    },
+    "img": "https://ravnovesie.org/wp-content/uploads/kak-borotsya-s-trevozhnostyu-round.png"
+  },
+  {
+    "id": "graduateCdab",
+    "front": "graduate",
+    "back": {
+      "definition": "a person who has a first degree from a university or college",
+      "examples": [
+        "She is a recent *graduate* of Harvard University.",
+        "The company is looking to hire more *graduates*."
+      ],
+      "transcription": "ˈgrædjʊət",
+      "ru_translation": "выпускник"
+    },
+    "img": "https://eastavenuebooks.com/wp-content/uploads/2017/09/GRADUATE.jpg"
+  },
+  {
+    "id": "graduateEfgh",
+    "front": "graduate",
+    "back": {
+      "definition": "to complete a first university degree successfully",
+      "examples": [
+        "He plans to *graduate* next year.",
+        "Many students *graduate* with honors."
+      ],
+      "transcription": "ˈgrædjʊət",
+      "ru_translation": "окончить учебное заведение, выпускаться"
+    },
+    "img": "https://i.pinimg.com/736x/3d/59/24/3d5924f4d1027e0073959cd3502eac7b.jpg"
+  },
+  {
+    "id": "undergraduateIjkl",
+    "front": "undergraduate",
+    "back": {
+      "definition": "a student who is studying for their first degree at a college or university",
+      "examples": [
+        "She is an *undergraduate* in the biology department.",
+        "The university has thousands of *undergraduates*."
+      ],
+      "transcription": "ˌʌndəˈgrædjʊɪt",
+      "ru_translation": "студент"
+    },
+    "img": "https://studyfive.ru/wp-content/uploads/2018/10/magisterskaya-dissertatsiya-studyfive.jpg"
+  },
+  {
+    "id": "graduationMnop",
+    "front": "graduation",
+    "back": {
+      "definition": "the act of successfully completing a university degree, or studies at an American high school",
+      "examples": [
+        "Her *graduation* ceremony is next week.",
+        "He felt a great sense of accomplishment at his *graduation*."
+      ],
+      "transcription": "ˌgrædjʊˈeɪʃən",
+      "ru_translation": "выпуск (из учебного заведения)"
+    },
+    "img": "https://images.hub.ldpr.ru/display?path=media/images/ugra/f6e148229f070c3137ed157c3fbfca0cdcfe7da3231d8f36be1d5115808fed11.jpg&op=resize&h=600"
+  },
+  {
+    "id": "postgraduateQrst",
+    "front": "postgraduate",
+    "back": {
+      "definition": "a student who has already received one degree and is studying at a university for a more advanced degree",
+      "examples": [
+        "She is a *postgraduate* student in the psychology department.",
+        "The *postgraduates* often assist in teaching undergraduate classes."
+      ],
+      "transcription": "ˌpəʊstˈgrædjʊɪt",
+      "ru_translation": "аспирант"
+    },
+    "img": "https://i.pinimg.com/originals/fb/a4/98/fba498df93e738642d13d305e5040f0f.jpg"
+  },
+  {
+    "id": "patchUvwx",
+    "front": "patch",
+    "back": {
+      "definition": "a small piece of material sewn or stuck over something to cover it",
+      "examples": [
+        "You sure a *patch* will hold?",
+        "A new *patch* should be superimposed on the cold and completely dry skin."
+      ],
+      "transcription": "pæʧ",
+      "ru_translation": "заплатка, пластырь"
+    },
+    "img": "https://i.pinimg.com/736x/d0/0e/73/d00e73eb261b3a48d71e83c86dc028bd.jpg"
+  },
+  {
+    "id": "patchYzab",
+    "front": "patch",
+    "back": {
+      "definition": "to put a piece of material over a hole or weak spot in something, to make it usable again",
+      "examples": [
+        "She used a needle and thread to *patch* the hole in her jeans.",
+        "He *patched* the tire with a repair kit."
+      ],
+      "transcription": "pæʧ",
+      "ru_translation": "латать"
+    },
+    "img": "https://img.deilo.ru/files/images/items/895/75bf772536ce061z.jpg"
+  },
+  {
+    "id": "patchCdab",
+    "front": "patch",
+    "back": {
+      "definition": "a small area that is different in some way from the area that surrounds it",
+      "examples": [
+        "The garden has a *patch* of wildflowers.",
+        "There is a *patch* of wet paint on the wall."
+      ],
+      "transcription": "pæʧ",
+      "ru_translation": "пятно"
+    },
+    "img": "https://i.ytimg.com/vi/4pVouIm-REE/sddefault.jpg"
+  },
+  {
+    "id": "tireEfgh",
+    "front": "tire",
+    "back": {
+      "definition": "a thick rubber ring, often filled with air, that is fitted around the outer edge of a wheel",
+      "examples": [
+        "I need to replace the front *tire* of my bike.",
+        "He got a flat *tire* on his way to work."
+      ],
+      "transcription": "ˈtaɪə",
+      "ru_translation": "шина"
+    },
+    "img": "https://avatars.mds.yandex.net/get-altay/3926074/2a00000176037415b0d35c2275fc79befa79/XXL_height"
+  },
+  {
+    "id": "unlessIjkl",
+    "front": "unless",
+    "back": {
+      "definition": "except if",
+      "examples": [
+        "We won't go *unless* it stops raining.",
+        "You can't drive a car *unless* you have a license."
+      ],
+      "transcription": "ənˈlɛs",
+      "ru_translation": "если не"
+    },
+    "img": "https://britlex.ru/images/unless.jpg"
+  },
+  {
+    "id": "shiftMnop",
+    "front": "shift",
+    "back": {
+      "definition": "to (cause something or someone to) move or change from one position or direction to another, especially slightly",
+      "examples": [
+        "He had to *shift* the boxes to make space.",
+        "The company decided to *shift* its focus to new markets."
+      ],
+      "transcription": "ʃɪft",
+      "ru_translation": "сдвигать"
+    },
+    "img": "https://a.d-cd.net/TRNPB-swJMDOVDePihCJqOCzXvk-960.jpg"
+  },
+  {
+    "id": "shiftQrst",
+    "front": "shift",
+    "back": {
+      "definition": "a change in position or direction",
+      "examples": [
+        "There was a *shift* in the political landscape.",
+        "The *shift* in temperature was noticeable."
+      ],
+      "transcription": "ʃɪft",
+      "ru_translation": "сдвиг, смена"
+    },
+    "img": "https://img.freepik.com/premium-vector/man-sweats-in-summer-weather-and-gets-chills-after-onset-of-winter-due-to-drastic-climate-change_198530-4698.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": "shiftUvwx",
+    "front": "shift",
+    "back": {
+      "definition": "a period of work time in a job that is divided into periods",
+      "examples": [
+        "She works the night *shift* at the hospital.",
+        "He is on the morning *shift* this week."
+      ],
+      "transcription": "ʃɪft",
+      "ru_translation": "смена (рабочая)"
+    },
+    "img": "https://vkirove.ru/upload/iblock/321/20210627_ustavshiy_vrach_3.jpg"
+  },
+  {
+    "id": "shiftyYzab",
+    "front": "shifty",
+    "back": {
+      "definition": "looking or seeming dishonest",
+      "examples": [
+        "His *shifty* eyes made me distrust him.",
+        "She gave him a *shifty* look before answering."
+      ],
+      "transcription": "ˈʃɪfti",
+      "ru_translation": "ловкий, изворотливый"
+    },
+    "img": "https://img.freepik.com/premium-photo/man-scrubbing-his-hands-with-satisfied-expression_154439-1258.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": "hoodCdab",
+    "front": "hood",
+    "back": {
+      "definition": "the metal cover over the part of a car where the engine is",
+      "examples": [
+        "He opened the *hood* to check the engine.",
+        "There was smoke coming from under the *hood*."
+      ],
+      "transcription": "hʊd",
+      "ru_translation": "капот"
+    },
+    "img": "https://imagesmi.cdnbro.com/posts/3347482-kapot-mashiny.jpg"
+  },
+  {
+    "id": "hoodEfgh",
+    "front": "hood",
+    "back": {
+      "definition": "a part of a coat or jacket that covers your head and neck",
+      "examples": [
+        "She pulled up her *hood* when it started to rain.",
+        "The jacket has a detachable *hood*."
+      ],
+      "transcription": "hʊd",
+      "ru_translation": "капюшон"
+    },
+    "img": "https://colbrook.co.uk/image/cache/catalog/Portwest-BZ12-800x800.jpg"
+  },
+  {
+    "id": "hoodIjkl",
+    "front": "hood",
+    "back": {
+      "definition": "to cover something or someone with a hood",
+      "examples": [
+        "The monk *hooded* his face to remain anonymous.",
+        "She *hooded* the falcon before releasing it."
+      ],
+      "transcription": "hʊd",
+      "ru_translation": "покрывать капюшоном"
+    },
+    "img": "https://www.insurances.net/insurancepics/Woman/black-1634319__340.jpg"
+  },
+  {
+    "id": "noticeMnop",
+    "front": "notice",
+    "back": {
+      "definition": "to see or become conscious of something or someone",
+      "examples": [
+        "Did you *notice* the new painting on the wall?",
+        "She didn't *notice* him enter the room."
+      ],
+      "transcription": "ˈnəʊtɪs",
+      "ru_translation": "заметить"
+    },
+    "img": "https://britlex.ru/images/notice.jpg"
+  },
+  {
+    "id": "unnoticedQrst",
+    "front": "unnoticed",
+    "back": {
+      "definition": "without being seen or noticed",
+      "examples": [
+        "His efforts went *unnoticed* by his boss.",
+        "She slipped out of the party *unnoticed*."
+      ],
+      "transcription": "ʌnˈnəʊtɪst",
+      "ru_translation": "незамеченный"
+    },
+    "img": "https://fb.ru/media/i/1/6/3/1/6/7/3/i/1631673.jpg"
   }
 ]
