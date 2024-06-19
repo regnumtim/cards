@@ -10935,5 +10935,411 @@
       "ru_translation": "незамеченный"
     },
     "img": "https://fb.ru/media/i/1/6/3/1/6/7/3/i/1631673.jpg"
+  },
+  {
+    "id": "enormousXYZ",
+    "front": "enormous",
+    "back": {
+      "definition": "extremely large",
+      "examples": [
+        "The *enormous* elephant walked through the jungle.",
+        "She had an *enormous* amount of work to finish before the deadline."
+      ],
+      "transcription": "ɪˈnɔːməs",
+      "ru_translation": "огромный"
+    },
+    "img": "https://i.pinimg.com/736x/2b/56/13/2b56130614249c5a3b6dc182500116fa.jpg"
+  },
+  {
+    "id": "hookABC",
+    "front": "hook",
+    "back": {
+      "definition": "a curved device used for catching or holding things, especially one attached to a surface for hanging things on",
+      "examples": [
+        "He hung his coat on the *hook* by the door.",
+        "The fish was caught on the *hook* within minutes."
+      ],
+      "transcription": "hʊk",
+      "ru_translation": "крюк"
+    },
+    "img": "https://img.freepik.com/vector-premium/dibujado-mano-anzuelo-aislado_53876-3664.jpg"
+  },
+  {
+    "id": "hookDEF",
+    "front": "hook",
+    "back": {
+      "definition": "to catch something with a hook or to be caught on something like a hook",
+      "examples": [
+        "She managed to *hook* the bag with a stick.",
+        "The sleeve of my sweater got *hooked* on the fence."
+      ],
+      "transcription": "hʊk",
+      "ru_translation": "ловить что-либо на крючок, зацеплять"
+    },
+    "img": "https://i.pinimg.com/736x/98/89/43/9889432eac605468a23254644a513ddd.jpg"
+  },
+  {
+    "id": "hookedGHI",
+    "front": "hooked",
+    "back": {
+      "definition": "having a hook or being shaped like a hook",
+      "examples": [
+        "The *hooked* end of the cane was useful for grabbing objects.",
+        "Her nose was *hooked* and prominent."
+      ],
+      "transcription": "hʊkt",
+      "ru_translation": "крючковатый, кривой"
+    },
+    "img": "https://i.pinimg.com/736x/73/8e/ee/738eee73dcb648e9b502958f548af455.jpg"
+  },
+  {
+    "id": "partisanJKL",
+    "front": "partisan",
+    "back": {
+      "definition": "someone who supports a person, principle, or political party",
+      "examples": [
+        "She is a *partisan* of the new educational reforms.",
+        "The *partisans* gathered to discuss their strategy."
+      ],
+      "transcription": "ˌpɑːtɪˈzæn",
+      "ru_translation": "сторонник, приверженец"
+    },
+    "img": "https://u2.9111s.ru/uploads/202310/03/076cf91f3390b1e660710557d9980fb8.jpg"
+  },
+  {
+    "id": "partisanshipMNO",
+    "front": "partisanship",
+    "back": {
+      "definition": "very strong support for one group, idea, or cause, often without considering the other choices carefully",
+      "examples": [
+        "Their *partisanship* was evident in their biased arguments.",
+        "The debate was marred by *partisanship* on both sides."
+      ],
+      "transcription": "ˌpɑːtɪˈzænʃɪp",
+      "ru_translation": "партийность, приверженность"
+    },
+    "img": "https://cdn.culture.ru/images/4109870a-4477-563c-8b6b-d935d14299f0"
+  },
+  {
+    "id": "angryPQR",
+    "front": "angry",
+    "back": {
+      "definition": "having a strong feeling against someone who has behaved badly, making you want to shout at them or hurt them",
+      "examples": [
+        "She was *angry* at him for being late.",
+        "His *angry* outburst surprised everyone."
+      ],
+      "transcription": "ˈæŋgri",
+      "ru_translation": "злой"
+    },
+    "img": "https://kartinkof.club/uploads/posts/2022-04/1649990294_28-kartinkof-club-p-zlost-kartinki-prikolnie-34.jpg"
+  },
+  {
+    "id": "measureSTU",
+    "front": "measure",
+    "back": {
+      "definition": "a unit used for stating the size, weight, etc., of something, or a way of measuring",
+      "examples": [
+        "The recipe calls for a *measure* of sugar.",
+        "They took a *measure* of the room's dimensions."
+      ],
+      "transcription": "ˈmɛʒə",
+      "ru_translation": "размер, мера"
+    },
+    "img": "https://m.media-amazon.com/images/I/51t9r09RamL._AC_SY780_.jpg"
+  },
+  {
+    "id": "measureVWX",
+    "front": "measure",
+    "back": {
+      "definition": "to discover the exact size or amount of something",
+      "examples": [
+        "We need to *measure* the length of the table.",
+        "She carefully *measured* the ingredients for the cake."
+      ],
+      "transcription": "ˈmɛʒə",
+      "ru_translation": "измерять, оценивать"
+    },
+    "img": "https://www.kliniki.pl/photos/35/standardowe-rozmiary-penisa-u-mezczyzn-na-podstawie-badan-naukowych_34531.jpg"
+  },
+  {
+    "id": "measureEFG",
+    "front": "measure",
+    "back": {
+      "definition": "an action, especially an official one, that is intended to achieve a particular purpose",
+      "examples": [
+        "The government implemented new *measures* to reduce pollution.",
+        "Safety *measures* were put in place to protect the workers."
+      ],
+      "transcription": "ˈmɛʒə",
+      "ru_translation": "мероприятие"
+    },
+    "img": "https://fashionobsession.ru/wp-content/uploads/2023/04/izobrazhenie_2023-04-26_184646446-768x512.png"
+  },
+  {
+    "id": "doubtYZA",
+    "front": "doubt",
+    "back": {
+      "definition": "to feel uncertain about something or think that something is not probable",
+      "examples": [
+        "I *doubt* we'll finish on time.",
+        "She began to *doubt* his intentions."
+      ],
+      "transcription": "daʊt",
+      "ru_translation": "сомневаться"
+    },
+    "img": "https://www.lotuswise.co.uk/wp-content/uploads/2019/09/The-Power-To-Say-No-1080x675.jpg"
+  },
+  {
+    "id": "doubtBCD",
+    "front": "doubt",
+    "back": {
+      "definition": "(a feeling of) not being certain about something, especially about how good or true it is",
+      "examples": [
+        "There is some *doubt* about the accuracy of the report.",
+        "He expressed his *doubt* regarding the project's success."
+      ],
+      "transcription": "daʊt",
+      "ru_translation": "сомнение"
+    },
+    "img": "https://realconsult.ru/assets/i/ai/4/2/0/i/2818846.jpg"
+  },
+  {
+    "id": "doubtfulEFG",
+    "front": "doubtful",
+    "back": {
+      "definition": "If you are doubtful about something, you are uncertain about it",
+      "examples": [
+        "She was *doubtful* about his ability to complete the task.",
+        "It's *doubtful* that the event will go as planned."
+      ],
+      "transcription": "ˈdaʊtfʊl",
+      "ru_translation": "сомнительный"
+    },
+    "img": "https://www.pinclipart.com/picdir/middle/523-5234308_couple-question-clipart-cartoon-png-download.png"
+  },
+  {
+    "id": "doubtlessHIJ",
+    "front": "doubtless",
+    "back": {
+      "definition": "certainly or very probably",
+      "examples": [
+        "*Doubtless*, she will accept the offer.",
+        "He will *doubtless* find a solution to the problem."
+      ],
+      "transcription": "ˈdaʊtlɪs",
+      "ru_translation": "несомненный"
+    },
+    "img": "https://bumper-stickers.ru/27576-thickbox_default/mem-pravdivaja-istorija.jpg"
+  },
+  {
+    "id": "stiffKLM",
+    "front": "stiff",
+    "back": {
+      "definition": "firm or hard and not bending or moving easily",
+      "examples": [
+        "The cardboard was *stiff* and difficult to bend.",
+        "She woke up with a *stiff* neck."
+      ],
+      "transcription": "stɪf",
+      "ru_translation": "жёсткий, негнущийся, тугой"
+    },
+    "img": "https://britlex.ru/images/stiff.jpg"
+  },
+  {
+    "id": "stiffnessNOP",
+    "front": "stiffness",
+    "back": {
+      "definition": "the quality of being firm, hard, or unable to bend",
+      "examples": [
+        "The *stiffness* of the material made it ideal for construction.",
+        "He complained of *stiffness* in his joints."
+      ],
+      "transcription": "ˈstɪfnəs",
+      "ru_translation": "жесткость, неподвижность"
+    },
+    "img": "https://kiterabbit-nhatrang.com/wp-content/uploads/2019/05/og_og_1510233141247114482.jpg"
+  },
+  {
+    "id": "stiffenQRS",
+    "front": "stiffen",
+    "back": {
+      "definition": "to become firm or more difficult to bend",
+      "examples": [
+        "The cold weather caused the fabric to *stiffen*.",
+        "Her resolve *stiffened* in the face of adversity."
+      ],
+      "transcription": "ˈstɪfn",
+      "ru_translation": "коченеть"
+    },
+    "img": "https://totmir.com/wp-content/uploads/2021/08/CHto-proishodit-s-telom-cheloveka-posle-smerti-7.jpg"
+  },
+  {
+    "id": "preachTUV",
+    "front": "preach",
+    "back": {
+      "definition": "to give a religious speech",
+      "examples": [
+        "The pastor will *preach* at the evening service.",
+        "He *preached* about the importance of forgiveness."
+      ],
+      "transcription": "priːʧ",
+      "ru_translation": "проповедовать"
+    },
+    "img": "https://i.pinimg.com/originals/07/41/bd/0741bd3dd37f240e1168e4a865b3f9e3.jpg"
+  },
+  {
+    "id": "preacherWXY",
+    "front": "preacher",
+    "back": {
+      "definition": "a person, usually a priest or minister, who gives a religious speech",
+      "examples": [
+        "The *preacher* delivered a powerful sermon.",
+        "He became a *preacher* after years of studying theology."
+      ],
+      "transcription": "ˈpriːʧə",
+      "ru_translation": "проповедник"
+    },
+    "img": "https://youthvillage.co.za/wp-content/uploads/2014/10/Pastors-in-City-and-Pastors-in-Village.jpg"
+  },
+  {
+    "id": "comeoffZAB",
+    "front": "come off",
+    "back": {
+      "definition": "to become removed from something",
+      "examples": [
+        "The label *came off* easily.",
+        "Her shoe *came off* while she was running."
+      ],
+      "transcription": "kʌmɒf",
+      "ru_translation": "отрываться, соскочить"
+    },
+    "img": "https://fahrschule-michael-ludwig.appyourself.net/images/media/12724952.png"
+  },
+  {
+    "id": "comeoffCDE",
+    "front": "come off",
+    "back": {
+      "definition": "to happen as planned, or to succeed",
+      "examples": [
+        "The event *came off* as expected.",
+        "His plan *came off* perfectly."
+      ],
+      "transcription": "kʌmɒf",
+      "ru_translation": "выйти, получиться"
+    },
+    "img": "https://w7.pngwing.com/pngs/964/500/png-transparent-computer-icons-symbol-miscellaneous-angle-triangle.png"
+  },
+  {
+    "id": "comeofFGH",
+    "front": "come of smth",
+    "back": {
+      "definition": "to happen as a result of something",
+      "examples": [
+        "What *came of* the meeting?",
+        "Nothing good will *come of* this decision."
+      ],
+      "transcription": "kʌmɒv",
+      "ru_translation": "выйти, получиться из"
+    },
+    "img": "https://a.d-cd.net/898359u-960.jpg"
+  },
+  {
+    "id": "railIJK",
+    "front": "rail",
+    "back": {
+      "definition": "a bar or series of bars fixed on upright supports or attached to a wall or ceiling, serving as part of a barrier or used to hang things on",
+      "examples": [
+        "She hung her clothes on the *rail*.",
+        "The *rail* was installed for extra support."
+      ],
+      "transcription": "reɪl",
+      "ru_translation": "рельс"
+    },
+    "img": "https://topwar.ru/uploads/posts/2022-10/34.jpg"
+  },
+  {
+    "id": "railLMN",
+    "front": "rail",
+    "back": {
+      "definition": "a bar used as a handrail or guard",
+      "examples": [
+        "He held onto the *rail* as he climbed the stairs.",
+        "The balcony had a sturdy *rail* for safety."
+      ],
+      "transcription": "reɪl",
+      "ru_translation": "поручень, перила"
+    },
+    "img": "https://m.media-amazon.com/images/I/41r3R3UA6BS._AC_SY580_.jpg"
+  },
+  {
+    "id": "railingOPQ",
+    "front": "railing",
+    "back": {
+      "definition": "a fence made of vertical metal bars",
+      "examples": [
+        "They leaned against the *railing* to look at the view.",
+        "The old house had an ornate *railing* around the porch."
+      ],
+      "transcription": "ˈreɪlɪŋ",
+      "ru_translation": "изгородь, ограда, поручень, перила"
+    },
+    "img": "https://reshetki-na-okna.ru/assets/images/products/432/8ded95c5a4396ef08fdc184c88db2b0ef688e757.jpeg"
+  },
+  {
+    "id": "derailRST",
+    "front": "derail",
+    "back": {
+      "definition": "to cause a train to come off the tracks",
+      "examples": [
+        "The heavy rain *derailed* the train.",
+        "An obstacle on the tracks can *derail* a train."
+      ],
+      "transcription": "dɪˈreɪl",
+      "ru_translation": "сходить с рельс"
+    },
+    "img": "https://i.pinimg.com/736x/54/48/d3/5448d365217408db5fb5b6ca2f8463da.jpg"
+  },
+  {
+    "id": "maleUVW",
+    "front": "male",
+    "back": {
+      "definition": "used to refer to men or boys, or the sex that fertilizes eggs, and does not produce babies or eggs itself",
+      "examples": [
+        "The *male* lion is known for its mane.",
+        "He is the only *male* in his family."
+      ],
+      "transcription": "meɪl",
+      "ru_translation": "мужской, мужчина, самец"
+    },
+    "img": "https://cdn1.iconfinder.com/data/icons/love-icons/512/man-icon-512.png"
+  },
+  {
+    "id": "femaleXYZ",
+    "front": "female",
+    "back": {
+      "definition": "used to refer to women or girls, or the sex that produces eggs or gives birth to babies",
+      "examples": [
+        "The *female* of the species is larger than the male.",
+        "She is a strong and independent *female*."
+      ],
+      "transcription": "ˈfiːmeɪl",
+      "ru_translation": "женский, женщина, особь женского пола"
+    },
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Symbol_venus.svg/520px-Symbol_venus.svg.png"
+  },
+  {
+    "id": "exhaustedABC",
+    "front": "exhausted",
+    "back": {
+      "definition": "extremely tired",
+      "examples": [
+        "He was *exhausted* after the long hike.",
+        "She felt completely *exhausted* after working all day."
+      ],
+      "transcription": "ɪɡˈzɔːstɪd",
+      "ru_translation": "сильно уставший, измученный, истощенный"
+    },
+    "img": "https://psychbook.ru/assets/i/ai/4/4/4/i/3013220.jpg"
   }
 ]
