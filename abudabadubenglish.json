@@ -6483,10 +6483,10 @@
       "definition": "to stop sleeping or to make someone stop sleeping",
       "examples": [
         "He was *awoken* by a loud noise.",
-        "She usually *awakes* early in the morning."
+        "Walking in this part of the city awakes old memories."
       ],
       "transcription": "əˈweɪk, əˈwəʊk, əˈwəʊkən",
-      "ru_translation": "просыпаться, будить"
+      "ru_translation": "просыпаться, будить, пробудить (эмоции)"
     },
     "img": "https://media.baamboozle.com/uploads/images/195811/1619507348_90784.jpeg"
   },
@@ -11341,5 +11341,371 @@
       "ru_translation": "сильно уставший, измученный, истощенный"
     },
     "img": "https://psychbook.ru/assets/i/ai/4/4/4/i/3013220.jpg"
+  },
+  {
+    "id": "proofxyz123",
+    "front": "proof",
+    "back": {
+      "definition": "a fact or piece of information that shows that something exists or is true",
+      "examples": [
+        "I need *proof* of your identity.",
+        "Can you provide *proof* that you were there?"
+      ],
+      "transcription": "pruːf",
+      "ru_translation": "доказательство (неисч.)"
+    },
+    "img": "https://mir-s3-cdn-cf.behance.net/projects/max_808/4d9d2794324839.Y3JvcCwxMDMzLDgwOCwyMCww.jpg"
+  },
+  {
+    "id": "proofsuffixabc456",
+    "front": "-proof",
+    "back": {
+      "definition": "used to form adjectives meaning protected against or not damaged by a particular thing",
+      "examples": [
+        "This jacket is *waterproof*.",
+        "We need *fireproof* materials."
+      ],
+      "transcription": "pruːf",
+      "ru_translation": "суффикс непроницаемый для чего-либо"
+    },
+    "img": "https://cdn.100sp.ru/pictures/176913454"
+  },
+  {
+    "id": "producejkl789",
+    "front": "produce",
+    "back": {
+      "definition": "to make something or bring something into existence",
+      "examples": [
+        "The factory *produces* thousands of cars each year.",
+        "We need to *produce* more evidence."
+      ],
+      "transcription": "ˈprɒdjuːs",
+      "ru_translation": "производить"
+    },
+    "img": "https://britlex.ru/images/produce.jpg"
+  },
+  {
+    "id": "producerstu101",
+    "front": "producer",
+    "back": {
+      "definition": "a person or business that makes something or supplies goods for sale",
+      "examples": [
+        "He is a famous movie *producer*.",
+        "The company is a leading *producer* of electronics."
+      ],
+      "transcription": "prəˈdjuːsə",
+      "ru_translation": "производитель"
+    },
+    "img": "https://ecbezop.ru/upload/medialibrary/142/1429896d92b5869fe7c515745e29ceda.png"
+  },
+  {
+    "id": "productionmno112",
+    "front": "production",
+    "back": {
+      "definition": "the process of making or growing goods to be sold",
+      "examples": [
+        "The *production* of cars has increased this year.",
+        "They halted *production* due to safety concerns."
+      ],
+      "transcription": "prəˈdʌkʃən",
+      "ru_translation": "производство"
+    },
+    "img": "https://st2.depositphotos.com/1007416/9722/i/450/depositphotos_97221902-stock-photo-robots-in-a-car-plant.jpg"
+  },
+  {
+    "id": "tagqrs134",
+    "front": "tag",
+    "back": {
+      "definition": "a small piece of paper, cloth, or metal with information on it, tied or stuck onto something larger",
+      "examples": [
+        "She put a price *tag* on the item.",
+        "The *tag* has the brand name on it."
+      ],
+      "transcription": "tæg",
+      "ru_translation": "ярлык, этикетка"
+    },
+    "img": "https://britlex.ru/images/tag.jpg"
+  },
+  {
+    "id": "taguvw156",
+    "front": "tag",
+    "back": {
+      "definition": "to attach or add a tag to something",
+      "examples": [
+        "We need to *tag* all the new inventory.",
+        "She *tagged* the items with their prices."
+      ],
+      "transcription": "tæg",
+      "ru_translation": "навешивать ярлык, этикетку"
+    },
+    "img": "https://imag.one/storage/img/2023/5/1/13616254_0lbri.jpg"
+  },
+  {
+    "id": "subtledef178",
+    "front": "subtle",
+    "back": {
+      "definition": "not loud, bright, noticeable, or obvious in any way",
+      "examples": [
+        "The colors in the painting are very *subtle*.",
+        "She made a *subtle* suggestion."
+      ],
+      "transcription": "ˈsʌtl",
+      "ru_translation": "тонкий, утонченный, неуловимый"
+    },
+    "img": "https://britlex.ru/images/subtle.jpg"
+  },
+  {
+    "id": "subtletyghi190",
+    "front": "subtlety",
+    "back": {
+      "definition": "the quality or state of being subtle or hard to notice",
+      "examples": [
+        "The *subtlety* of the flavor is remarkable.",
+        "He appreciated the *subtlety* of her argument."
+      ],
+      "transcription": "ˈsʌtlti",
+      "ru_translation": "тонкость, утонченность, неуловимость"
+    },
+    "img": "https://www.desktopbackground.org/download/1280x960/2012/01/17/329766_2560x1600-arts-salvador-dali-paintings-salvador-dali-1931-the_2560x1600_h.jpg"
+  },
+  {
+    "id": "nursedeft202",
+    "front": "nurse",
+    "back": {
+      "definition": "a person trained to care for the sick or infirm, especially in a hospital",
+      "examples": [
+        "The *nurse* took my temperature.",
+        "She works as a *nurse* in the hospital."
+      ],
+      "transcription": "nɜːs",
+      "ru_translation": "медсестра, нянька"
+    },
+    "img": "https://britlex.ru/images/nurse.jpg"
+  },
+  {
+    "id": "nurseverb345",
+    "front": "nurse",
+    "back": {
+      "definition": "to care for a person or an animal while they are ill",
+      "examples": [
+        "She *nursed* him back to health.",
+        "He spent weeks *nursing* the injured bird."
+      ],
+      "transcription": "nɜːs",
+      "ru_translation": "выхаживать, лечить"
+    },
+    "img": "https://www.ekbmiloserdie.ru/content/contentitems/txt00440/txt00440-29qfqgn1.jpg"
+  },
+  {
+    "id": "nursingasd567",
+    "front": "nursing",
+    "back": {
+      "definition": "the job of being a nurse",
+      "examples": [
+        "She decided to go into *nursing*.",
+        "He has a degree in *nursing*."
+      ],
+      "transcription": "ˈnɜːsɪŋ",
+      "ru_translation": "уход (медицинский)"
+    },
+    "img": "https://www.fpress.gr/media/news/2017/11/23/53364/main/giatroinosokomeiou.jpg"
+  },
+  {
+    "id": "nurseryfgh890",
+    "front": "nursery",
+    "back": {
+      "definition": "a place where young children and babies are taken care of while their parents are at work",
+      "examples": [
+        "She dropped her child off at the *nursery*.",
+        "The *nursery* is open from 7 AM to 6 PM."
+      ],
+      "transcription": "ˈnɜːsəri",
+      "ru_translation": "детская, детский сад, ясли, питомник"
+    },
+    "img": "https://4youngmama.ru/wp-content/uploads/6/e/9/6e905e4edc8c4096f5404acfc0f45f47.jpeg"
+  },
+  {
+    "id": "wakeupabc123",
+    "front": "wake up (woke, woken)",
+    "back": {
+      "definition": "to stop sleeping or to make someone stop sleeping",
+      "examples": [
+        "I usually *wake up* at 7 AM.",
+        "Can you *wake* me *up* at 6?"
+      ],
+      "transcription": "weɪk ʌp, wəʊk, ˈwəʊ.kən",
+      "ru_translation": "просыпаться, будить (ото сна)"
+    },
+    "img": "https://www.shoutpost.com/wp-content/uploads/2018/06/Tips-To-Help-You-Win-The-Fight-and-Wake-Up-Early.jpg"
+  },
+  {
+    "id": "soildir145",
+    "front": "soil",
+    "back": {
+      "definition": "the material on the surface of the ground in which plants grow",
+      "examples": [
+        "The *soil* here is very fertile.",
+        "She dug into the *soil* to plant the seeds."
+      ],
+      "transcription": "sɔɪl",
+      "ru_translation": "почва"
+    },
+    "img": "https://britlex.ru/images/soil.jpg"
+  },
+  {
+    "id": "soilverb346",
+    "front": "soil",
+    "back": {
+      "definition": "to make something dirty",
+      "examples": [
+        "He accidentally *soiled* his shirt.",
+        "Don't *soil* your hands with this dirty work."
+      ],
+      "transcription": "sɔɪl",
+      "ru_translation": "пачкать"
+    },
+    "img": "https://isokolka.eu/images/stories/2015/08/sierpien4/mud-1464412.jpg"
+  },
+  {
+    "id": "quietdef789",
+    "front": "quiet",
+    "back": {
+      "definition": "making very little noise",
+      "examples": [
+        "The library is a very *quiet* place.",
+        "Please be *quiet* during the movie."
+      ],
+      "transcription": "ˈkwaɪət",
+      "ru_translation": "тихий, спокойный"
+    },
+    "img": "https://thumb.ac-illust.com/93/931eab56a7ac5afbe532498df1e392ca_w.jpeg"
+  },
+  {
+    "id": "quietnouns890",
+    "front": "quiet",
+    "back": {
+      "definition": "a state of calm or silence",
+      "examples": [
+        "I enjoy the *quiet* of the early morning.",
+        "Let's have a moment of *quiet*."
+      ],
+      "transcription": "ˈkwaɪət",
+      "ru_translation": "тишина, спокойствие"
+    },
+    "img": "https://4.bp.blogspot.com/-mKRcVwPslf8/WloPzBykvNI/AAAAAAAAATc/3GEHGUTpwKkx0D6Ztd8dPJJ2xiH8AYiVgCLcBGAs/s640/paz.jpg"
+  },
+  {
+    "id": "quietnessdef234",
+    "front": "quietness",
+    "back": {
+      "definition": "the state or quality of being quiet",
+      "examples": [
+        "The *quietness* of the countryside is refreshing.",
+        "She loves the *quietness* of her room."
+      ],
+      "transcription": "ˈkwaɪətnɪs",
+      "ru_translation": "тишина, спокойствие"
+    },
+    "img": "https://i.pinimg.com/736x/c2/41/ea/c241eaf6b4b2c21177ffb68e6ad753bc.jpg"
+  },
+  {
+    "id": "quietenverb123",
+    "front": "quieten",
+    "back": {
+      "definition": "to make someone or something quieter or calmer",
+      "examples": [
+        "She tried to *quieten* the crying baby.",
+        "The teacher asked the students to *quieten* down."
+      ],
+      "transcription": "ˈkwaɪətn",
+      "ru_translation": "успокаивать, утихомиривать"
+    },
+    "img": "https://psihologiastrolog.ru/wp-content/uploads/2023/03/mama-konfliktolog.png"
+  },
+  {
+    "id": "representverb456",
+    "front": "represent",
+    "back": {
+      "definition": "to speak, act, or be present officially for another person or people",
+      "examples": [
+        "She was chosen to *represent* the team.",
+        "He will *represent* our company at the conference.",
+        "These results *represent* a major breakthrough.",
+        "This behavior *represents* a change in attitude."
+      ],
+      "transcription": "ˌrɛprɪˈzɛnt",
+      "ru_translation": "представлять, являться, быть представителем"
+    },
+    "img": "https://fsfera.ru/storage/resource/articles/11-19_img_O6CW9G0.jpg"
+  },
+  {
+    "id": "representativenoun123",
+    "front": "representative",
+    "back": {
+      "definition": "someone who speaks or does something officially for another person or group of people",
+      "examples": [
+        "She is a *representative* of the local government.",
+        "We need a *representative* to speak for the group."
+      ],
+      "transcription": "ˌrɛprɪˈzɛntətɪv",
+      "ru_translation": "представитель"
+    },
+    "img": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/6078698d-a432-4ac8-9bcc-c52b571e3743.jpg"
+  },
+  {
+    "id": "disputenoun789",
+    "front": "dispute",
+    "back": {
+      "definition": "an argument or disagreement",
+      "examples": [
+        "They had a *dispute* over the contract.",
+        "The *dispute* between the neighbors was resolved."
+      ],
+      "transcription": "dɪsˈpjuːt",
+      "ru_translation": "пререкания, спор"
+    },
+    "img": "https://i.pinimg.com/736x/3a/b6/be/3ab6be60160e92531f291e50af505a5a--vector-graphics-architecture.jpg"
+  },
+  {
+    "id": "disputeverb101",
+    "front": "dispute",
+    "back": {
+      "definition": "to disagree with something that someone says",
+      "examples": [
+        "I *dispute* his version of the events.",
+        "She *disputed* the results of the test."
+      ],
+      "transcription": "dɪsˈpjuːt",
+      "ru_translation": "спорить"
+    },
+    "img": "https://smart-lab.ru/uploads/images/02/50/41/2014/07/10/32da54.jpg"
+  },
+  {
+    "id": "disputedadj202",
+    "front": "disputed",
+    "back": {
+      "definition": "that has been argued about or questioned",
+      "examples": [
+        "The *disputed* territory has been a source of conflict.",
+        "His *disputed* claim needs further verification."
+      ],
+      "transcription": "dɪsˈpjuːtɪd",
+      "ru_translation": "спорный"
+    },
+    "img": "https://i.pinimg.com/736x/00/79/80/007980b0199f1350f53017865c660b12.jpg"
+  },
+  {
+    "id": "undisputedadj345",
+    "front": "undisputed",
+    "back": {
+      "definition": "accepted without question or argument",
+      "examples": [
+        "He is the *undisputed* champion.",
+        "The *undisputed* facts are clear."
+      ],
+      "transcription": "ˌʌndɪsˈpjuːtɪd",
+      "ru_translation": "бесспорный, неоспоримый"
+    },
+    "img": "https://img.kyodonews.net/english/public/images/posts/81d0e721ca1bc04441a5ca0bfe6922f4/cropped_image_l.jpg"
   }
 ]
