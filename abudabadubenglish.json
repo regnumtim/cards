@@ -11794,7 +11794,7 @@
   },
   {
     "id": "affairnmlkp",
-    "front": "affair",
+    "front": "(love) affair",
     "back": {
       "definition": "a sexual relationship, especially a secret one.",
       "examples": [
@@ -11802,7 +11802,7 @@
         "He had an *affair* with his colleague."
       ],
       "transcription": "əˈfeə",
-      "ru_translation": "роман, связь"
+      "ru_translation": "роман, любовная связь"
     },
     "img": "https://www.ivetta.ua/wp-content/uploads/2020/02/15-oznak-togo-shho-nachalnik-do-tebe-nebajduzhij-768x512.jpg"
   },
@@ -12045,5 +12045,370 @@
       "ru_translation": "расстраивать, огорчать"
     },
     "img": "https://sun9-65.userapi.com/c841035/u324629873/video/y_8fda6a2e.jpg"
+  },
+  {
+    "id": "inspectabxyz",
+    "front": "inspect",
+    "back": {
+      "definition": "to look at something carefully in order to learn more about it, to find problems, etc.",
+      "examples": [
+        "The engineer will *inspect* the machine for any defects.",
+        "Before buying the house, you should *inspect* it thoroughly."
+      ],
+      "transcription": "ɪnˈspɛkt",
+      "ru_translation": "проверять, осматривать"
+    },
+    "img": "https://media.canadianunderwriter.ca/uploads/2016/08/iStock_74762297_SMALL.jpg"
+  },
+  {
+    "id": "inspectionxyzw",
+    "front": "inspection",
+    "back": {
+      "definition": "the act of looking at something carefully in order to learn more about it, to find problems, etc.",
+      "examples": [
+        "The health inspector conducted a thorough *inspection* of the restaurant.",
+        "Regular *inspections* help maintain high standards."
+      ],
+      "transcription": "ɪnˈspɛkʃən",
+      "ru_translation": "проверка, осмотр"
+    },
+    "img": "https://i.pinimg.com/originals/23/b3/0b/23b30bd9a8398e64a45d7d0444f825cd.jpg"
+  },
+  {
+    "id": "authorizeyzaq",
+    "front": "authorize",
+    "back": {
+      "definition": "to give official permission for something to happen, or to give someone official permission to do something",
+      "examples": [
+        "Only the manager can *authorize* refunds.",
+        "The government will *authorize* the new policy next week."
+      ],
+      "transcription": "ˈɔːθəraɪz",
+      "ru_translation": "санкционировать, дать полномочия"
+    },
+    "img": "https://britlex.ru/images/authorize.jpg"
+  },
+  {
+    "id": "authorizedqwer",
+    "front": "authorized",
+    "back": {
+      "definition": "having official permission or approval",
+      "examples": [
+        "Only *authorized* personnel can access this area.",
+        "He is an *authorized* user of the software."
+      ],
+      "transcription": "ˈɔːʌəraɪzd",
+      "ru_translation": "уполномоченный"
+    },
+    "img": "https://i.pinimg.com/originals/dc/99/6e/dc996e15795aec80cb058bc7e7e7bb80.jpg"
+  },
+  {
+    "id": "pigeonzxcv",
+    "front": "pigeon",
+    "back": {
+      "definition": "a bird with a fat body and small head that is often grey with iridescent feathers on its neck",
+      "examples": [
+        "The *pigeon* perched on the windowsill.",
+        "She fed the *pigeons* in the park."
+      ],
+      "transcription": "ˈpɪʤɪn",
+      "ru_translation": "голубь"
+    },
+    "img": "https://pixy.org/src/469/thumbs350/4698259.jpg"
+  },
+  {
+    "id": "alertasdf",
+    "front": "alert",
+    "back": {
+      "definition": "a warning to people to be prepared to deal with something dangerous",
+      "examples": [
+        "The weather service issued an *alert* for the upcoming storm.",
+        "We received an *alert* about the potential security threat."
+      ],
+      "transcription": "əˈlɜːt",
+      "ru_translation": "сигнал тревоги, тревога"
+    },
+    "img": "https://www.pngitem.com/pimgs/m/179-1793498_circle-image-job-alert-icon-png-transparent-png.png"
+  },
+  {
+    "id": "alertqwer",
+    "front": "alert",
+    "back": {
+      "definition": "quick to see, understand, and act in a particular situation",
+      "examples": [
+        "Stay *alert* while driving in the rain.",
+        "The guard was *alert* to any unusual activity."
+      ],
+      "transcription": "əˈlɜːt",
+      "ru_translation": " "
+    },
+    "img": "https://vyborprava.com/wp-content/uploads/2019/06/e67c7632-cef5-4d49-8467-6e3dc4138367-750x481.jpg"
+  },
+  {
+    "id": "alertzxcv",
+    "front": "alert",
+    "back": {
+      "definition": "to warn someone of a possibly dangerous situation",
+      "examples": [
+        "We need to *alert* the police immediately.",
+        "She *alerted* the team about the upcoming deadline."
+      ],
+      "transcription": "əˈlɜːt",
+      "ru_translation": "предупреждать (об опасной ситуации)"
+    },
+    "img": "https://od.vgorode.ua/img/article/5215/52_main-v1583945541.jpg"
+  },
+  {
+    "id": "alertnessasdf",
+    "front": "alertness",
+    "back": {
+      "definition": "the state of being ready to see, understand, and act in a particular situation",
+      "examples": [
+        "His *alertness* helped avoid an accident.",
+        "Maintain your *alertness* during long hours of work."
+      ],
+      "transcription": "əˈlɜːtnəs",
+      "ru_translation": "бдительность, настороженность"
+    },
+    "img": "https://us03-imgcdn.ymcart.com/44320/2019/09/24/7/4/74bfd3bcc59828d3.jpg"
+  },
+  {
+    "id": "onthealertqwer",
+    "front": "on the alert",
+    "back": {
+      "definition": "watching for something carefully",
+      "examples": [
+        "They are *on the alert* for any suspicious activity.",
+        "The soldiers were *on the alert* throughout the night."
+      ],
+      "transcription": "ɒnðiəˈlɜːt",
+      "ru_translation": "начеку"
+    },
+    "img": "https://i.pinimg.com/736x/59/a0/0b/59a00b9a5802fc1bdc4bb9365df20acb.jpg"
+  },
+  {
+    "id": "increasezxcv",
+    "front": "increase",
+    "back": {
+      "definition": "to (make something) become larger in amount or size",
+      "examples": [
+        "We need to *increase* our sales to meet the target.",
+        "The company plans to *increase* production next month."
+      ],
+      "transcription": "ɪnˈkriːs",
+      "ru_translation": "увеличивать(ся)"
+    },
+    "img": "https://cleanroomshop.ru/upload/medialibrary/409/212_procurement_process_and_excellence_zero_based_budgeting_and_the_role_of_procurement.jpg"
+  },
+  {
+    "id": "increaseasdf",
+    "front": "increase",
+    "back": {
+      "definition": "a rise in the amount or size of something",
+      "examples": [
+        "There was a significant *increase* in demand.",
+        "The price *increase* affected all customers."
+      ],
+      "transcription": "ˈɪnkriːs",
+      "ru_translation": "увеличение"
+    },
+    "img": "https://britlex.ru/images/increase.jpg"
+  },
+  {
+    "id": "decreaseqwer",
+    "front": "decrease",
+    "back": {
+      "definition": "to become less, or to make something become less",
+      "examples": [
+        "They plan to *decrease* their spending next year.",
+        "The number of accidents *decreased* last month."
+      ],
+      "transcription": "diːˈkriːs",
+      "ru_translation": "уменьшать(ся)"
+    },
+    "img": "https://buyingbusinesstravel.com.ru/upload/iblock/005/2qpk4pvzlz3cso5x2v5vex0oizmms0m1.jpg"
+  },
+  {
+    "id": "decreasezxcv",
+    "front": "decrease",
+    "back": {
+      "definition": "a reduction in the size, amount, or degree of something",
+      "examples": [
+        "There was a *decrease* in sales this quarter.",
+        "We observed a significant *decrease* in errors."
+      ],
+      "transcription": "ˈdiːkriːs",
+      "ru_translation": "снижение"
+    },
+    "img": "https://britlex.ru/images/decrease.jpg"
+  },
+  {
+    "id": "inquireasdf",
+    "front": "inquire",
+    "back": {
+      "definition": "to ask someone for information about something",
+      "examples": [
+        "I need to *inquire* about the availability of tickets.",
+        "She called to *inquire* about the delivery status."
+      ],
+      "transcription": "ɪnˈkwaɪə",
+      "ru_translation": "спрашивать, интересоваться"
+    },
+    "img": "https://britlex.ru/images/inquire.jpg"
+  },
+  {
+    "id": "inquiryqwer",
+    "front": "inquiry",
+    "back": {
+      "definition": "(the process of asking) a question when you want more information",
+      "examples": [
+        "They launched an *inquiry* into the incident.",
+        "Your *inquiry* about the service has been received."
+      ],
+      "transcription": "ɪnˈkwaɪəri",
+      "ru_translation": "запрос, расспрашивание, выяснение"
+    },
+    "img": "https://cdn.someecards.com/posts/niche-scandals-iS1.jpg"
+  },
+  {
+    "id": "falsezxcv",
+    "front": "false",
+    "back": {
+      "definition": "not real, but made to look or seem real",
+      "examples": [
+        "She gave a *false* name to the police.",
+        "Beware of *false* information on the internet."
+      ],
+      "transcription": "fɔːls",
+      "ru_translation": "ложный, неверный"
+    },
+    "img": "https://toppng.com/uploads/preview/incorrecto-11551056626pkwcgkmorz.png"
+  },
+  {
+    "id": "falsehoodasdf",
+    "front": "falsehood",
+    "back": {
+      "definition": "a lie or a statement that is not correct",
+      "examples": [
+        "He was accused of spreading *falsehoods*.",
+        "The politician's *falsehood* was eventually uncovered."
+      ],
+      "transcription": "ˈfɔːlshʊd",
+      "ru_translation": "ложь, ложность"
+    },
+    "img": "https://mediad.publicbroadcasting.net/p/shared/npr/styles/placed_wide/nprshared/201809/645556383.jpg"
+  },
+  {
+    "id": "falsenessqwer",
+    "front": "falseness",
+    "back": {
+      "definition": "the quality of not being true or genuine",
+      "examples": [
+        "She could sense the *falseness* in his apology.",
+        "The *falseness* of the claim was revealed during the investigation."
+      ],
+      "transcription": "ˈfɔːlsnɪs",
+      "ru_translation": "фальшь"
+    },
+    "img": "https://t4.ftcdn.net/jpg/03/12/54/55/360_F_312545508_aHxiVldnLlQghIFDAVcqDCC1PawiTW0u.jpg"
+  },
+  {
+    "id": "eitherzxcv",
+    "front": "either",
+    "back": {
+      "definition": "used in negative sentences instead of 'also' or 'too'",
+      "examples": [
+        "He doesn’t like cats, and she doesn’t *either*.",
+        "I can’t come to the party, and my brother can’t *either*."
+      ],
+      "transcription": "ˈaɪðə",
+      "ru_translation": "также, тоже (в отриц. предл.)"
+    },
+    "img": "https://u.9111s.ru/uploads/202012/22/b2ed2bfea4797540e3da9f380fd65028.jpg"
+  },
+  {
+    "id": "eitherasdf",
+    "front": "either",
+    "back": {
+      "definition": "one of two people or things when it is not important which",
+      "examples": [
+        "*Either* dress will look good on you.",
+        "You can choose *either* book.",
+        "You can choose *either* option."
+      ],
+      "transcription": "ˈaɪðə",
+      "ru_translation": "любой (из двух), один (из двух)"
+    },
+    "img": "https://w7.pngwing.com/pngs/621/83/png-transparent-cartoon-book-3d-computer-graphics-text-rectangle.png"
+  },
+  {
+    "id": "eithersmthorqwer",
+    "front": "either smth or",
+    "back": {
+      "definition": "used when referring to a choice between two possibilities",
+      "examples": [
+        "We can *either* go to the beach *or* stay at home.",
+        "You can *either* take a bus *or* walk to the museum."
+      ],
+      "transcription": "ˈaɪðə",
+      "ru_translation": "или, либо"
+    },
+    "img": "https://stihi.ru/pics/2012/04/11/1525.jpg"
+  },
+  {
+    "id": "echozxcv",
+    "front": "echo",
+    "back": {
+      "definition": "a sound that is heard after it has been reflected off a surface such as a wall or a cliff",
+      "examples": [
+        "The *echo* of their laughter filled the cave.",
+        "Her voice created an *echo* in the large hall."
+      ],
+      "transcription": "ˈɛkəʊ",
+      "ru_translation": "эхо, отголосок"
+    },
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sonar_Principle_EN.svg/1200px-Sonar_Principle_EN.svg.png"
+  },
+  {
+    "id": "echoasdf",
+    "front": "echo",
+    "back": {
+      "definition": "to reflect sound off a surface such as a wall or a cliff",
+      "examples": [
+        "Her shout *echoed* through the empty hall.",
+        "The canyon *echoes* every sound made within it."
+      ],
+      "transcription": "ˈɛkəʊ",
+      "ru_translation": "отражаться эхом"
+    },
+    "img": "https://britlex.ru/images/echo.jpg"
+  },
+  {
+    "id": "stackqwer",
+    "front": "stack",
+    "back": {
+      "definition": "a pile of things arranged one on top of another",
+      "examples": [
+        "There is a *stack* of books on the table.",
+        "He built a *stack* of firewood next to the cabin."
+      ],
+      "transcription": "stæk",
+      "ru_translation": "стопка"
+    },
+    "img": "https://res.cloudinary.com/dq2vt8azs/image/upload/a0rq47wqlkmpvviawcpz"
+  },
+  {
+    "id": "stackzxcv",
+    "front": "stack",
+    "back": {
+      "definition": "to arrange things in an ordered pile",
+      "examples": [
+        "*Stack* the boxes in the corner.",
+        "She carefully *stacked* the plates in the cupboard."
+      ],
+      "transcription": "stæk",
+      "ru_translation": "складывать в стопку"
+    },
+    "img": "https://i.pinimg.com/originals/15/57/1d/15571d06735441abd1323f6137d1034f.png"
   }
 ]
