@@ -332,5 +332,387 @@
         ]
       }
     ]
+  },
+  {
+    "title": "UNIT 7",
+    "exercises": [
+      {
+        "ex_number": "7.1",
+        "questions": [
+          { "answer": "Her English has improved." },
+          { "answer": "My bag has disappeared." },
+          { "answer": "Lisa has broken her leg." },
+          { "answer": "The bus fare has gone up." },
+          { "answer": "Dan has grown a beard." },
+          { "answer": "It’s stopped raining. / It has stopped raining." },
+          { "answer": "My sweater has shrunk. / My sweater’s shrunk." }
+        ]
+      },
+      {
+        "ex_number": "7.2",
+        "questions": [
+          { "answer": "been" },
+          { "answer": "gone" },
+          { "answer": "gone" },
+          { "answer": "been" }
+        ]
+      },
+      {
+        "ex_number": "7.3",
+        "questions": [
+          { "answer": "Have you seen it" },
+          { "answer": "I’ve forgotten / I have forgotten" },
+          { "answer": "he hasn’t replied" },
+          { "answer": "has it finished" },
+          { "answer": "The weather has changed" },
+          { "answer": "You haven’t signed" },
+          { "answer": "have they gone" },
+          { "answer": "He hasn’t decided yet" },
+          { "answer": "I’ve just seen her / I have just seen her" },
+          { "answer": "He’s already gone / He has already gone" },
+          { "answer": "Has your course started yet" }
+        ]
+      },
+      {
+        "ex_number": "7.4",
+        "questions": [
+          {
+            "answer": "he’s just gone out / he has just gone out or he just went out"
+          },
+          { "answer": "I haven’t finished yet. or I didn’t finish yet." },
+          {
+            "answer": "I’ve already done it. / I have already done it. or I already did it. / I did it already."
+          },
+          {
+            "answer": "Have you found a place to live yet? or Did you find a place …?"
+          },
+          { "answer": "I haven’t decided yet. or I didn’t decide yet." },
+          {
+            "answer": "she’s just come back / she has just come back or she just came back"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UNIT 8",
+    "exercises": [
+      {
+        "ex_number": "8.1",
+        "questions": [
+          { "answer": "Have you ever been to California?" },
+          { "answer": "Have you ever run a marathon?" },
+          { "answer": "Have you ever spoken to a famous person?" },
+          {
+            "answer": "What’s the most beautiful place you’ve ever visited? / … you have ever visited?"
+          }
+        ]
+      },
+      {
+        "ex_number": "8.2",
+        "questions": [
+          { "answer": "haven’t eaten" },
+          { "answer": "I haven’t played (it)" },
+          { "answer": "I’ve had / I have had" },
+          { "answer": "I haven’t read" },
+          { "answer": "I’ve never been / I haven’t been" },
+          {
+            "answer": "it’s happened / it has happened or that’s happened / that has happened"
+          },
+          {
+            "answer": "I’ve never tried / I haven’t tried or I’ve never eaten / I haven’t eaten"
+          },
+          { "answer": "’s been / has been" },
+          { "answer": "I’ve never seen / I haven’t seen" }
+        ]
+      },
+      {
+        "ex_number": "8.3",
+        "questions": [
+          { "answer": "I haven’t travelled by bus this week." },
+          { "answer": "I haven’t been to the cinema recently." },
+          { "answer": "I haven’t read a book for ages." },
+          { "answer": "I haven’t lost anything today." }
+        ]
+      },
+      {
+        "ex_number": "8.4",
+        "questions": [
+          {
+            "answer": "It’s the first time they’ve seen a giraffe. / … they have seen …"
+          },
+          { "answer": "She’s / She has never ridden a horse before." },
+          {
+            "answer": "This is the second time they’ve been to Japan. / … they have been to Japan."
+          },
+          {
+            "answer": "It’s not the first time she’s / she has / Emily has stayed at this hotel."
+          },
+          {
+            "answer": "He’s / He has / Ben has never played tennis before. or He/Ben hasn’t played tennis before."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UNIT 9",
+    "exercises": [
+      {
+        "ex_number": "9.1",
+        "questions": [
+          {
+            "answer": "’s been watching TV / has been watching TV or … watching television"
+          },
+          { "answer": "’ve been playing tennis / have been playing tennis" },
+          { "answer": "’s been running / has been running" }
+        ]
+      },
+      {
+        "ex_number": "9.2",
+        "questions": [
+          { "answer": "Have you been waiting long?" },
+          { "answer": "What have you been doing?" },
+          { "answer": "How long have you been working here?" },
+          { "answer": "How long have you been doing that?" }
+        ]
+      },
+      {
+        "ex_number": "9.3",
+        "questions": [
+          { "answer": "’ve been waiting / have been waiting" },
+          {
+            "answer": "’ve been learning Japanese / have been learning Japanese"
+          },
+          { "answer": "She’s been working there / She has been working there" },
+          {
+            "answer": "They’ve been going there / They have been going there or … going to Italy"
+          }
+        ]
+      },
+      {
+        "ex_number": "9.4",
+        "questions": [
+          { "answer": "I’ve been looking / I have been looking" },
+          { "answer": "are you looking" },
+          { "answer": "She’s been teaching / She has been teaching" },
+          { "answer": "I’ve been thinking / I have been thinking" },
+          { "answer": "he’s working / he is working" },
+          { "answer": "She’s been working / She has been working" },
+          { "answer": "you’re driving / you are driving" },
+          { "answer": "has been travelling" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UNIT 10",
+    "exercises": [
+      {
+        "ex_number": "10.1",
+        "questions": [
+          {
+            "answer": "She’s been travelling / She has been travelling … She’s visited / She has visited …"
+          },
+          {
+            "answer": "He’s won / He has won … He’s been playing tennis / He has been playing …"
+          },
+          {
+            "answer": "They’ve been making / They have been making … They’ve made / They have made …"
+          }
+        ]
+      },
+      {
+        "ex_number": "10.2",
+        "questions": [
+          { "answer": "Have you been waiting long?" },
+          { "answer": "Have you caught any fish?" },
+          { "answer": "How many people have you invited?" },
+          { "answer": "How long have you been teaching?" },
+          {
+            "answer": "How many books have you written? How long have you been writing books?"
+          },
+          {
+            "answer": "How long have you been saving (money)? How much money have you saved?"
+          }
+        ]
+      },
+      {
+        "ex_number": "10.3",
+        "questions": [
+          { "answer": "Somebody’s broken / Somebody has broken" },
+          { "answer": "Have you been working" },
+          { "answer": "Have you ever worked" },
+          { "answer": "has she gone" },
+          { "answer": "I’ve had / I have had" },
+          { "answer": "I’ve been watching / I have been watching" },
+          { "answer": "He’s appeared / He has appeared" },
+          { "answer": "I haven’t been waiting" },
+          { "answer": "you’ve been crying / you have been crying" },
+          { "answer": "it’s stopped / it has stopped" },
+          { "answer": "They’ve been playing / They have been playing" },
+          { "answer": "I’ve lost / I have lost … Have you seen" },
+          {
+            "answer": "I’ve been reading / I have been reading … I haven’t finished"
+          },
+          { "answer": "I’ve read / I have read" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UNIT 11",
+    "exercises": [
+      {
+        "ex_number": "11.1",
+        "questions": [
+          { "answer": "have you lived" },
+          { "answer": "It’s raining" },
+          { "answer": "has been" },
+          { "answer": "Have you been waiting" },
+          { "answer": "We’re living" },
+          { "answer": "I haven’t known" },
+          { "answer": "She’s" },
+          { "answer": "have you had" },
+          { "answer": "I’ve been feeling" }
+        ]
+      },
+      {
+        "ex_number": "11.2",
+        "questions": [
+          { "answer": "How long have you known Katherine?" },
+          { "answer": "How long has your sister been in Australia?" },
+          {
+            "answer": "How long have you been teaching English? / How long have you taught English?"
+          },
+          { "answer": "How long have you had that jacket?" },
+          {
+            "answer": "How long has Joe been working at the airport? / How long has Joe worked at the airport?"
+          },
+          { "answer": "Have you always lived in Chicago?" }
+        ]
+      },
+      {
+        "ex_number": "11.3",
+        "questions": [
+          { "answer": "’s been / has been" },
+          { "answer": "’s / is" },
+          { "answer": "haven’t played" },
+          { "answer": "’ve been waiting / have been waiting" },
+          { "answer": "’ve known / have known" },
+          { "answer": "hasn’t been" },
+          { "answer": "lives or ’s living / is living" },
+          {
+            "answer": "’s lived / has lived or ’s been living / has been living"
+          },
+          { "answer": "’s been watching / has been watching" },
+          { "answer": "haven’t watched" },
+          { "answer": "’ve had / have had" },
+          { "answer": "haven’t been" },
+          { "answer": "’ve always wanted / have always wanted" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UNIT 12",
+    "exercises": [
+      {
+        "ex_number": "12.1",
+        "questions": [
+          { "answer": "for (also correct without for)" },
+          { "answer": "for (also correct without for)" },
+          { "answer": "since" },
+          { "answer": "for" },
+          { "answer": "since" },
+          { "answer": "since" },
+          { "answer": "for" }
+        ]
+      },
+      {
+        "ex_number": "12.2",
+        "questions": [
+          { "answer": "How long have you had this car?" },
+          { "answer": "How long have you been waiting?" },
+          { "answer": "When did your course start?" },
+          { "answer": "When did Anna arrive in London?" },
+          { "answer": "How long have you known each other?" }
+        ]
+      },
+      {
+        "ex_number": "12.3",
+        "questions": [
+          { "answer": "He has been ill/unwell since Sunday." },
+          { "answer": "She got married a year ago." },
+          { "answer": "I’ve had a headache since I woke up." },
+          { "answer": "The meeting started/began at 9 o’clock." },
+          {
+            "answer": "I’ve been working in a hotel for six months. / I’ve been working there …"
+          },
+          { "answer": "Kate started learning Japanese a long time ago." }
+        ]
+      },
+      {
+        "ex_number": "12.4",
+        "questions": [
+          { "answer": "No, I haven’t seen Lisa/her for about a month." },
+          { "answer": "No, I haven’t been swimming for a long time." },
+          { "answer": "No, I haven’t ridden a bike for ages." },
+          {
+            "answer": "No, it’s about a month since I (last) saw Lisa/her. or No, it’s been about a month since …"
+          },
+          {
+            "answer": "No, it’s a long time since I (last) went swimming. or No, it’s been a long time since …"
+          },
+          {
+            "answer": "No, it’s ages since I (last) rode a bike. or No, it’s been ages since …"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UNIT 13",
+    "exercises": [
+      {
+        "ex_number": "13.1",
+        "questions": [
+          { "answer": "has gone" },
+          { "answer": "forgot" },
+          { "answer": "went" },
+          { "answer": "had" },
+          { "answer": "has broken" }
+        ]
+      },
+      {
+        "ex_number": "13.2",
+        "questions": [
+          { "answer": "did William Shakespeare write" },
+          { "answer": "OK" },
+          { "answer": "Who invented" },
+          { "answer": "OK" },
+          { "answer": "We washed" },
+          { "answer": "Where were you born?" },
+          { "answer": "OK" },
+          { "answer": "Albert Einstein was the scientist who developed" }
+        ]
+      },
+      {
+        "ex_number": "13.3",
+        "questions": [
+          { "answer": "I’ve forgotten / I have forgotten" },
+          { "answer": "arrested" },
+          { "answer": "it’s improved / it has improved" },
+          { "answer": "Have you finished" },
+          { "answer": "I applied" },
+          { "answer": "It was" },
+          { "answer": "There’s been / There has been" },
+          { "answer": "did you find … It was" },
+          {
+            "answer": "He’s / He has broken … or He broke … did that happen … He fell"
+          }
+        ]
+      }
+    ]
   }
 ]
