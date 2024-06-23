@@ -11422,7 +11422,7 @@
         "The *tag* has the brand name on it."
       ],
       "transcription": "tæg",
-      "ru_translation": "ярлык, этикетка"
+      "ru_translation": "ярлык, этикетка, бирка (навешиваются)"
     },
     "img": "https://britlex.ru/images/tag.jpg"
   },
@@ -11788,7 +11788,7 @@
         "It was a complicated *affair* that took months to resolve."
       ],
       "transcription": "əˈfeə",
-      "ru_translation": "дело, ситуация"
+      "ru_translation": "ситуация, дело"
     },
     "img": "https://www.autospies.com/images/users/Agent009/main/o-CORPORATE-SCANDAL-facebook.jpg"
   },
@@ -12140,7 +12140,7 @@
         "The guard was *alert* to any unusual activity."
       ],
       "transcription": "əˈlɜːt",
-      "ru_translation": " "
+      "ru_translation": "бдительный, настороженный"
     },
     "img": "https://vyborprava.com/wp-content/uploads/2019/06/e67c7632-cef5-4d49-8467-6e3dc4138367-750x481.jpg"
   },
@@ -12410,5 +12410,495 @@
       "ru_translation": "складывать в стопку"
     },
     "img": "https://i.pinimg.com/originals/15/57/1d/15571d06735441abd1323f6137d1034f.png"
+  },
+  {
+    "id": "labelabc",
+    "front": "label",
+    "back": {
+      "definition": "a piece of paper, fabric, plastic, or similar material attached to an object and giving information about it.",
+      "examples": [
+        "She carefully read the *label* on the jar.",
+        "Make sure to *label* the boxes before moving."
+      ],
+      "transcription": "ˈleɪbl",
+      "ru_translation": "этикетка, ярлык (прикрепляются, клеятся)"
+    },
+    "img": "https://i.pinimg.com/736x/cb/d6/30/cbd6307759751128129795c8680a7c9a.jpg"
+  },
+  {
+    "id": "labelxyz",
+    "front": "label",
+    "back": {
+      "definition": "to attach a label to something.",
+      "examples": [
+        "We need to *label* all the items in the storage room.",
+        "He *labeled* each drawer with its contents."
+      ],
+      "transcription": "ˈleɪbl",
+      "ru_translation": "наклеивать, прикреплять этикетку, ярлык"
+    },
+    "img": "https://abkhaz-auto.ru/ii/1013/659/original/IMG_20220816_095402.jpg"
+  },
+  {
+    "id": "labeldef",
+    "front": "label",
+    "back": {
+      "definition": "a name or a phrase used to describe the characteristics or qualities of people, activities, or things, often in a way that is unfair.",
+      "examples": [
+        "He resented the *label* of 'lazy'.",
+        "The *label* stuck with him throughout his career."
+      ],
+      "transcription": "ˈleɪbl",
+      "ru_translation": "прозвище"
+    },
+    "img": "https://tse3.mm.bing.net/th?id=OIP.CJyGriYs3MTtWX2eSpF4uwHaKo&pid=Api"
+  },
+  {
+    "id": "labelghi",
+    "front": "label",
+    "back": {
+      "definition": "to use a word or phrase to describe someone or something, often in a way that is not fair or true.",
+      "examples": [
+        "It's not fair to *label* her as unreliable.",
+        "They *labeled* him a troublemaker."
+      ],
+      "transcription": "ˈleɪbl",
+      "ru_translation": "давать прозвище, клеймить"
+    },
+    "img": "https://steamuserimages-a.akamaihd.net/ugc/1823393159570282871/195AC1D25684410E36E44454F9DA047CFAC8227C/"
+  },
+  {
+    "id": "neitherabc",
+    "front": "neither",
+    "back": {
+      "definition": "used to show that a negative statement is also true of someone or something else.",
+      "examples": [
+        "I don't like it, and *neither* does she.",
+        "He didn't attend the meeting, and *neither* did I."
+      ],
+      "transcription": "ˈnaɪðə",
+      "ru_translation": "тоже не"
+    },
+    "img": "https://kappanonline.org/wp-content/uploads/2022/11/GettyImages-865287304-2048x2048.jpg"
+  },
+  {
+    "id": "neitherxyz",
+    "front": "neither",
+    "back": {
+      "definition": "not one and not the other of two things or people.",
+      "examples": [
+        "*Neither* of the solutions was satisfactory.",
+        "I could see *neither* of the options clearly."
+      ],
+      "transcription": "ˈnaɪðə",
+      "ru_translation": "ни тот, ни другой, ни один"
+    },
+    "img": "https://thumbs.dreamstime.com/b/young-handsome-man-refuses-to-eat-fast-food-french-fries-drink-soda-crosses-his-arms-like-no-sign-isolated-young-155828482.jpg"
+  },
+  {
+    "id": "neithersmthnorabc",
+    "front": "neither smth nor",
+    "back": {
+      "definition": "used to connect two or more negative alternatives.",
+      "examples": [
+        "She enjoys *neither* music *nor* sports.",
+        "The book is *neither* interesting *nor* informative."
+      ],
+      "transcription": "ˈnaɪðə",
+      "ru_translation": "ни … ни"
+    },
+    "img": "https://thumbs.dreamstime.com/b/woman-student-boring-reading-book-library-lot-books-university-student-disheartened-reading-book-examination-150234888.jpg"
+  },
+  {
+    "id": "saleabc",
+    "front": "sale",
+    "back": {
+      "definition": "an act of exchanging something for money.",
+      "examples": [
+        "The *sale* of the house was completed yesterday.",
+        "They are having a clearance *sale* this weekend."
+      ],
+      "transcription": "seɪl",
+      "ru_translation": "продажа, распродажа"
+    },
+    "img": "https://miro.medium.com/v2/resize:fit:500/0*boAWQksKnORcz4Vw.jpg"
+  },
+  {
+    "id": "resaleabc",
+    "front": "resale",
+    "back": {
+      "definition": "the act of selling something that you have bought from someone else.",
+      "examples": [
+        "The *resale* of tickets is prohibited.",
+        "They made a profit on the *resale* of the car."
+      ],
+      "transcription": "ˌriːˈseɪl",
+      "ru_translation": "перепродажа"
+    },
+    "img": "https://footwearnews.com/wp-content/uploads/2019/09/s4.jpg"
+  },
+  {
+    "id": "batabc",
+    "front": "bat",
+    "back": {
+      "definition": "a specially shaped piece of wood used for hitting the ball in some games.",
+      "examples": [
+        "He swung the *bat* and hit a home run.",
+        "She held the *bat* tightly as she waited for the pitch."
+      ],
+      "transcription": "bæt",
+      "ru_translation": "бита"
+    },
+    "img": "https://icon-library.com/images/2018/180459_baseball-baseball-bat-png-hd-png-download.png"
+  },
+  {
+    "id": "batxyz",
+    "front": "bat",
+    "back": {
+      "definition": "a small animal that flies at night and looks like a mouse with large wings.",
+      "examples": [
+        "A *bat* flew out of the cave.",
+        "We saw a *bat* hanging from the tree."
+      ],
+      "transcription": "bæt",
+      "ru_translation": "летучая мышь"
+    },
+    "img": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2022/09/12025347/Image1-768x512.jpeg"
+  },
+  {
+    "id": "batdef",
+    "front": "bat",
+    "back": {
+      "definition": "to hit a ball with a bat.",
+      "examples": [
+        "He *batted* the ball out of the park.",
+        "She *batted* the ball towards third base."
+      ],
+      "transcription": "bæt",
+      "ru_translation": "бить битой по мячу"
+    },
+    "img": "https://www.stgeorgeutah.com/wp-content/uploads/2015/05/ASP_0669-1024x738.jpg"
+  },
+  {
+    "id": "flatabc",
+    "front": "flat",
+    "back": {
+      "definition": "a set of rooms forming an individual residence, typically on one floor and within a larger building.",
+      "examples": [
+        "They moved into a new *flat* downtown.",
+        "Her *flat* has a beautiful view of the park."
+      ],
+      "transcription": "flæt",
+      "ru_translation": "квартира"
+    },
+    "img": "https://www.master-service.ru/upload/iblock/ac8/ac81b58deae5ab045ed4aef8986fbee2.jpg"
+  },
+  {
+    "id": "flatxyz",
+    "front": "flat",
+    "back": {
+      "definition": "having a level surface; without raised areas or indentations.",
+      "examples": [
+        "The land was completely *flat*.",
+        "He likes to sleep on a *flat* surface."
+      ],
+      "transcription": "flæt",
+      "ru_translation": "плоский, ровный"
+    },
+    "img": "https://i.ytimg.com/vi/A40nbBP8FX8/hqdefault.jpg"
+  },
+  {
+    "id": "flatdef",
+    "front": "flat",
+    "back": {
+      "definition": "lacking strong emotions, dull, and lifeless.",
+      "examples": [
+        "The performance was rather *flat*.",
+        "Her voice sounded *flat* and unenthusiastic."
+      ],
+      "transcription": "flæt",
+      "ru_translation": "монотонный, вялый"
+    },
+    "img": "https://www.meme-arsenal.com/memes/e44ec2bc5f50a742111352bdb1a1f78a.jpg"
+  },
+  {
+    "id": "flattenabc",
+    "front": "flatten",
+    "back": {
+      "definition": "to make or become flat or flatter.",
+      "examples": [
+        "He used a roller to *flatten* the dough.",
+        "The storm *flattened* the crops."
+      ],
+      "transcription": "ˈflætn",
+      "ru_translation": "выравнивать(ся), становиться или делать плоским"
+    },
+    "img": "https://cdn-images-1.medium.com/v2/resize:fit:800/1*ckGE06Yi648COpvjgP4taA.jpeg"
+  },
+  {
+    "id": "limitabc",
+    "front": "limit",
+    "back": {
+      "definition": "the greatest amount, number, or level of something that is either possible or allowed.",
+      "examples": [
+        "There is a *limit* to how much you can spend.",
+        "The speed *limit* is 60 miles per hour."
+      ],
+      "transcription": "ˈlɪmɪt",
+      "ru_translation": "предел, ограничение"
+    },
+    "img": "https://britlex.ru/images/limit.jpg"
+  },
+  {
+    "id": "limitxyz",
+    "front": "limit",
+    "back": {
+      "definition": "to control something so that it is not greater than a particular amount, number, or level.",
+      "examples": [
+        "They need to *limit* their spending.",
+        "We must *limit* the amount of sugar in our diet."
+      ],
+      "transcription": "ˈlɪmɪt",
+      "ru_translation": "ограничивать"
+    },
+    "img": "https://sevastopol.su/sites/default/files/styles/node/public/2018-05-10/flagman-190063_960_720.jpg"
+  },
+  {
+    "id": "headoffabc",
+    "front": "head off",
+    "back": {
+      "definition": "to start a journey or leave a place.",
+      "examples": [
+        "We need to *head off* early to avoid traffic.",
+        "They will *head off* to the mountains for the weekend."
+      ],
+      "transcription": "hɛdɒf",
+      "ru_translation": "отправиться, выдвигаться в определённом направлении"
+    },
+    "img": "https://www.polsov.com/upload/014/u1405/5/b/8-pravil-utrennih-sborov-dlja-vsei-semi-images-big.jpg"
+  },
+  {
+    "id": "headoffxyz",
+    "front": "head off",
+    "back": {
+      "definition": "to prevent a difficult or unpleasant situation from happening.",
+      "examples": [
+        "They tried to *head off* the crisis by negotiating.",
+        "We need to *head off* any potential problems before they arise."
+      ],
+      "transcription": "hɛdɒf",
+      "ru_translation": "предотвращать"
+    },
+    "img": "https://images.ctfassets.net/hrltx12pl8hq/3wvUCSiYA24mC0SXDTho7L/debe8bcdeb4cb82599c01055368c03b2/03-war-battles_1537730090.jpg?fit=fill&w=600&h=338"
+  },
+  {
+    "id": "getoffabc",
+    "front": "get off",
+    "back": {
+      "definition": "to leave a place, usually in order to start a journey.",
+      "examples": [
+        "We should *get off* before noon.",
+        "I'll meet you after work - what time do you *get off*?"
+      ],
+      "transcription": "gɛtɒf",
+      "ru_translation": "выйти"
+    },
+    "img": "https://i.pinimg.com/736x/83/a7/28/83a728f9c8105ff7d623f5cf877bcb05.jpg"
+  },
+  {
+    "id": "getoffxyz",
+    "front": "get off",
+    "back": {
+      "definition": "to leave a bus, train, or other vehicle.",
+      "examples": [
+        "She *got off* the train at the last station.",
+        "Make sure to *get off* at the correct stop."
+      ],
+      "transcription": "gɛtɒf",
+      "ru_translation": "выйти (из транспорта)"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/293031/1628716720_105164.jpeg"
+  },
+  {
+    "id": "getinabc",
+    "front": "get in",
+    "back": {
+      "definition": "to enter a place, especially when this is difficult.",
+      "examples": [
+        "They managed to *get in* through the window.",
+        "How did you *get in* without a key?"
+      ],
+      "transcription": "gɛtɒf",
+      "ru_translation": "влезать, проникать"
+    },
+    "img": "https://cdn-zttim.storage.yandexcloud.net/uploads/2021/08/original_photo-thumb_650.jpg"
+  },
+  {
+    "id": "getinxyz",
+    "front": "get in",
+    "back": {
+      "definition": "to enter a vehicle.",
+      "examples": [
+        "She *got in* the car and drove off.",
+        "He *got in* the taxi and told the driver where to go."
+      ],
+      "transcription": "gɛtɒf",
+      "ru_translation": "садиться (в транспорт)"
+    },
+    "img": "https://www.contocorrenteonline.it/wp-content/uploads/2022/05/biglietto-autobus-696x464.jpg"
+  },
+  {
+    "id": "getindef",
+    "front": "get in",
+    "back": {
+      "definition": "to arrive at a place.",
+      "examples": [
+        "They *got in* late last night.",
+        "What time does the train *get in*?"
+      ],
+      "transcription": "gɛtɒf",
+      "ru_translation": "прибывать, приходить"
+    },
+    "img": "https://stihi.ru/pics/2019/12/28/1468.jpg"
+  },
+  {
+    "id": "gooffabc",
+    "front": "go off",
+    "back": {
+      "definition": "to leave a place and go somewhere else.",
+      "examples": [
+        "She *went off* to find a quiet place to read.",
+        "He *went off* without saying goodbye."
+      ],
+      "transcription": "gəʊɒf",
+      "ru_translation": "уходить"
+    },
+    "img": "https://thumbs.dreamstime.com/b/smiling-father-waves-goodbye-to-wife-daughter-leaves-home-business-trip-stands-door-travel-suitcase-kid-girl-stays-115162419.jpg"
+  },
+  {
+    "id": "driveoffabc",
+    "front": "drive off",
+    "back": {
+      "definition": "to leave in a car.",
+      "examples": [
+        "He *drove off* without looking back.",
+        "They *drove off* into the sunset."
+      ],
+      "transcription": "draɪvɒf",
+      "ru_translation": "уехать (на машине)"
+    },
+    "img": "https://otailande.com/wp-content/uploads/2019/04/para_v_mashine_foto_1-1024x682.jpg"
+  },
+  {
+    "id": "walkoffabc",
+    "front": "walk off",
+    "back": {
+      "definition": "to leave a place, especially because you are angry or unhappy.",
+      "examples": [
+        "She *walked off* in a huff.",
+        "He *walked off* without saying a word."
+      ],
+      "transcription": "wɔːkɒf",
+      "ru_translation": "уходить (пешком)"
+    },
+    "img": "https://mir-s3-cdn-cf.behance.net/projects/max_808/1c2cf038723027.Y3JvcCwxNDY4LDExNDksODEsMA.jpg"
+  },
+  {
+    "id": "ruralabc",
+    "front": "rural",
+    "back": {
+      "definition": "in, of, or like the countryside.",
+      "examples": [
+        "They live in a *rural* area.",
+        "The scenery is very *rural* and peaceful."
+      ],
+      "transcription": "ˈrʊərəl",
+      "ru_translation": "сельский, деревенский"
+    },
+    "img": "https://p2.piqsels.com/preview/641/440/838/the-mol%C3%A9son-in-september-broc-epagny.jpg"
+  },
+  {
+    "id": "compelabc",
+    "front": "compel",
+    "back": {
+      "definition": "to force someone to do something.",
+      "examples": [
+        "The evidence *compelled* the jury to convict.",
+        "They were *compelled* to obey."
+      ],
+      "transcription": "kəmˈpɛl",
+      "ru_translation": "заставлять, вынуждать"
+    },
+    "img": "https://thumbs.dreamstime.com/b/%D1%82%D0%BE-%D0%BF%D1%83%D1%82%D1%8C-38101861.jpg"
+  },
+  {
+    "id": "boostabc",
+    "front": "boost",
+    "back": {
+      "definition": "to increase or improve something.",
+      "examples": [
+        "The new product *boosted* sales significantly.",
+        "They are trying to *boost* their productivity."
+      ],
+      "transcription": "buːst",
+      "ru_translation": "повышать, усиливать"
+    },
+    "img": "https://www.lorensworld.com/wp-content/uploads/2015/01/shutterstock_202883830.jpg"
+  },
+  {
+    "id": "boostxyz",
+    "front": "boost",
+    "back": {
+      "definition": "an improvement or increase, or an action that causes this.",
+      "examples": [
+        "The extra funding was a great *boost* for the project.",
+        "She gave his confidence a *boost*."
+      ],
+      "transcription": "buːst",
+      "ru_translation": "усиливание, поддержка, буст"
+    },
+    "img": ""
+  },
+  {
+    "id": "boosterabc",
+    "front": "booster",
+    "back": {
+      "definition": "a device, substance, or dose that increases the effectiveness of something.",
+      "examples": [
+        "The *booster* shot is essential for immunity.",
+        "They installed a signal *booster* for better reception."
+      ],
+      "transcription": "ˈbuːstə",
+      "ru_translation": "ускоритель, усилитель"
+    },
+    "img": "https://metallurgprom.org/uploads/posts/2021-05/image_16216020641.jpg"
+  },
+  {
+    "id": "grinabc",
+    "front": "grin",
+    "back": {
+      "definition": "to smile a wide smile.",
+      "examples": [
+        "He *grinned* from ear to ear.",
+        "She couldn't help but *grin* at the joke."
+      ],
+      "transcription": "grɪn",
+      "ru_translation": "ухмыляться"
+    },
+    "img": "https://i.pinimg.com/736x/c7/58/a7/c758a7f14be9850b10fe52f7e4a21648--zoe-barnard-grateful-for.jpg"
+  },
+  {
+    "id": "grinxyz",
+    "front": "grin",
+    "back": {
+      "definition": "a wide smile.",
+      "examples": [
+        "His *grin* showed his delight.",
+        "She had a mischievous *grin* on her face."
+      ],
+      "transcription": "grɪn",
+      "ru_translation": "ухмылка"
+    },
+    "img": "https://static.wikia.nocookie.net/007e34fe-d8d8-4797-a5a1-e105773b16ea"
   }
 ]
