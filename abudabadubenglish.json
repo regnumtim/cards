@@ -1283,7 +1283,7 @@
         "She has a *wide* range of interests."
       ],
       "transcription": "waɪd",
-      "ru_translation": "широкий, просторный"
+      "ru_translation": "широкий"
     },
     "img": "https://sun9-1.userapi.com/c852124/v852124296/21a34/bDkv5J7Quo8.jpg"
   },
@@ -11108,7 +11108,7 @@
     "id": "doubtfulEFG",
     "front": "doubtful",
     "back": {
-      "definition": "If you are doubtful about something, you are uncertain about it",
+      "definition": "not probable or not feeling certain about something",
       "examples": [
         "She was *doubtful* about his ability to complete the task.",
         "It's *doubtful* that the event will go as planned."
@@ -11844,7 +11844,7 @@
         "The period was *termed* 'The Great Depression'."
       ],
       "transcription": "tɜːm",
-      "ru_translation": "называть, давать определение"
+      "ru_translation": "давать термин, называть"
     },
     "img": "https://static-3.bitchute.com/live/cover_images/yNKbAl17J3Gu/mu5BCkZ3wZij_640x360.jpg"
   },
@@ -11996,7 +11996,7 @@
       "definition": "to stay in the same place or in the same condition.",
       "examples": [
         "She decided to *remain* at home.",
-        "Despite the challenges, they remained friends.",
+        "Despite the challenges, they *remained* friends.",
         "Despite the changes, the core values *remain* the same."
       ],
       "transcription": "rɪˈmeɪn",
@@ -12900,5 +12900,258 @@
       "ru_translation": "ухмылка"
     },
     "img": "https://static.wikia.nocookie.net/007e34fe-d8d8-4797-a5a1-e105773b16ea"
+  },
+  {
+    "id": "tremendousABC123",
+    "front": "tremendous",
+    "back": {
+      "definition": "very great in amount, scale, or intensity",
+      "examples": [
+        "The *tremendous* effort of the team led to their victory.",
+        "She felt a *tremendous* amount of joy after hearing the news."
+      ],
+      "transcription": "trɪˈmɛndəs",
+      "ru_translation": "потрясающий"
+    },
+    "img": "https://i.dailymail.co.uk/i/pix/2011/06/14/article-2003325-0C2A34CC000005DC-252_1024x615_large.jpg"
+  },
+  {
+    "id": "tremendousXYZ456",
+    "front": "tremendous",
+    "back": {
+      "definition": "very large, great, or powerful",
+      "examples": [
+        "The hurricane caused *tremendous* damage to the town.",
+        "He has a *tremendous* amount of respect for his mentor."
+      ],
+      "transcription": "trɪˈmɛndəs",
+      "ru_translation": "громадный, огромный"
+    },
+    "img": "https://britlex.ru/images/tremendous.jpg"
+  },
+  {
+    "id": "padLMN789",
+    "front": "pad",
+    "back": {
+      "definition": "a number of sheets of paper glued together at one end, used for writing or drawing",
+      "examples": [
+        "She quickly scribbled her notes on the *pad*.",
+        "He carries a *pad* with him everywhere for his sketches."
+      ],
+      "transcription": "pæd",
+      "ru_translation": "блокнот"
+    },
+    "img": "https://top-fon.com/uploads/posts/2023-01/thumbs/1675196358_top-fon-com-p-fon-dlya-prezentatsii-bloknot-goluboi-191.jpg"
+  },
+  {
+    "id": "padGHI012",
+    "front": "pad",
+    "back": {
+      "definition": "a thick piece of soft material, typically used to protect or shape something, or to absorb liquid",
+      "examples": [
+        "The athlete used a knee *pad* for protection.",
+        "She placed a *pad* under the vase to prevent scratches."
+      ],
+      "transcription": "pæd",
+      "ru_translation": "мягкая подушечка, прокладка"
+    },
+    "img": "https://www.dateks.lv/images/pic/2400/2400/237/154.jpg"
+  },
+  {
+    "id": "anticipateJKL345",
+    "front": "anticipate",
+    "back": {
+      "definition": "to expect or predict",
+      "examples": [
+        "They *anticipate* heavy traffic during the holiday season.",
+        "She *anticipates* that the project will be completed ahead of schedule."
+      ],
+      "transcription": "ænˈtɪsɪpeɪt",
+      "ru_translation": "ожидать, предвидеть"
+    },
+    "img": "https://media.proprofs.com/images/FC/user_images/misc/7647891591.jpg"
+  },
+  {
+    "id": "anticipationOPQ678",
+    "front": "anticipation",
+    "back": {
+      "definition": "the act of anticipating something; expectation or prediction",
+      "examples": [
+        "There was a sense of *anticipation* in the air before the concert.",
+        "The *anticipation* of the new product release kept everyone excited."
+      ],
+      "transcription": "ænˌtɪsɪˈpeɪʃ(ə)n",
+      "ru_translation": "ожидание, предвкушение"
+    },
+    "img": "https://static.wixstatic.com/media/f7f67f_cc9ef4a10cd64fcc8f1181d83e445da9~mv2.jpg/v1/fit/w_1024,h_684,al_c,q_80/file.jpg"
+  },
+  {
+    "id": "patternRST901",
+    "front": "pattern",
+    "back": {
+      "definition": "a repeated decorative design",
+      "examples": [
+        "The wallpaper had a beautiful floral *pattern*.",
+        "She admired the intricate *pattern* on the fabric."
+      ],
+      "transcription": "ˈpætən",
+      "ru_translation": "узор"
+    },
+    "img": "https://million.in.ua/wp-content/uploads/2019/04/romby-uzory-cvety-600x400.jpg"
+  },
+  {
+    "id": "patternUVW234",
+    "front": "pattern",
+    "back": {
+      "definition": "a particular way in which something is done, organized, or happens",
+      "examples": [
+        "He noticed a *pattern* in her behavior.",
+        "The data revealed a *pattern* of seasonal sales."
+      ],
+      "transcription": "ˈpætən",
+      "ru_translation": "модель, паттерн (поведения)"
+    },
+    "img": "https://www.researchgate.net/profile/Jessica-Dean-10/publication/275555178/figure/fig1/AS:391792538210305@1470422028028/Transtheoretical-model-showing-distinct-stages-of-change.png"
+  },
+  {
+    "id": "setsmblupwithEFG567",
+    "front": "set smb up with",
+    "back": {
+      "definition": "to provide someone with something that they need",
+      "examples": [
+        "He *set* her *up with* a job at his company.",
+        "They *set* him *up with* the necessary equipment.",
+        "She was *set up with* a new laptop for her job."
+      ],
+      "transcription": "sɛtsmbʌpwɪð",
+      "ru_translation": "устроить, организовать, обеспечить"
+    },
+    "img": "https://britlex.ru/images/set%20smb%20up%20with2.jpg"
+  },
+  {
+    "id": "setsmblupwithHIJ890",
+    "front": "set smb up with",
+    "back": {
+      "definition": "to trick someone in order to achieve an aim",
+      "examples": [
+        "They *set* him *up with* false information.",
+        "She felt she was *set up with* a bad situation."
+      ],
+      "transcription": "sɛtsmbʌpwɪð",
+      "ru_translation": "подставить"
+    },
+    "img": "https://m.gjcdn.net/fireside-post-image/900/9066426-pgp3g8f5-v4.jpg"
+  },
+  {
+    "id": "ovenKLM123",
+    "front": "oven",
+    "back": {
+      "definition": "a device for baking, roasting, or heating food",
+      "examples": [
+        "She baked cookies in the *oven*.",
+        "The *oven* was preheated to 350 degrees."
+      ],
+      "transcription": "ˈʌvn",
+      "ru_translation": "духовка, печь"
+    },
+    "img": "https://i.pinimg.com/736x/70/84/41/708441581fa056cfe124c05867c67563.jpg"
+  },
+  {
+    "id": "microwaveovenNOP456",
+    "front": "microwave oven",
+    "back": {
+      "definition": "an oven that cooks food very quickly using electromagnetic waves",
+      "examples": [
+        "He heated his lunch in the *microwave oven*.",
+        "The *microwave oven* made cooking more convenient."
+      ],
+      "transcription": "ˈmaɪkrəʊweɪvˈʌvn",
+      "ru_translation": "микроволновка"
+    },
+    "img": "https://mebel169.ru/uploads/media/Articles/kak-vybrat-mikrovolnovuyu-pech/resize/image4_widen-exact_custom_720x.jpg"
+  },
+  {
+    "id": "anxiousQRS789",
+    "front": "anxious",
+    "back": {
+      "definition": "feeling or showing worry, nervousness, or unease about something with an uncertain outcome",
+      "examples": [
+        "She felt *anxious* before the exam.",
+        "He is *anxious* about the results of his application."
+      ],
+      "transcription": "ˈæŋkʃəs",
+      "ru_translation": "встревоженный, волнующийся"
+    },
+    "img": "https://www.shkolazhizni.ru/img/content/i227/227244_or.jpg"
+  },
+  {
+    "id": "anxiousTUV012",
+    "front": "anxious",
+    "back": {
+      "definition": "wanting something very much, typically with a feeling of unease",
+      "examples": [
+        "She is *anxious* to start her new job.",
+        "He was *anxious* for the meeting to begin."
+      ],
+      "transcription": "ˈæŋkʃəs",
+      "ru_translation": "стремящийся"
+    },
+    "img": "https://pasis30.ru/uploads/news/2b82801aff2d01ff5fc86c67ed9f8561.jpg"
+  },
+  {
+    "id": "mealWXY345",
+    "front": "meal",
+    "back": {
+      "definition": "an occasion when food is eaten, or the food that is eaten on such an occasion",
+      "examples": [
+        "They had a delicious *meal* together.",
+        "Breakfast is the most important *meal* of the day."
+      ],
+      "transcription": "miːl",
+      "ru_translation": "принятие пищи, еда"
+    },
+    "img": "https://www.healthycoastmeals.com/wp-content/uploads/2017/03/A6B3795-Edit-507x338.jpg"
+  },
+  {
+    "id": "inadvanceZAB678",
+    "front": "in advance",
+    "back": {
+      "definition": "before a particular time, or before doing a particular thing",
+      "examples": [
+        "They booked their tickets *in advance*.",
+        "Please let me know *in advance* if you need any help."
+      ],
+      "transcription": "ɪnədˈvɑːns",
+      "ru_translation": "заранее"
+    },
+    "img": "https://publish.com.ua/images/2019/07/24/62fc9ec3d74f_What-exactly-is-intermittent-fasting-min[1][1]_large.jpg"
+  },
+  {
+    "id": "furtherCDE901",
+    "front": "further",
+    "back": {
+      "definition": "to a greater distance or degree, or at a more advanced level",
+      "examples": [
+        "They walked *further* into the forest.",
+        "The project needs to be developed *further*."
+      ],
+      "transcription": "ˈfɜːðə",
+      "ru_translation": "дальше, далее, дальнейший"
+    },
+    "img": "https://xyforex.com/wp-content/uploads/2022/01/Multichain-asks-users-to-revoke-approvals-amid-%E2%80%98critical-vulnerability-1068x712.jpg"
+  },
+  {
+    "id": "furthermoreFGH234",
+    "front": "furthermore",
+    "back": {
+      "definition": "in addition; more importantly",
+      "examples": [
+        "The study is well designed; *furthermore*, it addresses important questions.",
+        "She is intelligent and hardworking; *furthermore*, she is also very kind."
+      ],
+      "transcription": "ˈfɜːðəˈmɔː",
+      "ru_translation": "более того, кроме того"
+    },
+    "img": "https://t3.ftcdn.net/jpg/04/83/96/10/360_F_483961018_XlHMF5srr0s7U7CnvhsFvMwwzmadObtw.jpg"
   }
 ]
