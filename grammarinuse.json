@@ -37,6 +37,36 @@
         ]
       },
       {
+        "ex_number": "1.3 ADDITIONAL",
+        "questions": [
+          { "answer": "What are you doing?" },
+          { "answer": "Why are you shouting?" },
+          { "answer": "What are they doing?" },
+          { "answer": "Why are you not opening the window?" },
+          { "answer": "Is it raining?" },
+          { "answer": "Are you working late again?" },
+          { "answer": "Who is calling?" },
+          { "answer": "What is happening?" },
+          { "answer": "Where is everyone going?" },
+          { "answer": "Why are you standing in the rain?" },
+          { "answer": "What are you painting?" },
+          { "answer": "What are you reading?" },
+          { "answer": "What is it doing?" },
+          { "answer": "Why are you walking like that?" },
+          { "answer": "Why are you so happy?" },
+          { "answer": "Why are you not turning on the light?" },
+          { "answer": "What are you cooking?" },
+          { "answer": "Are you not going to work today?" },
+          { "answer": "What are you doing to it?" },
+          { "answer": "Where are you traveling to?" },
+          { "answer": "Is someone working late?" },
+          { "answer": "What are you planning to do?" },
+          { "answer": "Who is playing the piano?" },
+          { "answer": "What are you looking forward to?" },
+          { "answer": "What is happening in town?" }
+        ]
+      },
+      {
         "ex_number": "1.4",
         "questions": [
           { "answer": "I’m not listening / I am not listening" },
@@ -53,6 +83,36 @@
           { "answer": "He’s not enjoying / He is not enjoying" },
           { "answer": "The weather’s changing / The weather is changing" },
           { "answer": "He’s starting / He is starting" }
+        ]
+      },
+      {
+        "ex_number": "1.4 ADDITIONAL",
+        "questions": [
+          { "answer": "I am reading" },
+          { "answer": "It is snowing" },
+          { "answer": "I am going" },
+          { "answer": "I am looking" },
+          { "answer": "are coming" },
+          { "answer": "She is cooking" },
+          { "answer": "are you doing" },
+          { "answer": "is not working" },
+          { "answer": "are playing" },
+          { "answer": "is singing" },
+          { "answer": "is he running" },
+          { "answer": "They are planning" },
+          { "answer": "is moving" },
+          { "answer": "are not watching" },
+          { "answer": "is shining" },
+          { "answer": "Are you reading" },
+          { "answer": "is she crying" },
+          { "answer": "I am writing" },
+          { "answer": "is barking" },
+          { "answer": "are not coming" },
+          { "answer": "He is fixing" },
+          { "answer": "The cat is chasing" },
+          { "answer": "is not driving" },
+          { "answer": "I am thinking" },
+          { "answer": "are making" }
         ]
       }
     ]
