@@ -13338,14 +13338,14 @@
   },
   {
     "id": "bindghi678",
-    "front": "bind",
+    "front": "bind (bound, bound)",
     "back": {
       "definition": "to tie something tightly or to fasten something",
       "examples": [
         "They used rope to *bind* the logs together.",
         "Please *bind* the documents with a clip."
       ],
-      "transcription": "baɪnd",
+      "transcription": "baɪnd, baʊnd",
       "ru_translation": "связывать"
     },
     "img": "https://media.deutsche-handwerks-zeitung.de/uploads/2020/12/Buchbinder.jpg"
@@ -13517,5 +13517,328 @@
       "ru_translation": "(однажды) давным-давно"
     },
     "img": "https://media.foma.ru/2015/11/Evgeniy-Demakov.-Skazka-na-noch-e1448633589172.jpg"
+  },
+  {
+    "id": "vicejskd",
+    "front": "vice",
+    "back": {
+      "definition": "a moral fault or weakness in someone's character",
+      "examples": [
+        "He was known for his many *vices*.",
+        "Greed is considered a *vice* by many."
+      ],
+      "transcription": "vaɪs",
+      "ru_translation": "порок"
+    },
+    "img": "https://pbs.twimg.com/media/ErKDnf1XMAMZWKB.jpg"
+  },
+  {
+    "id": "viciouskdj",
+    "front": "vicious",
+    "back": {
+      "definition": "intending to hurt someone or something very badly",
+      "examples": [
+        "The dog gave a *vicious* growl.",
+        "He made a *vicious* attack on his opponent."
+      ],
+      "transcription": "ˈvɪʃəs",
+      "ru_translation": "порочный, жестокий, злонамеренный"
+    },
+    "img": "https://1.bp.blogspot.com/-oOvTT481hxY/WpDxbnEUFTI/AAAAAAAAoqw/GHFr5clLAO42B8iyQkwkVr0ZGhf5Tx46ACLcBGAs/s1600/FB_IMG_1519446170809.jpg"
+  },
+  {
+    "id": "lightlitxyz",
+    "front": "light (lit, lit)",
+    "back": {
+      "definition": "to start to burn or to make something start to burn",
+      "examples": [
+        "She used a match to *light* the candle.",
+        "He *lit* the fire with some dry leaves."
+      ],
+      "transcription": "laɪt, lɪt",
+      "ru_translation": "зажигать, загораться, освещать(ся)"
+    },
+    "img": "https://catchsuccess.ru/wp-content/uploads/c/f/a/cfade77d8a31db25a89f2a7d8ad572e8.jpeg"
+  },
+  {
+    "id": "lightab12",
+    "front": "light",
+    "back": {
+      "definition": "not weighing much",
+      "examples": [
+        "The suitcase was surprisingly *light*.",
+        "He felt a *light* breeze on his face."
+      ],
+      "transcription": "laɪt",
+      "ru_translation": "легкий, слабый"
+    },
+    "img": "https://fb.ru/media/i/8/2/5/9/7/7/i/825977.jpg"
+  },
+  {
+    "id": "lightcd34",
+    "front": "light",
+    "back": {
+      "definition": "the brightness that comes from the sun, fire, etc. and from electrical devices, and that allows things to be seen",
+      "examples": [
+        "The room was filled with *light* from the window.",
+        "They saw a *light* in the distance."
+      ],
+      "transcription": "laɪt",
+      "ru_translation": "свет, источник света"
+    },
+    "img": "https://courses24.net/wp-content/uploads/2023/09/svet-protiv-proklyatij-melani-fisher_64fbbb3831d66.jpeg"
+  },
+  {
+    "id": "lighter56ef",
+    "front": "lighter",
+    "back": {
+      "definition": "a small device for providing a flame for a cigarette, etc.",
+      "examples": [
+        "He used a *lighter* to ignite the barbecue.",
+        "She searched her bag for a *lighter*."
+      ],
+      "transcription": "ˈlaɪtə",
+      "ru_translation": "зажигалка"
+    },
+    "img": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/tnh9g40w8hgznfxrjlzx.jpg"
+  },
+  {
+    "id": "occupygh78",
+    "front": "occupy",
+    "back": {
+      "definition": "to fill, exist in, or use a place or period of time",
+      "examples": [
+        "Books *occupy* most of my free time.",
+        "They plan to *occupy* the new office next month."
+      ],
+      "transcription": "ˈɒkjʊpaɪ",
+      "ru_translation": "занимать (место, время)"
+    },
+    "img": "https://zib.com.ua/files/articles_photos/140249.jpg"
+  },
+  {
+    "id": "accordingtuij90",
+    "front": "according to",
+    "back": {
+      "definition": "as stated by",
+      "examples": [
+        "*According to* the weather forecast, it will rain tomorrow.",
+        "*According to* the report, sales have increased.",
+        "She did everything *according to* the instructions."
+      ],
+      "transcription": "əˈkɔːdɪŋtuː",
+      "ru_translation": "в соответствии с, согласно"
+    },
+    "img": "https://slideplayer.com/slide/14288642/89/images/2/Weather+Forecast+Template%28%C2%B0C%29.jpg"
+  },
+  {
+    "id": "accordinglykl12",
+    "front": "accordingly",
+    "back": {
+      "definition": "in a way that is suitable or right for the situation",
+      "examples": [
+        "She acted *accordingly* to the new policy.",
+        "He adjusted his plans *accordingly*."
+      ],
+      "transcription": "əˈkɔːdɪŋli",
+      "ru_translation": "соответственно"
+    },
+    "img": "https://businessman.ru/static/img/a/44629/376869/63770.jpg"
+  },
+  {
+    "id": "outlouduv34",
+    "front": "out loud",
+    "back": {
+      "definition": "in a voice that can be heard",
+      "examples": [
+        "He read the letter *out loud*.",
+        "She laughed *out loud* at the joke."
+      ],
+      "transcription": "aʊtlaʊd",
+      "ru_translation": "вслух"
+    },
+    "img": "https://www.wikihow.com/images/thumb/2/2f/Read-Poetry-out-Loud-Step-1-Version-3.jpg/aid315063-v4-728px-Read-Poetry-out-Loud-Step-1-Version-3.jpg"
+  },
+  {
+    "id": "alivewx56",
+    "front": "alive",
+    "back": {
+      "definition": "living, not dead",
+      "examples": [
+        "The patient was still *alive* when the ambulance arrived.",
+        "The forest is *alive* with birds and insects."
+      ],
+      "transcription": "əˈlaɪv",
+      "ru_translation": "живой, оживленный"
+    },
+    "img": "https://4tololo.ru/sites/default/files/images/20182704160146.jpg"
+  },
+  {
+    "id": "startleyz78",
+    "front": "startle",
+    "back": {
+      "definition": "to do something unexpected that surprises and sometimes worries a person or animal",
+      "examples": [
+        "The loud noise *startled* the cat.",
+        "She was *startled* by his sudden appearance."
+      ],
+      "transcription": "ˈstɑːtl",
+      "ru_translation": "испугать (неожиданностью)"
+    },
+    "img": "https://r.mt.ru/r28/photoF34B/20183149278-0/jpg/bp.jpeg"
+  },
+  {
+    "id": "startlingab90",
+    "front": "startling",
+    "back": {
+      "definition": "surprising and sometimes worrying",
+      "examples": [
+        "The news was quite *startling*.",
+        "She made a *startling* discovery."
+      ],
+      "transcription": "ˈstɑːtlɪŋ",
+      "ru_translation": "ошеломляющий (своей неожиданностью)"
+    },
+    "img": "https://pbs.twimg.com/media/FXEhmACUcAECSg6?format=jpg&name=medium"
+  },
+  {
+    "id": "catchcd12",
+    "front": "catch (caught, caught)",
+    "back": {
+      "definition": "to take hold of something, especially something that is moving through the air",
+      "examples": [
+        "He managed to *catch* the ball.",
+        "She tried to *catch* the falling book."
+      ],
+      "transcription": "kæʧ, kɔːt",
+      "ru_translation": "ловить, поймать"
+    },
+    "img": "https://cdn1.vox-cdn.com/imported_assets/2280218/451939404.0.jpg"
+  },
+  {
+    "id": "shameef34",
+    "front": "shame",
+    "back": {
+      "definition": "an uncomfortable feeling of guilt or of being ashamed because of your own or someone else's bad behaviour",
+      "examples": [
+        "He felt a deep sense of *shame* for his actions.",
+        "Public *shame* can be a powerful deterrent."
+      ],
+      "transcription": "ʃeɪm",
+      "ru_translation": "стыд, позор"
+    },
+    "img": "https://britlex.ru/images/shame.jpg"
+  },
+  {
+    "id": "shamegh56",
+    "front": "shame",
+    "back": {
+      "definition": "to make someone feel ashamed, or to make someone or something lose honour and respect",
+      "examples": [
+        "He tried to *shame* her into apologizing.",
+        "You can not *shame* him for this tendency."
+      ],
+      "transcription": "ʃeɪm",
+      "ru_translation": "пристыдить"
+    },
+    "img": "https://media.baamboozle.com/uploads/images/223055/1620615623_36355.jpeg"
+  },
+  {
+    "id": "ashameij78",
+    "front": "a shame",
+    "back": {
+      "definition": "something that is disappointing or not satisfactory",
+      "examples": [
+        "It's a *shame* we couldn't meet.",
+        "What a *shame* that the event was canceled."
+      ],
+      "transcription": "ʃeɪm",
+      "ru_translation": "жалость, досада"
+    },
+    "img": "https://newsbuzz.ru/wp-content/uploads/2020/12/593.jpg"
+  },
+  {
+    "id": "shamefulkl90",
+    "front": "shameful",
+    "back": {
+      "definition": "deserving blame, or being a reason for feeling ashamed",
+      "examples": [
+        "His actions were truly *shameful*.",
+        "It was a *shameful* display of arrogance."
+      ],
+      "transcription": "ˈʃeɪmfʊl",
+      "ru_translation": "постыдный, позорный"
+    },
+    "img": "https://img.freepik.com/free-photo/woman-holds-her-plam-before-a-forehead-looking-shameful_8353-1705.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": "shamelessmn12",
+    "front": "shameless",
+    "back": {
+      "definition": "not ashamed, especially about something generally considered unacceptable",
+      "examples": [
+        "She made a *shameless* attempt to get attention.",
+        "His *shameless* behavior shocked everyone."
+      ],
+      "transcription": "ˈʃeɪmlɪs",
+      "ru_translation": "бесстыдный"
+    },
+    "img": "https://expertology.ru/upload/medialibrary/63a/64434657.jpg"
+  },
+  {
+    "id": "challengeop34",
+    "front": "challenge",
+    "back": {
+      "definition": "(the situation of being faced with) something that needs great mental or physical effort in order to be done successfully and therefore tests a person's ability",
+      "examples": [
+        "Climbing the mountain was a *challenge*.",
+        "She faced many *challenges* in her career."
+      ],
+      "transcription": "ˈʧælɪnʤ",
+      "ru_translation": "испытание, вызов, сложная задача"
+    },
+    "img": "https://telehealthdave.com/wp-content/uploads/2017/04/Change.jpg"
+  },
+  {
+    "id": "challengeqr56",
+    "front": "challenge",
+    "back": {
+      "definition": "to question if something is true or legal",
+      "examples": [
+        "They decided to *challenge* the results.",
+        "He *challenged* her authority in the meeting."
+      ],
+      "transcription": "ˈʧælɪnʤ",
+      "ru_translation": "ставить под сомнение, оспаривать"
+    },
+    "img": "https://supercoolpics.com/wp-content/uploads/2014/07/supercoolpics_19_03072014125154.jpg"
+  },
+  {
+    "id": "challengeuv78",
+    "front": "challenge",
+    "back": {
+      "definition": "to invite someone to compete or take part, especially in a game or argument",
+      "examples": [
+        "She *challenged* him to a race.",
+        "He *challenged* her to a debate."
+      ],
+      "transcription": "ˈʧælɪnʤ",
+      "ru_translation": "вызывать (на состязание)"
+    },
+    "img": "https://pa1.aminoapps.com/6007/fb638b92ed8d9be4ece8e86c35f505f489a6f7ef_hq.gif"
+  },
+  {
+    "id": "challengingwx90",
+    "front": "challenging",
+    "back": {
+      "definition": "difficult, in a way that tests your ability or determination",
+      "examples": [
+        "The course was very *challenging*.",
+        "She enjoys *challenging* projects."
+      ],
+      "transcription": "ˈʧælɪnʤɪŋ",
+      "ru_translation": "трудный, требующий напряжения"
+    },
+    "img": "https://fiteria.ru/images/comfort-zone-9.jpg"
   }
 ]
