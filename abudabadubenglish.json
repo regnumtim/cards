@@ -709,7 +709,7 @@
         "The price is *inclusive* of taxes."
       ],
       "transcription": "ɪnˈkluːsɪv",
-      "ru_translation": "включающий в себя"
+      "ru_translation": "включающий (в себя)"
     },
     "img": "https://s3.amazonaws.com/www-inside-design/uploads/2019/06/broadlystock1.jpeg"
   },
@@ -1395,7 +1395,21 @@
         "They established a *link* between the two crimes."
       ],
       "transcription": "lɪŋk",
-      "ru_translation": "связь, связывать"
+      "ru_translation": "связь, ссылка"
+    },
+    "img": "https://cdn.steemitimages.com/DQmc6Suq2fyue2XusRN1VyhLhJBCoYHsr8FTYXPWiGvSYum/Jasa%20Backlink%20Dofollow.png"
+  },
+  {
+    "id": "linkpoiu",
+    "front": "link",
+    "back": {
+      "definition": "to make a connection between two or more people, things, or ideas.",
+      "examples": [
+        "The new bridge *links* the two cities.",
+        "She tried to *link* the evidence to the suspect."
+      ],
+      "transcription": "lɪŋk",
+      "ru_translation": "связывать, соединять"
     },
     "img": "https://i.ytimg.com/vi/kMn3_IXztUM/hqdefault.jpg"
   },
@@ -5355,6 +5369,34 @@
       "ru_translation": "труба, трубка"
     },
     "img": "https://img.favpng.com/1/24/8/tobacco-pipe-tobacco-smoking-pipe-smoking-png-favpng-20fj2Wi4PGMnYQ88CYAuMLYuZ.jpg"
+  },
+  {
+    "id": "pipelineasdf",
+    "front": "pipeline",
+    "back": {
+      "definition": "a long line of pipes, often underground, used to transport oil, gas, etc. over long distances.",
+      "examples": [
+        "The *pipeline* carries oil from the fields to the refinery.",
+        "They are building a new *pipeline* to supply gas to the city."
+      ],
+      "transcription": "ˈpaɪplaɪn",
+      "ru_translation": "трубопровод"
+    },
+    "img": "https://tetraturk.com/system/services/images/000/000/014/normal/pressure-water-line-509870.jpg?1563955648"
+  },
+  {
+    "id": "pipeworkqwer",
+    "front": "pipework",
+    "back": {
+      "definition": "the system of pipes that are used to carry water, gas, etc. in a building.",
+      "examples": [
+        "The *pipework* in the old house needs to be replaced.",
+        "They installed new *pipework* during the renovation."
+      ],
+      "transcription": "pipe wɜːk",
+      "ru_translation": "система трубопроводов"
+    },
+    "img": "https://images.satu.kz/5019457_w640_h640_santehnicheskie-materialy-i.jpg"
   },
   {
     "id": "restrainXYZabc",
@@ -13368,13 +13410,14 @@
     "id": "meanmno112",
     "front": "mean",
     "back": {
-      "definition": "the average value of a set of numbers",
+      "definition": "the average value of a set of numbers or the result you get by adding two or more amounts together and dividing the total by the number of amounts",
       "examples": [
         "The *mean* of the numbers is 10.",
-        "To find the *mean*, add all the values and divide by the number of values."
+        "To find the *mean*, add all the values and divide by the number of values.",
+        "Their *mean* weight was 76.4 kilos."
       ],
       "transcription": "miːn",
-      "ru_translation": "средний"
+      "ru_translation": "средний, среднее (значение)"
     },
     "img": "https://studfile.net/html/2706/506/html_3ccDninAjW.vS28/img-XyHX20.png"
   },
@@ -13542,7 +13585,7 @@
         "He made a *vicious* attack on his opponent."
       ],
       "transcription": "ˈvɪʃəs",
-      "ru_translation": "порочный, жестокий, злонамеренный"
+      "ru_translation": "порочный, злой, жестокий, злонамеренный"
     },
     "img": "https://1.bp.blogspot.com/-oOvTT481hxY/WpDxbnEUFTI/AAAAAAAAoqw/GHFr5clLAO42B8iyQkwkVr0ZGhf5Tx46ACLcBGAs/s1600/FB_IMG_1519446170809.jpg"
   },
@@ -13749,8 +13792,8 @@
     "back": {
       "definition": "something that is disappointing or not satisfactory",
       "examples": [
-        "It's a *shame* we couldn't meet.",
-        "What a *shame* that the event was canceled."
+        "It's *a shame* we couldn't meet.",
+        "What *a *shame* that the event was canceled."
       ],
       "transcription": "ʃeɪm",
       "ru_translation": "жалость, досада"
@@ -13840,5 +13883,439 @@
       "ru_translation": "трудный, требующий напряжения"
     },
     "img": "https://fiteria.ru/images/comfort-zone-9.jpg"
+  },
+  {
+    "id": "mixtureabc",
+    "front": "mixture",
+    "back": {
+      "definition": "a substance made of other substances that have been combined.",
+      "examples": [
+        "She made a *mixture* of flour and water.",
+        "The *mixture* of chemicals created a strong reaction."
+      ],
+      "transcription": "ˈmɪksʧə",
+      "ru_translation": "смесь"
+    },
+    "img": "https://britlex.ru/images/mixture.jpg"
+  },
+  {
+    "id": "enduredef",
+    "front": "endure",
+    "back": {
+      "definition": "to suffer something difficult, unpleasant, or painful.",
+      "examples": [
+        "He had to *endure* a lot of pain after the accident.",
+        "We can *endure* any challenge that comes our way."
+      ],
+      "transcription": "ɪnˈdjʊə",
+      "ru_translation": "выносить, выдерживать"
+    },
+    "img": "https://i.ytimg.com/vi/Sby5etJlOqY/sddefault.jpg"
+  },
+  {
+    "id": "endurableghi",
+    "front": "endurable",
+    "back": {
+      "definition": "the fact that something difficult, unpleasant, or painful is possible to deal with.",
+      "examples": [
+        "The pain was *endurable* thanks to the medication.",
+        "With support, the situation became *endurable*."
+      ],
+      "transcription": "ɪnˈdjʊərəbl",
+      "ru_translation": "терпимый, выносимый"
+    },
+    "img": "https://stomed.ru/storage/offers/photos/12/1165/lecenie-xroniceskoi-bolezni-pocek-7324.jpg"
+  },
+  {
+    "id": "unendurablejkl",
+    "front": "unendurable",
+    "back": {
+      "definition": "the fact that something difficult, unpleasant, or painful is impossible to deal with.",
+      "examples": [
+        "The heat in the desert was *unendurable*.",
+        "The noise made the situation *unendurable*."
+      ],
+      "transcription": "ˌʌnɪnˈdjʊərəbl",
+      "ru_translation": "нестерпимый, невыносимый"
+    },
+    "img": "https://i.ytimg.com/vi/BmiiJGdzYEc/hqdefault.jpg"
+  },
+  {
+    "id": "enduranceqrs",
+    "front": "endurance",
+    "back": {
+      "definition": "the ability to keep doing something difficult, unpleasant, or painful for a long time.",
+      "examples": [
+        "Marathon runners need great *endurance*.",
+        "His *endurance* was tested during the hike."
+      ],
+      "transcription": "ɪnˈdjʊərəns",
+      "ru_translation": "выносливость"
+    },
+    "img": "https://www.endurancehour.com/wp-content/uploads/2016/09/static1.squarespace1-406x300.jpg"
+  },
+  {
+    "id": "boardtuv1",
+    "front": "board",
+    "back": {
+      "definition": "a group of people who manage a company or organization.",
+      "examples": [
+        "The *board* decided to hire a new CEO.",
+        "She was elected to the *board* of directors."
+      ],
+      "transcription": "bɔːd",
+      "ru_translation": "совет, коллегия"
+    },
+    "img": "https://britlex.ru/images/board3.jpg"
+  },
+  {
+    "id": "boardtuv2",
+    "front": "board",
+    "back": {
+      "definition": "a flat piece of material designed for a special purpose, such as writing on or playing games on.",
+      "examples": [
+        "He pinned the notice on the *board*.",
+        "They played chess on the *board*."
+      ],
+      "transcription": "bɔːd",
+      "ru_translation": "доска (объявлений, школьная, для наст. игр)"
+    },
+    "img": "https://britlex.ru/images/board.jpg"
+  },
+  {
+    "id": "boardtuv3",
+    "front": "board",
+    "back": {
+      "definition": "to get on a bus, plane, train, etc.",
+      "examples": [
+        "We need to *board* the plane now.",
+        "He *boarded* the bus in the morning."
+      ],
+      "transcription": "bɔːd",
+      "ru_translation": "садиться (на автобус/корабль/в самолет)"
+    },
+    "img": "https://britlex.ru/images/board2.jpg"
+  },
+  {
+    "id": "boardroomwxyz",
+    "front": "boardroom",
+    "back": {
+      "definition": "a room where the board of directors of a company meets.",
+      "examples": [
+        "The meeting will be held in the *boardroom*.",
+        "The *boardroom* was filled with executives."
+      ],
+      "transcription": "ˈbɔːdrʊm",
+      "ru_translation": "зал заседаний"
+    },
+    "img": "https://i.pinimg.com/736x/82/64/f7/8264f79d152ef6e081c1bc1bcd9aef73--survival-blog-financial-news.jpg"
+  },
+  {
+    "id": "mateabcd1",
+    "front": "mate",
+    "back": {
+      "definition": "a friend or companion.",
+      "examples": [
+        "He is my best *mate*.",
+        "She went to the movies with her *mates*."
+      ],
+      "transcription": "meɪt",
+      "ru_translation": "приятель, товарищ, компаньон"
+    },
+    "img": "https://i.pinimg.com/originals/70/c7/e9/70c7e9f84f86df2f547d5fb4cff2b25c.jpg"
+  },
+  {
+    "id": "mateabcd2",
+    "front": "mate",
+    "back": {
+      "definition": "an animal's sexual partner.",
+      "examples": [
+        "The bird found a *mate* for the breeding season.",
+        "The lioness chose a strong *mate*."
+      ],
+      "transcription": "meɪt",
+      "ru_translation": "самец или самка из одной пары"
+    },
+    "img": "https://en.grandgames.net/puzzle/f1200/para_lvov.jpg"
+  },
+  {
+    "id": "mateabcd3",
+    "front": "mate",
+    "back": {
+      "definition": "when animals mate, they have sex in order to produce babies.",
+      "examples": [
+        "The dogs *mated* in the spring.",
+        "The zoo is trying to encourage the pandas to *mate*."
+      ],
+      "transcription": "meɪt",
+      "ru_translation": "спариваться"
+    },
+    "img": "https://n1s1.hsmedia.ru/c2/5a/4d/c25a4d936b39d195566114220253d12a/728x486_1_3ff47469926c0f5dd564a56cb9972034@5000x3338_0x9MRbTlRv_3902066093383927992.jpg"
+  },
+  {
+    "id": "classmateefgh",
+    "front": "classmate",
+    "back": {
+      "definition": "someone who is in the same class as you at school.",
+      "examples": [
+        "I met my best friend, who was also my *classmate*.",
+        "He helped his *classmate* with homework."
+      ],
+      "transcription": "ˈklɑːsmeɪt",
+      "ru_translation": "одноклассник"
+    },
+    "img": "https://res.cloudinary.com/fleetnation/image/private/c_fill%2Cg_center%2Ch_640%2Cw_640/v1434474711/ta8tdzdi4ujqklu4kaws.jpg"
+  },
+  {
+    "id": "roommateijkl",
+    "front": "roommate",
+    "back": {
+      "definition": "someone who you share a room with for a period of time.",
+      "examples": [
+        "She got along well with her *roommate*.",
+        "My *roommate* and I share the rent."
+      ],
+      "transcription": "ˈruːmmeɪt",
+      "ru_translation": "сожитель, сосед по комнате"
+    },
+    "img": "https://www.jawaban.com/assets/uploads/lori_mora/images/main/200402164424.jpg"
+  },
+  {
+    "id": "compoundmnop1",
+    "front": "compound",
+    "back": {
+      "definition": "something consisting of two or more different parts.",
+      "examples": [
+        "The chemical *compound* was highly reactive.",
+        "They created a new *compound* by mixing two substances."
+      ],
+      "transcription": "ˈkɒmpaʊnd",
+      "ru_translation": "соединение"
+    },
+    "img": "https://britlex.ru/images/compound.jpg"
+  },
+  {
+    "id": "compoundmnop2",
+    "front": "compound",
+    "back": {
+      "definition": "an area surrounded by fences or walls that contains a group of buildings.",
+      "examples": [
+        "The embassy *compound* was heavily guarded.",
+        "They lived in a *compound* outside the city."
+      ],
+      "transcription": "ˈkɒmpaʊnd",
+      "ru_translation": "огороженная территория"
+    },
+    "img": "https://static2.cs-bg.net/maps/images/screenshots/mapssource/cs/css-1270-cs_compound_awp_hzd.jpg"
+  },
+  {
+    "id": "compoundmnop3",
+    "front": "compound",
+    "back": {
+      "definition": "to make a problem or difficult situation worse.",
+      "examples": [
+        "His actions *compounded* the problem.",
+        "The bad weather *compounded* our difficulties."
+      ],
+      "transcription": "ˈkɒmpaʊnd",
+      "ru_translation": "усугублять, осложнять"
+    },
+    "img": "https://latifundist.com/media/blog/original/00/01/1988/maslo-v-ogon-88145.png"
+  },
+  {
+    "id": "compoundmnop4",
+    "front": "compound",
+    "back": {
+      "definition": "consisting of two or more parts.",
+      "examples": [
+        "The *compound* word is made up of two smaller words.",
+        "He took a *compound* interest loan."
+      ],
+      "transcription": "ˈkɒmpaʊnd",
+      "ru_translation": "составной"
+    },
+    "img": "https://armand-auto.ru/wp-content/uploads/7/6/d/76d26c3e458ba97b11a8dabd90916336.jpeg"
+  },
+  {
+    "id": "compoundmnop5",
+    "front": "compound",
+    "back": {
+      "definition": "a word that combines two or more different words.",
+      "examples": [
+        "The *compound* word 'bodyguard' combines 'body' and 'guard'.",
+        "The term 'floppy disk' is also a *compound*."
+      ],
+      "transcription": "ˈkɒmpaʊnd",
+      "ru_translation": "сложное составное слово"
+    },
+    "img": "https://i.pinimg.com/474x/43/99/2a/43992a849470bef73b18b96199dd0012.jpg"
+  },
+  {
+    "id": "blessqrst",
+    "front": "bless",
+    "back": {
+      "definition": "to ask for God's help and protection for someone or something, or to call or make someone or something holy.",
+      "examples": [
+        "The priest *blessed* the congregation.",
+        "She *blessed* her child before the journey."
+      ],
+      "transcription": "blɛs",
+      "ru_translation": "благословлять"
+    },
+    "img": "https://britlex.ru/images/bless.jpg"
+  },
+  {
+    "id": "blessinguopv",
+    "front": "blessing",
+    "back": {
+      "definition": "a request by a priest for God to take care of a particular person or group of people.",
+      "examples": [
+        "The family received a *blessing* from the priest.",
+        "They sought a *blessing* for their new home."
+      ],
+      "transcription": "ˈblɛsɪŋ",
+      "ru_translation": "благословение"
+    },
+    "img": "https://e-rodnik.ru/wp-content/uploads/2022/01/Bozhij-dar-980x551.jpg"
+  },
+  {
+    "id": "mightwxyz",
+    "front": "might",
+    "back": {
+      "definition": "great and impressive power or strength.",
+      "examples": [
+        "The army displayed its *might* during the parade.",
+        "He fought with all his *might*."
+      ],
+      "transcription": "maɪt",
+      "ru_translation": "мощь, могущество"
+    },
+    "img": "https://britlex.ru/images/might.jpg"
+  },
+  {
+    "id": "mightyabcd",
+    "front": "mighty",
+    "back": {
+      "definition": "very large, powerful, or important.",
+      "examples": [
+        "The *mighty* river flowed through the valley.",
+        "She gave a *mighty* speech."
+      ],
+      "transcription": "ˈmaɪti",
+      "ru_translation": "могущественный"
+    },
+    "img": "https://st2.depositphotos.com/1018174/7405/i/450/depositphotos_74053503-stock-photo-mighty-guy-holding-a-power.jpg?forcejpeg=true"
+  },
+  {
+    "id": "almightyzxcv",
+    "front": "almighty",
+    "back": {
+      "definition": "having complete power; omnipotent.",
+      "examples": [
+        "They prayed to the *almighty* for guidance.",
+        "The *almighty* force of nature was unstoppable."
+      ],
+      "transcription": "ɔːlˈmaɪti",
+      "ru_translation": "всемогущий"
+    },
+    "img": "https://i.pinimg.com/originals/0d/2f/c8/0d2fc882bbacdae6fdc4480c028b3616.jpg"
+  },
+  {
+    "id": "varietyqwer1",
+    "front": "variety",
+    "back": {
+      "definition": "the characteristic of often changing and being different.",
+      "examples": [
+        "The restaurant offers a *variety* of dishes.",
+        "She enjoys the *variety* in her job."
+      ],
+      "transcription": "vəˈraɪəti",
+      "ru_translation": "множество, разнообразие"
+    },
+    "img": "https://britlex.ru/images/variety.jpg"
+  },
+  {
+    "id": "varietyqwer2",
+    "front": "variety",
+    "back": {
+      "definition": "a different type of something.",
+      "examples": [
+        "They grew several *varieties* of tomatoes.",
+        "This apple *variety* is very sweet."
+      ],
+      "transcription": "vəˈraɪəti",
+      "ru_translation": "вид, сорт"
+    },
+    "img": "https://domopravitelnitsa.com/wp-content/uploads/2022/01/blobid1640342194306.jpg"
+  },
+  {
+    "id": "soleasdf1",
+    "front": "sole",
+    "back": {
+      "definition": "being the only one; single.",
+      "examples": [
+        "He was the *sole* survivor of the crash.",
+        "She has the *sole* responsibility for the project."
+      ],
+      "transcription": "səʊl",
+      "ru_translation": "единственный"
+    },
+    "img": "https://f8.pmo.ee/lkMp4IWrfn5Q82Mj3TC2VtQbaOY=/1200x630/filters:focal(68x646:1999x1891)/nginx/o/2018/08/12/11174559t1hdb8b.jpg"
+  },
+  {
+    "id": "soleasdf2",
+    "front": "sole",
+    "back": {
+      "definition": "the bottom part of a foot or a shoe.",
+      "examples": [
+        "The *sole* of his shoe was worn out.",
+        "She felt a pebble under the *sole* of her foot."
+      ],
+      "transcription": "səʊl",
+      "ru_translation": "подошва"
+    },
+    "img": "https://putthison.com/wp-content/uploads/2014/04/tumblr_n3sx5rX4p81qa2j8co1_1280-768x768.jpg"
+  },
+  {
+    "id": "comprehensiveghjk",
+    "front": "comprehensive",
+    "back": {
+      "definition": "including everything that is necessary; complete.",
+      "examples": [
+        "The report provided a *comprehensive* overview of the issue.",
+        "They conducted a *comprehensive* review of the policy."
+      ],
+      "transcription": "ˌkɒmprɪˈhɛnsɪv",
+      "ru_translation": "исчерпывающий, всесторонний"
+    },
+    "img": "https://i.ytimg.com/vi/ncdCz494T_I/maxresdefault.jpg"
+  },
+  {
+    "id": "healzxcv",
+    "front": "heal",
+    "back": {
+      "definition": "to make or become well again, especially after a cut or other injury.",
+      "examples": [
+        "The wound took a long time to *heal*.",
+        "She tried to *heal* the rift between them."
+      ],
+      "transcription": "hiːl",
+      "ru_translation": "заживать, излечивать"
+    },
+    "img": "https://cdn.cdnparenting.com/articles/2019/01/10142417/581707327-H-1024x700.jpg"
+  },
+  {
+    "id": "healerbnmq",
+    "front": "healer",
+    "back": {
+      "definition": "a person who has the power to cure ill people without using ordinary medicines.",
+      "examples": [
+        "The *healer* used herbs to treat the illness.",
+        "People came from afar to see the *healer*."
+      ],
+      "transcription": "ˈhiːlə",
+      "ru_translation": "целитель"
+    },
+    "img": "https://modslab.net/files/mods/skyrim_se/eazYEkZ8QY/img7pre.jpg?"
   }
 ]
