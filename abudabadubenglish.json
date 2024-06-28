@@ -3083,7 +3083,7 @@
         "He made a *generous* donation to the charity."
       ],
       "transcription": "ˈʤɛnərəs",
-      "ru_translation": "щедрый"
+      "ru_translation": "великодушный, щедрый"
     },
     "img": "https://www.magnesol.pe/userfiles/images/shutterstock_1536718076.jpg"
   },
@@ -3097,7 +3097,7 @@
         "We were touched by his *generosity* towards the less fortunate."
       ],
       "transcription": "ˌʤɛnəˈrɒsɪti",
-      "ru_translation": "щедрость"
+      "ru_translation": "великодушие, щедрость"
     },
     "img": "https://i.ytimg.com/vi/Q27f28-44jY/hqdefault.jpg"
   },
@@ -3167,7 +3167,7 @@
         "His remarks *prompted* me to rethink my position."
       ],
       "transcription": "prɒmpt",
-      "ru_translation": "побуждать"
+      "ru_translation": "побуждать, подстрекать"
     },
     "img": "https://britlex.ru/images/prompt.jpg"
   },
@@ -3447,7 +3447,7 @@
         "The garden was beautifully *edged* with flowers."
       ],
       "transcription": "ɛʤd",
-      "ru_translation": "окруженный, окантованный"
+      "ru_translation": "окруженный, окантованный, заостренный"
     },
     "img": "https://fonzon.club/uploads/posts/2022-01/thumbs/1643324299_55-fonzon-club-p-mech-iz-igri-74.png"
   },
@@ -3948,7 +3948,7 @@
       "definition": "the emergence of a baby or other young from the body of its mother.",
       "examples": [
         "The *birth* of a child is a joyful event.",
-        "She gave *birth* at home."
+        "His *birth* was long and difficult."
       ],
       "transcription": "bɜːθ",
       "ru_translation": "рождение"
@@ -14317,5 +14317,416 @@
       "ru_translation": "целитель"
     },
     "img": "https://modslab.net/files/mods/skyrim_se/eazYEkZ8QY/img7pre.jpg?"
+  },
+  {
+    "id": "coolkuulxas",
+    "front": "cool",
+    "back": {
+      "definition": "slightly cold in a pleasant way",
+      "examples": [
+        "The *cool* breeze felt refreshing.",
+        "She prefers a *cool* room to sleep in."
+      ],
+      "transcription": "kuːl",
+      "ru_translation": "прохладный, свежий"
+    },
+    "img": "https://gencaile.az/wp-content/uploads/2018/07/su.jpeg"
+  },
+  {
+    "id": "coolkuulzya",
+    "front": "cool",
+    "back": {
+      "definition": "to make something cooler",
+      "examples": [
+        "They used fans to *cool* the room.",
+        "I need to *cool* down after the run."
+      ],
+      "transcription": "kuːl",
+      "ru_translation": "охлаждать(ся)"
+    },
+    "img": "https://ecoportal.info/wp-content/uploads/2023/10/zakalivanie-3.jpg"
+  },
+  {
+    "id": "coolnesskuuljop",
+    "front": "coolness",
+    "back": {
+      "definition": "the quality of being slightly cold in a pleasant way",
+      "examples": [
+        "The *coolness* of the water was refreshing.",
+        "She enjoyed the *coolness* of the shade."
+      ],
+      "transcription": "ˈkuːlnɪs",
+      "ru_translation": "прохлада, охлаждение"
+    },
+    "img": "https://www.fk-prom.ru/images/062bcc4231f6d8492d05fe0820b7ae69-p-800.png"
+  },
+  {
+    "id": "coolnesskuuldsk",
+    "front": "coolness",
+    "back": {
+      "definition": "calmness and confidence",
+      "examples": [
+        "His *coolness* under pressure was admirable.",
+        "She handled the situation with *coolness* and grace."
+      ],
+      "transcription": "ˈkuːlnɪs",
+      "ru_translation": "хладнокровие, невозмутимость"
+    },
+    "img": "https://jokesland.net.ru/pic/pod129/4.jpg"
+  },
+  {
+    "id": "checkpointchekpointywb",
+    "front": "checkpoint",
+    "back": {
+      "definition": "a place where people are stopped and their documents are checked, especially at a border between two countries",
+      "examples": [
+        "We had to stop at the *checkpoint* for inspection.",
+        "The *checkpoint* was heavily guarded."
+      ],
+      "transcription": "ˈʧɛkpɔɪnt",
+      "ru_translation": "контрольная точка, КПП"
+    },
+    "img": "https://asgardholding.ru/assets/resourceimages/125/%D0%9A%D0%9F%D0%9F.png"
+  },
+  {
+    "id": "begbegnvx",
+    "front": "beg",
+    "back": {
+      "definition": "to ask for food or money because you are poor",
+      "examples": [
+        "He was forced to *beg* on the streets.",
+        "She refused to *beg* for money."
+      ],
+      "transcription": "bɛg",
+      "ru_translation": "просить милостыню"
+    },
+    "img": "https://otvet.imgsmail.ru/download/u_4d24f4a2768ac2c50c0870c3e300cf34.jpg"
+  },
+  {
+    "id": "begbegbsa",
+    "front": "beg",
+    "back": {
+      "definition": "to ask for something urgently and sincerely",
+      "examples": ["I *beg* you to reconsider.", "They *begged* for mercy."],
+      "transcription": "bɛg",
+      "ru_translation": "умолять"
+    },
+    "img": "https://papik.pro/grafic/uploads/posts/2023-04/1682185646_papik-pro-p-stiker-proshu-proshcheniya-vektor-10.png"
+  },
+  {
+    "id": "beggarbeggaremqx",
+    "front": "beggar",
+    "back": {
+      "definition": "someone who lives by asking people for food and money",
+      "examples": [
+        "The *beggar* sat on the corner.",
+        "She gave the *beggar* some coins."
+      ],
+      "transcription": "ˈbɛgə",
+      "ru_translation": "нищий, попрошайка"
+    },
+    "img": "https://thumbs.dreamstime.com/b/old-man-begging-closeup-indian-beggar-waiting-alms-street-corner-42458578.jpg"
+  },
+  {
+    "id": "spellspelldri",
+    "front": "spell",
+    "back": {
+      "definition": "a piece of magic that someone does",
+      "examples": ["The witch cast a *spell*.", "He was under a *spell*."],
+      "transcription": "spɛl",
+      "ru_translation": "заклинание, чары, заговор (магический)"
+    },
+    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c77f9553229437.592d3f78b5635.jpg"
+  },
+  {
+    "id": "spellspellzxy",
+    "front": "spell",
+    "back": {
+      "definition": "a period of time during which an activity or condition lasts",
+      "examples": [
+        "She had a *spell* of bad luck.",
+        "The weather was hot for a *spell*."
+      ],
+      "transcription": "spɛl",
+      "ru_translation": "промежуток времени, период"
+    },
+    "img": "https://privolgskiy.ru/wp-content/uploads/2016/11/e5adc111185c18e6108a0de06f7628f428051b8a86e8a521aepimgpsh_fullsize_distr.jpg"
+  },
+  {
+    "id": "spellspelltpm",
+    "front": "spell",
+    "back": {
+      "definition": "to form a word or words with the letters in the correct order",
+      "examples": [
+        "Please *spell* your name for me.",
+        "He learned to *spell* in school."
+      ],
+      "transcription": "spɛl",
+      "ru_translation": "произносить или писать слово по буквам (орфографически правильно)"
+    },
+    "img": "https://o.quizlet.com/VObJj5cru7c.W2WORLOC.Q.jpg"
+  },
+  {
+    "id": "paperpeiperuoa",
+    "front": "paper",
+    "back": {
+      "definition": "thin material made from crushed wood or cloth, used for writing, printing, or drawing on; a piece of writing about a particular subject written by someone who has been studying that subject",
+      "examples": [
+        "She wrote a *paper* on climate change.",
+        "We need more *paper* for the printer."
+      ],
+      "transcription": "ˈpeɪpə",
+      "ru_translation": "научная статья, бумага"
+    },
+    "img": "https://oksimetr.ru/wp-content/uploads/e/8/8/e88b7d09dc57a1e85fd586fbe295491a.jpeg"
+  },
+  {
+    "id": "wallpaperswolpeipersuia",
+    "front": "wallpapers",
+    "back": {
+      "definition": "paper that you stick onto the walls of a room in order to decorate it",
+      "examples": [
+        "They chose floral *wallpapers* for the living room.",
+        "The *wallpapers* are peeling off the walls."
+      ],
+      "transcription": "ˈwɔːlˌpeɪpəz",
+      "ru_translation": "обои"
+    },
+    "img": "https://golden-decor.ru/upload/iblock/6c1/l4nweabs0d2n1sv1ik4sx83cgtte2abg.jpg"
+  },
+  {
+    "id": "charmcharmqlx",
+    "front": "charm",
+    "back": {
+      "definition": "a quality that makes you like or feel attracted to someone or something",
+      "examples": [
+        "She has a natural *charm*.",
+        "His *charm* won everyone over."
+      ],
+      "transcription": "ʧɑːm",
+      "ru_translation": "обаяние, шарм"
+    },
+    "img": "https://www.syl.ru/misc/i/ni/7/2/4/7/5/9/i/724759.jpg"
+  },
+  {
+    "id": "charmcharmvpa",
+    "front": "charm",
+    "back": {
+      "definition": "an object or saying that is thought to have magical powers, especially to protect against bad luck",
+      "examples": [
+        "He carried a lucky *charm*.",
+        "The *charm* was believed to ward off evil."
+      ],
+      "transcription": "ʧɑːm",
+      "ru_translation": "талисман, амулет (на удачу)"
+    },
+    "img": "https://cs1.livemaster.ru/storage/df/80/f96e584ab19e57140e8d3d32814j--fen-shuj-i-ezoterika-na-udachu-auja-amulet-na-privlechenie-ud.jpg"
+  },
+  {
+    "id": "charmcharmpka",
+    "front": "charm",
+    "back": {
+      "definition": "to attract someone or persuade someone to do something because of your charm",
+      "examples": [
+        "He *charmed* everyone with his smile.",
+        "She *charmed* her way into the job."
+      ],
+      "transcription": "ʧɑːm",
+      "ru_translation": "очаровывать (своим шармом)"
+    },
+    "img": "https://kiteliberty.ru/800/600/http/cdn.chinhem.com/wp-content/uploads/2018/04/hap-dan-friend-zone.jpeg"
+  },
+  {
+    "id": "charmingcharmingnro",
+    "front": "charming",
+    "back": {
+      "definition": "very pleasant or attractive",
+      "examples": ["He is a *charming* man.", "The village is *charming*."],
+      "transcription": "ˈʧɑːmɪŋ",
+      "ru_translation": "обаятельный, очаровательный"
+    },
+    "img": "https://images.wallpapersden.com/image/download/kristin-davis-in-red-hot-wallpapers_aW5oaWqUmZqaraWkpJRobWllrWdpZWU.jpg"
+  },
+  {
+    "id": "breakoutbreakoutgqf",
+    "front": "break out",
+    "back": {
+      "definition": "if something dangerous or unpleasant breaks out, it suddenly starts",
+      "examples": [
+        "A fire *broke out* in the kitchen.",
+        "War *broke out* in 1939."
+      ],
+      "transcription": "breɪkaʊt",
+      "ru_translation": "вспыхнуть"
+    },
+    "img": "https://cdn.iportal.ru/news/2015/99/preview/4603a3e9f440faecf2ea84ab81e048b80e5c5263_1147_765_c.jpg"
+  },
+  {
+    "id": "breakoutbreakoutpxw",
+    "front": "break out",
+    "back": {
+      "definition": "to escape from a place or situation",
+      "examples": [
+        "The prisoners *broke out* of jail.",
+        "She managed to *break out* of the abusive relationship."
+      ],
+      "transcription": "breɪkaʊt",
+      "ru_translation": "сбегать (напр., с тюрьмы)"
+    },
+    "img": "https://i0.wp.com/saramunari.blog/wp-content/uploads/2016/05/0009.jpg?w=672&h=672&crop=1&ssl=1"
+  },
+  {
+    "id": "heatheatazr",
+    "front": "heat",
+    "back": {
+      "definition": "the quality of being hot or warm",
+      "examples": [
+        "The *heat* was unbearable.",
+        "We could feel the *heat* of the sun."
+      ],
+      "transcription": "hiːt",
+      "ru_translation": "тепло"
+    },
+    "img": "https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666362783_65-mykaleidoscope-ru-p-teplo-i-uyut-v-dome-vkontakte-68.jpg"
+  },
+  {
+    "id": "heatheatrod",
+    "front": "heat",
+    "back": {
+      "definition": "to make something warm or hot",
+      "examples": ["She *heated* the soup.", "The sun *heats* the earth."],
+      "transcription": "hiːt",
+      "ru_translation": "нагревать, подогревать"
+    },
+    "img": "https://raikovstudio.ru/wp-content/uploads/2012/11/medovie-obertivanij-1.jpg"
+  },
+  {
+    "id": "theheattheheatpna",
+    "front": "the heat",
+    "back": {
+      "definition": "the system in a building that keeps it warm",
+      "examples": [
+        "The *heat* is not working properly.",
+        "We need to fix *the heat* before winter."
+      ],
+      "transcription": "ðiː hiːt",
+      "ru_translation": "отопление (америк)"
+    },
+    "img": "https://tehnashop.ru/assets/4557496.jpg"
+  },
+  {
+    "id": "theheatingtheheatingdrk",
+    "front": "the heating",
+    "back": {
+      "definition": "the system in a building that keeps it warm",
+      "examples": [
+        "We turned on *the heating*.",
+        "The house is cold because *the heating* is off."
+      ],
+      "transcription": "ðə ˈhiːtɪŋ",
+      "ru_translation": "отопление (брит)"
+    },
+    "img": "https://u-keramika.ru/wp-content/uploads/1/4/3/143fef9f39092cad043cd31bf4bfcbb6.jpeg"
+  },
+  {
+    "id": "heaterheaternvs",
+    "front": "heater",
+    "back": {
+      "definition": "a device that produces heat",
+      "examples": [
+        "We bought a new *heater* for the winter.",
+        "The *heater* broke down last night."
+      ],
+      "transcription": "ˈhiːtə",
+      "ru_translation": "обогреватель, нагреватель"
+    },
+    "img": "https://m.media-amazon.com/images/I/61dcVDSoErL._SL1000_.jpg"
+  },
+  {
+    "id": "particularparticularkfq",
+    "front": "particular",
+    "back": {
+      "definition": "special, or this and not any other",
+      "examples": [
+        "She was looking for a book on a *particular* subject.",
+        "She has a *particular* interest in art.",
+        "This *particular* brand is my favorite."
+      ],
+      "transcription": "pəˈtɪkjʊlə",
+      "ru_translation": "конкретный, определенный, особый"
+    },
+    "img": "https://image.arrivalguides.com/1230x800/11/734f15d9c965571ee0d591e38080b2d4.jpg"
+  },
+  {
+    "id": "particularlyparticularlyfpi",
+    "front": "particularly",
+    "back": {
+      "definition": "especially, or more than usual",
+      "examples": [
+        "I am *particularly* fond of this painting.",
+        "This dish is *particularly* delicious."
+      ],
+      "transcription": "pəˈtɪkjʊləli",
+      "ru_translation": "особенно"
+    },
+    "img": "https://media.timeout.com/images/102889226/image.jpg"
+  },
+  {
+    "id": "scorescorebsl",
+    "front": "score",
+    "back": {
+      "definition": "the number of points, goals, etc. achieved in a game or competition",
+      "examples": [
+        "The *score* was tied at halftime.",
+        "She was happy with her high *score*."
+      ],
+      "transcription": "skɔː",
+      "ru_translation": "счет, количество очков, балл"
+    },
+    "img": "https://britlex.ru/images/score.jpg"
+  },
+  {
+    "id": "scorescoremnh",
+    "front": "score",
+    "back": {
+      "definition": "to win or get a point, goal, etc. in a competition, sport, game, or test",
+      "examples": [
+        "He *scored* the winning goal.",
+        "She always *scores* high marks."
+      ],
+      "transcription": "skɔː",
+      "ru_translation": "набирать очки, забивать гол"
+    },
+    "img": "https://i.ytimg.com/vi/OFs42LiOMKU/maxresdefault.jpg?7857057827"
+  },
+  {
+    "id": "combinecombinepko",
+    "front": "combine",
+    "back": {
+      "definition": "to (cause to) exist together, or join together to make a single thing or group",
+      "examples": [
+        "The chef decided to *combine* different flavors to create a unique dish.",
+        "We need to *combine* our efforts.",
+        "The ingredients *combine* well."
+      ],
+      "transcription": "ˈkɒmbaɪn",
+      "ru_translation": "сочетать, объединить, комбинировать"
+    },
+    "img": "https://images.definition.org/wp-content/uploads/2020/07/07165739/b07de771a753d2d5917e51f7eb20458c.jpg"
+  },
+  {
+    "id": "combinationcombinationizl",
+    "front": "combination",
+    "back": {
+      "definition": "the mixture you get when two or more things are combined",
+      "examples": [
+        "The *combination* of colors in the painting was striking.",
+        "The *combination* of flavors is perfect.",
+        "They found a winning *combination*."
+      ],
+      "transcription": "ˌkɒmbɪˈneɪʃən",
+      "ru_translation": "сочетание, объединение, комбинация"
+    },
+    "img": "https://i.pinimg.com/originals/59/9e/6e/599e6e01518a4ba287a752b0e727ed57.jpg"
   }
 ]
