@@ -12393,7 +12393,7 @@
         "You can *either* take a bus *or* walk to the museum."
       ],
       "transcription": "ˈaɪðə",
-      "ru_translation": "или, либо"
+      "ru_translation": "или ... либо/или"
     },
     "img": "https://stihi.ru/pics/2012/04/11/1525.jpg"
   },
@@ -13609,13 +13609,28 @@
     "back": {
       "definition": "not weighing much",
       "examples": [
+        "Afterwards I had a *light* breakfast.",
         "The suitcase was surprisingly *light*.",
         "He felt a *light* breeze on his face."
       ],
       "transcription": "laɪt",
-      "ru_translation": "легкий, слабый"
+      "ru_translation": "легкий, нетяжелый (не тяжелый)"
     },
-    "img": "https://fb.ru/media/i/8/2/5/9/7/7/i/825977.jpg"
+    "img": "https://i.pinimg.com/736x/cc/53/3f/cc533f9fe51f285fd7be59155947b77a.jpg"
+  },
+  {
+    "id": "slightdef789",
+    "front": "slight",
+    "back": {
+      "definition": "small in amount or degree",
+      "examples": [
+        "He noticed a *slight* difference in taste.",
+        "There is a *slight* chance of rain tomorrow."
+      ],
+      "transcription": "slaɪt",
+      "ru_translation": "легкий, слабый, небольшой, незначительный"
+    },
+    "img": "https://www.edimdoma.ru/data/ckeditor_pictures/13470/content_tasting_2.jpg"
   },
   {
     "id": "lightcd34",
@@ -14557,7 +14572,7 @@
         "War *broke out* in 1939."
       ],
       "transcription": "breɪkaʊt",
-      "ru_translation": "вспыхнуть"
+      "ru_translation": "вспыхнуть, разразиться"
     },
     "img": "https://cdn.iportal.ru/news/2015/99/preview/4603a3e9f440faecf2ea84ab81e048b80e5c5263_1147_765_c.jpg"
   },
@@ -14839,7 +14854,7 @@
       "transcription": "rɒk",
       "ru_translation": "камень, скала"
     },
-    "img": ""
+    "img": "https://pro-sni.ru/wp-content/uploads/2021/03/sonnik-skaly.jpg"
   },
   {
     "id": "rockstu234",
@@ -14853,7 +14868,7 @@
       "transcription": "rɒk",
       "ru_translation": "качать(ся), раскачивать(ся)"
     },
-    "img": "https://pro-sni.ru/wp-content/uploads/2021/03/sonnik-skaly.jpg"
+    "img": "https://polinka.top/uploads/posts/2023-05/1683972198_polinka-top-p-mama-s-mladentsem-na-rukakh-kartinki-vkont-18.jpg"
   },
   {
     "id": "fairlmn678",
@@ -15121,5 +15136,271 @@
       "ru_translation": "случайно, нечаянно"
     },
     "img": "https://egetelgrafcom.teimg.com/egetelgraf-com/uploads/2023/09/neden-bazi-insanlar-sakar-olur.jpg"
+  },
+  {
+    "id": "facilityasdfg",
+    "front": "facility",
+    "back": {
+      "definition": "a place, especially including buildings, where a particular activity happens",
+      "examples": [
+        "The sports *facility* was closed for renovations.",
+        "This medical *facility* provides excellent care."
+      ],
+      "transcription": "fəˈsɪlɪti",
+      "ru_translation": "учреждение, сооружение, объект (военное, спортивное, медицинское и т.п.)"
+    },
+    "img": "https://data14.gallery.ru/albums/gallery/249558-43e21-40414435-m750x740-ue3f8b.jpg"
+  },
+  {
+    "id": "meanshijkl",
+    "front": "means",
+    "back": {
+      "definition": "a method or way of doing something",
+      "examples": [
+        "Education is a *means* to a better future.",
+        "He used various *means* to achieve his goals."
+      ],
+      "transcription": "miːnz",
+      "ru_translation": "средство, способ"
+    },
+    "img": "https://w7.pngwing.com/pngs/276/342/png-transparent-trader-investing-online-foreign-exchange-market-brokerage-firm-trade-computer-network-exchange-business.png"
+  },
+  {
+    "id": "meansmnopq",
+    "front": "means",
+    "back": {
+      "definition": "money, for example from an income, that allows you to buy things",
+      "examples": [
+        "She has the *means* to travel the world.",
+        "They live beyond their *means*."
+      ],
+      "transcription": "miːnz",
+      "ru_translation": "денежные средства"
+    },
+    "img": "https://angarsk.ru/wp-content/uploads/2023/12/111fcd26405d00abb96426d63784f23b6eb.jpg"
+  },
+  {
+    "id": "focusrstuv",
+    "front": "focus",
+    "back": {
+      "definition": "to give a lot of attention to one particular person, subject, or thing",
+      "examples": [
+        "He needs to *focus* on her studies.",
+        "He *focused* all his energy on the project."
+      ],
+      "transcription": "ˈfəʊkəs",
+      "ru_translation": "сосредоточить(ся), средоточие"
+    },
+    "img": "https://sun6-21.userapi.com/wUFrNVYrzAuXmDRnE3aWaHWL9JlmvI1UqNAeMg/_GbCDmhI--A.jpg"
+  },
+  {
+    "id": "knockwxyz",
+    "front": "knock",
+    "back": {
+      "definition": "to repeatedly hit something, producing a noise",
+      "examples": [
+        "Please *knock* before entering.",
+        "He *knocked* on the door loudly."
+      ],
+      "transcription": "nɒk",
+      "ru_translation": "стучать(ся)"
+    },
+    "img": "https://businessman.ru/static/img/n/2/4/3/0/3/7/6/i/2430376.jpg"
+  },
+  {
+    "id": "knockabcd",
+    "front": "knock",
+    "back": {
+      "definition": "to hit something or someone so that the person or thing falls down",
+      "examples": [
+        "The wind *knocked* the sign down.",
+        "He accidentally *knocked* over the vase."
+      ],
+      "transcription": "nɒk",
+      "ru_translation": "опрокидывать, сбивать"
+    },
+    "img": "https://kartinkof.club/uploads/posts/2023-08/1691455011_kartinkof-club-p-kartinki-na-prazdnik-den-vigulivaniya-nast-45.jpg"
+  },
+  {
+    "id": "giveupefgh",
+    "front": "give up",
+    "back": {
+      "definition": "to stop trying to do something before you have finished, usually because it is too difficult",
+      "examples": [
+        "Don't *give up* on your dreams.",
+        "She *gave up* after several failed attempts."
+      ],
+      "transcription": "gɪvʌp",
+      "ru_translation": "сдаваться"
+    },
+    "img": "https://smart-lab.ru/uploads/images/04/14/14/2020/01/17/366878.jpg"
+  },
+  {
+    "id": "giveinijkl",
+    "front": "give in",
+    "back": {
+      "definition": "to finally agree to what someone wants, after refusing for a period of time",
+      "examples": [
+        "He finally *gave in* to their demands.",
+        "She *gave in* after a long argument."
+      ],
+      "transcription": "gɪvɪn",
+      "ru_translation": "уступать, поддаваться"
+    },
+    "img": "https://sendwear.ru/wp-content/uploads/0/5/5/0550b22e7d91d183a33eef575cdf2a89.png"
+  },
+  {
+    "id": "bendmnopq",
+    "front": "bend (bent, bent)",
+    "back": {
+      "definition": "to (cause to) curve",
+      "examples": [
+        "She *bent* down to pick up the coin.",
+        "He *bent* the metal rod."
+      ],
+      "transcription": "bɛnd, bent",
+      "ru_translation": "сгибать(ся), изгибаться"
+    },
+    "img": "https://dachadesign.ru/wp-content/uploads/2019/05/Kak-sognut-trubu-iz-metalloplastika-4.jpg"
+  },
+  {
+    "id": "bendrstuv",
+    "front": "bend",
+    "back": {
+      "definition": "a curved part of something",
+      "examples": [
+        "There's a sharp *bend* in the road.",
+        "The river follows a gentle *bend*."
+      ],
+      "transcription": "bɛnd",
+      "ru_translation": "изгиб, поворот"
+    },
+    "img": "http://www.nolafoodie.com/wp-content/uploads/2015/06/winding-390x205.jpg"
+  },
+  {
+    "id": "clarifywxyz",
+    "front": "clarify",
+    "back": {
+      "definition": "to make something clear or easier to understand by giving more details or a simpler explanation",
+      "examples": [
+        "Could you *clarify* your last statement?",
+        "He *clarified* the instructions for the team."
+      ],
+      "transcription": "ˈklærɪfaɪ",
+      "ru_translation": "прояснять, разъяснять"
+    },
+    "img": "https://hub.ldpr.ru/media/images/7d30257f447aba28a0cffae5f60a4c0b814560d09345561789d4fdb9cb67dfda.jpeg"
+  },
+  {
+    "id": "clarificationabcd",
+    "front": "clarification",
+    "back": {
+      "definition": "an explanation or more details that makes something clear or easier to understand",
+      "examples": [
+        "We need *clarification* on this issue.",
+        "Her *clarification* helped resolve the confusion."
+      ],
+      "transcription": "ˌklærɪfɪˈkeɪʃən",
+      "ru_translation": "прояснение, разъяснение"
+    },
+    "img": "https://www.tutsdrupal.com/storage/img/images_12/asking_for_clarification_esl.jpg"
+  },
+  {
+    "id": "rescueefgh",
+    "front": "rescue",
+    "back": {
+      "definition": "to help someone or something out of a dangerous, harmful, or unpleasant situation",
+      "examples": [
+        "They *rescued* the cat from the tree.",
+        "He was *rescued* by the firefighters."
+      ],
+      "transcription": "ˈrɛskjuː",
+      "ru_translation": "спасать"
+    },
+    "img": "https://media.defense.gov/2019/May/20/2002133715/1088/820/0/190517-Z-GB362-1446.JPG"
+  },
+  {
+    "id": "rescueijkl",
+    "front": "rescue",
+    "back": {
+      "definition": "the act of helping someone out of a dangerous or unpleasant situation",
+      "examples": [
+        "The *rescue* operation took several hours.",
+        "They were thankful for the quick *rescue*."
+      ],
+      "transcription": "ˈrɛskjuː",
+      "ru_translation": "спасение"
+    },
+    "img": "https://cdn3.iconfinder.com/data/icons/firefighter-fireman/260/fireman-Firefighter-rescue-004-1024.png"
+  },
+  {
+    "id": "tacklemnopq",
+    "front": "tackle",
+    "back": {
+      "definition": "to try to deal with a problem",
+      "examples": [
+        "The government is trying to *tackle* the issue of unemployment.",
+        "We need to *tackle* this problem head-on."
+      ],
+      "transcription": "ˈtækl",
+      "ru_translation": "решать (проблему), браться за что-либо, бороться"
+    },
+    "img": "https://www.trends.mn/files/uploads/0d4a6ef994eb38ad43ff2cd0529a900f.png"
+  },
+  {
+    "id": "tacklerstuv",
+    "front": "tackle",
+    "back": {
+      "definition": "all the things you need for a particular activity",
+      "examples": [
+        "He bought new fishing *tackle*.",
+        "The sports store has all the *tackle* you need."
+      ],
+      "transcription": "ˈtækl",
+      "ru_translation": "снаряжение, снасти"
+    },
+    "img": "https://blackfish.ru/image/cache/catalog/brands/korda/tackle-box/sistemnaya-korobka-korda-tackle-box-13-1000x1000.jpg"
+  },
+  {
+    "id": "retirewxyz",
+    "front": "retire",
+    "back": {
+      "definition": "to leave your job or stop working because of old age or ill health",
+      "examples": [
+        "He plans to *retire* at 65.",
+        "She *retired* from the company after 30 years."
+      ],
+      "transcription": "rɪˈtaɪə",
+      "ru_translation": "уходить в отставку или на пенсию"
+    },
+    "img": "https://casauhoaca.com/images/page/tu-van-mua-qua-tang-sep-nghi-huu-2-18c.jpg"
+  },
+  {
+    "id": "retirementabcd",
+    "front": "retirement",
+    "back": {
+      "definition": "the act of leaving your job and stopping working, usually because you are old",
+      "examples": [
+        "Her *retirement* party is next week.",
+        "He is looking forward to *retirement*."
+      ],
+      "transcription": "rɪˈtaɪəmənt",
+      "ru_translation": "выход на пенсию или в отставку"
+    },
+    "img": "https://otyrar.kz/wp-content/uploads/2019/05/BltupVpnd3c-696x464.jpg"
+  },
+  {
+    "id": "bellyefgh",
+    "front": "belly",
+    "back": {
+      "definition": "the front part of the human body below the ribs, containing the stomach and bowels",
+      "examples": [
+        "He has a large *belly*.",
+        "She felt a pain in her *belly*."
+      ],
+      "transcription": "ˈbɛli",
+      "ru_translation": "живот"
+    },
+    "img": "https://britlex.ru/images/belly.jpg"
   }
 ]

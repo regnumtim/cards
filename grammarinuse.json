@@ -889,5 +889,158 @@
         ]
       }
     ]
+  },
+  {
+    "title": "UNIT 14",
+    "exercises": [
+      {
+        "ex_number": "14.1",
+        "questions": [
+          { "answer": "OK" },
+          { "answer": "I bought" },
+          { "answer": "Where were you" },
+          { "answer": "Maria left school" },
+          { "answer": "OK" },
+          { "answer": "OK" },
+          { "answer": "OK" },
+          { "answer": "When was this bridge built?" }
+        ]
+      },
+      {
+        "ex_number": "14.2",
+        "questions": [
+          { "answer": "The weather has been cold recently." },
+          { "answer": "It was cold last week." },
+          { "answer": "I didn’t eat any fruit yesterday." },
+          { "answer": "I haven’t eaten any fruit today." },
+          { "answer": "Emily has earned a lot of money this year." },
+          { "answer": "She didn’t earn so much last year." },
+          { "answer": "Have you had a holiday recently?" }
+        ]
+      },
+      {
+        "ex_number": "14.3",
+        "questions": [
+          { "answer": "I didn’t sleep" },
+          { "answer": "There was … there were" },
+          { "answer": "worked … he gave" },
+          { "answer": "She’s lived / She has lived" },
+          { "answer": "died … I never met" },
+          { "answer": "I’ve never met / I have never met" },
+          { "answer": "I haven’t seen" },
+          { "answer": "Did you go … was" },
+          { "answer": "It’s been / It has been … it was" },
+          {
+            "answer": "have you lived / have you been living … did you live … did you live"
+          }
+        ]
+      },
+      {
+        "ex_number": "14.4",
+        "questions": [
+          { "answer": "I haven’t bought anything today." },
+          { "answer": "I didn’t watch TV yesterday." },
+          { "answer": "I went out with some friends yesterday evening." },
+          { "answer": "I haven’t been to the cinema recently." },
+          { "answer": "I’ve read a lot of books recently." }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UNIT 15",
+    "exercises": [
+      {
+        "ex_number": "15.1",
+        "questions": [
+          { "answer": "It had changed a lot." },
+          { "answer": "I hadn’t heard it before." },
+          {
+            "answer": "She’d arranged to do something else. / She had arranged …"
+          },
+          { "answer": "The film had already started." },
+          { "answer": "We hadn’t been there before." },
+          { "answer": "I hadn’t seen him for five years." },
+          { "answer": "They’d just had lunch. / They had just had …" },
+          { "answer": "He’d never played before. / He had never played …" }
+        ]
+      },
+      {
+        "ex_number": "15.2",
+        "questions": [
+          { "answer": "there was … She’d gone / She had gone" },
+          {
+            "answer": "He’d just come back from / He had just come back from … He looked"
+          },
+          {
+            "answer": "got a phone call He was He’d sent her / He had sent her … she’d never replied (to them) / she had never replied (to them)"
+          }
+        ]
+      },
+      {
+        "ex_number": "15.3",
+        "questions": [
+          { "answer": "I went" },
+          { "answer": "had gone" },
+          { "answer": "he’d already travelled / he had already travelled" },
+          { "answer": "broke" },
+          { "answer": "we saw … had broken … we stopped" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UNIT 16",
+    "exercises": [
+      {
+        "ex_number": "16.1",
+        "questions": [
+          {
+            "answer": "They’d been playing football. / They had been playing …"
+          },
+          {
+            "answer": "I’d been looking forward to it. / I had been looking forward …"
+          },
+          {
+            "answer": "She’d been having a bad dream. / She had been having …"
+          },
+          { "answer": "He’d been watching a film. / He had been watching …" },
+          {
+            "answer": "They’d been waiting a long time. / They had been waiting …"
+          }
+        ]
+      },
+      {
+        "ex_number": "16.2",
+        "questions": [
+          {
+            "answer": "I’d been waiting / I had been waiting … I realised (that) I was (in …)"
+          },
+          { "answer": "went … had been working or had worked" },
+          { "answer": "had been playing … started" },
+          {
+            "answer": "Example answer: I’d been walking for about ten minutes when a car suddenly stopped just behind me."
+          }
+        ]
+      },
+      {
+        "ex_number": "16.3",
+        "questions": [
+          { "answer": "We’d been travelling" },
+          { "answer": "He was looking" },
+          { "answer": "She’d been running" },
+          { "answer": "He was walking" },
+          { "answer": "I’d had it" },
+          { "answer": "I’d been going" },
+          { "answer": "I’ve been training" },
+          {
+            "answer": "(When I finally arrived,) she was waiting … she’d been waiting (such a long time)"
+          },
+          { "answer": "he was already working" },
+          { "answer": "had already been working" },
+          { "answer": "He’s been working" }
+        ]
+      }
+    ]
   }
 ]
