@@ -14143,8 +14143,8 @@
     "back": {
       "definition": "consisting of two or more parts.",
       "examples": [
-        "The *compound* word is made up of two smaller words.",
-        "He took a *compound* interest loan."
+        "It's a *compound* bow, most likely.",
+        "Each specific instance of this data type is a *compound* variable."
       ],
       "transcription": "ˈkɒmpaʊnd",
       "ru_translation": "составной"
@@ -15275,7 +15275,7 @@
       "transcription": "bɛnd",
       "ru_translation": "изгиб, поворот"
     },
-    "img": "http://www.nolafoodie.com/wp-content/uploads/2015/06/winding-390x205.jpg"
+    "img": "https://a.d-cd.net/70b61cu-960.jpg"
   },
   {
     "id": "clarifywxyz",
@@ -15402,5 +15402,282 @@
       "ru_translation": "живот"
     },
     "img": "https://britlex.ru/images/belly.jpg"
+  },
+  {
+    "id": "approachghjkl",
+    "front": "approach",
+    "back": {
+      "definition": "a way of doing something; a movement towards something, in distance or time.",
+      "examples": [
+        "She has a unique *approach* to solving problems.",
+        "The *approach* of winter can be felt in the air."
+      ],
+      "transcription": "əˈprəʊʧ",
+      "ru_translation": "подход, приближение"
+    },
+    "img": "https://git.ir/media/linkedin/business-analytics-forecasting-with-exponential-smoothing.jpg"
+  },
+  {
+    "id": "approachqwerty",
+    "front": "approach",
+    "back": {
+      "definition": "to come close in distance or time.",
+      "examples": [
+        "The train is *approaching* the station.",
+        "As the deadline *approached*, they worked harder."
+      ],
+      "transcription": "əˈprəʊʧ",
+      "ru_translation": "приближаться, подходить"
+    },
+    "img": "https://storage.ws.pho.to/s2/442de1db5d82f5783dbffdb5c3bd669cb7eca91a_m.jpeg"
+  },
+  {
+    "id": "slapzxcvb",
+    "front": "slap",
+    "back": {
+      "definition": "a quick hit with the flat part of the hand or other flat object.",
+      "examples": [
+        "She gave him a *slap* on the face.",
+        "The *slap* echoed in the room."
+      ],
+      "transcription": "slæp",
+      "ru_translation": "пощечина, шлепок, дать пощечину (по лицу)"
+    },
+    "img": "https://britlex.ru/images/slap.jpg"
+  },
+  {
+    "id": "smackasdfg",
+    "front": "smack",
+    "back": {
+      "definition": "to hit someone with the flat, inside part of your hand.",
+      "examples": [
+        "He *smacked* the table in frustration.",
+        "She *smacked* his hand away."
+      ],
+      "transcription": "smæk",
+      "ru_translation": "шлепок, шлепнуть (по любой части тела кроме лица)"
+    },
+    "img": "https://sputnik.kg/images/102749/42/1027494268.jpg"
+  },
+  {
+    "id": "spankhijkl",
+    "front": "spank",
+    "back": {
+      "definition": "to hit someone, usually a child, on their bottom.",
+      "examples": [
+        "She *spanked* the child for misbehaving.",
+        "The parent *spanked* the child as a punishment."
+      ],
+      "transcription": "spæŋk",
+      "ru_translation": "шлепок, шлепать (по заднице)"
+    },
+    "img": "https://s.abcnews.com/images/US/GTY_child_discipline_jt_140913_16x9_992.jpg"
+  },
+  {
+    "id": "coatmnopr",
+    "front": "coat",
+    "back": {
+      "definition": "an outer piece of clothing with sleeves that is worn over other clothes, usually for warmth.",
+      "examples": [
+        "She wore a heavy *coat* in the winter.",
+        "The *coat* kept him warm."
+      ],
+      "transcription": "kəʊt",
+      "ru_translation": "пальто"
+    },
+    "img": "https://static.galerieslafayette.com/media/3004070/300407056722/G_300407056722_154_VFP_1.jpg"
+  },
+  {
+    "id": "coatuvwxyz",
+    "front": "coat",
+    "back": {
+      "definition": "the fur that covers an animal's body.",
+      "examples": [
+        "The dog's *coat* is very thick.",
+        "A cat's *coat* is soft."
+      ],
+      "transcription": "kəʊt",
+      "ru_translation": "мех, шерсть (животного)"
+    },
+    "img": "https://snappygoat.com/b/11dcec2fb3356517d364e3192158c0797c31b9b7"
+  },
+  {
+    "id": "coatbnmkl",
+    "front": "coat",
+    "back": {
+      "definition": "a layer of a substance such as paint.",
+      "examples": [
+        "Apply a second *coat* of paint.",
+        "The wall needs another *coat*."
+      ],
+      "transcription": "kəʊt",
+      "ru_translation": "слой"
+    },
+    "img": "https://furman.top/uploads/posts/2022-06/thumbs/1655828213_16-furman-top-p-tekstura-krashennogo-metalla-krasivo-18.jpg"
+  },
+  {
+    "id": "coatwithghjkl",
+    "front": "coat (with)",
+    "back": {
+      "definition": "to cover something with a thin layer of something.",
+      "examples": [
+        "The chef *coated* the chicken with spices.",
+        "You need to *coat* the surface with paint."
+      ],
+      "transcription": "kəʊt",
+      "ru_translation": "покрывать слоем (чего-либо)"
+    },
+    "img": "https://i.pinimg.com/736x/62/4f/b3/624fb330e4ccffef36d8b7511b7db786.jpg"
+  },
+  {
+    "id": "coatingqwerty",
+    "front": "coating",
+    "back": {
+      "definition": "a thin layer covering something.",
+      "examples": [
+        "The cake had a chocolate *coating*.",
+        "A thin *coating* of dust covered the furniture."
+      ],
+      "transcription": "ˈkəʊtɪŋ",
+      "ru_translation": "покрытие, слой"
+    },
+    "img": "https://www.automator.com/wp-content/uploads/2021/12/shutterstock_344900966-1200x800.jpg"
+  },
+  {
+    "id": "fluidzxcvb",
+    "front": "fluid",
+    "back": {
+      "definition": "a substance that flows and is not solid; fluid.",
+      "examples": [
+        "Water is a type of *fluid*.",
+        "Check the *fluid* levels in the car."
+      ],
+      "transcription": "ˈflu(ː)ɪd",
+      "ru_translation": "жидкость"
+    },
+    "img": "https://live.staticflickr.com/8385/8504592332_b31e2c1554_b.jpg"
+  },
+  {
+    "id": "fluidasdfg",
+    "front": "fluid",
+    "back": {
+      "definition": "smooth and continuous, in a way that is elegant; able to flow easily like liquid.",
+      "examples": [
+        "Her movements were *fluid* and graceful.",
+        "The artist's brushstrokes were *fluid*."
+      ],
+      "transcription": "ˈflu(ː)ɪd",
+      "ru_translation": "плавный, жидкий"
+    },
+    "img": "https://1.bp.blogspot.com/-SCmZpah1Sd4/YBPPIQRQ0sI/AAAAAAABOVw/T_mPJ1UlnYAXk-mkbxWS4YBhledX-Ut-gCLcBGAsYHQ/w400-h266/2.jpg"
+  },
+  {
+    "id": "educatehijkl",
+    "front": "educate",
+    "back": {
+      "definition": "to teach someone, especially using the formal system of school, college, or university.",
+      "examples": [
+        "Schools *educate* children.",
+        "The program is designed to *educate* young people."
+      ],
+      "transcription": "ˈɛdju(ː)keɪt",
+      "ru_translation": "обучать, давать образование, просвещать"
+    },
+    "img": "https://www.gold.ac.uk/media/images-by-section/course-finder/postgraduate/educational-studies/mphil-phd-education-2.jpg"
+  },
+  {
+    "id": "educationmnop",
+    "front": "education",
+    "back": {
+      "definition": "the process of teaching or learning, especially in a school or college, or the knowledge that you get from this.",
+      "examples": [
+        "She received a good *education*.",
+        "The *education* system needs reform."
+      ],
+      "transcription": "ˌɛdju(ː)ˈkeɪʃən",
+      "ru_translation": "образование"
+    },
+    "img": "https://i.ytimg.com/vi/5rcbPkS5Hek/hqdefault.jpg"
+  },
+  {
+    "id": "pastuvwxyz",
+    "front": "past",
+    "back": {
+      "definition": "used to refer to a period of time before and until the present.",
+      "examples": [
+        "Numerous calls over the *past* few months.",
+        "I've been lost these *past* few weeks."
+      ],
+      "transcription": "pɑːst",
+      "ru_translation": "последний (напр., дни, года и тп), прошлый"
+    },
+    "img": "https://www.meme-arsenal.com/memes/b548194e889851bdd7f80869052dce0e.jpg"
+  },
+  {
+    "id": "pastbnmkl",
+    "front": "past",
+    "back": {
+      "definition": "moving in the direction that is away from someone or something.",
+      "examples": ["He walked *past* the store.", "The car drove *past* us."],
+      "transcription": "pɑːst",
+      "ru_translation": "мимо"
+    },
+    "img": "https://statics.indozone.news/content/2021/07/12/lNsR7JZ/suhu-di-california-mencapai-54-5-c-pada-hari-jum-at-hampir-pecahkan-rekor-dunia64_700.jpg"
+  },
+  {
+    "id": "benefitghjkl",
+    "front": "benefit",
+    "back": {
+      "definition": "something that helps you or gives you an advantage.",
+      "examples": [
+        "Exercise has many *benefits*.",
+        "The new policy will *benefit* everyone."
+      ],
+      "transcription": "ˈbɛnɪfɪt",
+      "ru_translation": "польза, преимущество, выгода"
+    },
+    "img": "https://static10.tgstat.ru/channels/_0/08/0802137c81654a32a189acd46a8f27a0.jpg"
+  },
+  {
+    "id": "benefitqwerty",
+    "front": "benefit",
+    "back": {
+      "definition": "to be helped by something or to help someone.",
+      "examples": [
+        "The new system will *benefit* students.",
+        "He *benefits* from regular exercise."
+      ],
+      "transcription": "ˈbɛnɪfɪt",
+      "ru_translation": "извлекать или приносить пользу, выйгрывать"
+    },
+    "img": "https://yt3.googleusercontent.com/ytc/AIf8zZRWYUYAuGNiXM8k_xkhCzRl1juKpyrKerrEtCSt=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": "beneficialxyrslq",
+    "front": "beneficial",
+    "back": {
+      "definition": "helpful, useful, or good",
+      "examples": [
+        "Regular exercise is *beneficial* to your health.",
+        "Eating a balanced diet can be *beneficial* for maintaining energy levels."
+      ],
+      "transcription": "ˌbɛnɪˈfɪʃəl",
+      "ru_translation": "приносящий пользу, полезный, выгодный"
+    },
+    "img": "https://22cd9d2211.cbaul-cdnwnd.com/e2d220a744d30686540d633801a2e6a6/200000004-a349ea34a0/700/heart-3498855_640.jpg?ph=22cd9d2211"
+  },
+  {
+    "id": "beneficiaryljvfrk",
+    "front": "beneficiary",
+    "back": {
+      "definition": "someone who receives money, help, etc from something or someone else",
+      "examples": [
+        "She is the sole *beneficiary* of her father's estate.",
+        "The charity was named as a *beneficiary* in his will."
+      ],
+      "transcription": "ˌbɛnɪˈfɪʃəri",
+      "ru_translation": "выгодополучатель"
+    },
+    "img": "https://greeknewsondemand.com/wp-content/uploads/2020/03/5e7e0a77203027523b650f42.jpg"
   }
 ]
