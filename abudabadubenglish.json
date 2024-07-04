@@ -5884,9 +5884,9 @@
         "He is held in great *regard* by his colleagues."
       ],
       "transcription": "rɪˈgɑːd",
-      "ru_translation": "внимание, почтение"
+      "ru_translation": "уважение, восхищение"
     },
-    "img": "https://avatars.mds.yandex.net/get-ydo/2426891/2a000001739723087bcba615bd61a4aaadfc/diploma"
+    "img": "https://inetmnenie.ru/uploads/old/1360762593_respect.jpg"
   },
   {
     "id": "regardstuvw",
@@ -5894,13 +5894,13 @@
     "back": {
       "definition": "to consider or have an opinion about something or someone",
       "examples": [
-        "He is highly *regarded* in his field.",
-        "They *regard* her as a valuable team member."
+        "He is generally regarded as one of the greatest singers this century.",
+        "The plans were regarded with suspicion."
       ],
       "transcription": "rɪˈgɑːd",
-      "ru_translation": "относиться к чему-л., принимать во внимание"
+      "ru_translation": "считать, рассматривать"
     },
-    "img": "https://tvline.com/wp-content/uploads/2015/06/rookie-blue-season-6-photos-111.jpg"
+    "img": "https://cdn1.ozone.ru/s3/multimedia-2/6254335034.jpg"
   },
   {
     "id": "difficultyxyza",
@@ -15960,5 +15960,383 @@
       "ru_translation": "всемирный, по всему миру"
     },
     "img": "https://mtdata.ru/u24/photo892F/20012313667-0/original.jpg"
+  },
+  {
+    "id": "workoutabc",
+    "front": "work out",
+    "back": {
+      "definition": "to exercise in order to improve the strength or appearance of your body",
+      "examples": [
+        "I *work out* every morning at the gym.",
+        "She loves to *work out* to stay fit."
+      ],
+      "transcription": "wɜːkaʊt",
+      "ru_translation": "тренироваться (заниматься спортом)"
+    },
+    "img": "https://econet.ru/uploads/pictures/517321/content_%D0%BE%D1%82%D0%B6%D0%B8%D0%BC%D0%B0%D0%B8%D0%BD%D1%8F2.jpg"
+  },
+  {
+    "id": "workoutdef",
+    "front": "work out",
+    "back": {
+      "definition": "to have a good result or to solve a problem successfully",
+      "examples": [
+        "Everything will *work out* in the end.",
+        "We need to *work out* this issue before it gets worse."
+      ],
+      "transcription": "wɜːkaʊt",
+      "ru_translation": "решаться, улаживаться, получаться"
+    },
+    "img": "https://i.pinimg.com/originals/2d/f6/73/2df67314d9b99d412f88bf8a4758a7fe.png"
+  },
+  {
+    "id": "workoutghi",
+    "front": "workout",
+    "back": {
+      "definition": "a period of physical exercise",
+      "examples": [
+        "My daily *workout* includes running and weightlifting.",
+        "She finished her *workout* at the gym."
+      ],
+      "transcription": "ˈwɜːkaʊt",
+      "ru_translation": "тренировка, зарядка"
+    },
+    "img": "https://www.pngkit.com/png/detail/360-3606921_gym-workout-clipart-weight-lifting-cartoons-png.png"
+  },
+  {
+    "id": "fashionjkl",
+    "front": "fashion",
+    "back": {
+      "definition": "a style that is popular at a particular time, especially in clothes, hair, make-up, etc.",
+      "examples": [
+        "She has a great sense of *fashion*.",
+        "*Fashion* trends change every season."
+      ],
+      "transcription": "ˈfæʃən",
+      "ru_translation": "мода"
+    },
+    "img": "https://i.pinimg.com/originals/35/2b/9e/352b9ee56420f1cc89b72883dc76cd9a.jpg"
+  },
+  {
+    "id": "fashionablemno",
+    "front": "fashionable",
+    "back": {
+      "definition": "popular at a particular time",
+      "examples": [
+        "It's *fashionable* to wear vintage clothes now.",
+        "He always dresses in a *fashionable* way."
+      ],
+      "transcription": "ˈfæʃnəbl",
+      "ru_translation": "модный"
+    },
+    "img": "https://i.pinimg.com/736x/ee/d2/d2/eed2d2eacf3679a42aff1bda45b502a1.jpg"
+  },
+  {
+    "id": "unfashionablepqr",
+    "front": "unfashionable",
+    "back": {
+      "definition": "not modern or popular at a particular time",
+      "examples": [
+        "That style is considered *unfashionable* nowadays.",
+        "She avoids wearing *unfashionable* clothes."
+      ],
+      "transcription": "ʌnˈfæʃnəbl",
+      "ru_translation": "немодный"
+    },
+    "img": "https://fashion-geek.ru/wp-content/uploads/2023/05/fashion-look-2.jpg"
+  },
+  {
+    "id": "oldfashionedstu",
+    "front": "old-fashioned",
+    "back": {
+      "definition": "not in fashion any more; out of date",
+      "examples": [
+        "He has a very *old-fashioned* attitude.",
+        "Those *old-fashioned* dresses are back in style."
+      ],
+      "transcription": "əʊld-ˈfæʃənd",
+      "ru_translation": "старомодный"
+    },
+    "img": "https://65.img.avito.st/image/1/1.6O022baBRARAfLYCaq6A6d96QAKUfEQC8xlAAkB8tgKAfkgAgHhEQA.AcodCmj6bPPKcQiI5Hm7tvWU-aYz07mb-z-33v9oVOk"
+  },
+  {
+    "id": "cabinxyz",
+    "front": "cabin",
+    "back": {
+      "definition": "a small, simple house made of wood; a small room to sleep in on a ship",
+      "examples": [
+        "We stayed in a cozy *cabin* in the woods.",
+        "The ship has many *cabins* for passengers."
+      ],
+      "transcription": "ˈkæbɪn",
+      "ru_translation": "хижина, каюта"
+    },
+    "img": "https://www.jerseyfamilyfun.com/wp-content/uploads/2020/06/Cabin-rentals-on-the-lake.png"
+  },
+  {
+    "id": "instant123",
+    "front": "instant",
+    "back": {
+      "definition": "a moment; a very short period of time",
+      "examples": [
+        "It only took an *instant* for everything to change.",
+        "He hesitated for an *instant* before replying."
+      ],
+      "transcription": "ˈɪnstənt",
+      "ru_translation": "мгновение"
+    },
+    "img": "https://24warez.ru/uploads/posts/2009-07/1246632680_soap_06.jpg"
+  },
+  {
+    "id": "instanthappen",
+    "front": "instant",
+    "back": {
+      "definition": "happening immediately, without any delay",
+      "examples": [
+        "The results were *instant*.",
+        "She made an *instant* decision."
+      ],
+      "transcription": "ˈɪnstənt",
+      "ru_translation": "мгновенный (в повседневной речи)"
+    },
+    "img": "https://sovkusom.ru/wp-content/uploads/blog/k/kofe-s-penkoy/2.jpg"
+  },
+  {
+    "id": "instantlyabc",
+    "front": "instantly",
+    "back": {
+      "definition": "immediately",
+      "examples": [
+        "She knew the answer *instantly*.",
+        "The news spread *instantly*."
+      ],
+      "transcription": "ˈɪnstəntli",
+      "ru_translation": "мгновенно"
+    },
+    "img": "https://i.pinimg.com/736x/3e/f2/af/3ef2af92e1b4311f7428d2a847e93c77.jpg"
+  },
+  {
+    "id": "instantaneousdef",
+    "front": "instantaneous",
+    "back": {
+      "definition": "happening immediately, without any delay (often used in scientific or technical contexts)",
+      "examples": [
+        "The reaction was *instantaneous*.",
+        "This method allows for *instantaneous* measurements."
+      ],
+      "transcription": "ˌɪnstənˈteɪniəs",
+      "ru_translation": "мгновенный (в научных или технических контекстах)"
+    },
+    "img": "https://i.pinimg.com/originals/ba/56/9a/ba569a29088e215f8367300b83883cc4.gif"
+  },
+  {
+    "id": "yetghi",
+    "front": "yet",
+    "back": {
+      "definition": "until now or until a particular time in the past",
+      "examples": [
+        "She hasn't finished her homework *yet*.",
+        "I haven't seen that movie *yet*."
+      ],
+      "transcription": "jɛt",
+      "ru_translation": "уже, еще, пока ещё"
+    },
+    "img": "https://media.tenor.com/2mVOds7shucAAAAC/jagyasini-jagyasini-singh.gif"
+  },
+  {
+    "id": "yetjkl",
+    "front": "yet",
+    "back": {
+      "definition": "but at the same time; nevertheless",
+      "examples": [
+        "It's a simple *yet* effective solution.",
+        "The task was difficult *yet* rewarding."
+      ],
+      "transcription": "jɛt",
+      "ru_translation": "но, и в то же время"
+    },
+    "img": "https://j.gifs.com/ElwwGm.gif"
+  },
+  {
+    "id": "investigatemno",
+    "front": "investigate",
+    "back": {
+      "definition": "to examine a crime, problem, statement, etc. carefully, especially to discover the truth",
+      "examples": [
+        "The police will *investigate* the incident.",
+        "She decided to *investigate* the matter further."
+      ],
+      "transcription": "ɪnˈvɛstɪgeɪt",
+      "ru_translation": "расследовать"
+    },
+    "img": "https://ulpravda.ru/pictures/news/big/65932_big.jpg"
+  },
+  {
+    "id": "investigationpqr",
+    "front": "investigation",
+    "back": {
+      "definition": "the act or process of examining a crime, problem, statement, etc. carefully, especially to discover the truth",
+      "examples": [
+        "The *investigation* took several months to complete.",
+        "They launched an *investigation* into the company's practices."
+      ],
+      "transcription": "ɪnˌvɛstɪˈgeɪʃən",
+      "ru_translation": "расследование"
+    },
+    "img": "https://img.youtube.com/vi/1kkCC-zG1jc/hqdefault.jpg"
+  },
+  {
+    "id": "investigatorstu",
+    "front": "investigator",
+    "back": {
+      "definition": "a person whose job is to examine a crime, problem, statement, etc. carefully, especially to discover the truth",
+      "examples": [
+        "The *investigator* gathered all the evidence.",
+        "He hired a private *investigator* to look into the matter."
+      ],
+      "transcription": "ɪnˈvɛstɪgeɪtə",
+      "ru_translation": "следователь"
+    },
+    "img": "https://mir-s3-cdn-cf.behance.net/projects/max_808/4f2d6678789267.Y3JvcCw4MTgsNjQwLDE0MSww.jpg"
+  },
+  {
+    "id": "statexyz",
+    "front": "state",
+    "back": {
+      "definition": "the condition that something or someone is in",
+      "examples": [
+        "The house was in a terrible *state*.",
+        "She was in a confused *state* of mind."
+      ],
+      "transcription": "steɪt",
+      "ru_translation": "состояние"
+    },
+    "img": "https://i.pinimg.com/736x/4b/18/58/4b18587610ca0481f9a07b2a4b75d0b6.jpg"
+  },
+  {
+    "id": "stategov123",
+    "front": "state",
+    "back": {
+      "definition": "a country or its government",
+      "examples": [
+        "The *state* has introduced new laws.",
+        "He works for the *state* government."
+      ],
+      "transcription": "steɪt",
+      "ru_translation": "государство"
+    },
+    "img": "https://papik.pro/izobr/uploads/posts/2023-02/1677157428_papik-pro-p-pravovoe-gosudarstvo-karikatura-8.jpg"
+  },
+  {
+    "id": "statesmanabc",
+    "front": "statesman",
+    "back": {
+      "definition": "an experienced politician, especially one who is respected for making good judgments",
+      "examples": [
+        "He is considered a great *statesman*.",
+        "The *statesman* made a significant impact on the country."
+      ],
+      "transcription": "ˈsteɪtsmən",
+      "ru_translation": "государственный деятель"
+    },
+    "img": "https://i01.fotocdn.net/s215/76e6f8a74fdd140f/public_pin_l/2914816800.jpg"
+  },
+  {
+    "id": "gundef",
+    "front": "gun",
+    "back": {
+      "definition": "a weapon that fires bullets or shells",
+      "examples": [
+        "He owns a *gun* for protection.",
+        "The sound of the *gun* shot echoed through the valley."
+      ],
+      "transcription": "gʌn",
+      "ru_translation": "огнестрельное оружие"
+    },
+    "img": "https://www.toddstarnes.com/wp-content/uploads/2022/06/Untitled-design-12-1024x768.jpg"
+  },
+  {
+    "id": "shotgunghi",
+    "front": "shotgun",
+    "back": {
+      "definition": "a long gun that fires a large number of small metal balls (called shot) at one time, used for hunting birds and other animals",
+      "examples": [
+        "He used a *shotgun* for hunting.",
+        "The *shotgun* is loaded and ready."
+      ],
+      "transcription": "ˈʃɒtgʌn",
+      "ru_translation": "дробовик"
+    },
+    "img": "https://i.pinimg.com/736x/6a/e6/cf/6ae6cf7192a187cfa57529c9baa23ed0--cool-guns-hunting-guns.jpg"
+  },
+  {
+    "id": "machinegunjkl",
+    "front": "machine gun",
+    "back": {
+      "definition": "a gun that fires a lot of bullets one after the other very quickly",
+      "examples": [
+        "The soldiers were armed with *machine guns*.",
+        "A *machine gun* was mounted on the vehicle."
+      ],
+      "transcription": "məˈʃiːngʌn",
+      "ru_translation": "пулемет"
+    },
+    "img": "https://i.ytimg.com/vi/Vpqs8VYUZQA/sddefault.jpg"
+  },
+  {
+    "id": "duetosmthmno",
+    "front": "due to smth",
+    "back": {
+      "definition": "because of something",
+      "examples": [
+        "The event was canceled *due to* bad weather.",
+        "She couldn't attend *due to* illness."
+      ],
+      "transcription": "djuːtuː",
+      "ru_translation": "из-за, в связи, благодаря"
+    },
+    "img": "https://i.pinimg.com/originals/be/73/ee/be73ee8c1817d5191209bdf40ff49865.jpg"
+  },
+  {
+    "id": "wrappqr",
+    "front": "wrap",
+    "back": {
+      "definition": "to cover or surround something with paper, cloth, or other material",
+      "examples": [
+        "She *wrapped* the gift in colorful paper.",
+        "He *wrapped* the bandage around his arm."
+      ],
+      "transcription": "ræp",
+      "ru_translation": "обертывать, укутывать"
+    },
+    "img": "https://i.pinimg.com/originals/bb/e9/ae/bbe9aec4d8c75dc3fc828a836cf7ecea.jpg"
+  },
+  {
+    "id": "unwrapstu",
+    "front": "unwrap",
+    "back": {
+      "definition": "to remove the paper, cloth, etc. that is covering something",
+      "examples": [
+        "He *unwrapped* the present eagerly.",
+        "She carefully *unwrapped* the fragile item."
+      ],
+      "transcription": "ʌnˈræp",
+      "ru_translation": "разворачивать, снимать обертку"
+    },
+    "img": "https://photo.7ya.ru/ph/2011/12/23/1324594075888.jpg"
+  },
+  {
+    "id": "wrappingxyz",
+    "front": "wrapping",
+    "back": {
+      "definition": "paper or material used to cover or protect something",
+      "examples": [
+        "The *wrapping* was torn off quickly.",
+        "She saved the decorative *wrapping* paper."
+      ],
+      "transcription": "ˈræpɪŋ",
+      "ru_translation": "обертка, упаковка"
+    },
+    "img": "https://thmbs.imgag.com/unsafe/adaptive-fit-in/950x760/https%3A%2F%2Fimages.salsify.com%2Fimage%2Fupload%2Fq_70%2Fufxdaid9keemtgtze8yg.jpg"
   }
 ]
