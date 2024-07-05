@@ -6727,7 +6727,7 @@
   },
   {
     "id": "dealYZAB",
-    "front": "deal",
+    "front": "deal (dealt, dealt)",
     "back": {
       "definition": "to do business or trade with someone.",
       "examples": [
@@ -15236,6 +15236,20 @@
     "img": "https://smart-lab.ru/uploads/images/04/14/14/2020/01/17/366878.jpg"
   },
   {
+    "id": "giveupgiv123",
+    "front": "give up",
+    "back": {
+      "definition": "to stop doing something that you do regularly or as a habit.",
+      "examples": [
+        "She decided to *give up* smoking for her health.",
+        "He *gave up* his job to travel the world."
+      ],
+      "transcription": "gɪv ʌp",
+      "ru_translation": "отказываться от, бросать"
+    },
+    "img": "https://media.gq-magazine.co.uk/photos/5da99a8c32477d00091ab1a5/16:9/w_1920,c_limit/20191018-Smoking.jpg"
+  },
+  {
     "id": "giveinijkl",
     "front": "give in",
     "back": {
@@ -15880,6 +15894,20 @@
     "img": "https://www.vvng.com/wp-content/uploads/2014/06/fraud.jpg"
   },
   {
+    "id": "defrauddef123",
+    "front": "defraud",
+    "back": {
+      "definition": "to illegally obtain money from someone by deception.",
+      "examples": [
+        "He was charged with attempting to *defraud* the bank.",
+        "The scam was designed to *defraud* elderly people."
+      ],
+      "transcription": "dɪˈfrɔːd",
+      "ru_translation": "обмануть, мошенничать"
+    },
+    "img": "https://tupa-dns.org/wp-content/uploads/2019/07/18.png"
+  },
+  {
     "id": "fraudulentcdef012",
     "front": "fraudulent",
     "back": {
@@ -16338,5 +16366,299 @@
       "ru_translation": "обертка, упаковка"
     },
     "img": "https://thmbs.imgag.com/unsafe/adaptive-fit-in/950x760/https%3A%2F%2Fimages.salsify.com%2Fimage%2Fupload%2Fq_70%2Fufxdaid9keemtgtze8yg.jpg"
+  },
+  {
+    "id": "barrelbarr123",
+    "front": "barrel",
+    "back": {
+      "definition": "a cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops around them.",
+      "examples": [
+        "The *barrel* was filled with fresh water.",
+        "They stored the wine in large wooden *barrels*."
+      ],
+      "transcription": "ˈbærəl",
+      "ru_translation": "бочка"
+    },
+    "img": "https://uploads-ssl.webflow.com/5d2aaa7886b66be97abd2fbc/5d351c726b1d5c30c222d370_download%20(5).png"
+  },
+  {
+    "id": "barrelbarr456",
+    "front": "barrel",
+    "back": {
+      "definition": "the long, cylindrical part of a gun through which the bullet travels when fired.",
+      "examples": [
+        "The *barrel* of the rifle was shining in the sunlight.",
+        "He cleaned the *barrel* to ensure accuracy when shooting."
+      ],
+      "transcription": "ˈbærəl",
+      "ru_translation": "ствол (у огнестрельного оружия)"
+    },
+    "img": "https://w7.pngwing.com/pngs/341/318/png-transparent-gun-barrel-ruger-mini-14-204-ruger-sturm-ruger-co-barrel-miscellaneous-barrel-weapon.png"
+  },
+  {
+    "id": "getridofget123",
+    "front": "get rid of",
+    "back": {
+      "definition": "to remove or throw away something unwanted.",
+      "examples": [
+        "She decided to *get rid of* all her old clothes.",
+        "They need to *get rid of* that broken chair."
+      ],
+      "transcription": "gɛtrɪdɒv",
+      "ru_translation": "избавиться от кого-либо/чего-либо"
+    },
+    "img": "https://siestra.ru/wp-content/uploads/b8e045d30088c6aa7ac410971b3f3363.jpg"
+  },
+  {
+    "id": "schemesche123",
+    "front": "scheme",
+    "back": {
+      "definition": "an official plan or system.",
+      "examples": [
+        "The government introduced a new *scheme* to help the unemployed.",
+        "The *scheme* was designed to improve urban transportation."
+      ],
+      "transcription": "skiːm",
+      "ru_translation": "план, программа (официальная), схема"
+    },
+    "img": "https://cryptoslate.com/wp-content/uploads/2018/03/architecture-1.png"
+  },
+  {
+    "id": "schemesche456",
+    "front": "scheme",
+    "back": {
+      "definition": "a plan for making money, especially in a dishonest way.",
+      "examples": [
+        "He was involved in a Ponzi *scheme* that defrauded investors.",
+        "The *scheme* was exposed as a scam."
+      ],
+      "transcription": "skiːm",
+      "ru_translation": "нечестный замысел, махинация"
+    },
+    "img": "https://documents.trendmicro.com/images/TEx/articles/bec-diag-1.jpg"
+  },
+  {
+    "id": "schemesche789",
+    "front": "scheme",
+    "back": {
+      "definition": "to make a secret plan in order to get an advantage, usually by deceiving people.",
+      "examples": [
+        "They were *scheming* to overthrow the government.",
+        "She *schemed* to get the promotion by undermining her colleagues."
+      ],
+      "transcription": "skiːm",
+      "ru_translation": "замышлять недоброе, строить тайные планы"
+    },
+    "img": "https://gifdb.com/images/high/evil-laugh-dr-evil-austin-powers-2x76o5ffx765hu7g.gif"
+  },
+  {
+    "id": "schematicsche123",
+    "front": "schematic",
+    "back": {
+      "definition": "relating to or in the form of an outline or diagram.",
+      "examples": [
+        "The engineer drew a *schematic* of the new circuit.",
+        "The *schematic* representation helped explain the process."
+      ],
+      "transcription": "skɪˈmætɪk",
+      "ru_translation": "схематический"
+    },
+    "img": "https://i.pinimg.com/736x/c4/8e/48/c48e487496f768d679a380c6825119de.jpg"
+  },
+  {
+    "id": "imageimag123",
+    "front": "image",
+    "back": {
+      "definition": "the general impression that a person, organization, or product presents to the public.",
+      "examples": [
+        "The company worked hard to improve its public *image*.",
+        "Her *image* as a hardworking professional was well-known."
+      ],
+      "transcription": "ˈɪmɪʤ",
+      "ru_translation": "репутация, имидж"
+    },
+    "img": "https://lifemoneyblog.ru/wp-content/uploads/2023/05/graphicstock-businessman-holding-five-star-rating_huooq2wgol-med.jpg"
+  },
+  {
+    "id": "imageimag456",
+    "front": "image",
+    "back": {
+      "definition": "a representation of the external form of a person or thing in art.",
+      "examples": [
+        "The stairway shows the *image* that you have of life.",
+        "Kara maintained their *image* and style."
+      ],
+      "transcription": "ˈɪmɪʤ",
+      "ru_translation": "(мысленный) образ, представление"
+    },
+    "img": "https://ocau.uz/files/media/burlaki.jpg"
+  },
+  {
+    "id": "welfarewelf123",
+    "front": "welfare",
+    "back": {
+      "definition": "the health, happiness, and fortunes of a person or group.",
+      "examples": [
+        "The child's *welfare* was the primary concern of the social worker.",
+        "Community centers are essential for public *welfare*."
+      ],
+      "transcription": "ˈwɛlfeə",
+      "ru_translation": "благополучие, благосостояние"
+    },
+    "img": "https://steemitimages.com/DQmVrtsiJmtdA8xgcLp2NLfX7V9Ei2fktqHhX3EtfquvfNb/sc_swp.png"
+  },
+  {
+    "id": "welfarewelf456",
+    "front": "welfare",
+    "back": {
+      "definition": "financial support given to people in need.",
+      "examples": [
+        "Many families rely on *welfare* to make ends meet.",
+        "She applied for *welfare* benefits after losing her job."
+      ],
+      "transcription": "ˈwɛlfeə",
+      "ru_translation": "пособие"
+    },
+    "img": "https://britlex.ru/images/welfare.jpg"
+  },
+  {
+    "id": "incorporateinc123",
+    "front": "incorporate",
+    "back": {
+      "definition": "to take in or contain (something) as part of a whole; include.",
+      "examples": [
+        "The new design will *incorporate* advanced technology.",
+        "They decided to *incorporate* feedback from users into the final product."
+      ],
+      "transcription": "ɪnˈkɔːpərɪt",
+      "ru_translation": "интегрировать, внедрять, включать (в состав чего-либо)"
+    },
+    "img": "https://nhdivorcecoach.com/wp-content/uploads/2020/04/organization-1024x683-1.jpg"
+  },
+  {
+    "id": "incorporationinc123",
+    "front": "incorporation",
+    "back": {
+      "definition": "the inclusion of something as part of a whole.",
+      "examples": [
+        "The *incorporation* of new ideas improved the project's outcome.",
+        "Their *incorporation* into the team was seamless."
+      ],
+      "transcription": "ɪnˌkɔːpəˈreɪʃən",
+      "ru_translation": "интегрирование, внедрение, включение (в состав чего-либо)"
+    },
+    "img": "https://www.educazionetecnicaonline.com/wp-content/uploads/2013/09/esercitazioni1.jpg"
+  },
+  {
+    "id": "currentcurr123",
+    "front": "current",
+    "back": {
+      "definition": "belonging to the present time; happening or being used or done now.",
+      "examples": [
+        "The *current* situation is challenging for many people.",
+        "She keeps up with *current* events by reading the news daily."
+      ],
+      "transcription": "ˈkʌrənt",
+      "ru_translation": "текущий, нынешний"
+    },
+    "img": "https://britlex.ru/images/current.jpg"
+  },
+  {
+    "id": "currentcurr456",
+    "front": "current",
+    "back": {
+      "definition": "a body of water or air moving in a definite direction, especially through a surrounding body of water or air in which there is less movement.",
+      "examples": [
+        "The river *current* was too strong for swimming.",
+        "They studied the ocean *currents* to understand marine life patterns."
+      ],
+      "transcription": "ˈkʌrənt",
+      "ru_translation": "течение, поток (ограничен определенными физическими явлениями такими как вода, электричество, воздух)"
+    },
+    "img": "https://avatars.mds.yandex.net/get-mpic/5326769/img_id1369385384326790371.jpeg/9hq"
+  },
+  {
+    "id": "currentcurr789",
+    "front": "current",
+    "back": {
+      "definition": "a flow of electric charge.",
+      "examples": [
+        "The *current* flows through the circuit.",
+        "He measured the electrical *current* with a multimeter."
+      ],
+      "transcription": "ˈkʌrənt",
+      "ru_translation": "(электрический) ток"
+    },
+    "img": "https://polinka.top/uploads/posts/2023-06/thumbs/1685909697_polinka-top-p-tok-kartinka-dlya-detei-krasivo-25.jpg"
+  },
+  {
+    "id": "currentlycurr123",
+    "front": "currently",
+    "back": {
+      "definition": "at the present time.",
+      "examples": [
+        "She is *currently* working on a new project.",
+        "The restaurant is *currently* closed for renovations."
+      ],
+      "transcription": "ˈkʌrəntli",
+      "ru_translation": "в данный момент"
+    },
+    "img": "https://cdn.onlinestreet.de/img/webseiten/browsershots/683751-desktop.jpg"
+  },
+  {
+    "id": "spinspin123",
+    "front": "spin",
+    "back": {
+      "definition": "to turn or cause to turn or whirl around quickly.",
+      "examples": [
+        "The dancer *spun* gracefully on the stage.",
+        "He likes to *spin* the top on the table."
+      ],
+      "transcription": "spɪn",
+      "ru_translation": "крутить(ся), вертеть(ся)"
+    },
+    "img": "https://britlex.ru/images/spin.jpg"
+  },
+  {
+    "id": "spinspin456",
+    "front": "spin",
+    "back": {
+      "definition": "the action or process of turning or whirling around quickly.",
+      "examples": [
+        "The *spin* of the wheels created a blur.",
+        "The sudden *spin* of the car caught everyone off guard."
+      ],
+      "transcription": "spɪn",
+      "ru_translation": "кружение, вращение"
+    },
+    "img": "https://homegrownfriends.com/wp-content/uploads/2016/05/DSC_0017-1024x685.jpg"
+  },
+  {
+    "id": "controversycont123",
+    "front": "controversy",
+    "back": {
+      "definition": "prolonged public disagreement or heated discussion.",
+      "examples": [
+        "The *controversy* over the new policy lasted for weeks.",
+        "His statements caused a lot of *controversy* in the media."
+      ],
+      "transcription": "ˈkɒntrəvɜːsi",
+      "ru_translation": "спор, полемика, разногласие (часто публичен, похож на диспут)"
+    },
+    "img": "https://renovacloud.com/wp-content/uploads/2018/01/newblog.jpg"
+  },
+  {
+    "id": "controversialcont456",
+    "front": "controversial",
+    "back": {
+      "definition": "causing a lot of disagreement or argument.",
+      "examples": [
+        "The book's *controversial* topics sparked many debates.",
+        "His *controversial* remarks led to widespread criticism."
+      ],
+      "transcription": "ˌkɒntrəˈvɜːʃəl",
+      "ru_translation": "спорный, неоднозначный"
+    },
+    "img": "https://i.pinimg.com/736x/ae/e7/37/aee7376daf8a77f8bdd35df38466bbf7.jpg"
   }
 ]
