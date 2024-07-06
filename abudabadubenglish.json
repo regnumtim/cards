@@ -4141,15 +4141,29 @@
     "id": "elaborateghi456",
     "front": "elaborate",
     "back": {
-      "definition": "to add more information to or explain something that you have said",
+      "definition": "to develop a plan, an idea, etc. and make it complicated or detailed",
       "examples": [
-        "Can you *elaborate* on your previous statement?",
-        "She refused to *elaborate* on the details."
+        "We must *elaborate* and approve an efficient roadmap .",
+        "Therefore, we must *elaborate* clear criteria."
       ],
       "transcription": "ɪˈlæbərɪt",
       "ru_translation": "разрабатывать, вырабатывать"
     },
     "img": "https://britlex.ru/images/elaborate.jpg"
+  },
+  {
+    "id": "elaborateXyZ123",
+    "front": "elaborate",
+    "back": {
+      "definition": "to explain something and give more details",
+      "examples": [
+        "Can you *elaborate* on your plan?",
+        "She refused to *elaborate* any further."
+      ],
+      "transcription": "ɪˈlæbəreɪt",
+      "ru_translation": "вдаваться в подробности, уточнять"
+    },
+    "img": "https://thumbs.dreamstime.com/b/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%BC%D0%B5%D0%BD-%D1%81-%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B9-%D0%BA%D0%BD%D0%B8%D0%B3%D0%BE%D0%B9-66497229.jpg"
   },
   {
     "id": "elaboratejkl789",
@@ -4175,7 +4189,7 @@
         "She provided an *elaboration* on the topic."
       ],
       "transcription": "ɪˌlæbəˈreɪʃən",
-      "ru_translation": "разработка, проработка"
+      "ru_translation": "тщательная разработка, уточнение"
     },
     "img": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663608789_13-mykaleidoscope-ru-p-logika-i-chuvstva-oboi-13.jpg"
   },
@@ -14578,7 +14592,7 @@
   },
   {
     "id": "breakoutbreakoutpxw",
-    "front": "break out",
+    "front": "break out (of)",
     "back": {
       "definition": "to escape from a place or situation",
       "examples": [
@@ -15189,7 +15203,7 @@
         "He *focused* all his energy on the project."
       ],
       "transcription": "ˈfəʊkəs",
-      "ru_translation": "сосредоточить(ся), средоточие"
+      "ru_translation": "сосредоточить(ся), сосредоточение"
     },
     "img": "https://sun6-21.userapi.com/wUFrNVYrzAuXmDRnE3aWaHWL9JlmvI1UqNAeMg/_GbCDmhI--A.jpg"
   },
@@ -15850,6 +15864,20 @@
       "ru_translation": "усталый"
     },
     "img": "https://i.pinimg.com/originals/5a/da/94/5ada94dd07e6f9371bbe84c4eff083a5.jpg"
+  },
+  {
+    "id": "tiringAbc456",
+    "front": "tiring",
+    "back": {
+      "definition": "making you feel tired",
+      "examples": [
+        "The journey was long and *tiring*.",
+        "She found the work *tiring* after a few hours."
+      ],
+      "transcription": "ˈtaɪərɪŋ",
+      "ru_translation": "утомительный"
+    },
+    "img": "https://images.inc.com/uploaded_files/image/1024x576/getty_97083412_334144.jpg"
   },
   {
     "id": "tirednessqrst123",
@@ -16607,14 +16635,14 @@
   },
   {
     "id": "spinspin123",
-    "front": "spin",
+    "front": "spin (spun/span, spun)",
     "back": {
       "definition": "to turn or cause to turn or whirl around quickly.",
       "examples": [
         "The dancer *spun* gracefully on the stage.",
         "He likes to *spin* the top on the table."
       ],
-      "transcription": "spɪn",
+      "transcription": "spɪn, spæn, spʌn",
       "ru_translation": "крутить(ся), вертеть(ся)"
     },
     "img": "https://britlex.ru/images/spin.jpg"
@@ -16660,5 +16688,271 @@
       "ru_translation": "спорный, неоднозначный"
     },
     "img": "https://i.pinimg.com/736x/ae/e7/37/aee7376daf8a77f8bdd35df38466bbf7.jpg"
+  },
+  {
+    "id": "turnawayxYz123",
+    "front": "turn away",
+    "back": {
+      "definition": "to refuse to allow someone to enter a place",
+      "examples": [
+        "They *turned away* several people at the door.",
+        "We were *turned away* from the club because it was too crowded."
+      ],
+      "transcription": "tɜːnəˈweɪ",
+      "ru_translation": "не впускать кого-либо"
+    },
+    "img": "https://britlex.ru/images/turn%20away.jpg"
+  },
+  {
+    "id": "wanderAbc456",
+    "front": "wander",
+    "back": {
+      "definition": "to walk around slowly in a relaxed way or without any clear purpose or direction",
+      "examples": [
+        "We *wandered* through the park for hours.",
+        "She likes to *wander* around the city and explore."
+      ],
+      "transcription": "ˈwɒndə",
+      "ru_translation": "бродить, блуждать"
+    },
+    "img": "https://mtdata.ru/u13/photo5C44/20521983236-0/original.jpg"
+  },
+  {
+    "id": "wandererXyZ789",
+    "front": "wanderer",
+    "back": {
+      "definition": "someone who travels aimlessly from place to place",
+      "examples": [
+        "The old *wanderer* had many stories to tell.",
+        "As a *wanderer*, he found joy in every new destination."
+      ],
+      "transcription": "ˈwɒndərə",
+      "ru_translation": "странник, скиталец"
+    },
+    "img": "https://mig.pics/x/uploads/posts/2022-10/1666252211_34-mykaleidoscope-ru-p-otkritki-strannik-krasivo-35.jpg"
+  },
+  {
+    "id": "hittGhj012",
+    "front": "hit (hit, hit)",
+    "back": {
+      "definition": "to move your hand or an object onto the surface of something so that it touches it, usually with force",
+      "examples": [
+        "He *hit* the ball with the bat.",
+        "I accidentally *hit* my head on the shelf."
+      ],
+      "transcription": "hɪt",
+      "ru_translation": "ударить, удар"
+    },
+    "img": "https://otvet.imgsmail.ru/download/15523639_0c1be7ea24ce6537bb61a44bff973b60_800.jpg"
+  },
+  {
+    "id": "hitnMnOp345",
+    "front": "hit",
+    "back": {
+      "definition": "an act of hitting something or someone",
+      "examples": [
+        "The *hit* was hard enough to knock him down.",
+        "She took a direct *hit* to the face."
+      ],
+      "transcription": "hɪt",
+      "ru_translation": "удар (часто намеренный)"
+    },
+    "img": "https://banner2.cleanpng.com/20180514/awq/kisspng-infisso-harvard-business-review-company-glass-wate-5af94d2e4d0f93.7626588715262876623156.jpg"
+  },
+  {
+    "id": "defenceA123bc",
+    "front": "defence",
+    "back": {
+      "definition": "protection or support against attack, criticism, or infection",
+      "examples": [
+        "The wall provides *defence* against intruders.",
+        "In his *defence*, he was only following orders."
+      ],
+      "transcription": "dɪˈfɛns",
+      "ru_translation": "защита, оборона"
+    },
+    "img": "https://asbest-gid.ru/_nw/262/s12182767.jpg"
+  },
+  {
+    "id": "defensiveZxY456",
+    "front": "defensive",
+    "back": {
+      "definition": "used or intended to protect someone or something against attack",
+      "examples": [
+        "The team took a *defensive* stance.",
+        "He became *defensive* when questioned about his actions."
+      ],
+      "transcription": "dɪˈfɛnsɪv",
+      "ru_translation": "оборонительный"
+    },
+    "img": "https://i.ytimg.com/vi/TUD5kzxF4ig/hqdefault.jpg"
+  },
+  {
+    "id": "defencelessZyX789",
+    "front": "defenceless",
+    "back": {
+      "definition": "weak and unable to protect yourself; having no protection",
+      "examples": [
+        "The kittens were *defenceless* against the harsh weather.",
+        "He felt *defenceless* in the face of such a powerful enemy."
+      ],
+      "transcription": "dɪˈfɛnslɪs",
+      "ru_translation": "беззащитный"
+    },
+    "img": "https://thumbs.dreamstime.com/b/%D0%BB%D1%8E%D0%B4%D0%B8-%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8-3d-%D0%BC%D0%B0%D0%BB%D1%8B%D0%B5-16421273.jpg"
+  },
+  {
+    "id": "driveoutAbc123",
+    "front": "drive out/away/off",
+    "back": {
+      "definition": "to force someone to leave a place",
+      "examples": [
+        "The invaders were *driven out* of the city.",
+        "They tried to *drive out* the rats from the building."
+      ],
+      "transcription": "draɪvaʊt",
+      "ru_translation": "выгнать, прогнать, отогнать"
+    },
+    "img": "https://sun9-4.userapi.com/c855416/v855416393/158a4e/yH1_9UWFU3Y.jpg"
+  },
+  {
+    "id": "blowA123bc",
+    "front": "blow (blew, blown)",
+    "back": {
+      "definition": "to move and make currents of air, or to be moved or make something move on a current of air",
+      "examples": [
+        "The wind *blew* the leaves away.",
+        "She *blows* out the candles every year."
+      ],
+      "transcription": "bləʊ, bluː, bləʊn",
+      "ru_translation": "дуть"
+    },
+    "img": "https://britlex.ru/images/blow.jpg"
+  },
+  {
+    "id": "blownMnOp456",
+    "front": "blow",
+    "back": {
+      "definition": "a sudden, hard hit, usually with a hand or object",
+      "examples": [
+        "He delivered a powerful *blow* to his opponent.",
+        "The sudden *blow* knocked him off his feet."
+      ],
+      "transcription": "bləʊ",
+      "ru_translation": "удар (часто внезапный и сильный; чаще ассоциируется с эмоциональным или жизненным ударом)"
+    },
+    "img": "https://i.pinimg.com/originals/05/97/bc/0597bc60a7f745cfeec19d4029740739.gif"
+  },
+  {
+    "id": "coupleXyZ789",
+    "front": "couple",
+    "back": {
+      "definition": "two or a few things that are similar or the same, or two people who are married or in a romantic or sexual relationship",
+      "examples": [
+        "A *couple* of people are waiting outside.",
+        "They make a lovely *couple*."
+      ],
+      "transcription": "ˈkʌpl",
+      "ru_translation": "пара"
+    },
+    "img": "https://i.pinimg.com/736x/3f/2d/9a/3f2d9a1172e1e9caf3d017c47a85bf9c.jpg"
+  },
+  {
+    "id": "exploreZxY012",
+    "front": "explore",
+    "back": {
+      "definition": "to search and discover about something",
+      "examples": [
+        "We went to *explore* the new park.",
+        "She loves to *explore* different cultures."
+      ],
+      "transcription": "ɪksˈplɔː",
+      "ru_translation": "изучать, исследовать"
+    },
+    "img": "https://cdn.culture.ru/images/b03435cf-4348-50cd-8616-7f29c703dda8"
+  },
+  {
+    "id": "explorationAbc345",
+    "front": "exploration",
+    "back": {
+      "definition": "the activity of searching and finding out about something",
+      "examples": [
+        "Space *exploration* has always fascinated mankind.",
+        "The *exploration* of new ideas is essential for innovation."
+      ],
+      "transcription": "ˌɛksplɔːˈreɪʃən",
+      "ru_translation": "изучение, исследование"
+    },
+    "img": "https://images.theconversation.com/files/286037/original/file-20190729-43149-zduxc3.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop"
+  },
+  {
+    "id": "exploratoryXyZ678",
+    "front": "exploratory",
+    "back": {
+      "definition": "done in order to discover more about something",
+      "examples": [
+        "They conducted an *exploratory* survey.",
+        "The expedition was purely *exploratory*."
+      ],
+      "transcription": "ɛksˈplɔːrətəri",
+      "ru_translation": "исследовательский, разведочный"
+    },
+    "img": "https://i.pinimg.com/736x/e2/64/47/e26447ec9746e975104d981baaa3d669.jpg"
+  },
+  {
+    "id": "explorerZxY901",
+    "front": "explorer",
+    "back": {
+      "definition": "someone who travels to places where no one has ever been in order to find out what is there",
+      "examples": [
+        "The famous *explorer* discovered new lands.",
+        "Many *explorers* risked their lives in the search for knowledge."
+      ],
+      "transcription": "ɪksˈplɔːrə",
+      "ru_translation": "исследователь, путешественник"
+    },
+    "img": "https://www.clipartkey.com/mpngs/m/200-2004634_vector-illustration-of-male-safari-adventurer-carefully-explore.png"
+  },
+  {
+    "id": "unexploredAbc234",
+    "front": "unexplored",
+    "back": {
+      "definition": "not yet examined or fully investigated",
+      "examples": [
+        "There are still *unexplored* regions in the ocean.",
+        "The potential of this technology remains *unexplored*."
+      ],
+      "transcription": "ˌʌnɪksˈplɔːd",
+      "ru_translation": "неизведанный"
+    },
+    "img": "https://s9.travelask.ru/system/images/files/001/282/759/wysiwyg_jpg/news_45764.jpg"
+  },
+  {
+    "id": "putonXyZ567",
+    "front": "put on",
+    "back": {
+      "definition": "to move something you wear onto your body",
+      "examples": [
+        "She *put on* her coat before leaving.",
+        "He *puts on* his shoes quickly."
+      ],
+      "transcription": "pʊtɒn",
+      "ru_translation": "надеть"
+    },
+    "img": "https://i.pinimg.com/736x/36/30/74/363074d38e8d0f1eefdc47e10cfa4d9b.jpg"
+  },
+  {
+    "id": "haveonZxY890",
+    "front": "have on",
+    "back": {
+      "definition": "to be wearing something",
+      "examples": [
+        "What do you *have on* today?",
+        "She *had on* a beautiful dress."
+      ],
+      "transcription": "hævɒn",
+      "ru_translation": "быть одетым в"
+    },
+    "img": "https://e7.pngegg.com/pngimages/918/512/png-clipart-cartoon-cartoon-couple-love-cartoon-character.png"
   }
 ]
