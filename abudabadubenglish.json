@@ -1283,7 +1283,7 @@
         "She has a *wide* range of interests."
       ],
       "transcription": "waɪd",
-      "ru_translation": "широкий"
+      "ru_translation": "широкий (чаще описывает физическую ширину)"
     },
     "img": "https://sun9-1.userapi.com/c852124/v852124296/21a34/bDkv5J7Quo8.jpg"
   },
@@ -1297,7 +1297,7 @@
         "Her eyes *widened* with surprise."
       ],
       "transcription": "ˈwaɪdn",
-      "ru_translation": "расширять"
+      "ru_translation": "расширять (сделать что-то шире в буквальном, физическом смысле)"
     },
     "img": "https://telegra.ph/file/4a8f1663a4dfc4bebe4ad.jpg"
   },
@@ -9966,9 +9966,24 @@
         "Don't *assume* anything without checking the facts."
       ],
       "transcription": "əˈsjuːm",
-      "ru_translation": "предполагать, допускать, принимать (на себя)"
+      "ru_translation": "предполагать, допускать"
     },
     "img": "https://www.educationtrainingnetwork.com/magazine/wp-content/uploads/2016/10/projects2-933x445.jpg"
+  },
+  {
+    "id": "assumejk58",
+    "front": "assume",
+    "back": {
+      "definition": "to take on a role or responsibility",
+      "examples": [
+        "Elizabeth *assumed* the crown on June 2, 1953.",
+        "He will *assume* the position of manager next month.",
+        "She *assumed* the role of team leader."
+      ],
+      "transcription": "əˈsjuːm",
+      "ru_translation": "взять, принимать (на себя)"
+    },
+    "img": "https://britlex.ru/images/assume2.jpg"
   },
   {
     "id": "assumptionxyz789",
@@ -9983,6 +9998,20 @@
       "ru_translation": "предположение, допущение, принятие"
     },
     "img": "https://i.pinimg.com/originals/89/87/ca/8987ca41783e8e4d185d452502fbbebe.jpg"
+  },
+  {
+    "id": "assumptionld95",
+    "front": "assumption",
+    "back": {
+      "definition": "the act of taking on a role, duty, or office",
+      "examples": [
+        "His *assumption* of the presidency was celebrated.",
+        "The *assumption* of new responsibilities can be challenging."
+      ],
+      "transcription": "əˈsʌmpʃən",
+      "ru_translation": "вступление (на пост)"
+    },
+    "img": "http://illustrationartgallery.com/acatalog/HowatCoronation.jpg"
   },
   {
     "id": "arrayABCD",
@@ -16741,7 +16770,7 @@
         "I accidentally *hit* my head on the shelf."
       ],
       "transcription": "hɪt",
-      "ru_translation": "ударить, удар"
+      "ru_translation": "ударить"
     },
     "img": "https://otvet.imgsmail.ru/download/15523639_0c1be7ea24ce6537bb61a44bff973b60_800.jpg"
   },
@@ -16954,5 +16983,367 @@
       "ru_translation": "быть одетым в"
     },
     "img": "https://e7.pngegg.com/pngimages/918/512/png-clipart-cartoon-cartoon-couple-love-cartoon-character.png"
+  },
+  {
+    "id": "preferjd83",
+    "front": "prefer",
+    "back": {
+      "definition": "to like, choose, or want one thing rather than another",
+      "examples": [
+        "I *prefer* tea over coffee.",
+        "She *prefers* to work in the morning."
+      ],
+      "transcription": "priˈfɜː",
+      "ru_translation": "предпочитать"
+    },
+    "img": "https://cdnstatic.rg.ru/uploads/images/216/21/89/iStock-1185715795.jpg"
+  },
+  {
+    "id": "preferabledj39",
+    "front": "preferable",
+    "back": {
+      "definition": "better or more suitable",
+      "examples": [
+        "Using fresh ingredients is always *preferable* in cooking.",
+        "A quiet location is *preferable* for studying.",
+        "It's *preferable* to arrive early."
+      ],
+      "transcription": "ˈprɛfərəbl",
+      "ru_translation": "предпочтительный"
+    },
+    "img": "https://en.grandgames.net/puzzle/source/poleznie_produkti.jpg"
+  },
+  {
+    "id": "preferablykd71",
+    "front": "preferably",
+    "back": {
+      "definition": "if possible or if you can choose",
+      "examples": [
+        "We'll meet *preferably* in the afternoon.",
+        "You should contact us *preferably* by email."
+      ],
+      "transcription": "ˈprɛfərəbli",
+      "ru_translation": "желательно, предпочтительно"
+    },
+    "img": "https://ssbc.vu.edu.pk/Images/StaticPagesImages/StaticSliderImages/ContactUS.jpg"
+  },
+  {
+    "id": "preferencejf72",
+    "front": "preference",
+    "back": {
+      "definition": "the fact that you like something or someone more than another thing or person",
+      "examples": [
+        "He has a *preference* for classical music.",
+        "Our *preference* is to stay at home tonight."
+      ],
+      "transcription": "ˈprɛfərəns",
+      "ru_translation": "предпочтение"
+    },
+    "img": "https://rsute.ru/wp-content/uploads/2021/02/depositphotos_51148343_xl-2015.jpg"
+  },
+  {
+    "id": "roughgj29",
+    "front": "rough",
+    "back": {
+      "definition": "not smooth; having an uneven surface",
+      "examples": [
+        "The table has a *rough* surface.",
+        "His hands were *rough* from manual labor."
+      ],
+      "transcription": "rʌf",
+      "ru_translation": "грубый, неровный, шероховатый"
+    },
+    "img": "https://as1.ftcdn.net/v2/jpg/01/20/00/18/1000_F_120001886_O5sE5bYZPIq97sXu9So5baXryksND2yR.jpg"
+  },
+  {
+    "id": "roughsd64",
+    "front": "rough",
+    "back": {
+      "definition": "approximate",
+      "examples": [
+        "We have a *rough* estimate of the costs.",
+        "The *rough* draft needs revision."
+      ],
+      "transcription": "rʌf",
+      "ru_translation": "приблизительный"
+    },
+    "img": "https://gentlewit.com/wp-content/uploads/2022/06/polar-bear-height.jpg"
+  },
+  {
+    "id": "roughkf23",
+    "front": "rough",
+    "back": {
+      "definition": "not calm or gentle",
+      "examples": [
+        "The sea was very *rough* today.",
+        "We had a *rough* flight due to turbulence."
+      ],
+      "transcription": "rʌf",
+      "ru_translation": "бурный, бушующий"
+    },
+    "img": "https://i.pinimg.com/736x/57/64/fb/5764fb928276f778333c7e0e6ab9b077.jpg"
+  },
+  {
+    "id": "roughvh47",
+    "front": "rough",
+    "back": {
+      "definition": "difficult or unpleasant",
+      "examples": [
+        "He went through a *rough* time after the accident.",
+        "It's been a *rough* week at work."
+      ],
+      "transcription": "rʌf",
+      "ru_translation": "трудный, тяжелый (напр., время)"
+    },
+    "img": "https://www.kefline.ru/wp-content/uploads/2017/12/10-14.jpg"
+  },
+  {
+    "id": "roughnesssk38",
+    "front": "roughness",
+    "back": {
+      "definition": "the quality of being uneven or not smooth",
+      "examples": [
+        "The *roughness* of the road made the drive uncomfortable.",
+        "The *roughness* of his voice indicated he was tired."
+      ],
+      "transcription": "ˈrʌfnɪs",
+      "ru_translation": "шероховатость"
+    },
+    "img": "https://www.renderhub.com/cgaxis/rough-concrete-pbr-texture18/rough-concrete-pbr-texture18-02.jpg"
+  },
+  {
+    "id": "discourseds57",
+    "front": "discourse",
+    "back": {
+      "definition": "a speech or piece of writing about a particular, usually serious, subject",
+      "examples": [
+        "The professor delivered a *discourse* on climate change.",
+        "Her *discourse* was well-received by the audience."
+      ],
+      "transcription": "dɪsˈkɔːs",
+      "ru_translation": "речь, рассуждение, дискурс (формально)"
+    },
+    "img": "https://myslide.ru/documents_7/af6b2b0dc2188af7a52f9fc676ed3a8a/img3.jpg"
+  },
+  {
+    "id": "discoursehd94",
+    "front": "discourse",
+    "back": {
+      "definition": "to discuss a subject in a formal way",
+      "examples": [
+        "They *discoursed* on the implications of the new policy.",
+        "He *discoursed* eloquently about the history of the city."
+      ],
+      "transcription": "dɪsˈkɔːs",
+      "ru_translation": "рассуждать, обсуждать (формально)"
+    },
+    "img": "https://mir-s3-cdn-cf.behance.net/projects/max_808/8040de52218449.590923b8dacc7.jpg"
+  },
+  {
+    "id": "broadlj82",
+    "front": "broad",
+    "back": {
+      "definition": "very wide",
+      "examples": [
+        "The river was too *broad* to cross easily.",
+        "He has a *broad* knowledge of various subjects."
+      ],
+      "transcription": "brɔːd",
+      "ru_translation": "широкий, обширный (чаще обширность или широкий охват в более абстрактном смысле)"
+    },
+    "img": "https://pic.rutubelist.ru/video/8c/bc/8cbcd32f18fd5e1cc85b5b165b4c556a.jpg"
+  },
+  {
+    "id": "broadenxm54",
+    "front": "broaden",
+    "back": {
+      "definition": "to increase the range of something",
+      "examples": [
+        "Travel can *broaden* your perspective.",
+        "We need to *broaden* our understanding of the issue."
+      ],
+      "transcription": "ˈbrɔːdn",
+      "ru_translation": "расширять (чаще в метафорическом смысле, означая расширение кругозора, знаний, опыта или сферы деятельности)"
+    },
+    "img": "https://guru-tour.ru/imgs/archive/all/coral-poisk-toura_2.jpg"
+  },
+  {
+    "id": "warriorbt92",
+    "front": "warrior",
+    "back": {
+      "definition": "a person who has experience and skill in fighting, especially as a soldier",
+      "examples": [
+        "The *warrior* fought bravely in battle.",
+        "He was known as a fearless *warrior*."
+      ],
+      "transcription": "ˈwɒrɪə",
+      "ru_translation": "воин"
+    },
+    "img": "https://i.pinimg.com/originals/6b/58/2d/6b582dfc7fbec004d2e16523b042684f.png"
+  },
+  {
+    "id": "scaleod75",
+    "front": "scale",
+    "back": {
+      "definition": "the size or level of something, especially when this is large",
+      "examples": [
+        "The *scale* of the project is impressive.",
+        "They plan to increase the *scale* of their operations."
+      ],
+      "transcription": "skeɪl",
+      "ru_translation": "размер, масштаб"
+    },
+    "img": "https://s9.travelask.ru/uploads/post/000/013/412/main_image/facebook-442c8cd8cc205bbab82ff93ceddcbe31.jpg"
+  },
+  {
+    "id": "scaleld84",
+    "front": "scale",
+    "back": {
+      "definition": "a set of numbers, amounts, etc., used to measure or compare the level of something",
+      "examples": [
+        "The earthquake was measured on the Richter *scale*.",
+        "We need a new *scale* for evaluating performance."
+      ],
+      "transcription": "skeɪl",
+      "ru_translation": "шкала"
+    },
+    "img": "https://elestom.ru/upload/medialibrary/aad/aad7e383239736cf5df3858a81b9a0e7.jpg"
+  },
+  {
+    "id": "scalehd84",
+    "front": "scale",
+    "back": {
+      "definition": "a device for weighing things or people",
+      "examples": [
+        "He stepped on the *scale* to check his weight.",
+        "The *scale* shows the exact measurement."
+      ],
+      "transcription": "skeɪl",
+      "ru_translation": "весы"
+    },
+    "img": "https://drivedrom.ru/wp-content/uploads/0e604ca0406c9fcd67f7c9ef8f17-696x433.jpg"
+  },
+  {
+    "id": "scaleid73",
+    "front": "scale",
+    "back": {
+      "definition": "one of the many very small, flat pieces that cover the skin of fish, snakes, etc.",
+      "examples": [
+        "The fish's *scales* were shiny.",
+        "She studied the *scales* of the reptile."
+      ],
+      "transcription": "skeɪl",
+      "ru_translation": "чешуйка"
+    },
+    "img": "https://rybachil.ru/wp-content/uploads/2015/08/%D1%87%D0%B5%D1%88%D1%83%D1%8F-%D0%BF%D0%BB%D0%BE%D1%82%D0%B2%D1%8B-2-1024x768.jpg"
+  },
+  {
+    "id": "scaletd63",
+    "front": "scale",
+    "back": {
+      "definition": "to climb up a steep surface, such as a wall or the side of a mountain",
+      "examples": [
+        "They *scaled* the mountain successfully.",
+        "He *scaled* the wall with ease."
+      ],
+      "transcription": "skeɪl",
+      "ru_translation": "взбираться, залезать"
+    },
+    "img": "https://massaget.kz/userdata/uploads/u52759/1488643860_l.jpg"
+  },
+  {
+    "id": "countas45",
+    "front": "count",
+    "back": {
+      "definition": "to say numbers one after the other in order, or to calculate the number of people or things in a group",
+      "examples": [
+        "She can *count* to ten in Spanish.",
+        "Let's *count* the number of chairs in the room."
+      ],
+      "transcription": "kaʊnt",
+      "ru_translation": "считать, подсчитывать"
+    },
+    "img": "https://image.pngaaa.com/30/1084030-middle.png"
+  },
+  {
+    "id": "countvh64",
+    "front": "count smth as",
+    "back": {
+      "definition": "to consider someone or something in a particular way",
+      "examples": [
+        "I *count* him *as* a friend.",
+        "She *counts* honesty *as* very important."
+      ],
+      "transcription": "kaʊnt",
+      "ru_translation": "считать (кого-то или что-то)"
+    },
+    "img": "https://i.pinimg.com/736x/ab/cc/1d/abcc1db40911829e68d0b5cc9a28bc29.jpg"
+  },
+  {
+    "id": "countwd36",
+    "front": "count on smth",
+    "back": {
+      "definition": "to depend on or trust someone or something",
+      "examples": [
+        "You can *count* on me.",
+        "We *count* on her to lead the project."
+      ],
+      "transcription": "kaʊnt",
+      "ru_translation": "рассчитывать (на что-то или на кого-либо)"
+    },
+    "img": "https://i.pinimg.com/736x/2a/ec/c2/2aecc29488afcc882d05bc3c7ea77678.jpg"
+  },
+  {
+    "id": "countel49",
+    "front": "count",
+    "back": {
+      "definition": "to be recognized or accepted as something",
+      "examples": ["Every vote *counts*.", "Your opinion *counts* to us."],
+      "transcription": "kaʊnt",
+      "ru_translation": "иметь значение, считаться"
+    },
+    "img": "https://www.lifesitenews.com/wp-content/uploads/2021/03/catholic_vote.jpg"
+  },
+  {
+    "id": "ensurevk12",
+    "front": "ensure",
+    "back": {
+      "definition": "to make something certain to happen",
+      "examples": [
+        "We must *ensure* that everyone is safe.",
+        "Please *ensure* that all doors are locked."
+      ],
+      "transcription": "ɪnˈʃʊə",
+      "ru_translation": "гарантировать, убедиться"
+    },
+    "img": "https://otdelo4nik.ru/wp-content/uploads/2026/12/kak-otkryt-zamok-esli-klyuch-ne-povorachivaetsya-1.jpg"
+  },
+  {
+    "id": "acrossfs48",
+    "front": "across",
+    "back": {
+      "definition": "from one side to the other of something with clear limits",
+      "examples": [
+        "They walked *across* the bridge.",
+        "He swam *across* the lake."
+      ],
+      "transcription": "əˈkrɒs",
+      "ru_translation": "через"
+    },
+    "img": "https://i.pinimg.com/originals/7e/55/9c/7e559c2e85a13b34a0fde3339f4aa254.jpg"
+  },
+  {
+    "id": "acrosswd83",
+    "front": "across",
+    "back": {
+      "definition": "on the opposite side of",
+      "examples": [
+        "The store is *across* the street.",
+        "She lives *across* the road from us."
+      ],
+      "transcription": "əˈkrɒs",
+      "ru_translation": "на той (противоположной) стороне"
+    },
+    "img": "https://livingnomads.com/wp-content/uploads/2022/01/20/madison.jpg"
   }
 ]
