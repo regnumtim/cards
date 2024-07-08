@@ -994,18 +994,64 @@
     "img": "https://britlex.ru/images/admit.jpg"
   },
   {
-    "id": "admissionmnop",
+    "id": "admissionabc123",
     "front": "admission",
     "back": {
       "definition": "the act of agreeing that something is true, especially unwillingly",
       "examples": [
-        "Her *admission* of guilt surprised everyone.",
-        "The *admission* fee to the museum is $10."
+        "His *admission* of guilt was unexpected.",
+        "She made an *admission* that she was wrong.",
+        "The company's *admission* of its mistake was surprising."
       ],
-      "transcription": "ədˈmɪʃ(ə)n",
-      "ru_translation": "допущение, допуск"
+      "transcription": "ədˈmɪʃən",
+      "ru_translation": "признание (вины, ошибки)"
     },
-    "img": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/06/12/Pictures/_cfad6a16-6dfa-11e8-9a75-8898ac94ce9e.jpg"
+    "img": "https://usagif.com/wp-content/uploads/gif-bowing-22.gif"
+  },
+  {
+    "id": "admissiondef456",
+    "front": "admission",
+    "back": {
+      "definition": "the money that you pay to enter a place",
+      "examples": [
+        "The museum *admission* is $10.",
+        "They charge a high *admission* fee.",
+        "Children under 5 get free *admission*."
+      ],
+      "transcription": "ədˈmɪʃən",
+      "ru_translation": "входная плата"
+    },
+    "img": "https://poznamka.ru/wp-content/uploads/2014/09/ostafyevo_usadba_02-806x504.jpg"
+  },
+  {
+    "id": "admissionghi789",
+    "front": "admission",
+    "back": {
+      "definition": "permission to enter a place",
+      "examples": [
+        "The *admission* to the event is by invitation only.",
+        "He sought *admission* to the exclusive club.",
+        "They were denied *admission* to the building."
+      ],
+      "transcription": "ədˈmɪʃən",
+      "ru_translation": "допуск, разрешение на вход"
+    },
+    "img": "https://realjewelmart.com/my-assets/image/featured/6c03e283a0426aa698bfde324d2c1505.jpg"
+  },
+  {
+    "id": "admissionjkl012",
+    "front": "admission",
+    "back": {
+      "definition": "the process or fact of entering or being allowed to enter a place or organization",
+      "examples": [
+        "She applied for *admission* to the university.",
+        "The *admission* process for the school is competitive.",
+        "His *admission* to the club was approved."
+      ],
+      "transcription": "ədˈmɪʃən",
+      "ru_translation": "поступление (в учебное заведение), приём (в организацию)"
+    },
+    "img": "https://vogazeta.ru/uploads/full_size_1624865672-932d43d1e7c4c6c15927025f04a8681f.jpg"
   },
   {
     "id": "admittedlyqrst",
@@ -3041,7 +3087,7 @@
         "There were a *dozen* people in the room."
       ],
       "transcription": "ˈdʌzn",
-      "ru_translation": "дюжина"
+      "ru_translation": "дюжина, десяток"
     },
     "img": "https://britlex.ru/images/dozen.jpg"
   },
@@ -6015,6 +6061,36 @@
     "img": "https://www.mundopsicologos.com/site/article/65604/54984/mal-amigo_ai1.jpg"
   },
   {
+    "id": "settlementabc123",
+    "front": "settlement",
+    "back": {
+      "definition": "an official agreement that ends an argument between people or groups",
+      "examples": [
+        "The two sides reached a *settlement*.",
+        "They signed the *settlement* last week.",
+        "The dispute was resolved through *settlement*."
+      ],
+      "transcription": "ˈsɛtlmənt",
+      "ru_translation": "урегулирование, соглашение"
+    },
+    "img": "https://shmeleva-partners.ru/wp-content/uploads/2021/08/Di2vJsiXsAEzI9k.jpg"
+  },
+  {
+    "id": "settlementdef456",
+    "front": "settlement",
+    "back": {
+      "definition": "a place where people have come to live and have built homes",
+      "examples": [
+        "The new *settlement* was established near the river.",
+        "They visited an ancient *settlement*.",
+        "The *settlement* grew rapidly."
+      ],
+      "transcription": "ˈsɛtlmənt",
+      "ru_translation": "поселение, поселок"
+    },
+    "img": "https://d3vvphh84jsfh3.cloudfront.net/optimized/2X/f/f132e074c205feda0729ad3a2da31d5836a48d62_2_666x500.jpeg"
+  },
+  {
     "id": "flowabc123",
     "front": "flow",
     "back": {
@@ -6998,7 +7074,7 @@
         "She died in a car *crash*."
       ],
       "transcription": "kræʃ",
-      "ru_translation": "крушение, грохот"
+      "ru_translation": "авария, крушение, грохот"
     },
     "img": "https://s1.akhbarona.com/files/teyara29_988680611.jpg"
   },
@@ -10569,7 +10645,7 @@
         "They had to *retreat* due to the storm."
       ],
       "transcription": "rɪˈtriːt",
-      "ru_translation": "отступать"
+      "ru_translation": "отступать (часто используется в военных, стратегических и ситуациях, связанных с бегством или укрытием)"
     },
     "img": "http://euro-synergies.hautetfort.com/media/02/02/3338364039.jpg"
   },
@@ -10583,7 +10659,7 @@
         "They planned a strategic *retreat*."
       ],
       "transcription": "rɪˈtriːt",
-      "ru_translation": "отступление"
+      "ru_translation": "отступление (часто используется в военных, стратегических и ситуациях, связанных с бегством или укрытием)"
     },
     "img": "https://britlex.ru/images/retreat.jpg"
   },
@@ -11006,6 +11082,36 @@
       "ru_translation": "заметить"
     },
     "img": "https://britlex.ru/images/notice.jpg"
+  },
+  {
+    "id": "noticeghi789",
+    "front": "notice",
+    "back": {
+      "definition": "a written or printed statement that gives information or a warning to people",
+      "examples": [
+        "The *notice* on the wall said the store was closed.",
+        "They put up a *notice* about the meeting.",
+        "He didn't see the *notice* on the door."
+      ],
+      "transcription": "ˈnəʊtɪs",
+      "ru_translation": "объявление, уведомление, извещение"
+    },
+    "img": "https://images.beastsofwar.com/2020/11/93058796-Witcher-3-Notice-Boards.jpg"
+  },
+  {
+    "id": "noticemnop012",
+    "front": "notice",
+    "back": {
+      "definition": "attention that people give to someone or something",
+      "examples": [
+        "The problem was brought to his *notice*.",
+        "She tried to attract his *notice*.",
+        "The company is seeking more public *notice*."
+      ],
+      "transcription": "ˈnəʊtɪs",
+      "ru_translation": "внимание"
+    },
+    "img": "https://cs12.pikabu.ru/post_img/2020/10/14/1/og_og_1602630782256187302.jpg"
   },
   {
     "id": "unnoticedQrst",
@@ -13671,7 +13777,7 @@
         "There is a *slight* chance of rain tomorrow."
       ],
       "transcription": "slaɪt",
-      "ru_translation": "легкий, слабый, небольшой, незначительный"
+      "ru_translation": "легкий, слабый, незначительный"
     },
     "img": "https://www.edimdoma.ru/data/ckeditor_pictures/13470/content_tasting_2.jpg"
   },
@@ -14758,6 +14864,21 @@
     "img": "https://i.pinimg.com/originals/2a/ca/72/2aca72d2300ae36c6ae131d918d852b9.gif"
   },
   {
+    "id": "scoreqrst345",
+    "front": "score",
+    "back": {
+      "definition": "a group or set of twenty or approximately twenty",
+      "examples": [
+        "He bought a *score* of apples.",
+        "There were a *score* of people in the room.",
+        "A *score* of birds flew over the field."
+      ],
+      "transcription": "skɔː",
+      "ru_translation": "несколько десятков (чаще около 20)"
+    },
+    "img": "https://1.bp.blogspot.com/-oEqmQV1w7bg/VC4rg2yKNdI/AAAAAAAARoI/5-zICuE0qck/s1600/20_Page_1.jpg"
+  },
+  {
     "id": "combinecombinepko",
     "front": "combine",
     "back": {
@@ -15705,7 +15826,7 @@
       "definition": "something that helps you or gives you an advantage.",
       "examples": [
         "Exercise has many *benefits*.",
-        "The new policy will *benefit* everyone."
+        "He did it for my *benefit*."
       ],
       "transcription": "ˈbɛnɪfɪt",
       "ru_translation": "польза, преимущество, выгода"
@@ -17345,5 +17466,473 @@
       "ru_translation": "на той (противоположной) стороне"
     },
     "img": "https://livingnomads.com/wp-content/uploads/2022/01/20/madison.jpg"
+  },
+  {
+    "id": "readoutabc123",
+    "front": "read out",
+    "back": {
+      "definition": "to read aloud",
+      "examples": [
+        "She *read out* the names of the winners.",
+        "The teacher asked him to *read out* the passage.",
+        "Please *read out* the instructions for everyone."
+      ],
+      "transcription": "riːdaʊt",
+      "ru_translation": "огласить, зачитать вслух"
+    },
+    "img": "https://britlex.ru/images/read%20out.jpg"
+  },
+  {
+    "id": "extenddef456",
+    "front": "extend",
+    "back": {
+      "definition": "to add to something in order to make it bigger or longer",
+      "examples": [
+        "They plan to *extend* the shopping mall.",
+        "We need to *extend* our research area.",
+        "The company decided to *extend* its operations."
+      ],
+      "transcription": "ɪksˈtɛnd",
+      "ru_translation": "расширять, удлиннять (добавить к чему-то, чтобы сделать его больше или длиннее)"
+    },
+    "img": "https://britlex.ru/images/extend.jpg"
+  },
+  {
+    "id": "extendghi789",
+    "front": "extend",
+    "back": {
+      "definition": "to make something last longer",
+      "examples": [
+        "We should *extend* the deadline.",
+        "The meeting was *extended* by an hour.",
+        "They want to *extend* their vacation."
+      ],
+      "transcription": "ɪksˈtɛnd",
+      "ru_translation": "продлевать (срок)"
+    },
+    "img": "https://pbs.twimg.com/media/EcZTUVOWoAEFLi3.jpg"
+  },
+  {
+    "id": "extendjkl012",
+    "front": "extend",
+    "back": {
+      "definition": "to reach out",
+      "examples": [
+        "He *extended* his hand in greeting.",
+        "She *extended* her arm to grab the book."
+      ],
+      "transcription": "ɪksˈtɛnd",
+      "ru_translation": "протягивать (напр., руку)"
+    },
+    "img": "https://comicvine.gamespot.com/a/uploads/original/11142/111420509/8241146-smegle0.png"
+  },
+  {
+    "id": "extensionmno345",
+    "front": "extension",
+    "back": {
+      "definition": "the act of adding to something in order to make it bigger or longer",
+      "examples": [
+        "The *extension* of the highway is planned for next year.",
+        "We are working on an *extension* of the garden.",
+        "An *extension* of the deadline was requested."
+      ],
+      "transcription": "ɪksˈtɛnʃən",
+      "ru_translation": "расширение, удлинение"
+    },
+    "img": "https://i.pinimg.com/736x/c5/35/5f/c5355f53032117098b1347875afcd189--landscape-design-plans-garden-design-plans.jpg"
+  },
+  {
+    "id": "extensionpqr678",
+    "front": "extension",
+    "back": {
+      "definition": "a new part added to a building",
+      "examples": [
+        "They built an *extension* to the house.",
+        "The kitchen *extension* was completed last month.",
+        "An *extension* to the office was necessary."
+      ],
+      "transcription": "ɪksˈtɛnʃən",
+      "ru_translation": "пристройка"
+    },
+    "img": "https://i.pinimg.com/originals/08/0c/fd/080cfd719e47e22523bc6b0bc7b8c1d5.jpg"
+  },
+  {
+    "id": "extensionstu901",
+    "front": "extension",
+    "back": {
+      "definition": "an extra period of time given for something",
+      "examples": [
+        "The professor granted an *extension* for the assignment.",
+        "We applied for an *extension* of the visa.",
+        "An *extension* of the lease was negotiated."
+      ],
+      "transcription": "ɪksˈtɛnʃən",
+      "ru_translation": "продление, отсрочка"
+    },
+    "img": "https://www.newsler.ru/data/content/2022/116351/3b62a44b6a5ab167efe6d0528483c96c.jpg"
+  },
+  {
+    "id": "extensivevwx234",
+    "front": "extensive",
+    "back": {
+      "definition": "covering a large area; having a great range",
+      "examples": [
+        "The library has an *extensive* collection of books.",
+        "The damage from the storm was *extensive*.",
+        "He has *extensive* knowledge in the field."
+      ],
+      "transcription": "ɪksˈtɛnsɪv",
+      "ru_translation": "обширный, большой"
+    },
+    "img": "https://www.dietaxion.com/media/extensive_farming.jpg"
+  },
+  {
+    "id": "buttonyzab567",
+    "front": "button",
+    "back": {
+      "definition": "a small, usually round, object that is sewn onto clothing and used for fastening",
+      "examples": [
+        "She sewed a new *button* onto her shirt.",
+        "One of the *buttons* on his coat was missing.",
+        "I need to replace the *buttons* on this jacket."
+      ],
+      "transcription": "ˈbʌtn",
+      "ru_translation": "пуговица"
+    },
+    "img": "https://www.wellmart-msk.ru/img/work/nomencl/35450.jpg"
+  },
+  {
+    "id": "buttoncdef890",
+    "front": "button",
+    "back": {
+      "definition": "to fasten something, usually clothing, with buttons",
+      "examples": [
+        "He *buttoned* his coat before going outside.",
+        "Make sure to *button* your shirt properly.",
+        "She quickly *buttoned* up her dress."
+      ],
+      "transcription": "ˈbʌtn",
+      "ru_translation": "застегивать на пуговицы"
+    },
+    "img": "https://britlex.ru/images/button.jpg"
+  },
+  {
+    "id": "buttonghij123",
+    "front": "button",
+    "back": {
+      "definition": "a small, usually circular, object that you press to operate a device or a machine",
+      "examples": [
+        "Press the *button* to start the machine.",
+        "The elevator has a *button* for each floor.",
+        "He hit the red *button* to stop the process."
+      ],
+      "transcription": "ˈbʌtn",
+      "ru_translation": "кнопка"
+    },
+    "img": "https://media.indiedb.com/images/games/1/55/54495/Captura_de_Tela_2016-09-26_s_08.39.35.png"
+  },
+  {
+    "id": "unbuttonklmn456",
+    "front": "unbutton",
+    "back": {
+      "definition": "to open buttons of something",
+      "examples": [
+        "She *unbuttoned* her coat as she came in.",
+        "He slowly *unbuttoned* his shirt.",
+        "I need to *unbutton* my jacket, it's too warm."
+      ],
+      "transcription": "ʌnˈbʌtn",
+      "ru_translation": "расстегивать пуговицы"
+    },
+    "img": "https://cdn.glos24.pl/2020/10/iStock-465920621.jpg"
+  },
+  {
+    "id": "disasteropqr789",
+    "front": "disaster",
+    "back": {
+      "definition": "(an event that results in) great harm, damage, or death, or serious difficulty",
+      "examples": [
+        "The earthquake was a *disaster* for the city.",
+        "They are recovering from the financial *disaster*.",
+        "The oil spill was an environmental *disaster*."
+      ],
+      "transcription": "dɪˈzɑːstə",
+      "ru_translation": "бедствие, катастрофа"
+    },
+    "img": "https://britlex.ru/images/disaster.jpg"
+  },
+  {
+    "id": "disastrousstuv012",
+    "front": "disastrous",
+    "back": {
+      "definition": "extremely bad or unsuccessful",
+      "examples": [
+        "The decision had *disastrous* consequences.",
+        "Their first attempt was *disastrous*.",
+        "The *disastrous* event left them in shock."
+      ],
+      "transcription": "dɪˈzɑːstrəs",
+      "ru_translation": "гибельный, катастрофический, бедственный"
+    },
+    "img": "https://hd-rezka.pro/uploads/posts/2019-05/1557225290-710493962-1.jpg"
+  },
+  {
+    "id": "absorbwxyz345",
+    "front": "absorb",
+    "back": {
+      "definition": "to take in a liquid, gas, or other substance from the surface or space around",
+      "examples": [
+        "The sponge *absorbs* water quickly.",
+        "Plants *absorb* sunlight for photosynthesis.",
+        "The material *absorbs* sound well."
+      ],
+      "transcription": "əbˈsɔːb",
+      "ru_translation": "впитывать, поглощать, усваивать"
+    },
+    "img": "https://britlex.ru/images/absorb.jpg"
+  },
+  {
+    "id": "absorptionabcd678",
+    "front": "absorption",
+    "back": {
+      "definition": "the process of taking something in, especially gradually",
+      "examples": [
+        "The *absorption* of water by the soil is essential.",
+        "His *absorption* in the book was complete.",
+        "The *absorption* of nutrients happens in the intestines."
+      ],
+      "transcription": "əbˈsɔːpʃ(ə)n",
+      "ru_translation": "впитывание, поглощение, усваивание"
+    },
+    "img": "https://cdn.dribbble.com/users/536601/screenshots/2236773/absorption.gif"
+  },
+  {
+    "id": "pullbackefgh901",
+    "front": "pull back",
+    "back": {
+      "definition": "to move backward or away from someone or something",
+      "examples": [
+        "The troops *pulled back* after the attack.",
+        "She *pulled back* from the edge of the cliff.",
+        "He decided to *pull back* from the risky investment."
+      ],
+      "transcription": "pʊlbæk",
+      "ru_translation": "отступить, отодвигаться назад (в более широких и абстрактных контекстах)"
+    },
+    "img": "https://postila.ru/resize?w=660&src=%2Fdata%2F0d%2F55%2F8e%2Fbf%2F0d558ebf4b07f5d093f9ac5687973c2e8b8b34db5b4d0491b2cf175f41e71a44.jpg"
+  },
+  {
+    "id": "pullbackfromijkl234",
+    "front": "pull back from",
+    "back": {
+      "definition": "to decide not to do something that you had intended to do or had started to do",
+      "examples": [
+        "They *pulled back from* the merger at the last moment.",
+        "She *pulled back from* the project due to personal reasons.",
+        "He *pulled back from* the agreement before it was finalized."
+      ],
+      "transcription": "pʊlbæk",
+      "ru_translation": "отказаться от, отказаться участвовать в (не продолжать или не участвовать в чем-то, от чего первоначально планировалось участвовать или продолжать)"
+    },
+    "img": "https://bloknot.ru/wp-content/uploads/2016/10/strahovka.jpg"
+  },
+  {
+    "id": "engagemnop567",
+    "front": "engage",
+    "back": {
+      "definition": "to attract someone's attention and keep them interested",
+      "examples": [
+        "The speaker *engaged* the audience with his story.",
+        "She tried to *engage* the children with games.",
+        "The book *engages* readers from the first page."
+      ],
+      "transcription": "ɪnˈgeɪʤ",
+      "ru_translation": "вовлекать, привлекать (напр., чьё-то внимание или клиентов)"
+    },
+    "img": "https://cdn.marica.bg/images/marica.bg/296/640_296376.jpeg"
+  },
+  {
+    "id": "engageqrst890",
+    "front": "engage",
+    "back": {
+      "definition": "to employ someone",
+      "examples": [
+        "The company *engaged* a new manager.",
+        "They *engaged* several workers for the project.",
+        "She was *engaged* as a consultant."
+      ],
+      "transcription": "ɪnˈgeɪʤ",
+      "ru_translation": "нанимать"
+    },
+    "img": "https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2020/02/upquest-about.gif"
+  },
+  {
+    "id": "engageinuvwx123",
+    "front": "engage in",
+    "back": {
+      "definition": "to take part in something",
+      "examples": [
+        "They *engaged in* a heated debate.",
+        "He *engages in* various sports activities.",
+        "She likes to *engage in* community service."
+      ],
+      "transcription": "ɪnˈgeɪʤɪn",
+      "ru_translation": "участвовать в чем-то, заниматься чем-то"
+    },
+    "img": "https://i.pinimg.com/originals/09/cd/72/09cd724b8796e64d4d8acf65874a7572.gif"
+  },
+  {
+    "id": "engagementyzab456",
+    "front": "engagement",
+    "back": {
+      "definition": "an agreement to marry someone",
+      "examples": [
+        "Their *engagement* was announced last month.",
+        "The *engagement* ring was beautiful.",
+        "They broke off their *engagement*."
+      ],
+      "transcription": "ɪnˈgeɪʤmənt",
+      "ru_translation": "обручение, помолвка"
+    },
+    "img": "https://www.matrony.ru/wp-content/uploads/2015/07/1425627819_5-e1437564472404.jpg"
+  },
+  {
+    "id": "engagementcdef789",
+    "front": "engagement",
+    "back": {
+      "definition": "an arrangement to meet someone or do something at a particular time",
+      "examples": [
+        "I have a business *engagement* this afternoon.",
+        "She missed the *engagement* due to illness.",
+        "His *engagement* with the client was rescheduled."
+      ],
+      "transcription": "ɪnˈgeɪʤmənt",
+      "ru_translation": "обязательство, договоренность"
+    },
+    "img": "https://www.gestion.ru/wp-content/uploads/2010/02/220220101.jpg"
+  },
+  {
+    "id": "engagementghij012",
+    "front": "engagement",
+    "back": {
+      "definition": "the process of encouraging people to be interested in the work of an organization, etc.",
+      "examples": [
+        "The company's *engagement* with its customers is strong.",
+        "They focus on *engagement* to improve employee satisfaction.",
+        "Community *engagement* is vital for the project."
+      ],
+      "transcription": "ɪnˈgeɪʤmənt",
+      "ru_translation": "взаимодействие, участие, вовлеченность"
+    },
+    "img": "https://u.9111s.ru/uploads/202010/09/a54babd60f2a342a1ed042ab3c1b9d53.jpg"
+  },
+  {
+    "id": "engagedklmn345",
+    "front": "engaged",
+    "back": {
+      "definition": "having formally agreed to marry",
+      "examples": [
+        "They are *engaged* to be married.",
+        "She showed off her *engaged* ring.",
+        "He announced that he was *engaged*."
+      ],
+      "transcription": "ɪnˈgeɪʤd",
+      "ru_translation": "обрученный, помолвленный"
+    },
+    "img": "https://richterphillips.com/wp-content/uploads/2018/12/engagement-ring-picture.png"
+  },
+  {
+    "id": "movieopqr678",
+    "front": "movie",
+    "back": {
+      "definition": "a film shown in a cinema or on television and often telling a story",
+      "examples": [
+        "We watched a *movie* last night.",
+        "That *movie* was really entertaining.",
+        "They went to the theater to see the new *movie*."
+      ],
+      "transcription": "ˈmuːvi",
+      "ru_translation": "кино, фильм"
+    },
+    "img": "https://www.kindpng.com/picc/m/149-1495068_movies-movie-icon-hd-png-download.png"
+  },
+  {
+    "id": "moviehousesvwx901",
+    "front": "movie house",
+    "back": {
+      "definition": "a building where people pay to watch films",
+      "examples": [
+        "They met at the *movie house* downtown.",
+        "The *movie house* was showing a classic film.",
+        "He worked at the *movie house* as a teenager."
+      ],
+      "transcription": "ˈmuːvihaʊs",
+      "ru_translation": "кинотеатр"
+    },
+    "img": "https://i2-prod.belfastlive.co.uk/incoming/article20654192.ece/ALTERNATES/s1200/0_061.jpg"
+  },
+  {
+    "id": "blanketyzab234",
+    "front": "blanket",
+    "back": {
+      "definition": "a flat cover made of wool or similar warm material, usually used on a bed",
+      "examples": [
+        "She covered herself with a warm *blanket*.",
+        "The baby was wrapped in a soft *blanket*.",
+        "They bought a new *blanket* for the winter."
+      ],
+      "transcription": "ˈblæŋkɪt",
+      "ru_translation": "одеяло, покрывало"
+    },
+    "img": "https://e7.pngegg.com/pngimages/493/6/png-clipart-blanket-towel-textile-bed-fake-fur-blanket-mattress-textile.png"
+  },
+  {
+    "id": "blanketcdef567",
+    "front": "blanket",
+    "back": {
+      "definition": "a thick layer of something",
+      "examples": [
+        "A *blanket* of snow covered the ground.",
+        "The fog created a *blanket* over the city.",
+        "The clouds formed a *blanket* in the sky."
+      ],
+      "transcription": "ˈblæŋkɪt",
+      "ru_translation": "покров, слой"
+    },
+    "img": "https://naruhina.ru/fanimg/4/151012204144597.jpg"
+  },
+  {
+    "id": "blanketghij890",
+    "front": "blanket",
+    "back": {
+      "definition": "including or affecting everything",
+      "examples": [
+        "They implemented a *blanket* policy for all employees.",
+        "The new law provides *blanket* coverage.",
+        "A *blanket* ban was placed on smoking.",
+        "The new policy applies a *blanket* approach to all departments.",
+        "They issued a *blanket* statement covering the entire incident.",
+        "The company implemented a *blanket* ban on overtime.",
+        "She received *blanket* approval for her project proposal."
+      ],
+      "transcription": "ˈblæŋkɪt",
+      "ru_translation": "общий, полный"
+    },
+    "img": "https://img.freepik.com/premium-vector/generic-no-smoking-sign_690577-201.jpg"
+  },
+  {
+    "id": "breastklmn123",
+    "front": "breast",
+    "back": {
+      "definition": "the front part of a human's or animal's body between the neck and the stomach",
+      "examples": [
+        "She felt a pain in her *breast*.",
+        "The bird has a red *breast*.",
+        "He placed his hand on his *breast*."
+      ],
+      "transcription": "brɛst",
+      "ru_translation": "грудь, грудка"
+    },
+    "img": "https://monateka.com/images/2993438.jpg"
   }
 ]
