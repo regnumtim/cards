@@ -905,7 +905,7 @@
         "The manager's *abusive* language shocked everyone."
       ],
       "transcription": "əˈbjuːsɪv",
-      "ru_translation": "оскорбительный"
+      "ru_translation": "оскорбительный, жестокий, насильственный"
     },
     "img": "https://lochassociates.co.uk/wp-content/uploads/2021/02/bullying-green-background_tcm27-54581_w1228_n.jpg"
   },
@@ -2006,6 +2006,20 @@
     "img": "https://britlex.ru/images/stuff.jpg"
   },
   {
+    "id": "stuffjkwxb",
+    "front": "stuff",
+    "back": {
+      "definition": "to fill or pack tightly; to push or force into a small space",
+      "examples": [
+        "He tried to *stuff* all his clothes into the small suitcase.",
+        "The kids *stuffed* the piñata with candies."
+      ],
+      "transcription": "stʌf",
+      "ru_translation": "засовывать, набивать, запихивать"
+    },
+    "img": "https://www.patee.ru/r/x4/53/74/960m.jpg"
+  },
+  {
     "id": "fortunateDEF",
     "front": "fortunate",
     "back": {
@@ -2337,7 +2351,7 @@
         "The *depiction* of the character in the film was very accurate."
       ],
       "transcription": "dɪˈpɪkʃ(ə)n",
-      "ru_translation": "описание"
+      "ru_translation": "описание, изображение"
     },
     "img": "https://images.saatchiart.com/saatchi/1142019/art/7933757/7001354-HSC00002-6.jpg"
   },
@@ -2838,6 +2852,20 @@
       "ru_translation": "травяной"
     },
     "img": "https://www.rednirusmart.com/storage/files/in/91/thumb-new-320x240-c4864b69527d2e7f54282e18dd983cfd.jpg"
+  },
+  {
+    "id": "herbalistmznwo",
+    "front": "herbalist",
+    "back": {
+      "definition": "a person who grows, sells, or uses herbs to treat illness",
+      "examples": [
+        "The *herbalist* recommended a tea made from various herbs.",
+        "She consulted an *herbalist* for her chronic headaches."
+      ],
+      "transcription": "ˈhɜː.bəl.ɪst",
+      "ru_translation": "травник"
+    },
+    "img": "https://schoolgs.ru/800/600/http/ii.yakuji.moe/b/src/1440273677777.jpg"
   },
   {
     "id": "topicyduplk",
@@ -6212,9 +6240,23 @@
         "She takes an *occasional* day off."
       ],
       "transcription": "əˈkeɪʒənl",
-      "ru_translation": "случающийся иногда, нерегулярный"
+      "ru_translation": "случайный (случающийся иногда, нерегулярный)"
     },
     "img": "https://i.pinimg.com/originals/c1/05/2b/c1052be7c872a1d3a4129b8259165985.png"
+  },
+  {
+    "id": "occasionallypqrtz",
+    "front": "occasionally",
+    "back": {
+      "definition": "sometimes but not often",
+      "examples": [
+        "She *occasionally* goes for a walk in the park.",
+        "He *occasionally* visits his grandparents on weekends."
+      ],
+      "transcription": "əˈkeɪʒ(ə)n(ə)lɪ",
+      "ru_translation": "иногда, изредка"
+    },
+    "img": "https://c1.wallpaperflare.com/preview/822/745/209/people-girl-nature-people.jpg"
   },
   {
     "id": "describeabc890",
@@ -7746,7 +7788,7 @@
         "A *grain* of rice fell on the floor."
       ],
       "transcription": "greɪn",
-      "ru_translation": "зерно, крупица"
+      "ru_translation": "зерно/зерна, крупица"
     },
     "img": "https://britlex.ru/images/grain.jpg"
   },
@@ -7754,7 +7796,7 @@
     "id": "dropoutofrst987",
     "front": "drop out of",
     "back": {
-      "definition": "to stop doing something before you have completely finished",
+      "definition": "to cease to participate in or be involved with something, especially to leave school, college, or a particular activity before finishing.",
       "examples": [
         "She decided to *drop out of* college.",
         "Many students *drop out of* school each year."
@@ -8421,6 +8463,20 @@
       "ru_translation": "конверт"
     },
     "img": "https://i2.wp.com/goodnessgrace.net/wp-content/uploads/2018/01/kingfisherbluer_2_3.jpg?fit=867%2C576&ssl=1"
+  },
+  {
+    "id": "envelopebtshz",
+    "front": "envelop",
+    "back": {
+      "definition": "to cover or surround something completely",
+      "examples": [
+        "Fog *enveloped* the entire valley in the morning.",
+        "The city was *enveloped* in darkness during the blackout."
+      ],
+      "transcription": "ɪnˈveləp",
+      "ru_translation": "окутывать, покрывать"
+    },
+    "img": "https://riabir.ru/wp-content/uploads/2021/11/samyj-gustoj-za-poslednee-vremya-tuman-okutal-birobidzhan-5.jpg"
   },
   {
     "id": "fillinstu901",
@@ -9090,7 +9146,7 @@
         "Her *capability* in managing the team was impressive."
       ],
       "transcription": "ˌkeɪpəˈbɪlɪti",
-      "ru_translation": "возможность"
+      "ru_translation": "способность, возможность"
     },
     "img": "https://bolchaal.pk/wp-content/uploads/2022/02/artifical-intelligence.jpg"
   },
@@ -9661,10 +9717,11 @@
       "definition": "to sit down or to cause someone to sit down",
       "examples": [
         "She was *seated* at the head of the table.",
+        "The host *seated* the guests at the dining table.",
         "The usher *seated* the guests before the show started."
       ],
       "transcription": "siːt",
-      "ru_translation": "садиться, сидеть"
+      "ru_translation": "усаживать, размещать"
     },
     "img": "https://cdn.goconqr.com/uploads/media/image/10293711/desktop_9ca4ed5b-4ac5-4c8b-ae77-9e5e707a4ca5.jpg"
   },
@@ -9835,6 +9892,20 @@
       "ru_translation": "позаботиться, заняться"
     },
     "img": "https://pixy.org/src/75/750724.jpg"
+  },
+  {
+    "id": "caregiverxdplf",
+    "front": "caregiver/carer",
+    "back": {
+      "definition": "a person who takes care of a sick or old person at home",
+      "examples": [
+        "The *caregiver* helps her with daily activities.",
+        "He hired a *carer* to look after his elderly father."
+      ],
+      "transcription": "ˈkeəˌɡɪvər ˈkeərə",
+      "ru_translation": "сиделка, лицо, осуществляющее уход"
+    },
+    "img": "https://sidelkimed.ru/upload/iblock/284/28440a526ad7295f8101e72c63fbddd1.jpg"
   },
   {
     "id": "caretakeruvw234",
@@ -10057,7 +10128,7 @@
         "She *assumed* the role of team leader."
       ],
       "transcription": "əˈsjuːm",
-      "ru_translation": "взять, принимать (на себя)"
+      "ru_translation": "взять или принимать на себя роль, обязанность, ответственность"
     },
     "img": "https://britlex.ru/images/assume2.jpg"
   },
@@ -12612,7 +12683,7 @@
         "Make sure to *label* the boxes before moving."
       ],
       "transcription": "ˈleɪbl",
-      "ru_translation": "этикетка, ярлык (прикрепляются, клеятся)"
+      "ru_translation": "этикетка, ярлык (прикрепляется, клеется)"
     },
     "img": "https://i.pinimg.com/736x/cb/d6/30/cbd6307759751128129795c8680a7c9a.jpg"
   },
@@ -14296,7 +14367,7 @@
         "Each specific instance of this data type is a *compound* variable."
       ],
       "transcription": "ˈkɒmpaʊnd",
-      "ru_translation": "составной"
+      "ru_translation": "сложный (сложносоставной), составной"
     },
     "img": "https://armand-auto.ru/wp-content/uploads/7/6/d/76d26c3e458ba97b11a8dabd90916336.jpeg"
   },
@@ -14306,7 +14377,8 @@
     "back": {
       "definition": "a word that combines two or more different words.",
       "examples": [
-        "The *compound* word 'bodyguard' combines 'body' and 'guard'.",
+        "Understanding how *compounds* are formed can help in learning new vocabulary more effectively.",
+        "The word 'sunflower' is a *compound* made up of 'sun' and 'flower'.",
         "The term 'floppy disk' is also a *compound*."
       ],
       "transcription": "ˈkɒmpaʊnd",
@@ -14444,13 +14516,13 @@
     "id": "comprehensiveghjk",
     "front": "comprehensive",
     "back": {
-      "definition": "including everything that is necessary; complete.",
+      "definition": "covering or including everything; thorough and complete in scope.",
       "examples": [
         "The report provided a *comprehensive* overview of the issue.",
         "They conducted a *comprehensive* review of the policy."
       ],
       "transcription": "ˌkɒmprɪˈhɛnsɪv",
-      "ru_translation": "исчерпывающий, всесторонний"
+      "ru_translation": "исчерпывающий, всесторонний (включает в себя все аспекты или является полным и всесторонним в своем охвате)"
     },
     "img": "https://i.ytimg.com/vi/ncdCz494T_I/maxresdefault.jpg"
   },
