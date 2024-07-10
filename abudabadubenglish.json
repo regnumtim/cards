@@ -2216,6 +2216,20 @@
     "img": "https://britlex.ru/images/fail.jpg"
   },
   {
+    "id": "failureabcd",
+    "front": "failure",
+    "back": {
+      "definition": "the fact of someone or something not succeeding",
+      "examples": [
+        "The project ended in *failure* despite their efforts.",
+        "He learned a lot from his early *failures*."
+      ],
+      "transcription": "ˈfeɪljər",
+      "ru_translation": "неудача, неудачник"
+    },
+    "img": "https://i.ytimg.com/vi/85hFWbvWdVY/maxresdefault.jpg"
+  },
+  {
     "id": "steadyTUV",
     "front": "steady",
     "back": {
@@ -2866,6 +2880,20 @@
       "ru_translation": "травник"
     },
     "img": "https://schoolgs.ru/800/600/http/ii.yakuji.moe/b/src/1440273677777.jpg"
+  },
+  {
+    "id": "herbivoreefgh",
+    "front": "herbivore",
+    "back": {
+      "definition": "an animal that eats only plants",
+      "examples": [
+        "The deer is a common *herbivore* found in the forest.",
+        "Some dinosaurs were *herbivores*, feeding on plants."
+      ],
+      "transcription": "ˈhɜː.bɪ.vɔːr",
+      "ru_translation": "травоядное животное"
+    },
+    "img": "https://drbillspetnutrition.com/wp-content/uploads/2017/01/3.-Herbivores.jpg"
   },
   {
     "id": "topicyduplk",
@@ -4221,7 +4249,7 @@
         "Therefore, we must *elaborate* clear criteria."
       ],
       "transcription": "ɪˈlæbərɪt",
-      "ru_translation": "разрабатывать, вырабатывать"
+      "ru_translation": "разрабатывать, прорабатывать, детализировать "
     },
     "img": "https://britlex.ru/images/elaborate.jpg"
   },
@@ -5982,8 +6010,8 @@
     "back": {
       "definition": "to consider or have an opinion about something or someone",
       "examples": [
-        "He is generally regarded as one of the greatest singers this century.",
-        "The plans were regarded with suspicion."
+        "He is generally *regarded* as one of the greatest singers this century.",
+        "The plans were *regarded* with suspicion."
       ],
       "transcription": "rɪˈgɑːd",
       "ru_translation": "считать, рассматривать"
@@ -17482,7 +17510,7 @@
         "We *count* on her to lead the project."
       ],
       "transcription": "kaʊnt",
-      "ru_translation": "рассчитывать (на что-то или на кого-либо)"
+      "ru_translation": "рассчитывать, положиться на что-то или на кого-либо"
     },
     "img": "https://i.pinimg.com/736x/2a/ec/c2/2aecc29488afcc882d05bc3c7ea77678.jpg"
   },
@@ -17518,26 +17546,14 @@
       "definition": "from one side to the other of something with clear limits",
       "examples": [
         "They walked *across* the bridge.",
-        "He swam *across* the lake."
-      ],
-      "transcription": "əˈkrɒs",
-      "ru_translation": "через"
-    },
-    "img": "https://i.pinimg.com/originals/7e/55/9c/7e559c2e85a13b34a0fde3339f4aa254.jpg"
-  },
-  {
-    "id": "acrosswd83",
-    "front": "across",
-    "back": {
-      "definition": "on the opposite side of",
-      "examples": [
+        "He swam *across* the lake.",
         "The store is *across* the street.",
         "She lives *across* the road from us."
       ],
       "transcription": "əˈkrɒs",
-      "ru_translation": "на той (противоположной) стороне"
+      "ru_translation": "через, на той (противоположной) стороне"
     },
-    "img": "https://livingnomads.com/wp-content/uploads/2022/01/20/madison.jpg"
+    "img": "https://i.pinimg.com/originals/7e/55/9c/7e559c2e85a13b34a0fde3339f4aa254.jpg"
   },
   {
     "id": "readoutabc123",
@@ -17819,7 +17835,7 @@
         "The book *engages* readers from the first page."
       ],
       "transcription": "ɪnˈgeɪʤ",
-      "ru_translation": "вовлекать, привлекать (напр., чьё-то внимание или клиентов)"
+      "ru_translation": "увлекать"
     },
     "img": "https://cdn.marica.bg/images/marica.bg/296/640_296376.jpeg"
   },
@@ -17879,7 +17895,7 @@
         "His *engagement* with the client was rescheduled."
       ],
       "transcription": "ɪnˈgeɪʤmənt",
-      "ru_translation": "обязательство, договоренность"
+      "ru_translation": "назначенная встреча, договоренность встретиться"
     },
     "img": "https://www.gestion.ru/wp-content/uploads/2010/02/220220101.jpg"
   },
@@ -17891,10 +17907,12 @@
       "examples": [
         "The company's *engagement* with its customers is strong.",
         "They focus on *engagement* to improve employee satisfaction.",
+        "Now, we need strong *engagement* by all.",
+        "It will require your direct *engagement*.",
         "Community *engagement* is vital for the project."
       ],
       "transcription": "ɪnˈgeɪʤmənt",
-      "ru_translation": "взаимодействие, участие, вовлеченность"
+      "ru_translation": "вовлечение, участие"
     },
     "img": "https://u.9111s.ru/uploads/202010/09/a54babd60f2a342a1ed042ab3c1b9d53.jpg"
   },
