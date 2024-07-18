@@ -9530,7 +9530,7 @@
   },
   {
     "id": "appealzmtyqv",
-    "front": "appeal to",
+    "front": "appeal (to)",
     "back": {
       "definition": "to be attractive or interesting",
       "examples": [
@@ -11446,7 +11446,7 @@
         "He complained of *stiffness* in his joints."
       ],
       "transcription": "ˈstɪfnəs",
-      "ru_translation": "жесткость, неподвижность"
+      "ru_translation": "жесткость, неподвижность, упругость"
     },
     "img": "https://kiterabbit-nhatrang.com/wp-content/uploads/2019/05/og_og_1510233141247114482.jpg"
   },
@@ -11872,7 +11872,7 @@
   },
   {
     "id": "quietnouns890",
-    "front": "quiet",
+    "front": "quiet(ness)",
     "back": {
       "definition": "a state of calm or silence",
       "examples": [
@@ -14931,7 +14931,7 @@
         "This dish is *particularly* delicious."
       ],
       "transcription": "pəˈtɪkjʊləli",
-      "ru_translation": "особенно"
+      "ru_translation": "в частности, особенно"
     },
     "img": "https://media.timeout.com/images/102889226/image.jpg"
   },
@@ -17487,6 +17487,20 @@
     "img": "https://image.pngaaa.com/30/1084030-middle.png"
   },
   {
+    "id": "countdefghi",
+    "front": "count",
+    "back": {
+      "definition": "an occasion when you count something, or the total number you get after counting",
+      "examples": [
+        "The final *count* of attendees was higher than expected.",
+        "We need an accurate *count* of the inventory."
+      ],
+      "transcription": "kaʊnt",
+      "ru_translation": "подсчет, счет"
+    },
+    "img": "https://zabor-gitter.ru/image/catalog/mdmLfCDf_FY.jpg"
+  },
+  {
     "id": "countvh64",
     "front": "count smth as",
     "back": {
@@ -17912,7 +17926,7 @@
         "Community *engagement* is vital for the project."
       ],
       "transcription": "ɪnˈgeɪʤmənt",
-      "ru_translation": "вовлечение, участие"
+      "ru_translation": "вовлеченность, участие"
     },
     "img": "https://u.9111s.ru/uploads/202010/09/a54babd60f2a342a1ed042ab3c1b9d53.jpg"
   },
