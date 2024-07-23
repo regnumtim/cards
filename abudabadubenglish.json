@@ -154,6 +154,20 @@
     "img": "https://e7.pngegg.com/pngimages/390/504/png-clipart-pull-the-curtains-stage-curtains-pull-the-curtains.png"
   },
   {
+    "id": "drawefgh",
+    "front": "draw (drew, drawn)",
+    "back": {
+      "definition": "to finish a game or contest with each team or player having the same score; a result in a game where neither side wins",
+      "examples": [
+        "The match ended in a *draw* with both teams scoring two goals each.",
+        "They *drew* their last game, so they need to win the next one to advance."
+      ],
+      "transcription": "drɔː, druː, drɔːn",
+      "ru_translation": "заканчивать игру вничью, ничья"
+    },
+    "img": "https://herobet.by/wp-content/uploads/sites/7/2021/01/football-draw.jpg"
+  },
+  {
     "id": "coachtrjeqoisbxdn",
     "front": "coach",
     "back": {
@@ -6707,13 +6721,13 @@
     "id": "performwsxc",
     "front": "perform",
     "back": {
-      "definition": "to do an action or piece of work",
+      "definition": "to entertain people by acting, singing, dancing, etc; to do an action or piece of work",
       "examples": [
         "She will *perform* the surgery.",
         "They *performed* well in the competition."
       ],
       "transcription": "pəˈfɔːm",
-      "ru_translation": "выполнять, исполнять"
+      "ru_translation": "выполнять, исполнять, делать"
     },
     "img": "https://britlex.ru/images/perform.jpg"
   },
@@ -10161,6 +10175,21 @@
     "img": "https://britlex.ru/images/assume2.jpg"
   },
   {
+    "id": "assumedijkl",
+    "front": "assume",
+    "back": {
+      "definition": "to pretend to have a different name or be someone you are not, or to express a feeling falsely",
+      "examples": [
+        "She *assumed* a false identity to avoid being recognized.",
+        "His *assumed* confidence masked his true nervousness.",
+        "Moving to a different town, he *assumed* a false name."
+      ],
+      "transcription": "əˈsjuːm",
+      "ru_translation": "принимать на себя (чужое имя, роль и тп.), притворяться"
+    },
+    "img": "https://fcfv.s3.eu-central-2.wasabisys.com/2adj9zclnwhuki02zuqhj5k7jzn1"
+  },
+  {
     "id": "assumptionxyz789",
     "front": "assumption",
     "back": {
@@ -10467,6 +10496,20 @@
       "ru_translation": "ходить в поход"
     },
     "img": "https://awe365.com/wp-content/uploads/2018/07/Essential-walking-gear-for-hiking-holidays-Flickt-CC-image-from-Mt-Washington-by-jisoosong.jpg"
+  },
+  {
+    "id": "hikerabcd",
+    "front": "hiker",
+    "back": {
+      "definition": "a person who goes for a long walk in the countryside",
+      "examples": [
+        "The *hiker* reached the top of the mountain after a long climb.",
+        "We met a group of *hikers* on the forest trail."
+      ],
+      "transcription": "ˈhaɪkə",
+      "ru_translation": "пеший турист"
+    },
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/18/17/ba/1d/caption.jpg"
   },
   {
     "id": "hitchhikexyz789",
@@ -17825,7 +17868,7 @@
   },
   {
     "id": "pullbackfromijkl234",
-    "front": "pull back from",
+    "front": "pull back (from)",
     "back": {
       "definition": "to decide not to do something that you had intended to do or had started to do",
       "examples": [
