@@ -434,6 +434,20 @@
     "img": "https://cdn.culture.ru/images/3bbc022f-1f14-55b7-8119-fd02959a4395/c_fill,g_center,w_400,h_292/c1e8e7d0d3826fb83e6051c0941a632d.jpg"
   },
   {
+    "id": "craftsmanshipSTUV",
+    "front": "craftsmanship",
+    "back": {
+      "definition": "skill at making things",
+      "examples": [
+        "The *craftsmanship* of the furniture was impressive.",
+        "They admired the *craftsmanship* of the old building."
+      ],
+      "transcription": "ˈkrɑːftsmənʃɪp",
+      "ru_translation": "мастерство"
+    },
+    "img": "https://i.pinimg.com/736x/90/86/1e/90861e0e9e5a9ee15d99daa6b077ea4c.jpg"
+  },
+  {
     "id": "craftyabcd",
     "front": "crafty",
     "back": {
@@ -4240,6 +4254,20 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Naryshkin_family_tree.jpg/640px-Naryshkin_family_tree.jpg"
   },
   {
+    "id": "ancestryABCD",
+    "front": "ancestry",
+    "back": {
+      "definition": "your relatives who lived a long time ago, or the origin of your family",
+      "examples": [
+        "She researched her *ancestry* and discovered she has royal blood.",
+        "His *ancestry* can be traced back to the 16th century."
+      ],
+      "transcription": "ˈænsəstri",
+      "ru_translation": "род, происхождение"
+    },
+    "img": "https://i.pinimg.com/originals/8f/3f/3b/8f3f3bf08e3c5de9a7b3b412c76b0d87.jpg"
+  },
+  {
     "id": "missiledef123",
     "front": "missile",
     "back": {
@@ -5152,14 +5180,14 @@
   },
   {
     "id": "leadMno123",
-    "front": "lead",
+    "front": "lead (led, led)",
     "back": {
       "definition": "to control a group of people, a country, or a situation",
       "examples": [
         "She was chosen to *lead* the project.",
         "He *leads* a team of researchers."
       ],
-      "transcription": "liːd",
+      "transcription": "liːd, led",
       "ru_translation": "вести"
     },
     "img": "https://media.baamboozle.com/uploads/images/491603/1636474025_56330.jpeg"
@@ -18081,5 +18109,343 @@
       "ru_translation": "грудь, грудка"
     },
     "img": "https://monateka.com/images/2993438.jpg"
+  },
+  {
+    "id": "eagerABCD",
+    "front": "eager",
+    "back": {
+      "definition": "wanting to do or have something very much",
+      "examples": [
+        "She was *eager* to start the new project.",
+        "The children were *eager* for their summer vacation."
+      ],
+      "transcription": "ˈiːgə",
+      "ru_translation": "сильно стремящийся/желающий"
+    },
+    "img": "https://www.clipartkey.com/mpngs/m/138-1384335_im-ready.png"
+  },
+  {
+    "id": "eagernessEFGH",
+    "front": "eagerness",
+    "back": {
+      "definition": "enthusiasm to do or to have something",
+      "examples": [
+        "His *eagerness* to learn new things is admirable.",
+        "There was a sense of *eagerness* in the room before the concert started."
+      ],
+      "transcription": "ˈiːgənɪs",
+      "ru_translation": "рвение, стремление"
+    },
+    "img": "https://w7.pngwing.com/pngs/545/849/png-transparent-cartoon-child-cartoon-student-thumbnail.png"
+  },
+  {
+    "id": "traceIJKL",
+    "front": "trace",
+    "back": {
+      "definition": "proof that someone or something was in a place",
+      "examples": [
+        "The police found no *trace* of the missing person.",
+        "There was a *trace* of hesitation in his voice."
+      ],
+      "transcription": "treɪs",
+      "ru_translation": "след"
+    },
+    "img": "https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671824796_www-funnyart-club-p-sledi-medvedya-na-peske-fotografii-3.jpg"
+  },
+  {
+    "id": "traceMNOP",
+    "front": "trace",
+    "back": {
+      "definition": "to find or discover something by looking carefully for it; to find the origin or cause of something",
+      "examples": [
+        "They managed to *trace* the source of the problem.",
+        "She could *trace* her ancestry back to the 18th century."
+      ],
+      "transcription": "treɪs",
+      "ru_translation": "отслеживать"
+    },
+    "img": "https://cadinc.com/wp-content/uploads/20200610-3-Steps-to-Manage-Your-Digital-Ent-Footprint-GRAPHIC.png"
+  },
+  {
+    "id": "shadeQRST",
+    "front": "shade",
+    "back": {
+      "definition": "an area that is dark and cool under or behind something",
+      "examples": [
+        "We sat in the *shade* of the tree to escape the heat.",
+        "The dog was lying in the *shade* to keep cool."
+      ],
+      "transcription": "ʃeɪd",
+      "ru_translation": "тень (темная прохладная область)"
+    },
+    "img": "https://www.paradiseshades.com.au/wp-content/uploads/2015/07/Brighton-Primary.jpg"
+  },
+  {
+    "id": "shadyUVWX",
+    "front": "shady",
+    "back": {
+      "definition": "protected from direct light from the sun by trees, buildings, etc.",
+      "examples": [
+        "They found a *shady* spot to have a picnic.",
+        "The garden is *shady* in the afternoon."
+      ],
+      "transcription": "ˈʃeɪdi",
+      "ru_translation": "тенистый"
+    },
+    "img": "https://otvet.imgsmail.ru/download/d588c80a230e292fcf6c8767b2edaac5_i-1324.jpg"
+  },
+  {
+    "id": "shadyYZAB",
+    "front": "shady",
+    "back": {
+      "definition": "seeming to be dishonest or illegal",
+      "examples": [
+        "He got involved in some *shady* business deals.",
+        "The man looked *shady* and untrustworthy."
+      ],
+      "transcription": "ˈʃeɪdi",
+      "ru_translation": "сомнительный, подозрительный"
+    },
+    "img": "https://media1.lyubimiigorod.ru/images/news/64be6e2507390.jpg"
+  },
+  {
+    "id": "perceptionCDEF",
+    "front": "perception",
+    "back": {
+      "definition": "an idea, a belief or an image you have as a result of how you see or understand something",
+      "examples": [
+        "His *perception* of the situation was quite different from hers.",
+        "The artist's work challenges our *perception* of reality."
+      ],
+      "transcription": "pəˈsɛpʃən",
+      "ru_translation": "восприятие"
+    },
+    "img": "https://philosophyalevel.com/wp-content/uploads/2018/05/direct-realism-1-768x321.jpg"
+  },
+  {
+    "id": "growGHIJ",
+    "front": "grow (grew, grown)",
+    "back": {
+      "definition": "to develop and become bigger or taller as time passes; to increase",
+      "examples": [
+        "Children *grow* up so fast.",
+        "The company *grew* rapidly in the last few years."
+      ],
+      "transcription": "grəʊ, grəʊ, grəʊn",
+      "ru_translation": "расти, увеличиваться"
+    },
+    "img": "https://getdrawings.com/images/growing-drawing-5.jpg"
+  },
+  {
+    "id": "shedKLMN",
+    "front": "shed (shed, shed)",
+    "back": {
+      "definition": "to cause to flow or spill; to emit or diffuse",
+      "examples": [
+        "She couldn't *shed* any light.",
+        "Light will *shed* itself in its own time.",
+        "She *shed* tears of joy at the news."
+      ],
+      "transcription": "ʃɛd, ʃɛd, ʃɛd",
+      "ru_translation": "проливать"
+    },
+    "img": "https://i.ytimg.com/vi/d3ine7GjGAA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgSig_MA8=&amp;rs=AOn4CLDFqjUWvG8UBuTzqHGWcg-sFOUtOA"
+  },
+  {
+    "id": "shedOPQR",
+    "front": "shed (shed, shed)",
+    "back": {
+      "definition": "to get rid of something that is no longer wanted",
+      "examples": [
+        "The snake *shed* its old skin.",
+        "The tree *shed* its leaves in the fall.",
+        "He *shed* a few pounds after starting his diet."
+      ],
+      "transcription": "ʃɛd, ʃɛd, ʃɛd",
+      "ru_translation": "терять, сбрасывать (вес, кожу и тп.)"
+    },
+    "img": "https://ostrovrusa.ru/wp-content/uploads/2020/11/blobid1604427267409.jpg"
+  },
+  {
+    "id": "shedSTUV",
+    "front": "shed",
+    "back": {
+      "definition": "a small building used to store things such as tools",
+      "examples": [
+        "He keeps his gardening tools in the *shed*.",
+        "They built a small *shed* in the backyard."
+      ],
+      "transcription": "ʃɛd",
+      "ru_translation": "сарай"
+    },
+    "img": "https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671198564_www-funnyart-club-p-sarai-kartinki-krasivo-61.jpg"
+  },
+  {
+    "id": "bloodshedWXYZ",
+    "front": "bloodshed",
+    "back": {
+      "definition": "fighting in which people are killed or injured",
+      "examples": [
+        "The revolution led to a lot of *bloodshed*.",
+        "They are trying to avoid any more *bloodshed* in the region."
+      ],
+      "transcription": "ˈblʌdʃɛd",
+      "ru_translation": "кровопролитие"
+    },
+    "img": "https://i.pinimg.com/736x/fe/4a/14/fe4a142735558c77a1acaf1228be4ce2--yellow-river-ancient-china.jpg"
+  },
+  {
+    "id": "retailABCD",
+    "front": "retail",
+    "back": {
+      "definition": "the selling of goods to the public, usually through shops",
+      "examples": [
+        "She works in *retail* at a clothing store.",
+        "The product is available *retail* and online."
+      ],
+      "transcription": "ˈriːteɪl",
+      "ru_translation": "розничная продажа"
+    },
+    "img": "https://i.pinimg.com/originals/89/db/cf/89dbcf976c0d46a7442acbe080a8ed89.jpg"
+  },
+  {
+    "id": "hesitateEFGH",
+    "front": "hesitate",
+    "back": {
+      "definition": "to be slow to speak or act because you feel uncertain or nervous",
+      "examples": [
+        "Don't *hesitate* to ask if you have any questions.",
+        "He *hesitated* before answering the question."
+      ],
+      "transcription": "ˈhɛzɪteɪt",
+      "ru_translation": "колебаться"
+    },
+    "img": "https://thumbs.dreamstime.com/b/businessman-hesitate-select-choice-now-later-cartoon-business-idea-concept-47223161.jpg"
+  },
+  {
+    "id": "hesitationIJKL",
+    "front": "hesitation",
+    "back": {
+      "definition": "the act of being slow to speak or act because you feel uncertain or nervous",
+      "examples": [
+        "There was a moment of *hesitation* before she agreed.",
+        "His *hesitation* to make a decision was obvious."
+      ],
+      "transcription": "ˌhɛzɪˈteɪʃən",
+      "ru_translation": "колебание, нерешительность, сомнение"
+    },
+    "img": "https://www.nutanix.com/content/dam/nutanix-newsroom/it-hedging-ahead-of-expected-broadcom-acquisition-of-vmware/img-it-hedging-ahead-of-expected-broadcom-acquisition-of-vmware-thumb.jpg"
+  },
+  {
+    "id": "hesitantMNOP",
+    "front": "hesitant",
+    "back": {
+      "definition": "slow to speak or act because you feel uncertain, embarrassed or unwilling",
+      "examples": [
+        "She was *hesitant* to give her opinion.",
+        "He seemed *hesitant* about joining the team."
+      ],
+      "transcription": "ˈhɛzɪtənt",
+      "ru_translation": "колеблющийся, нерешительный, сомневающийся"
+    },
+    "img": "https://medaboutme.ru/upload/medialibrary/361/shutterstock_47362201.jpg"
+  },
+  {
+    "id": "doubleQRST",
+    "front": "double",
+    "back": {
+      "definition": "to increase and become twice the original size or amount, or to make something do this; having two parts of the same type or size",
+      "examples": [
+        "The population has *doubled* in the last 20 years.",
+        "He ordered a *double* espresso."
+      ],
+      "transcription": "ˈdʌbl",
+      "ru_translation": "удваивать, двойной, удвоение"
+    },
+    "img": "https://i.ytimg.com/vi/XR7XZuX0bKM/hqdefault.jpg"
+  },
+  {
+    "id": "redoubleUVWX",
+    "front": "redouble",
+    "back": {
+      "definition": "to make something much more than before",
+      "examples": [
+        "They need to *redouble* their efforts to solve the problem.",
+        "The team decided to *redouble* their training sessions."
+      ],
+      "transcription": "rɪˈdʌbl",
+      "ru_translation": "удваивать, двойное, удвоение (усилий)"
+    },
+    "img": "https://w7.pngwing.com/pngs/163/290/png-transparent-teamwork-3d-villain-arrow-report.png"
+  },
+  {
+    "id": "privacyYZAB",
+    "front": "privacy",
+    "back": {
+      "definition": "someone's right to keep their personal matters and relationships secret",
+      "examples": [
+        "She values her *privacy* and doesn't like sharing personal details.",
+        "The hotel ensures complete *privacy* for its guests."
+      ],
+      "transcription": "ˈprɪvəsi",
+      "ru_translation": "частная жизнь, конфиденциальность"
+    },
+    "img": "https://w7.pngwing.com/pngs/352/782/png-transparent-general-data-protection-regulation-information-privacy-gdpr.png"
+  },
+  {
+    "id": "fearCDEF",
+    "front": "fear",
+    "back": {
+      "definition": "the bad feeling that you have when you are in danger or when a particular thing frightens you",
+      "examples": [
+        "He has a *fear* of heights.",
+        "There is a growing *fear* of an economic crisis."
+      ],
+      "transcription": "fɪə",
+      "ru_translation": "страх"
+    },
+    "img": "https://cvam.ru/wp-content/uploads/2023/10/strakh-13.webp"
+  },
+  {
+    "id": "fearGHIJ",
+    "front": "fear",
+    "back": {
+      "definition": "to be worried or frightened that something bad might happen or might have happened",
+      "examples": [
+        "She *feared* that she might fail the exam.",
+        "They *feared* for their safety during the storm."
+      ],
+      "transcription": "fɪə",
+      "ru_translation": "опасаться"
+    },
+    "img": "https://cvam.ru/wp-content/uploads/2023/10/ispugannyi-muzhchina-2.webp"
+  },
+  {
+    "id": "fearfulKLMN",
+    "front": "fearful",
+    "back": {
+      "definition": "frightened or worried",
+      "examples": [
+        "She was *fearful* of the dark.",
+        "The *fearful* sounds from the forest scared them."
+      ],
+      "transcription": "ˈfɪəfʊl",
+      "ru_translation": "напуганный, пугающий"
+    },
+    "img": "https://cvam.ru/wp-content/uploads/2023/10/strakh-emotsiia-1.webp"
+  },
+  {
+    "id": "fearlessOPQR",
+    "front": "fearless",
+    "back": {
+      "definition": "not frightened of anything",
+      "examples": [
+        "The *fearless* soldier led the charge.",
+        "She has a *fearless* attitude towards challenges."
+      ],
+      "transcription": "ˈfɪəlɪs",
+      "ru_translation": "бесстрашный"
+    },
+    "img": "https://i.pinimg.com/736x/e1/d2/a3/e1d2a3b429c5e73e35b861deb7011bb6.jpg"
   }
 ]
