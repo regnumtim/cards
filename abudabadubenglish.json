@@ -5213,7 +5213,7 @@
       "definition": "to prevent something or someone from doing something or going somewhere, or to not allow something",
       "examples": [
         "They *barred* him from entering the building.",
-        "The regulations *bar* the use of certain chemicals."
+        "The court *barred* him from contacting his former wife."
       ],
       "transcription": "bɑː",
       "ru_translation": "запрещать"
@@ -6727,7 +6727,7 @@
       "definition": "to stop sleeping or to make someone stop sleeping",
       "examples": [
         "He was *awoken* by a loud noise.",
-        "Walking in this part of the city awakes old memories."
+        "Walking in this part of the city *awakes* old memories."
       ],
       "transcription": "əˈweɪk, əˈwəʊk, əˈwəʊkən",
       "ru_translation": "просыпаться, будить, пробудить (эмоции)"
@@ -18237,6 +18237,20 @@
     "img": "https://getdrawings.com/images/growing-drawing-5.jpg"
   },
   {
+    "id": "growthrandomid",
+    "front": "growth",
+    "back": {
+      "definition": "the process of increasing in size, amount, or degree",
+      "examples": [
+        "The company has seen significant *growth* over the past year.",
+        "We need to focus on sustainable *growth*."
+      ],
+      "transcription": "ɡroʊθ",
+      "ru_translation": "рост"
+    },
+    "img": "https://www.the-dentist.co.uk/media/ci2fj3l4/a-stable-way-to-grow.jpg"
+  },
+  {
     "id": "shedKLMN",
     "front": "shed (shed, shed)",
     "back": {
@@ -18447,5 +18461,357 @@
       "ru_translation": "бесстрашный"
     },
     "img": "https://i.pinimg.com/736x/e1/d2/a3/e1d2a3b429c5e73e35b861deb7011bb6.jpg"
+  },
+  {
+    "id": "realestaterandomid",
+    "front": "real estate",
+    "back": {
+      "definition": "property in the form of land or buildings",
+      "examples": [
+        "She is investing in *real estate* to build her wealth.",
+        "The *real estate* market has seen significant growth recently."
+      ],
+      "transcription": "rɪəlɪsˈteɪt",
+      "ru_translation": "недвижимость"
+    },
+    "img": "https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671202136_www-funnyart-club-p-kartinki-dlya-rieltora-krasivo-25.jpg"
+  },
+  {
+    "id": "estaterandomid",
+    "front": "estate",
+    "back": {
+      "definition": "a large area of land, usually in the country, that is owned by one person or family",
+      "examples": [
+        "They inherited a large *estate* in the countryside.",
+        "The *estate* includes vast gardens and a private lake."
+      ],
+      "transcription": "ɪsˈteɪt",
+      "ru_translation": "имущество, имение, поместье"
+    },
+    "img": "https://7-su.kz/uploads/news/10239/news10239.jpg"
+  },
+  {
+    "id": "kindrandomid",
+    "front": "kind",
+    "back": {
+      "definition": "generous, helpful, and thinking about other people's feelings",
+      "examples": [
+        "She is always *kind* to everyone she meets.",
+        "It's important to be *kind* to others."
+      ],
+      "transcription": "kaɪnd",
+      "ru_translation": "добрый, любезный"
+    },
+    "img": "https://www.syl.ru/misc/i/ai/398272/2628364.jpg"
+  },
+  {
+    "id": "kindnessrandomid",
+    "front": "kindness",
+    "back": {
+      "definition": "the quality of being kind",
+      "examples": [
+        "His *kindness* towards others is truly inspiring.",
+        "She showed great *kindness* by helping the elderly woman."
+      ],
+      "transcription": "ˈkaɪndnɪs",
+      "ru_translation": "доброта"
+    },
+    "img": "https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671484673_www-funnyart-club-p-kartinki-dobrota-i-miloserdie-pinterest-33.jpg"
+  },
+  {
+    "id": "unkindrandomid",
+    "front": "unkind",
+    "back": {
+      "definition": "not treating someone very well; not considering someone's feelings",
+      "examples": [
+        "It was *unkind* of him to say such things.",
+        "Being *unkind* to others can have negative consequences."
+      ],
+      "transcription": "ʌnˈkaɪnd",
+      "ru_translation": "недобрый"
+    },
+    "img": "https://i.pinimg.com/736x/48/bc/44/48bc44266a84388463ed70f5125074d6.jpg"
+  },
+  {
+    "id": "transferrandomid1",
+    "front": "transfer",
+    "back": {
+      "definition": "to move someone or something from one place, vehicle, person, or group to another",
+      "examples": [
+        "They will *transfer* the patient to another hospital.",
+        "He was *transferred* to the company's New York office."
+      ],
+      "transcription": "trænsˈfɜ",
+      "ru_translation": "перевозить, переводить"
+    },
+    "img": "https://www.amasyarentacar.net/wp-content/uploads/2018/09/havaalani-transfer.jpg"
+  },
+  {
+    "id": "transferrandomid2",
+    "front": "transfer",
+    "back": {
+      "definition": "to change to a different job, team, place of work, etc, or to make someone do this",
+      "examples": [
+        "She decided to *transfer* to a different department.",
+        "He was *transferred* to a new team last month."
+      ],
+      "transcription": "trænsˈfɜ",
+      "ru_translation": "переводиться или перевод (в плане работы)"
+    },
+    "img": "https://www.dailyfinland.fi/assets/news_photos/2017/03/12/image-90.jpg"
+  },
+  {
+    "id": "transferrandomid3",
+    "front": "transfer",
+    "back": {
+      "definition": "an act of moving something or someone to another place, organization, team, etc.",
+      "examples": [
+        "The *transfer* of funds will take place tomorrow.",
+        "She requested a *transfer* to the London office."
+      ],
+      "transcription": "ˈtrænsfə",
+      "ru_translation": "перевод, передача, перевоз"
+    },
+    "img": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/e6/02/60.jpg"
+  },
+  {
+    "id": "asiderandomid",
+    "front": "aside",
+    "back": {
+      "definition": "in a direction to one side",
+      "examples": [
+        "She stepped *aside* to let him pass.",
+        "He put the book *aside* to focus on his work."
+      ],
+      "transcription": "əˈsaɪd",
+      "ru_translation": "в стороне, в сторону"
+    },
+    "img": "https://www.angstrem-mebel.ru/upload/medialibrary/d6e/d6e99733d674638afd7591a8d1e96347.jpg"
+  },
+  {
+    "id": "revenuerandomid",
+    "front": "revenue",
+    "back": {
+      "definition": "the income that a government or company receives regularly",
+      "examples": [
+        "The company's *revenue* increased significantly this year.",
+        "Government *revenue* is essential for public services."
+      ],
+      "transcription": "ˈrɛvɪnjuː",
+      "ru_translation": "доход, выручка (государства или компании)"
+    },
+    "img": "https://britlex.ru/images/revenue.jpg"
+  },
+  {
+    "id": "radiaterandomid",
+    "front": "radiate",
+    "back": {
+      "definition": "to show an emotion or quality in your face or behaviour",
+      "examples": [
+        "She *radiates* confidence and warmth.",
+        "His smile *radiated* joy and kindness."
+      ],
+      "transcription": "ˈreɪdɪɪt",
+      "ru_translation": "излучать, сиять"
+    },
+    "img": "https://i.pinimg.com/originals/c5/0a/17/c50a17ecc7cd672afbfed9bd11abcf3b.png"
+  },
+  {
+    "id": "radiationrandomid",
+    "front": "radiation",
+    "back": {
+      "definition": "a form of energy that comes from a nuclear reaction and that in large amounts can be very dangerous; energy from heat or light that you cannot see",
+      "examples": [
+        "High levels of *radiation* can be harmful to humans.",
+        "The sun emits *radiation* that reaches the Earth."
+      ],
+      "transcription": "ˌreɪdɪˈeɪʃən",
+      "ru_translation": "излучение, радиация"
+    },
+    "img": "https://hi-news.ru/wp-content/uploads/2013/11/nuclear_radiation-1024x768.jpg"
+  },
+  {
+    "id": "suddenrandomid",
+    "front": "sudden",
+    "back": {
+      "definition": "done or happening quickly and unexpectedly",
+      "examples": [
+        "The change in weather was very *sudden*.",
+        "A *sudden* noise startled everyone in the room."
+      ],
+      "transcription": "ˈsʌdn",
+      "ru_translation": "внезапный"
+    },
+    "img": "https://bigpicture.ru/wp-content/uploads/2018/01/9423fc1c54a28c44a7d75eaaf1b31808.jpg"
+  },
+  {
+    "id": "suddenlyrandomid",
+    "front": "suddenly",
+    "back": {
+      "definition": "quickly and unexpectedly",
+      "examples": [
+        "He *suddenly* stood up and left the room.",
+        "The car stopped *suddenly* in the middle of the road."
+      ],
+      "transcription": "ˈsʌdnli",
+      "ru_translation": "внезапно, вдруг"
+    },
+    "img": "https://i.pinimg.com/originals/f1/66/d9/f166d94c8a02be19cf10dcbe9b758cdb.jpg"
+  },
+  {
+    "id": "laterandomid",
+    "front": "late",
+    "back": {
+      "definition": "after the usual time or the time that was arranged",
+      "examples": [
+        "She arrived *late* to the meeting.",
+        "The train was *late* due to technical issues."
+      ],
+      "transcription": "leɪt",
+      "ru_translation": "поздний, опаздывающий"
+    },
+    "img": "https://d9c81ad3-85af-4ff6-8378-6038ea045e1b.akamaized.net/2022/09/opozdanie-2.jpg"
+  },
+  {
+    "id": "latelyrandomid",
+    "front": "lately",
+    "back": {
+      "definition": "recently",
+      "examples": [
+        "I've been feeling tired *lately*.",
+        "She hasn't been to the gym *lately*."
+      ],
+      "transcription": "ˈleɪtli",
+      "ru_translation": "в последнее время"
+    },
+    "img": "https://s13.stc.yc.kpcdn.net/share/i/12/12481836/wr-960.webp"
+  },
+  {
+    "id": "laterrandomid",
+    "front": "later",
+    "back": {
+      "definition": "after some time",
+      "examples": [
+        "We'll discuss this matter *later*.",
+        "A week *later* he killed himself.",
+        "Reed was arrested several weeks *later*.",
+        "He promised to call back *later* in the day."
+      ],
+      "transcription": "ˈleɪtə",
+      "ru_translation": "позднее, спустя (единица + спустя)"
+    },
+    "img": "https://belowzero273.blog/wp-content/uploads/2018/08/a3.png"
+  },
+  {
+    "id": "latestrandomid",
+    "front": "latest",
+    "back": {
+      "definition": "most recent",
+      "examples": [
+        "This is the *latest* model of the smartphone.",
+        "The *latest* news updates were just released."
+      ],
+      "transcription": "ˈleɪtɪst",
+      "ru_translation": "самый последний, самый новый"
+    },
+    "img": "https://dronreview.ru/wp-content/uploads/2018/10/iphone-xr-dizayn-1050x550.jpg"
+  },
+  {
+    "id": "crucialrandomid",
+    "front": "crucial",
+    "back": {
+      "definition": "extremely important or necessary",
+      "examples": [
+        "It's *crucial* to follow the instructions carefully.",
+        "This decision is *crucial* for the project's success."
+      ],
+      "transcription": "ˈkruːʃəl",
+      "ru_translation": "ключевой, решающий"
+    },
+    "img": "https://i.kym-cdn.com/photos/images/newsfeed/002/718/844/b9c.jpg"
+  },
+  {
+    "id": "strike1randomid",
+    "front": "strike (struck, struck)",
+    "back": {
+      "definition": "hit forcibly and deliberately with one's hand or a weapon or other implement",
+      "examples": [
+        "He *struck* the ball with great force.",
+        "The boxer *struck* his opponent with a powerful punch."
+      ],
+      "transcription": "straɪk, strʌk",
+      "ru_translation": "ударять, стукнуть (часто, нанести удар оружием)"
+    },
+    "img": "https://www.gftskills.com/wp-content/uploads/2016/05/Player-shooting-soccer-ball-with-good-form-yellow-jersey-white-shorts-footballer.png"
+  },
+  {
+    "id": "strike2randomid",
+    "front": "strike (struck, struck)",
+    "back": {
+      "definition": "to stop working for a period of time because you want more money, etc",
+      "examples": [
+        "The workers *struck* for better wages.",
+        "They decided to *strike* until their demands were met."
+      ],
+      "transcription": "straɪk, strʌk",
+      "ru_translation": "бастовать, заниматься забастовкой"
+    },
+    "img": "https://cs8.pikabu.ru/post_img/2018/11/03/10/og_og_1541262173245268167.jpg"
+  },
+  {
+    "id": "strike3randomid",
+    "front": "strike",
+    "back": {
+      "definition": "a sudden attack, typically a military one",
+      "examples": [
+        "The military launched a *strike* against the enemy.",
+        "The drone *strike* targeted a strategic location."
+      ],
+      "transcription": "straɪk",
+      "ru_translation": "удар"
+    },
+    "img": "https://i.ytimg.com/vi/dCgrQTgsXxY/maxresdefault.jpg"
+  },
+  {
+    "id": "strike4randomid",
+    "front": "strike",
+    "back": {
+      "definition": "a refusal to work organized by a body of employees as a form of protest, typically in an attempt to gain a concession or concessions from their employer.",
+      "examples": [
+        "The union called for a *strike* to protest low wages.",
+        "The *strike* lasted for several weeks."
+      ],
+      "transcription": "straɪk",
+      "ru_translation": "забастовка"
+    },
+    "img": "https://kprf.ru/m/900/600/t/img/2020/06/db38a2_protest014677407460.jpg"
+  },
+  {
+    "id": "strickenrandomid",
+    "front": "stricken",
+    "back": {
+      "definition": "suffering from the effects of something bad, such as illness, sadness, etc",
+      "examples": [
+        "The community was *stricken* by the sudden loss.",
+        "She looked *stricken* with grief."
+      ],
+      "transcription": "ˈstrɪkən",
+      "ru_translation": "пострадавший, пораженный, оцепеневший"
+    },
+    "img": "https://a.d-cd.net/a789709s-960.jpg"
+  },
+  {
+    "id": "emphasisrandomid",
+    "front": "emphasis",
+    "back": {
+      "definition": "particular importance or attention that you give to something",
+      "examples": [
+        "The teacher put a strong *emphasis* on the importance of studying.",
+        "There is an increasing *emphasis* on environmental issues."
+      ],
+      "transcription": "ˈɛmfəsɪs",
+      "ru_translation": "акцент, (особое) внимание, ударение"
+    },
+    "img": "https://britlex.ru/images/emphasis.jpg"
   }
 ]
