@@ -18813,5 +18813,411 @@
       "ru_translation": "акцент, (особое) внимание, ударение"
     },
     "img": "https://britlex.ru/images/emphasis.jpg"
+  },
+  {
+    "id": "nerveTybxyq",
+    "front": "nerve",
+    "back": {
+      "definition": "one of the threads in your body that carry messages between your brain and other parts of the body",
+      "examples": [
+        "The *nerve* damage affected his ability to feel temperature.",
+        "He felt a sharp pain along a *nerve* in his arm."
+      ],
+      "transcription": "nɜːv",
+      "ru_translation": "нерв"
+    },
+    "img": "https://zoj.org.ru/wp-content/uploads/2023/12/img-_PWvz6-768x825.png"
+  },
+  {
+    "id": "nerveWtjvxl",
+    "front": "nerve",
+    "back": {
+      "definition": "the courage to do something difficult or dangerous",
+      "examples": [
+        "She finally found the *nerve* to ask for a raise.",
+        "Do you have the *nerve* to bungee jump?"
+      ],
+      "transcription": "nɜːv",
+      "ru_translation": "смелость, мужество"
+    },
+    "img": "https://gas-kvas.com/uploads/posts/2023-02/1676813364_gas-kvas-com-p-risunok-na-temu-geroiskie-postupki-16.jpg"
+  },
+  {
+    "id": "nerveZkltyd",
+    "front": "nerve",
+    "back": {
+      "definition": "the rudeness necessary to do something you know will upset someone",
+      "examples": [
+        "I can't believe he had the *nerve* to ask me for money.",
+        "She had the *nerve* to criticize his cooking."
+      ],
+      "transcription": "nɜːv",
+      "ru_translation": "наглость, дерзость"
+    },
+    "img": "https://ic.pics.livejournal.com/terranova2017/56708048/3943824/3943824_original.jpg"
+  },
+  {
+    "id": "reservedOuytre",
+    "front": "reserved",
+    "back": {
+      "definition": "not wanting to show what you are thinking or feeling",
+      "examples": [
+        "She is very *reserved* and rarely talks about her feelings.",
+        "He remained *reserved* during the meeting, not revealing his opinions."
+      ],
+      "transcription": "rɪˈzɜːvd",
+      "ru_translation": "скрытный, замкнутый, сдержанный"
+    },
+    "img": "https://www.casadelsol.ru/wp-content/uploads/2022/12/2291041.jpg"
+  },
+  {
+    "id": "setAplqwe",
+    "front": "set",
+    "back": {
+      "definition": "a group of things that belong together",
+      "examples": [
+        "She bought a *set* of dishes for her new apartment.",
+        "The tool *set* includes everything you need for basic repairs."
+      ],
+      "transcription": "sɛt",
+      "ru_translation": "набор, комплект"
+    },
+    "img": "https://cdn.foodsoul.pro/zones/ru/branches/12913/images/items/medium/e16fabac780a6b2d615f5a534761681d.jpg?v1717765410"
+  },
+  {
+    "id": "profitGtyruo",
+    "front": "profit",
+    "back": {
+      "definition": "money that you get from selling goods or services for more than they cost to produce or provide",
+      "examples": [
+        "The company reported a significant *profit* this quarter.",
+        "He invested in the stock market and made a good *profit*."
+      ],
+      "transcription": "ˈprɒfɪt",
+      "ru_translation": "прибыль, доход"
+    },
+    "img": "https://gas-kvas.com/uploads/posts/2023-02/1676507766_gas-kvas-com-p-detskie-risunki-zarabotok-34.jpg"
+  },
+  {
+    "id": "profitZiyxop",
+    "front": "profit",
+    "back": {
+      "definition": "obtain a financial advantage or benefit",
+      "examples": [
+        "He hopes to *profit* from his investments in real estate.",
+        "She found a way to *profit* from her hobby."
+      ],
+      "transcription": "ˈprɒfɪt",
+      "ru_translation": "получать прибыль/выгоду"
+    },
+    "img": "https://concordeblog.hu/wp-content/uploads/2021/01/Akasszuk-fel_b.jpg"
+  },
+  {
+    "id": "profitableAxzdty",
+    "front": "profitable",
+    "back": {
+      "definition": "making or likely to make a profit",
+      "examples": [
+        "Running a small business can be *profitable* if managed well.",
+        "The company's new product line is proving to be very *profitable*."
+      ],
+      "transcription": "ˈprɒfɪtəbl",
+      "ru_translation": "прибыльный"
+    },
+    "img": "https://courses.impodays.com/wp-content/uploads/2023/06/5178748_6cf2_4.jpg"
+  },
+  {
+    "id": "unprofitableEqrtup",
+    "front": "unprofitable",
+    "back": {
+      "definition": "not making any financial profit",
+      "examples": [
+        "The store was closed because it was *unprofitable*.",
+        "They discontinued the product line as it was *unprofitable*."
+      ],
+      "transcription": "ʌnˈprɒfɪtəbl",
+      "ru_translation": "убыточный, неприбыльный"
+    },
+    "img": "https://static2.bigstockphoto.com/6/3/3/large2/336349207.jpg"
+  },
+  {
+    "id": "nonprofitRtyueo",
+    "front": "nonprofit",
+    "back": {
+      "definition": "not conducted or maintained for the purpose of making a profit; an organization that does not aim to make a profit",
+      "examples": [
+        "She works for a *nonprofit* organization that helps the homeless.",
+        "The event was organized by a *nonprofit* group."
+      ],
+      "transcription": "nɒnˈprɒfɪt",
+      "ru_translation": "некоммерческий"
+    },
+    "img": "https://i.pinimg.com/736x/58/99/cf/5899cfcdf6bd6a0a717b7495a6a86c04.jpg"
+  },
+  {
+    "id": "recordRtyuio",
+    "front": "record",
+    "back": {
+      "definition": "information that is written on paper or stored on computer so that it can be used in the future",
+      "examples": [
+        "He kept a *record* of all his expenses.",
+        "The medical *record* contains details of the patient's history."
+      ],
+      "transcription": "ˈrɛkɔːd",
+      "ru_translation": "запись, документация, учет (бумажная, электронная (видео, аудио) и тп.)"
+    },
+    "img": "https://www.shiftwise.com/wp-content/uploads/2012/08/Staff-Female-Nurse-Computer-1-1024x660.png"
+  },
+  {
+    "id": "recordTyqweu",
+    "front": "record",
+    "back": {
+      "definition": "the best result or the highest or lowest level that has ever been reached, especially in sport",
+      "examples": [
+        "He set a new world *record* in the 100-meter dash.",
+        "The team broke the *record* for the most wins in a season."
+      ],
+      "transcription": "ˈrɛkɔːd",
+      "ru_translation": "рекорд"
+    },
+    "img": "https://i.pinimg.com/originals/ff/e1/24/ffe1242721c0e783fe11b2d1a39adaf3.jpg"
+  },
+  {
+    "id": "recordPoiuqw",
+    "front": "record",
+    "back": {
+      "definition": "the facts that are known about somebody/something’s past behaviour, character, achievements, etc.",
+      "examples": [
+        "His criminal *record* made it hard for him to find a job.",
+        "The company has a good *record* of customer satisfaction."
+      ],
+      "transcription": "ˈrɛkɔːd",
+      "ru_translation": "результаты, достижения"
+    },
+    "img": "https://skyteach.ru/wp-content/cache/thumb/80/2ceb52b6c883680_920x0.jpeg"
+  },
+  {
+    "id": "recordBvnmjk",
+    "front": "record",
+    "back": {
+      "definition": "a flat, round, plastic disc that music is stored on, used especially in the past",
+      "examples": [
+        "She loves listening to old vinyl *records*.",
+        "The band released a new *record* last week."
+      ],
+      "transcription": "ˈrɛkɔːd",
+      "ru_translation": "пластинка (музыкальная)"
+    },
+    "img": "https://i.pinimg.com/736x/83/66/54/8366544328478101df3fe2b1e04bb488.jpg"
+  },
+  {
+    "id": "recordBvnmjk",
+    "front": "record",
+    "back": {
+      "definition": "записывать, фиксировать (на бумагу, камеру, магнитофон, пленку, в компьютере и тп.)",
+      "examples": [
+        "She used her phone to *record* the concert.",
+        "They *record* all meetings for future reference."
+      ],
+      "transcription": "rɪˈkɔːd",
+      "ru_translation": "записывать, фиксировать"
+    },
+    "img": "https://ms-74.ru/netcat_files/8/10/Prodvinutye_algoritmy_videonablyudeniya_dlya_raspoznavaniya_nomerov_avtomobiley.jpg"
+  },
+  {
+    "id": "acceptQwerty",
+    "front": "accept",
+    "back": {
+      "definition": "to agree to take something that is offered to you",
+      "examples": [
+        "He *accepted* the job offer.",
+        "She *accepted* the gift with a smile."
+      ],
+      "transcription": "əkˈsɛpt",
+      "ru_translation": "принять"
+    },
+    "img": "https://www.meme-arsenal.com/memes/238c669b6e0cef0944bff0eaad6770ef.jpg"
+  },
+  {
+    "id": "acceptableUioplk",
+    "front": "acceptable",
+    "back": {
+      "definition": "good enough",
+      "examples": [
+        "The quality of the work is *acceptable*.",
+        "It is *acceptable* to wear casual clothes to the office."
+      ],
+      "transcription": "əkˈsɛptəbl",
+      "ru_translation": "приемлемый"
+    },
+    "img": "https://kartinkof.club/uploads/posts/2022-03/1648241122_7-kartinkof-club-p-mem-priemlemo-s-kotom-7.png"
+  },
+  {
+    "id": "unacceptablePlmokn",
+    "front": "unacceptable",
+    "back": {
+      "definition": "too bad to be allowed to continue",
+      "examples": [
+        "His behavior was *unacceptable* in the classroom.",
+        "The level of service is *unacceptable*."
+      ],
+      "transcription": "ˌʌnəkˈsɛptəbl",
+      "ru_translation": "неприемлемый"
+    },
+    "img": "https://9gymnasium.wordpress.com/wp-content/uploads/2015/11/2015-11-08_10-12-52.jpg"
+  },
+  {
+    "id": "acceptanceZxcvbn",
+    "front": "acceptance",
+    "back": {
+      "definition": "the act of accepting something",
+      "examples": [
+        "His *acceptance* of the award was emotional.",
+        "He sought *acceptance* into the club."
+      ],
+      "transcription": "əkˈsɛptəns",
+      "ru_translation": "принятие"
+    },
+    "img": "https://www.hollywoodreporter.com/wp-content/uploads/2016/01/gettyimages-507659754.jpg?w=1024"
+  },
+  {
+    "id": "inchargeGhfgdh",
+    "front": "in charge",
+    "back": {
+      "definition": "to be the person who has control of or is responsible for someone or something",
+      "examples": [
+        "She is *in charge* of the marketing department.",
+        "He was *in charge* of organizing the event."
+      ],
+      "transcription": "ɪnʧɑːʤ",
+      "ru_translation": "во главе, за главного"
+    },
+    "img": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesnonprofitcouncil%2Ffiles%2F2019%2F07%2Fa.jpg"
+  },
+  {
+    "id": "henceQwxeed",
+    "front": "hence",
+    "back": {
+      "definition": "for this reason; therefore",
+      "examples": [
+        "She was the only one who knew the password, *hence* she was in charge.",
+        "He has a sore throat, *hence* his voice is hoarse."
+      ],
+      "transcription": "hɛns",
+      "ru_translation": "следовательно, поэтому"
+    },
+    "img": "https://w7.pngwing.com/pngs/188/829/png-transparent-right-arrow-ppt-arrow-blue-angle-text.png"
+  },
+  {
+    "id": "henceforthRtyeur",
+    "front": "henceforth",
+    "back": {
+      "definition": "from this time",
+      "examples": [
+        "*Henceforth*, all employees must clock in and out.",
+        "*Henceforth*, we will be using the new software."
+      ],
+      "transcription": "ˈhɛnsˈfɔːθ",
+      "ru_translation": "отныне, впредь, с этого времени"
+    },
+    "img": "https://mosopora.ru/upload/000/u0/33/67/1c9daade.jpg"
+  },
+  {
+    "id": "dependXcvbhu",
+    "front": "depend",
+    "back": {
+      "definition": "be controlled or determined by",
+      "examples": [
+        "The outcome will *depend* on the weather.",
+        "His decision *depends* on the availability of funds."
+      ],
+      "transcription": "dɪˈpɛnd",
+      "ru_translation": "зависеть"
+    },
+    "img": "https://i10.fotocdn.net/s209/540af68fe290d09d/public_pin_l/2597208199.jpg"
+  },
+  {
+    "id": "dependenceOiuygh",
+    "front": "dependence",
+    "back": {
+      "definition": "the state of needing the help and support of somebody/something in order to survive or be successful",
+      "examples": [
+        "His *dependence* on alcohol has affected his relationships.",
+        "They have a strong *dependence* on foreign aid."
+      ],
+      "transcription": "dɪˈpendəns",
+      "ru_translation": "зависимость"
+    },
+    "img": "https://gorcom36.ru/upload/iblock/955/zavis4.jpg"
+  },
+  {
+    "id": "subjectMnbvcd",
+    "front": "subject",
+    "back": {
+      "definition": "what someone is writing or talking about; an area of knowledge studied in school or university",
+      "examples": [
+        "History is my favorite *subject*.",
+        "The *subject* of the conversation was politics."
+      ],
+      "transcription": "ˈsʌbʤɪkt",
+      "ru_translation": "тема, предмет (для обсуждения или как учебный предмет)"
+    },
+    "img": "https://mdc.sch.id/wp-content/uploads/2017/07/cuk.jpg"
+  },
+  {
+    "id": "hardlyAsdfgy",
+    "front": "hardly",
+    "back": {
+      "definition": "almost not, or only a very small amount",
+      "examples": [
+        "I can *hardly* hear you.",
+        "There was *hardly* any food left."
+      ],
+      "transcription": "ˈhɑːdli",
+      "ru_translation": "едва ли, вряд ли"
+    },
+    "img": "https://media.lrytas.lt/images/2015/05/04/1483017825345_96681_1080x720_1483017826642.jpg"
+  },
+  {
+    "id": "intendDghbty",
+    "front": "intend",
+    "back": {
+      "definition": "to want and plan to do something",
+      "examples": [
+        "I *intend* to finish this project by the end of the week.",
+        "She *intends* to visit her parents this weekend."
+      ],
+      "transcription": "ɪnˈtɛnd",
+      "ru_translation": "намереваться"
+    },
+    "img": "https://www.kindpng.com/picc/m/689-6898848_stairs-clipart-goal-hd-png-download.png"
+  },
+  {
+    "id": "intentJkjuyg",
+    "front": "intent",
+    "back": {
+      "definition": "what you intend to do",
+      "examples": [
+        "It was not his *intent* to offend anyone.",
+        "She expressed her *intent* to resign from the position."
+      ],
+      "transcription": "ɪnˈtɛnt",
+      "ru_translation": "намерение (формально)"
+    },
+    "img": "https://n1s2.hsmedia.ru/55/88/a8/5588a8f0cf517b6906771e0fc0bb9f75/690x380_0xc0a8392b_11512681981504113040.jpeg"
+  },
+  {
+    "id": "intentionRtyuiy",
+    "front": "intention",
+    "back": {
+      "definition": "what you intend or plan to do; your aim",
+      "examples": [
+        "My *intention* is to study abroad next year.",
+        "He made his *intentions* clear during the meeting."
+      ],
+      "transcription": "ɪnˈtɛnʃən",
+      "ru_translation": "намерение (общеупотребительно)"
+    },
+    "img": "https://4brain.ru/blog/wp-content/uploads/2019/11/101n.jpg"
   }
 ]
