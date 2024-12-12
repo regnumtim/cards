@@ -2457,9 +2457,9 @@
     "id": "tailsabcd",
     "front": "tails",
     "back": {
-      "definition": "the bottom or end part of something.",
+      "definition": "Waste material or residue left over after a process, especially in mining, manufacturing, or refining.",
       "examples": [
-        "The airplane's *tails* were painted red.",
+        "After refining the metal, the factory was left with several tons of *tails* that needed to be disposed of safely.",
         "He cut the *tails* off the vegetables."
       ],
       "transcription": "teɪlz",
@@ -3384,6 +3384,20 @@
       "ru_translation": "проливать, рассыпать"
     },
     "img": "https://britlex.ru/images/spill.jpg"
+  },
+  {
+    "id": "spillthebeansmno345",
+    "front": "spill the beans",
+    "back": {
+      "definition": "to tell people secret information; reveal secret information unintentionally or indiscreetly",
+      "examples": [
+        "She accidentally *spilled the beans* about the surprise party.",
+        "Don't *spill the beans* before we finalize the details."
+      ],
+      "transcription": "spɪl ðə biːnz",
+      "ru_translation": "проболтаться, проговориться, выдавать секрет"
+    },
+    "img": "https://static.quizur.com/i/b/5a7de71cd872b7.305243225a7de71cc691e9.83269975.jpg"
   },
   {
     "id": "briefyzab",
@@ -5120,7 +5134,7 @@
       "transcription": "ˌdɛkləˈreɪʃən",
       "ru_translation": "объявление"
     },
-    "img": "https://static-3.bitchute.com/live/cover_images/2DfNS9O91Ms0/0Jx56UuIybM_640x360.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Declaration_of_SNM.png/800px-Declaration_of_SNM.png"
   },
   {
     "id": "periodXyz901",
@@ -8894,7 +8908,7 @@
         "Watch out, or you might *bump* into something."
       ],
       "transcription": "bʌmp",
-      "ru_translation": "ударять(ся)"
+      "ru_translation": "ударять(ся), врезаться о что-нибудь"
     },
     "img": "https://i.ytimg.com/vi/x59A_g-32zk/hqdefault.jpg"
   },
@@ -10776,6 +10790,20 @@
       "ru_translation": "участник соревнования, конкурсант"
     },
     "img": "https://i.ytimg.com/vi/e-UYRE-bcug/hqdefault.jpg"
+  },
+  {
+    "id": "participantjkl012",
+    "front": "participant",
+    "back": {
+      "definition": "someone who is involved in an activity",
+      "examples": [
+        "Each *participant* will receive a certificate at the end of the workshop.",
+        "The event attracted many *participants* from around the country."
+      ],
+      "transcription": "pɑːˈtɪsɪpənt",
+      "ru_translation": "участник"
+    },
+    "img": "https://i.pinimg.com/736x/68/9e/72/689e72b584f2be9f9b28cb9f8e6f8acb.jpg"
   },
   {
     "id": "bondghi123",
@@ -14802,6 +14830,20 @@
     "img": "https://o.quizlet.com/VObJj5cru7c.W2WORLOC.Q.jpg"
   },
   {
+    "id": "misspellghi789",
+    "front": "misspell",
+    "back": {
+      "definition": "to spell something wrongly",
+      "examples": [
+        "He often *misspells* common words like 'necessary'.",
+        "Be careful not to *misspell* the name on the application."
+      ],
+      "transcription": "mɪsˈspel",
+      "ru_translation": "делать орфографическую ошибку"
+    },
+    "img": "https://i.ytimg.com/vi/MGIvWNc9yh4/maxresdefault.jpg"
+  },
+  {
     "id": "paperpeiperuoa",
     "front": "paper",
     "back": {
@@ -16000,9 +16042,37 @@
         "He did it for my *benefit*."
       ],
       "transcription": "ˈbɛnɪfɪt",
-      "ru_translation": "польза, преимущество, выгода, привилегия"
+      "ru_translation": "польза, преимущество, выгода"
     },
     "img": "https://static10.tgstat.ru/channels/_0/08/0802137c81654a32a189acd46a8f27a0.jpg"
+  },
+  {
+    "id": "benefitabc123",
+    "front": "benefit",
+    "back": {
+      "definition": "something that helps you or gives you an advantage",
+      "examples": [
+        "The new policy offers significant *benefits* to employees.",
+        "One of the main *benefits* of this course is improving your skills."
+      ],
+      "transcription": "ˈbenɪfɪt",
+      "ru_translation": "привилегия"
+    },
+    "img": "https://image.shutterstock.com/image-vector/two-businessmen-rise-on-career-260nw-83520946.jpg"
+  },
+  {
+    "id": "benefitdef456",
+    "front": "benefit",
+    "back": {
+      "definition": "to receive or provide an advantage or improvement",
+      "examples": [
+        "This program will *benefit* many students in need.",
+        "Everyone in the company *benefits* from the new schedule."
+      ],
+      "transcription": "ˈbenɪfɪt",
+      "ru_translation": "давать привилегии"
+    },
+    "img": "https://avatars.mds.yandex.net/i?id=d572b852fcfae07fe55c011d38299e9d_l-4554229-images-thumbs&n=13"
   },
   {
     "id": "benefitqwerty",
