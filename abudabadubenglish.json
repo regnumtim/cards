@@ -1564,10 +1564,11 @@
       "definition": "a story or a description of a series of events",
       "examples": [
         "His *narrative* was both engaging and informative.",
-        "The book provides a fascinating *narrative* of her journey."
+        "The book provides a fascinating *narrative* of her journey.",
+        "His *narrative* voice made the book come alive for readers of all ages."
       ],
       "transcription": "ˈnærətɪv",
-      "ru_translation": "рассказ, повествовательный"
+      "ru_translation": "рассказ, повествование, повествовательный"
     },
     "img": "https://static6.depositphotos.com/1087772/596/i/450/depositphotos_5964922-stock-photo-airbook.jpg"
   },
@@ -2457,7 +2458,7 @@
     "id": "tailsabcd",
     "front": "tails",
     "back": {
-      "definition": "Waste material or residue left over after a process, especially in mining, manufacturing, or refining.",
+      "definition": "waste material or residue left over after a process, especially in mining, manufacturing, or refining.",
       "examples": [
         "After refining the metal, the factory was left with several tons of *tails* that needed to be disposed of safely.",
         "He cut the *tails* off the vegetables."
@@ -2465,7 +2466,7 @@
       "transcription": "teɪlz",
       "ru_translation": "обрезки, отходы"
     },
-    "img": "https://klubmama.ru/uploads/posts/2022-08/thumbs/1660907835_1-klubmama-ru-p-podelki-iz-obrezkov-kartona-foto-1.jpg"
+    "img": "https://indyigoo.ru/wp-content/uploads/kak-prigotovit-ovoshchnoj-bulon-iz-obrezkov.jpg"
   },
   {
     "id": "tailedabcd",
@@ -2544,9 +2545,9 @@
         "His shoulders were *tense* with stress."
       ],
       "transcription": "tɛns",
-      "ru_translation": "напряжённый"
+      "ru_translation": "напряжённый, натянутый"
     },
-    "img": "https://britlex.ru/images/tense.jpg"
+    "img": "https://images.techinsider.ru/upload/img_cache/256/256925dd72f53228cd2cfe239d65f0af_ce_1280x852x0x18_cropped_1200x628.jpg"
   },
   {
     "id": "tensionabcd",
@@ -10747,7 +10748,7 @@
       "transcription": "ˌsaɪənˈtɪfɪk",
       "ru_translation": "научный"
     },
-    "img": "https://www.redebrasilatual.com.br/wp-content/uploads/2018/07/da9213d7-d5e0-4b8f-9c59-57b4b7bb1a2a.jpeg"
+    "img": "https://cdnstatic.rg.ru/uploads/images/181/59/58/microscope-with-lab-glassware-picture-id909908830(1).jpg"
   },
   {
     "id": "scientistxyz234",
@@ -10845,7 +10846,7 @@
       "transcription": "rɪˈtriːt",
       "ru_translation": "отступать (часто используется в военных, стратегических и ситуациях, связанных с бегством или укрытием)"
     },
-    "img": "http://euro-synergies.hautetfort.com/media/02/02/3338364039.jpg"
+    "img": "https://static.life.ru/publications/2021/0/4/65378207298.073044-1200x.jpeg"
   },
   {
     "id": "retreatpqr012",
@@ -11911,7 +11912,21 @@
       "transcription": "ˈnɜːsəri",
       "ru_translation": "детская, детский сад, ясли, питомник"
     },
-    "img": "https://4youngmama.ru/wp-content/uploads/6/e/9/6e905e4edc8c4096f5404acfc0f45f47.jpeg"
+    "img": "https://i.pinimg.com/736x/9c/8e/fc/9c8efcb9c28b8c3e71edd23ab79bdcd3.jpg"
+  },
+  {
+    "id": "nursinghomeRANDOM",
+    "front": "nursing home",
+    "back": {
+      "definition": "a small private institution providing residential accommodation with healthcare, especially for elderly people",
+      "examples": [
+        "My grandmother moved into a *nursing home* last year.",
+        "The staff at the *nursing home* are very caring and professional."
+      ],
+      "transcription": "nɜrsɪŋ hoʊm",
+      "ru_translation": "дом престарелых, частная лечебница"
+    },
+    "img": "https://i.pinimg.com/736x/e0/04/e5/e004e5503bfd64d621e996bf7657f826.jpg"
   },
   {
     "id": "wakeupabc123",
@@ -12531,7 +12546,7 @@
       "transcription": "əˈlɜːt",
       "ru_translation": "бдительный, настороженный"
     },
-    "img": "https://vyborprava.com/wp-content/uploads/2019/06/e67c7632-cef5-4d49-8467-6e3dc4138367-750x481.jpg"
+    "img": "https://r1.mt.ru/r23/photo42AA/20849121492-0/jpg/bp.jpeg"
   },
   {
     "id": "alertzxcv",
@@ -13499,7 +13514,7 @@
       "transcription": "miːl",
       "ru_translation": "принятие пищи, еда"
     },
-    "img": "https://www.healthycoastmeals.com/wp-content/uploads/2017/03/A6B3795-Edit-507x338.jpg"
+    "img": "https://i.pinimg.com/736x/f3/a9/21/f3a9213f4b90004437870d1a5f305aa5.jpg"
   },
   {
     "id": "inadvanceZAB678",
@@ -13934,7 +13949,7 @@
       "transcription": "ˈvɪʃəs",
       "ru_translation": "порочный, злой, жестокий, злонамеренный"
     },
-    "img": "https://1.bp.blogspot.com/-oOvTT481hxY/WpDxbnEUFTI/AAAAAAAAoqw/GHFr5clLAO42B8iyQkwkVr0ZGhf5Tx46ACLcBGAs/s1600/FB_IMG_1519446170809.jpg"
+    "img": "https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/8/d/8/3/5c04-597b-4ba8-8bcf-232f6292a1f9"
   },
   {
     "id": "lightlitxyz",
@@ -15203,7 +15218,7 @@
       "transcription": "ˈwɪnmɪl",
       "ru_translation": "ветряная мельница"
     },
-    "img": "http://www.vojvodinacafe.rs/vesti/vetropark.jpg"
+    "img": "https://resize.hswstatic.com/w_1024/gif/windmill.jpg"
   },
   {
     "id": "moveovermno345",
@@ -15358,7 +15373,7 @@
       "transcription": "rɪp",
       "ru_translation": "рвать(ся), разрывать(ся)"
     },
-    "img": "https://www.kurir.rs/data/images/2017/08/14/19/1261509_profimedia0013803552_share.jpg"
+    "img": "https://belnotary.by/upload/medialibrary/fea/aw7ms6lzvqp6w5up88ntqbq8padpcqh5/muzhchina_rvet_bumagu.jpg"
   },
   {
     "id": "ripqrs012",
@@ -15470,7 +15485,7 @@
       "transcription": "krʌʃ",
       "ru_translation": "сильное (любовное) увлечение"
     },
-    "img": "https://cushion-venzen.site/wp-content/uploads/2023/10/img_651bd39b46655.jpg"
+    "img": "https://static22.tgcnt.ru/posts/_0/ac/acac9e3a691ed9196fe04f5598a24f4c.jpg"
   },
   {
     "id": "accidentopq567",
@@ -18544,7 +18559,7 @@
       "transcription": "rɪəlɪsˈteɪt",
       "ru_translation": "недвижимость"
     },
-    "img": "https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671202136_www-funnyart-club-p-kartinki-dlya-rieltora-krasivo-25.jpg"
+    "img": "https://p0.zoon.ru/b/c/57d90f9d40c08811228cc5eb_6268ef902c6230.55167415.jpg"
   },
   {
     "id": "estaterandomid",
@@ -18586,7 +18601,7 @@
       "transcription": "ˈkaɪndnɪs",
       "ru_translation": "доброта"
     },
-    "img": "https://www.funnyart.club/uploads/posts/2022-12/thumbs/1671484673_www-funnyart-club-p-kartinki-dobrota-i-miloserdie-pinterest-33.jpg"
+    "img": "https://hug.ru/upload/medialibrary/53c/53c1421060dcb8249290b8dec49febca.jpg"
   },
   {
     "id": "unkindrandomid",
@@ -18896,7 +18911,7 @@
       "transcription": "nɜːv",
       "ru_translation": "нерв"
     },
-    "img": "https://zoj.org.ru/wp-content/uploads/2023/12/img-_PWvz6-768x825.png"
+    "img": "https://images.fineartamerica.com/images-medium-large-5/human-sciatic-nerve-sebastian-kaulitzkiscience-photo-library.jpg"
   },
   {
     "id": "nerveWtjvxl",
@@ -19274,7 +19289,7 @@
       "transcription": "ɪnˈtɛnt",
       "ru_translation": "намерение (формально)"
     },
-    "img": "https://n1s2.hsmedia.ru/55/88/a8/5588a8f0cf517b6906771e0fc0bb9f75/690x380_0xc0a8392b_11512681981504113040.jpeg"
+    "img": "https://prv2.lori-images.net/businessman-climbing-towards-his-business-goal-0024715146-preview.jpg"
   },
   {
     "id": "intentionRtyuiy",
