@@ -19976,7 +19976,10 @@
     ],
     "transcription": "ˈbaʊnsɪŋ",
     "translation": "здоровый, живой, полный сил",
-    "img": "https://i01.fotocdn.net/s203/d6562bec2e3bf234/public_pin_l/2248177703.jpg",
+    "img": [
+      "https://i01.fotocdn.net/s203/d6562bec2e3bf234/public_pin_l/2248177703.jpg",
+      "https://rainbow-news.ru/wp-content/uploads/2024/02/image_thumb-19.png"
+    ],
     "synonyms": ["vital", "energetic", "lively"],
     "antonyms": ["weak", "inactive", "lethargic"],
     "note": "Используется не часто, C2 уровень слова"
