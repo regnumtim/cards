@@ -1759,7 +1759,7 @@
     ],
     "transcription": "ɪnˈkjʊərəbl",
     "translation": "неизлечимый",
-    "img": "https://www.pharmazeutische-zeitung.de/fileadmin/_processed_/3/7/csm_38650_f91d137780.jpg",
+    "img": "https://icdn.lenta.ru/images/2019/02/12/12/20190212125014640/detail_f3936dfef1b463b537a71c1ec07707ce.jpg",
     "synonyms": ["untreatable", "hopeless", "terminal"],
     "antonyms": ["curable", "treatable", "recoverable"]
   },
@@ -2018,13 +2018,13 @@
   {
     "id": "daredfghn",
     "card": "dare",
-    "definition": "to be brave enough to do something difficult or dangerous",
+    "definition": "to be brave enough to do something difficult or dangerous; to ask someone to do something that involves risk",
     "examples": [
       "He didn’t *dare* to jump off the cliff.",
       "She *dared* him to eat the spicy pepper."
     ],
     "transcription": "deə",
-    "translation": "осмелиться",
+    "translation": "осмелиться, бросить вызов (на слабо)",
     "img": "https://britlex.ru/images/dare.jpg",
     "synonyms": ["venture", "risk", "challenge"],
     "antonyms": ["fear", "avoid"]
@@ -3487,7 +3487,7 @@
     "transcription": "briːf",
     "translation": "краткий",
     "img": "https://static1.bigstockphoto.com/1/2/1/large1500/121618550.jpg",
-    "synonyms": ["short", "concise", "compact", "brief"],
+    "synonyms": ["short", "concise", "compact"],
     "antonyms": ["long", "lengthy", "extended", "prolonged"]
   },
   {
@@ -3710,7 +3710,7 @@
     ],
     "transcription": "prɪˈzɜːv",
     "translation": "заповедник",
-    "img": "https://domzaborov.ru/upload/iblock/c6a/c6a856becff780feb821417bfd15338b.jpg",
+    "img": "https://www.niipigrad.ru/wp-content/uploads/2018/11/oopt.jpg",
     "synonyms": ["sanctuary", "reserve", "park", "conservation area"],
     "antonyms": ["development", "urbanization", "disturbance"]
   },
@@ -3865,7 +3865,7 @@
     "transcription": "ˈhærəs",
     "translation": "тревожить, беспокоить",
     "img": "https://www.ktk.kz/getimage/newsimgru/228478",
-    "synonyms": ["bully", "torment", "persecute"],
+    "synonyms": ["bully", "torment", "persecute", "bother"],
     "antonyms": ["support", "comfort", "help"]
   },
   {
@@ -3990,7 +3990,7 @@
     ],
     "transcription": "ədˈvɛnʧərəs",
     "translation": "смелый, авантюрный",
-    "img": "https://experiencekerala.in/kerala-tourism-blog/wp-content/uploads/2019/05/1-21.jpg",
+    "img": "https://assets-global.website-files.com/63400e7342dd5b53c93c5287/650164ba5ec9dcc3cbe492fd_Risk%20management_iStock-547436912-p-1080.jpg",
     "synonyms": ["daring", "bold", "intrepid"],
     "antonyms": ["cautious", "timid", "fearful"]
   },
@@ -6453,7 +6453,7 @@
     ],
     "transcription": "dɪsˈkrɪpʃən",
     "translation": "описание",
-    "img": "https://yagla.ru/img/05-kak-sdelat-opisanie-tovara-ot-kotorogo-nevozmojno-otkazatsya.png",
+    "img": "https://selectel.ru/blog/wp-content/uploads/2020/07/2_%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png",
     "synonyms": ["depiction", "account", "narrative"],
     "antonyms": []
   },
@@ -6551,7 +6551,7 @@
     ],
     "transcription": "ˈdrʌmə",
     "translation": "барабанщик",
-    "img": "https://potd.pdnonline.com/wp-content/uploads/2016/11/Deirdre-OCallaghan-The-Drum-Thing-9-Jack-White.jpg",
+    "img": "https://kto.tv/files/images/orders/298/298373va3a038d6.jpg",
     "synonyms": ["percussionist", "drum player"],
     "antonyms": []
   },
@@ -7938,7 +7938,7 @@
     "transcription": "blɑːst",
     "translation": "дуновение, порыв, взрыв",
     "img": "https://risovach.ru/upload/2020/02/generator/kot-vzryv_231146706_orig_.jpg",
-    "synonyms": ["gust", "blast", "explosion"],
+    "synonyms": ["gust", "explosion"],
     "antonyms": ["calm", "stillness"]
   },
   {
@@ -8378,9 +8378,10 @@
   {
     "id": "seizebcwj",
     "card": "seize",
-    "definition": "to take hold of something quickly and firmly.",
+    "definition": "to take something quickly and keep or hold it; to take using sudden force",
     "examples": [
-      "The police *seized* the stolen goods.",
+      "I *seized* his arm and made him turn to look at me.",
+      "Political instability helped the army to *seize* power.",
       "He *seized* her arm to keep her from falling."
     ],
     "transcription": "siːz",
@@ -8390,18 +8391,50 @@
     "antonyms": ["release", "let go"]
   },
   {
+    "id": "seizespdhf",
+    "card": "seize",
+    "definition": "if the police or other officials do this, they take possession of it with legal authority",
+    "examples": [
+      "The police *seized* the illegal documents from his office.",
+      "Customs officials *seized* a large quantity of smuggled goods.",
+      "Authorities have the right to *seize* any suspicious items.",
+      "The court order allowed them to *seize* the property."
+    ],
+    "transcription": "siːz",
+    "translation": "конфисковать, изять, изымать",
+    "img": "https://storage.yandexcloud.net/regions/posts/media/thumbnails/2024/12/large/fV7CIOuVjJPVX5MC8DW94M0qMSzDucv8GkIxdwLN.jpg",
+    "synonyms": ["confiscate", "capture", "take", "appropriate"],
+    "antonyms": ["release", "return", "give", "restore"]
+  },
+  {
     "id": "seizurerwuf",
     "card": "seizure",
-    "definition": "the action of taking something by force or with legal authority.",
+    "definition": "the action of taking something by force and usually with legal authority.",
     "examples": [
       "The *seizure* of the property was illegal.",
       "They faced the *seizure* of their assets."
     ],
     "transcription": "ˈsiːʒə",
-    "translation": "захват, конфискация",
+    "translation": "конфискация, изъятие, арест",
     "img": "https://finansypress.ru/wp-content/uploads/2018/12/04-depositphotos_136707974_xl-2015.jpg",
     "synonyms": ["confiscation", "capture", "appropriation"],
     "antonyms": ["return", "release"]
+  },
+  {
+    "id": "seizurekhfgb",
+    "card": "seizure",
+    "definition": "the action of capturing someone or something using force",
+    "examples": [
+      "The military operation led to the *seizure* of the enemy base.",
+      "The rebels planned the *seizure* of key government buildings.",
+      "The *seizure* of power occurred without any resistance.",
+      "The police reported a successful *seizure* of the stolen goods."
+    ],
+    "transcription": "ˈsiː.ʒər",
+    "translation": "захват",
+    "img": "https://i.pinimg.com/736x/6c/40/a8/6c40a8e47d054bdb8815773fad14edb0.jpg",
+    "synonyms": ["capture", "confiscation", "apprehension", "occupation"],
+    "antonyms": ["release", "liberation", "freedom", "restoration"]
   },
   {
     "id": "seizurelwpa",
@@ -8820,7 +8853,7 @@
     "transcription": "ˌɛniˈmɔː",
     "translation": "больше (не)",
     "img": "https://www.motherjones.com/wp-content/uploads/shutterstock_94420186.jpg",
-    "synonyms": ["no longer", "not anymore"],
+    "synonyms": ["no longer", "not anymore", "any longer"],
     "antonyms": ["still", "yet"]
   },
   {
@@ -10878,7 +10911,7 @@
     "transcription": "pɑːˈtɪsɪpənt",
     "translation": "участник",
     "img": "https://i.pinimg.com/736x/68/9e/72/689e72b584f2be9f9b28cb9f8e6f8acb.jpg",
-    "synonyms": ["attendee", "member", "player"],
+    "synonyms": ["attendee", "member", "player", "contestant"],
     "antonyms": ["observer", "non-participant"]
   },
   {
@@ -11536,8 +11569,8 @@
       "Safety *measures* were put in place to protect the workers."
     ],
     "transcription": "ˈmɛʒə",
-    "translation": "мероприятие",
-    "img": "https://fashionobsession.ru/wp-content/uploads/2023/04/izobrazhenie_2023-04-26_184646446-768x512.png",
+    "translation": "мера, мероприятие",
+    "img": "https://www.pccsindia.com/wp-content/uploads/2020/12/SP-Sanitize-Disinfect-1-1-1024x576.png",
     "synonyms": ["step", "action", "procedure"],
     "antonyms": []
   },
@@ -12005,13 +12038,13 @@
   },
   {
     "id": "wakeupabc123",
-    "card": "wake up (woke, woken)",
+    "card": "wake (woke, woken) up",
     "definition": "to stop sleeping or to make someone stop sleeping",
     "examples": [
       "I usually *wake up* at 7 AM.",
       "Can you *wake* me *up* at 6?"
     ],
-    "transcription": "weɪk ʌp, wəʊk, ˈwəʊ.kən",
+    "transcription": "weɪk, wəʊk,ˈwəʊ.kən ʌp",
     "translation": "просыпаться, будить (ото сна)",
     "img": "https://www.shoutpost.com/wp-content/uploads/2018/06/Tips-To-Help-You-Win-The-Fight-and-Wake-Up-Early.jpg",
     "synonyms": ["awaken", "stir", "rouse"],
@@ -13418,9 +13451,9 @@
     ],
     "transcription": "pæd",
     "translation": "блокнот",
-    "img": "https://top-fon.com/uploads/posts/2023-01/thumbs/1675196358_top-fon-com-p-fon-dlya-prezentatsii-bloknot-goluboi-191.jpg",
+    "img": "https://cs2c9f.4pda.ws/7501116.png",
     "synonyms": ["notepad", "writing pad", "journal"],
-    "antonyms": ["tablet", "screen"]
+    "antonyms": []
   },
   {
     "id": "padGHI012",
@@ -14493,14 +14526,14 @@
   {
     "id": "mateabcd3",
     "card": "mate",
-    "definition": "when animals mate, they have sex in order to produce babies.",
+    "definition": "when animals do this, they have sex in order to produce babies.",
     "examples": [
       "The dogs *mated* in the spring.",
       "The zoo is trying to encourage the pandas to *mate*."
     ],
     "transcription": "meɪt",
     "translation": "спариваться",
-    "img": "https://n1s1.hsmedia.ru/c2/5a/4d/c25a4d936b39d195566114220253d12a/728x486_1_3ff47469926c0f5dd564a56cb9972034@5000x3338_0x9MRbTlRv_3902066093383927992.jpg",
+    "img": "https://i.ytimg.com/vi/UGW3XKSv_4o/hqdefault.jpg",
     "synonyms": ["couple", "pair", "breed", "reproduce"],
     "antonyms": ["separate", "disconnect"]
   },
@@ -15986,7 +16019,7 @@
     ],
     "transcription": "kəʊt",
     "translation": "слой",
-    "img": "https://furman.top/uploads/posts/2022-06/thumbs/1655828213_16-furman-top-p-tekstura-krashennogo-metalla-krasivo-18.jpg",
+    "img": "https://balticolor.ru/upload/medialibrary/c79/c7981caf16506d3b40115c12e1c65fab.jpg",
     "synonyms": ["layer", "covering", "coating"],
     "antonyms": ["bare", "naked", "exposed"]
   },
@@ -16255,6 +16288,25 @@
     "img": "https://ctrana.net/img/forall/u/0/29/8.PNG",
     "synonyms": ["classify", "categorize", "grade"],
     "antonyms": ["ignore", "disregard"]
+  },
+  {
+    "id": "outrankd72fjw",
+    "card": "outrank",
+    "definition": "to have a higher rank than someone",
+    "examples": [
+      "He managed to *outrank* his colleagues after the promotion.",
+      "In the military, a general will always *outrank* a colonel.",
+      "She was surprised to *outrank* her former supervisor.",
+      "Even though he is younger, he *outranks* most of his peers."
+    ],
+    "transcription": "ˌaʊtˈræŋk",
+    "translation": "превосходить (по рангу), иметь более высокий ранг",
+    "img": [
+      "https://media.defense.gov/2019/Jul/11/2002156209/1280/1280/0/171222-A-ZZ999-001C.JPG",
+      "https://shawnmintz.wordpress.com/wp-content/uploads/2013/02/woman-leading-a-group_xl.jpg"
+    ],
+    "synonyms": ["surpass", "exceed", "outclass", "dominate"],
+    "antonyms": ["underrank", "follow", "trail", "submit"]
   },
   {
     "id": "high-rankedqrst345",
@@ -16810,7 +16862,7 @@
     ],
     "transcription": "məˈʃiːngʌn",
     "translation": "пулемет",
-    "img": "https://i.ytimg.com/vi/Vpqs8VYUZQA/sddefault.jpg",
+    "img": "https://i.pinimg.com/736x/b4/cf/46/b4cf46914cc6011d2afb92a10d117c11.jpg",
     "synonyms": ["automatic gun", "rapid-fire weapon", "assault rifle"],
     "antonyms": ["shotgun", "handgun", "bolt-action rifle"]
   },
@@ -18049,13 +18101,13 @@
     "antonyms": ["advance", "approach", "move forward"]
   },
   {
-    "id": "pullbackfromijkl234",
-    "card": "pull back (from)",
+    "id": "pullbackijkl234",
+    "card": "pull back",
     "definition": "to decide not to do something that you had intended to do or had started to do",
     "examples": [
-      "They *pulled back from* the merger at the last moment.",
-      "She *pulled back from* the project due to personal reasons.",
-      "He *pulled back from* the agreement before it was finalized."
+      "They *pulled back* from the merger at the last moment.",
+      "She *pulled back* from the project due to personal reasons.",
+      "He *pulled back* from the agreement before it was finalized."
     ],
     "transcription": "pʊlbæk",
     "translation": "отказаться от, отказаться участвовать в (не продолжать или не участвовать в чем-то, от чего первоначально планировалось участвовать или продолжать)",
@@ -18166,7 +18218,7 @@
     ],
     "transcription": "ɪnˈgeɪʤd",
     "translation": "обрученный, помолвленный",
-    "img": "https://richterphillips.com/wp-content/uploads/2018/12/engagement-ring-picture.png",
+    "img": "https://i.pinimg.com/736x/a4/39/82/a4398250813f8fa439e40151d8b45fe0.jpg",
     "synonyms": ["betrothed", "committed", "promised"],
     "antonyms": ["unengaged", "single", "divorced"]
   },
@@ -19034,7 +19086,7 @@
     ],
     "transcription": "sɛt",
     "translation": "набор, комплект",
-    "img": "https://cdn.foodsoul.pro/zones/ru/branches/12913/images/items/medium/e16fabac780a6b2d615f5a534761681d.jpg?v1717765410",
+    "img": "https://static.tildacdn.com/tild3761-3636-4165-a634-353663646238/photo.jpeg",
     "synonyms": ["collection", "group", "assortment", "bundle"],
     "antonyms": ["dispersal", "separation", "fragment"]
   },
